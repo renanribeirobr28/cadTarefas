@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title><!--SC_PAGE_TITLE-->Controle Na Cozinha</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--SC_PAGE_CHARSET-->
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="{SC_LIB_CURRENT}login2/Login_v16/images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/vendor/animate/animate.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/vendor/select2/select2.min.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/css/util.css">
+	<link rel="stylesheet" type="text/css" href="{SC_LIB_CURRENT}login2/Login_v16/css/main.css">
+<!--===============================================================================================-->
+</head>
+<body>
+	
+	<div class="limiter">
+		<div class="container-login100" style="background-image: url('https://i.imgur.com/pylfsIs.jpg');">
+			<div class="wrap-login100 p-t-30 p-b-50">
+				<span class="login100-form-title p-b-41">
+					<img height="50%" src="../_lib/img/grp__NM__bg__NM__logo1.png">
+				</span>
+				<form class="login100-form validate-form p-b-33 p-t-5" action="" {SC_FORM_ATTR}>
+					<!--SC_FORM_HIDDEN-->
+					<div class="wrap-input100 validate-input" data-validate = "Enter username">
+						<!--SC_FIELD_INI_login-->
+						<input class="input100 {SC_FIELD_CLASS}" type="text"  {SC_FIELD_INFO_login} placeholder="Informe seu e-mail">
+						<!--SC_FIELD_END_login-->
+						<span class="focus-input100" data-placeholder="&#xe82a;"></span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate="Enter password">
+						<!--SC_FIELD_INI_pswd-->
+						<input class="input100 {SC_FIELD_CLASS}" type="password"  {SC_FIELD_INFO_pswd} placeholder="*******">
+						<!--SC_FIELD_END_pswd-->
+						<span class="focus-input100" data-placeholder="&#xe80f;"></span>
+					</div>
+					<!--SC_CAPTCHA-->
+					<!--SC_REQUIRED_MSG-->
+<!--                    <div class="submit">
+                        <input class="button" id="btnEntrarLogin" style="width: 100% !important" type="button" value="ENTRAR" {SC_FORM_SUBMIT_CALL} />
+                    </div>
+					 -->
+					<div class="container-login100-form-btn m-t-32">
+						<button class="login100-form-btn" {SC_FORM_SUBMIT_CALL}>
+							ENTRAR
+						</button>
+					</div>
+				</form>
+				<div class="container-login100-form-btn m-t-32">
+						<button id="id-links-1" class="login100-form-btn">
+							Esqueceu sua senha?
+						</button>
+					</div>
+			</div>
+		</div>
+	</div>
+	
+
+	<div id="dropDownSelect1"></div>
+	<!--SC_JS_LIB-->
+<!--===============================================================================================-->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/jquery/jquery-3.2.1.min.js"></script> -->
+<!--===============================================================================================-->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/animsition/js/animsition.min.js"></script> -->
+<!--===============================================================================================-->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/bootstrap/js/popper.js"></script> -->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/bootstrap/js/bootstrap.min.js"></script> -->
+<!--===============================================================================================-->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/select2/select2.min.js"></script> -->
+<!--===============================================================================================-->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/daterangepicker/moment.min.js"></script> -->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/daterangepicker/daterangepicker.js"></script> -->
+<!--===============================================================================================-->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/vendor/countdowntime/countdowntime.js"></script> -->
+<!--===============================================================================================-->
+<!-- 	<script src="{SC_LIB_CURRENT}login2/Login_v16/js/main.js"></script> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha512-/DXTXr6nQodMUiq+IUJYCt2PPOUjrHJ9wFrqpJ3XkgPNOZVfMok7cRw6CSxyCQxXn6ozlESsSh1/sMCTF1rL/g==" crossorigin="anonymous"></script>
+	
+		
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	
+		
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
+</html>

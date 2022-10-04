@@ -1,0 +1,45 @@
+PI@nm@@nm@Getúlio Vargas@nm@64800972@nm@Floriano@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+PI@nm@@nm@Getúlio Vargas@nm@64800970@nm@Floriano@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+PI@nm@@nm@da Graça@nm@64200970@nm@Parnaíba@nm@Centro@nm@Praça @nm@@nm@
+PI@nm@@nm@da Graça@nm@64200971@nm@Parnaíba@nm@Centro@nm@Praça @nm@@nm@
+PI@nm@@nm@Deputado Pinheiro Machado@nm@64210970@nm@Parnaíba@nm@Rodoviária@nm@Avenida @nm@até 1001 - lado ímpar@nm@
+PI@nm@@nm@São Sebastião@nm@64215970@nm@Parnaíba@nm@Reis Veloso@nm@Avenida @nm@de 2821 ao fim - lado ímpar@nm@
+PI@nm@@nm@Josino Ferreira@nm@64600970@nm@Picos@nm@Centro@nm@Praça @nm@@nm@
+PI@nm@@nm@Josino Ferreira@nm@64600973@nm@Picos@nm@Centro@nm@Praça @nm@@nm@
+PI@nm@@nm@Josino Ferreira@nm@64600972@nm@Picos@nm@Centro@nm@Praça @nm@@nm@
+PI@nm@@nm@59@nm@64027970@nm@Teresina@nm@Promorar@nm@Quadra @nm@(Cj. Raimundo Portela)@nm@
+PI@nm@@nm@Antonino Freire@nm@64001979@nm@Teresina@nm@Centro@nm@Avenida @nm@@nm@
+PI@nm@@nm@Antonino Freire@nm@64001970@nm@Teresina@nm@Centro@nm@Avenida @nm@@nm@
+PI@nm@@nm@Barão de Gurguéia@nm@64018971@nm@Teresina@nm@Vermelha@nm@Avenida @nm@até 2258 - lado par@nm@
+PI@nm@@nm@Barroso@nm@64001971@nm@Teresina@nm@Centro@nm@Rua @nm@até 920/921@nm@
+PI@nm@@nm@Dezenove de Outubro@nm@64025970@nm@Teresina@nm@Lourival Parente@nm@Avenida @nm@de 1607/1608 ao fim@nm@
+PI@nm@@nm@Dezenove de Outubro@nm@64025971@nm@Teresina@nm@Lourival Parente@nm@Avenida @nm@de 1607/1608 ao fim@nm@
+PI@nm@@nm@Edgard Nogueira@nm@64000974@nm@Teresina@nm@Cabral@nm@Praça @nm@@nm@
+PI@nm@@nm@Gabriel Ferreira@nm@64002971@nm@Teresina@nm@Vila Operária@nm@Rua @nm@(Zona Norte)@nm@
+PI@nm@@nm@Gonçalves Lêdo@nm@64007970@nm@Teresina@nm@Aeroporto@nm@Rua @nm@@nm@
+PI@nm@@nm@Governador Artur de Vasconcelos@nm@64001973@nm@Teresina@nm@Centro@nm@Rua @nm@(Zona Norte) - até 1093/1094@nm@
+PI@nm@@nm@Ininga@nm@64048971@nm@Teresina@nm@Jóquei@nm@Avenida @nm@@nm@
+PI@nm@@nm@João XXIII@nm@64045970@nm@Teresina@nm@São Cristóvão@nm@Avenida @nm@lado ímpar@nm@
+PI@nm@@nm@João XXIII@nm@64057970@nm@Teresina@nm@Jóquei@nm@Avenida @nm@lado ímpar@nm@
+PI@nm@@nm@Joaquim Nelson@nm@64077971@nm@Teresina@nm@Parque Ideal@nm@Rua @nm@de 1 a 99999 - lado ímpar@nm@
+PI@nm@@nm@Jornalista Josípio Lustosa@nm@64010970@nm@Teresina@nm@Mocambinho@nm@Avenida @nm@@nm@
+PI@nm@@nm@Jornalista Lívio Lopes@nm@64077974@nm@Teresina@nm@Parque Ideal@nm@Rua @nm@@nm@
+PI@nm@@nm@José Francisco de Almeida Neto@nm@64077973@nm@Teresina@nm@Itararé@nm@Avenida @nm@lado par@nm@
+PI@nm@@nm@José Francisco de Almeida Neto@nm@64077972@nm@Teresina@nm@Itararé@nm@Avenida @nm@lado par@nm@
+PI@nm@@nm@José Francisco de Almeida Neto@nm@64077970@nm@Teresina@nm@Itararé@nm@Avenida @nm@lado par@nm@
+PI@nm@@nm@Lisandro Nogueira@nm@64000973@nm@Teresina@nm@Centro@nm@Rua @nm@@nm@
+PI@nm@@nm@Maranhão@nm@64000970@nm@Teresina@nm@Centro@nm@Avenida @nm@(Zona Norte) - até 1021/1022@nm@
+PI@nm@@nm@Pedro Freitas@nm@64018970@nm@Teresina@nm@São Pedro@nm@Avenida @nm@@nm@
+PI@nm@@nm@Pedro Guimarães Mariz@nm@64078970@nm@Teresina@nm@Parque Ideal@nm@Rua @nm@@nm@
+PI@nm@@nm@Presidente Kennedy@nm@64052971@nm@Teresina@nm@Horto@nm@Avenida @nm@lado ímpar@nm@
+PI@nm@@nm@Presidente Kennedy@nm@64052970@nm@Teresina@nm@São Cristóvão@nm@Avenida @nm@lado ímpar@nm@
+PI@nm@@nm@Professor Valter Alencar@nm@64016970@nm@Teresina@nm@Monte Castelo@nm@Avenida @nm@de 1940/1941 ao fim@nm@
+PI@nm@@nm@Professor Valter Alencar@nm@64019976@nm@Teresina@nm@Monte Castelo@nm@Avenida @nm@de 1940/1941 ao fim@nm@
+PI@nm@@nm@Professor Valter Alencar@nm@64019974@nm@Teresina@nm@Monte Castelo@nm@Avenida @nm@de 1940/1941 ao fim@nm@
+PI@nm@@nm@Professor Valter Alencar@nm@64019975@nm@Teresina@nm@Monte Castelo@nm@Avenida @nm@de 1940/1941 ao fim@nm@
+PI@nm@@nm@Professora Maria da Luz@nm@64012970@nm@Teresina@nm@Parque Brasil@nm@Rua @nm@(Prq Brasil III)@nm@
+PI@nm@@nm@Raul Lopes@nm@64046970@nm@Teresina@nm@Noivos@nm@Avenida @nm@@nm@
+PI@nm@@nm@Riachuelo@nm@64019973@nm@Teresina@nm@Tabuleta@nm@Rua @nm@(Zona Sul)@nm@
+PI@nm@@nm@Santa Luzia@nm@64001972@nm@Teresina@nm@Ilhotas@nm@Rua @nm@@nm@
+PI@nm@@nm@Santos Dumont@nm@64006970@nm@Teresina@nm@Aeroporto@nm@Praça @nm@@nm@
+PI@nm@@nm@Treze de Maio@nm@64018972@nm@Teresina@nm@Pio XII@nm@Rua @nm@(Zona Sul)@nm@

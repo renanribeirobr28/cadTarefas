@@ -1,0 +1,506 @@
+RJ@nm@@nm@C@nm@23950970@nm@Angra dos Reis@nm@Praia Brava (Mambucaba)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Francelino Alves de Lima@nm@23933970@nm@Angra dos Reis@nm@Nova Angra (Cunhambebe)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Francisco Magalhães de Castro@nm@23954970@nm@Angra dos Reis@nm@Parque Mambucaba (Mambucaba)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Itassucê@nm@23914970@nm@Angra dos Reis@nm@Verolme@nm@Rua @nm@@nm@
+RJ@nm@@nm@Lopes Trovão@nm@23900970@nm@Angra dos Reis@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Assumpção@nm@27123970@nm@Barra do Piraí@nm@Centro@nm@Travessa @nm@@nm@
+RJ@nm@@nm@Franklin de Moraes@nm@27135971@nm@Barra do Piraí@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@José Alves Pimenta@nm@27115970@nm@Barra do Piraí@nm@Matadouro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Álvaro Rego Millen@nm@27335970@nm@Barra Mansa@nm@9 de Abril@nm@Rua @nm@@nm@
+RJ@nm@@nm@Antônio Leal de Sousa@nm@27360970@nm@Barra Mansa@nm@Rialto@nm@Rua @nm@@nm@
+RJ@nm@@nm@Barão de Guapi@nm@27345971@nm@Barra Mansa@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@da Estação@nm@27340970@nm@Barra Mansa@nm@Antônio Rocha@nm@Rua @nm@@nm@
+RJ@nm@@nm@Homero Leite@nm@27313970@nm@Barra Mansa@nm@Saudade@nm@Avenida @nm@até 998/0999@nm@
+RJ@nm@@nm@Ismael Penha Villela@nm@27322970@nm@Barra Mansa@nm@Nossa Senhora do Amparo@nm@Rua @nm@@nm@
+RJ@nm@@nm@Joaquim Leite@nm@27330970@nm@Barra Mansa@nm@Centro@nm@Avenida @nm@até 230 - lado par@nm@
+RJ@nm@@nm@Oswaldo Porto@nm@27365970@nm@Barra Mansa@nm@Floriano@nm@Praça @nm@@nm@
+RJ@nm@@nm@Vereador Hamilton Reis Alves@nm@27350970@nm@Barra Mansa@nm@Jardim Boa Vista@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Governador Leonel de Moura Brizola@nm@26183970@nm@Belford Roxo@nm@Lote XV@nm@Avenida @nm@lado ímpar@nm@
+RJ@nm@@nm@Joaquim da Costa Lima@nm@26172970@nm@Belford Roxo@nm@Pauline@nm@Avenida @nm@lado par@nm@
+RJ@nm@@nm@Prefeito Jorge Júlio Costa dos Santos@nm@26130971@nm@Belford Roxo@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Retiro da Imprensa@nm@26112970@nm@Belford Roxo@nm@Piam@nm@Avenida @nm@lado par@nm@
+RJ@nm@@nm@de Santo Antônio@nm@28905970@nm@Cabo Frio@nm@Centro@nm@Largo @nm@@nm@
+RJ@nm@@nm@do Araçá@nm@28909972@nm@Cabo Frio@nm@Agrisa@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Independência@nm@28928970@nm@Cabo Frio@nm@Unamar (Tamoios)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Inglaterra@nm@28910970@nm@Cabo Frio@nm@Jardim Caiçara@nm@Rua @nm@@nm@
+RJ@nm@@nm@Júlia Kubitschek@nm@28905971@nm@Cabo Frio@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Marquês de Olinda@nm@28909970@nm@Cabo Frio@nm@São Cristóvão@nm@Rua @nm@@nm@
+RJ@nm@@nm@Teixeira e Souza@nm@28909971@nm@Cabo Frio@nm@Centro@nm@Avenida @nm@até 1261 - lado ímpar@nm@
+RJ@nm@@nm@dos Goytacazes@nm@28027970@nm@Campos dos Goytacazes@nm@Parque Turf Club@nm@Rua @nm@até 607 - lado ímpar@nm@
+RJ@nm@@nm@José Alves de Azevedo@nm@28010973@nm@Campos dos Goytacazes@nm@Parque Rosário@nm@Avenida @nm@até 795 - lado ímpar@nm@
+RJ@nm@@nm@Pelinca@nm@28035971@nm@Campos dos Goytacazes@nm@Centro@nm@Avenida @nm@até 56/57@nm@
+RJ@nm@@nm@Pelinca@nm@28035972@nm@Campos dos Goytacazes@nm@Parque Tamandaré@nm@Avenida @nm@de 58/59 ao fim@nm@
+RJ@nm@@nm@Presidente Vargas@nm@28057970@nm@Campos dos Goytacazes@nm@Parque Pecuária@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Rocha Leão@nm@28051970@nm@Campos dos Goytacazes@nm@Parque Caju@nm@Rua @nm@@nm@
+RJ@nm@@nm@Rocha Leão@nm@28051972@nm@Campos dos Goytacazes@nm@Parque Caju@nm@Rua @nm@@nm@
+RJ@nm@@nm@Santíssimo Salvador@nm@28010972@nm@Campos dos Goytacazes@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Sete de Setembro@nm@28010971@nm@Campos dos Goytacazes@nm@Centro@nm@Avenida @nm@até 206 - lado par@nm@
+RJ@nm@@nm@Sete de Setembro@nm@28010970@nm@Campos dos Goytacazes@nm@Centro@nm@Avenida @nm@até 206 - lado par@nm@
+RJ@nm@@nm@Bahia@nm@25255970@nm@Duque de Caxias@nm@Chácaras Arcampo@nm@Praça @nm@@nm@
+RJ@nm@@nm@Coronel Sisson@nm@25266970@nm@Duque de Caxias@nm@Vila Araci (Imbariê)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@das Palmeiras@nm@25215972@nm@Duque de Caxias@nm@Jardim Primavera@nm@Avenida @nm@@nm@
+RJ@nm@@nm@das Palmeiras@nm@25215971@nm@Duque de Caxias@nm@Jardim Primavera@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Duque de Caxias@nm@25070972@nm@Duque de Caxias@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@General Manoel Rabelo@nm@25065970@nm@Duque de Caxias@nm@Vila São Luís@nm@Rua @nm@@nm@
+RJ@nm@@nm@Governador Leonel de Moura Brizola@nm@25010971@nm@Duque de Caxias@nm@Centro@nm@Avenida @nm@até 514 - lado par@nm@
+RJ@nm@@nm@José de Alvarenga@nm@25020970@nm@Duque de Caxias@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Nilo Peçanha@nm@25025971@nm@Duque de Caxias@nm@Parque Lafaiete@nm@Avenida @nm@de 0865 a 1819 - lado ímpar@nm@
+RJ@nm@@nm@Nilo Peçanha@nm@25025970@nm@Duque de Caxias@nm@Parque Lafaiete@nm@Avenida @nm@de 0865 a 1819 - lado ímpar@nm@
+RJ@nm@@nm@Presidente Vargas@nm@25070971@nm@Duque de Caxias@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Presidente Vargas@nm@25070970@nm@Duque de Caxias@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Professor José de Souza Herdy@nm@25071970@nm@Duque de Caxias@nm@Jardim Vinte e Cinco de Agosto@nm@Avenida Perimetral @nm@até 532 - lado par@nm@
+RJ@nm@@nm@Uruguaiana@nm@25212970@nm@Duque de Caxias@nm@Parque Uruguaiana@nm@Rua @nm@@nm@
+RJ@nm@@nm@Vereador José Barreto@nm@25245970@nm@Duque de Caxias@nm@Parque Xerém@nm@Praça @nm@@nm@
+RJ@nm@@nm@Washington Luiz@nm@25265970@nm@Duque de Caxias@nm@Santa Cruz da Serra@nm@Rodovia @nm@de 14002 a 19000 - lado par@nm@
+RJ@nm@@nm@João Francisco Wrigth@nm@25946970@nm@Guapimirim@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Alfredo Torres@nm@24846970@nm@Itaboraí@nm@Centro (Pachecos)@nm@Praça @nm@@nm@
+RJ@nm@@nm@Antônio Peccine@nm@24866970@nm@Itaboraí@nm@Grande Rio (Itambi)@nm@Rua @nm@de Quadra 5 a Quadra 6@nm@
+RJ@nm@@nm@Benevenuto Rodrigues da Silveira@nm@24851970@nm@Itaboraí@nm@Centro (Cabuçu)@nm@Estrada @nm@@nm@
+RJ@nm@@nm@de Ligação@nm@24842970@nm@Itaboraí@nm@Centro (Sambaetiba)@nm@Estrada @nm@@nm@
+RJ@nm@@nm@do Santíssimo@nm@24865970@nm@Itaboraí@nm@Morada do Sol I (Itambi)@nm@Alameda @nm@@nm@
+RJ@nm@@nm@Dois@nm@24867970@nm@Itaboraí@nm@Gebara (Itambi)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Dráuzio Lemos@nm@24875970@nm@Itaboraí@nm@Centro (Visconde de Itaboraí)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Francisco Raphael de Barros@nm@24855970@nm@Itaboraí@nm@Centro (Manilha)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Inês Gomes@nm@24806970@nm@Itaboraí@nm@Calundu@nm@Rua @nm@@nm@
+RJ@nm@@nm@Marechal Floriano Peixoto@nm@24800971@nm@Itaboraí@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Nossa Senhora da Conceição@nm@24830970@nm@Itaboraí@nm@Centro (Porto das Caixas)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Nuno Duarte@nm@24852970@nm@Itaboraí@nm@São José (Cabuçu)@nm@Praça @nm@@nm@
+RJ@nm@@nm@RJ-114@nm@24846971@nm@Itaboraí@nm@Centro (Pachecos)@nm@Rodovia @nm@@nm@
+RJ@nm@@nm@Vinte e Dois de Maio@nm@24812971@nm@Itaboraí@nm@Outeiro das Pedras@nm@Avenida @nm@lado par@nm@
+RJ@nm@@nm@Vinte e Dois de Maio@nm@24812970@nm@Itaboraí@nm@Outeiro das Pedras@nm@Avenida @nm@lado par@nm@
+RJ@nm@@nm@Cantidio Costa@nm@23815972@nm@Itaguaí@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@do Caçador@nm@23835970@nm@Itaguaí@nm@Santa Sofia@nm@Estrada @nm@@nm@
+RJ@nm@@nm@General Bocaiúva@nm@23815970@nm@Itaguaí@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Governador Amaral Peixoto@nm@23826970@nm@Itaguaí@nm@Vila Geny@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Doutor Arruda Negreiros@nm@26460970@nm@Japeri@nm@Centro de Japeri@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Leny Ferreira@nm@26435971@nm@Japeri@nm@Centro de Japeri@nm@Avenida @nm@@nm@
+RJ@nm@@nm@das Garças@nm@27937970@nm@Macaé@nm@Riviera Fluminense@nm@Rua @nm@@nm@
+RJ@nm@@nm@do Caminho@nm@27971973@nm@Macaé@nm@Ajuda@nm@Estrada @nm@@nm@
+RJ@nm@@nm@do Dique@nm@27948970@nm@Macaé@nm@Virgem Santa@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Dom Eugênio Salles@nm@27965973@nm@Macaé@nm@São José do Barreto@nm@Rua @nm@(Prq Atlântico)@nm@
+RJ@nm@@nm@Doutor Manoel Marques Monteiro@nm@27961970@nm@Macaé@nm@Fronteira@nm@Rua @nm@@nm@
+RJ@nm@@nm@Doutor Télio Barreto@nm@27910971@nm@Macaé@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@E@nm@27965972@nm@Macaé@nm@São José do Barreto@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Hulda Alves Fernandes@nm@27966970@nm@Macaé@nm@Lagomar@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Otoniel Gomes Tavares@nm@27965970@nm@Macaé@nm@São José do Barreto@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Rui Barbosa@nm@27915970@nm@Macaé@nm@Imbetiba@nm@Avenida @nm@de 1115 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Teixeira de Gouvêa@nm@27910972@nm@Macaé@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Teixeira de Gouvêa@nm@27910970@nm@Macaé@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Tenente-Coronel Ubirajara Barreto@nm@27965971@nm@Macaé@nm@São José do Barreto@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Coronel Sérgio José do Amaral@nm@25922970@nm@Magé@nm@Centro (Suruí)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Expedicionário Otacílio Souza@nm@25935971@nm@Magé@nm@Fragoso (Vila Inhomirim)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Othon Linch Bezerra de Mello@nm@25912970@nm@Magé@nm@Vila Velha (Santo Aleixo)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Real de Mauá@nm@25927970@nm@Magé@nm@Ipiranga (Guia de Pacobaíba)@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Sete de Setembro@nm@25931970@nm@Magé@nm@Piabetá (Inhomirim)@nm@Praça @nm@@nm@
+RJ@nm@@nm@Simão da Mota@nm@25900971@nm@Magé@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Simão da Mota@nm@25900970@nm@Magé@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Ernani do Amaral Peixoto@nm@24912970@nm@Maricá@nm@Itapeba@nm@Rodovia @nm@@nm@
+RJ@nm@@nm@Ernani do Amaral Peixoto@nm@24942970@nm@Maricá@nm@Inoã (Inoã)@nm@Rodovia @nm@@nm@
+RJ@nm@@nm@Gualberto Batista de Macedo@nm@24928970@nm@Maricá@nm@Espraiado (Ponta Negra)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Maysa@nm@24916970@nm@Maricá@nm@Guaratiba (Ponta Negra)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Professor Cardoso de Menezes@nm@24935970@nm@Maricá@nm@Jardim Atlântico Oeste (Itaipuaçu)@nm@Rua @nm@de Quadra 1 a Quadra 4@nm@
+RJ@nm@@nm@Ribeiro de Almeida@nm@24900970@nm@Maricá@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@São Pedro Apóstolo@nm@24922970@nm@Maricá@nm@Ponta Negra (Ponta Negra)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Vereador Osdevaldo Marins da Matta@nm@24931970@nm@Maricá@nm@São José do Imbassaí@nm@Rua @nm@@nm@
+RJ@nm@@nm@Getúlio de Moura@nm@26550973@nm@Mesquita@nm@Juscelino@nm@Avenida @nm@de 638 ao fim - lado par@nm@
+RJ@nm@@nm@Getúlio de Moura@nm@26550970@nm@Mesquita@nm@Juscelino@nm@Avenida @nm@de 638 ao fim - lado par@nm@
+RJ@nm@@nm@Getúlio de Moura@nm@26550971@nm@Mesquita@nm@Cruzeiro do Sul@nm@Avenida @nm@até 636 - lado par@nm@
+RJ@nm@@nm@Goiás@nm@26553971@nm@Mesquita@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Goiás@nm@26553972@nm@Mesquita@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Alberto Teixeira da Cunha@nm@26510970@nm@Nilópolis@nm@Centro@nm@Rua @nm@até 625 - lado ímpar@nm@
+RJ@nm@@nm@Carmela Dutra@nm@26530970@nm@Nilópolis@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Frei Ludolf@nm@26510971@nm@Nilópolis@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Caetano Monteiro@nm@24320970@nm@Niterói@nm@Badu@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Coronel Moreira Cesar@nm@24230971@nm@Niterói@nm@Icaraí@nm@Rua @nm@até 38 - lado par@nm@
+RJ@nm@@nm@da República@nm@24020974@nm@Niterói@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Domingues de Sá@nm@24220970@nm@Niterói@nm@Icaraí@nm@Rua @nm@lado ímpar@nm@
+RJ@nm@@nm@Doutor Celestino@nm@24020970@nm@Niterói@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+RJ@nm@@nm@Doutor Mário Viana@nm@24241970@nm@Niterói@nm@Santa Rosa@nm@Rua @nm@até 543 - lado ímpar@nm@
+RJ@nm@@nm@Doutor Paulo Alves@nm@24210970@nm@Niterói@nm@Ingá@nm@Rua @nm@@nm@
+RJ@nm@@nm@Doutor Paulo César@nm@24240970@nm@Niterói@nm@Santa Rosa@nm@Rua @nm@de 197 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Ernani do Amaral Peixoto@nm@24020975@nm@Niterói@nm@Centro@nm@Avenida @nm@até 116 - lado par@nm@
+RJ@nm@@nm@Francisco da Cruz Nunes@nm@24350971@nm@Niterói@nm@Piratininga@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Francisco da Cruz Nunes@nm@24350970@nm@Niterói@nm@Itaipu@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Gavião Peixoto@nm@24230970@nm@Niterói@nm@Icaraí@nm@Rua @nm@até 87 - lado ímpar@nm@
+RJ@nm@@nm@General Castrioto@nm@24110971@nm@Niterói@nm@Barreto@nm@Rua @nm@lado par@nm@
+RJ@nm@@nm@Noronha Torrezão@nm@24240971@nm@Niterói@nm@Santa Rosa@nm@Rua @nm@até 323 - lado ímpar@nm@
+RJ@nm@@nm@Noronha Torrezão@nm@24240978@nm@Niterói@nm@Santa Rosa@nm@Rua @nm@até 323 - lado ímpar@nm@
+RJ@nm@@nm@Quintino Bocaiúva@nm@24360970@nm@Niterói@nm@São Francisco@nm@Avenida @nm@de 367 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Quinze de Novembro@nm@24020977@nm@Niterói@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Reverendo Armando Ferreira@nm@24310972@nm@Niterói@nm@Largo da Batalha@nm@Rua @nm@@nm@
+RJ@nm@@nm@Saldanha Marinho@nm@24030972@nm@Niterói@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@São Boaventura@nm@24120971@nm@Niterói@nm@Fonseca@nm@Alameda @nm@até 438 - lado par@nm@
+RJ@nm@@nm@São Boaventura@nm@24120970@nm@Niterói@nm@Fonseca@nm@Alameda @nm@até 438 - lado par@nm@
+RJ@nm@@nm@Visconde do Rio Branco@nm@24020971@nm@Niterói@nm@Centro@nm@Avenida @nm@até 145 - lado ímpar@nm@
+RJ@nm@@nm@Visconde do Rio Branco@nm@24020976@nm@Niterói@nm@Centro@nm@Avenida @nm@até 145 - lado ímpar@nm@
+RJ@nm@@nm@Visconde do Uruguai@nm@24030973@nm@Niterói@nm@Centro@nm@Rua @nm@de 350 ao fim - lado par@nm@
+RJ@nm@@nm@Antônio Mário de Azevedo@nm@28630971@nm@Nova Friburgo@nm@Campo do Coelho@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Augusto Cardoso@nm@28610970@nm@Nova Friburgo@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Augusto Spinelli@nm@28610973@nm@Nova Friburgo@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Dante Laginestra@nm@28610971@nm@Nova Friburgo@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Dez de Outubro@nm@28605970@nm@Nova Friburgo@nm@Amparo@nm@Rua @nm@@nm@
+RJ@nm@@nm@Hamburgo@nm@28615970@nm@Nova Friburgo@nm@Mury@nm@Avenida @nm@@nm@
+RJ@nm@@nm@José de Queiroz@nm@28633970@nm@Nova Friburgo@nm@Conselheiro Paulino@nm@Rua @nm@@nm@
+RJ@nm@@nm@Júlio Ambrósio Palmerin@nm@28616972@nm@Nova Friburgo@nm@Lumiar@nm@Rua @nm@@nm@
+RJ@nm@@nm@Júlio Antônio Thurler@nm@28620970@nm@Nova Friburgo@nm@Olaria@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Nossa Senhora do Rosário@nm@28634971@nm@Nova Friburgo@nm@Riograndina@nm@Praça @nm@@nm@
+RJ@nm@@nm@Presidente Getúlio Vargas@nm@28610974@nm@Nova Friburgo@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Rodrigues Alves@nm@28616971@nm@Nova Friburgo@nm@São Pedro da Serra@nm@Rua @nm@@nm@
+RJ@nm@@nm@Álvaro Gonçalves@nm@26052970@nm@Nova Iguaçu@nm@Vila de Cava@nm@Rua @nm@@nm@
+RJ@nm@@nm@Carlos Ribeiro da Costa@nm@26010970@nm@Nova Iguaçu@nm@Prata@nm@Rua @nm@@nm@
+RJ@nm@@nm@Coronel Bernardino de Melo@nm@26255970@nm@Nova Iguaçu@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Coronel Francisco Soares@nm@26216970@nm@Nova Iguaçu@nm@Centro@nm@Rua @nm@até 314 - lado par@nm@
+RJ@nm@@nm@Doutor Luiz Guimarães@nm@26215970@nm@Nova Iguaçu@nm@Centro@nm@Avenida @nm@até 310 - lado par@nm@
+RJ@nm@@nm@Guatemala@nm@26013970@nm@Nova Iguaçu@nm@Rancho Novo@nm@Rua @nm@@nm@
+RJ@nm@@nm@João Venâncio de Figueiredo@nm@26020972@nm@Nova Iguaçu@nm@Alto da Posse@nm@Estrada @nm@até 970/971@nm@
+RJ@nm@@nm@João Venâncio de Figueiredo@nm@26020971@nm@Nova Iguaçu@nm@Alto da Posse@nm@Estrada @nm@até 970/971@nm@
+RJ@nm@@nm@Lucas Rodrigues@nm@26070970@nm@Nova Iguaçu@nm@Miguel Couto@nm@Rua @nm@@nm@
+RJ@nm@@nm@Ministro Muniz Barreto@nm@26053970@nm@Nova Iguaçu@nm@Vila de Cava@nm@Rua @nm@de 1000/1001 ao fim@nm@
+RJ@nm@@nm@Otávio Tarquino@nm@26210970@nm@Nova Iguaçu@nm@Centro@nm@Rua @nm@até 294 - lado par@nm@
+RJ@nm@@nm@Pascoal Moreira@nm@26286970@nm@Nova Iguaçu@nm@Santa Eugênia@nm@Rua @nm@@nm@
+RJ@nm@@nm@Severino Pereira da Silva@nm@26291970@nm@Nova Iguaçu@nm@Cabuçu@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Bingen@nm@25660970@nm@Petrópolis@nm@Bingen@nm@Rua @nm@até 1096 - lado par@nm@
+RJ@nm@@nm@Coronel Veiga@nm@25655970@nm@Petrópolis@nm@Coronel Veiga@nm@Rua @nm@até 618/619@nm@
+RJ@nm@@nm@Dezesseis de Março@nm@25620972@nm@Petrópolis@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@do Imperador@nm@25620971@nm@Petrópolis@nm@Centro@nm@Rua @nm@até 552 - lado par@nm@
+RJ@nm@@nm@Doutor Agostinho Goulão@nm@25730970@nm@Petrópolis@nm@Corrêas@nm@Rua @nm@@nm@
+RJ@nm@@nm@General Rondon@nm@25650970@nm@Petrópolis@nm@Quitandinha@nm@Rua @nm@de 393 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Marechal Floriano Peixoto@nm@25610970@nm@Petrópolis@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Mosela@nm@25675970@nm@Petrópolis@nm@Mosela@nm@Rua @nm@até 567 - lado ímpar@nm@
+RJ@nm@@nm@Silveira da Mota@nm@25770970@nm@Petrópolis@nm@Posse@nm@Estrada @nm@até km 10,000@nm@
+RJ@nm@@nm@União e Indústria@nm@25720971@nm@Petrópolis@nm@Corrêas@nm@Estrada @nm@de 2518 a 4394 - lado par@nm@
+RJ@nm@@nm@União e Indústria@nm@25750971@nm@Petrópolis@nm@Pedro do Rio@nm@Estrada @nm@de 15195 a 19251 - lado ímpar@nm@
+RJ@nm@@nm@União e Indústria@nm@25750970@nm@Petrópolis@nm@Itaipava@nm@Estrada @nm@de 8461 a 9941 - lado ímpar@nm@
+RJ@nm@@nm@Washington Luiz@nm@25655971@nm@Petrópolis@nm@Centro@nm@Rua @nm@até 600 - lado par@nm@
+RJ@nm@@nm@Autheberto Gomes de Oliveira Campbell@nm@27450970@nm@Quatis@nm@Ribeirão de São Joaquim@nm@Rua @nm@@nm@
+RJ@nm@@nm@Faustino Pinheiro@nm@27410970@nm@Quatis@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Major Carvalho@nm@27440970@nm@Quatis@nm@Falcão@nm@Rua @nm@@nm@
+RJ@nm@@nm@do Tinguá@nm@26383970@nm@Queimados@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Doutor Pedro Jorge@nm@26383972@nm@Queimados@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Doutor Pedro Jorge@nm@26383971@nm@Queimados@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Concórdia@nm@27511970@nm@Resende@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Concórdia@nm@27511971@nm@Resende@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Sebastião José Rodrigues@nm@27542970@nm@Resende@nm@Comercial@nm@Rua @nm@@nm@
+RJ@nm@@nm@Tiradentes@nm@27534970@nm@Resende@nm@Independência (Agulhas Negras)@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Albano Branco Guimarães@nm@28898971@nm@Rio das Ostras@nm@Mar do Norte@nm@Rua @nm@@nm@
+RJ@nm@@nm@Izolino Almeida@nm@28892970@nm@Rio das Ostras@nm@Rocha Leão@nm@Rua @nm@@nm@
+RJ@nm@@nm@Jane Maria Martins Figueira@nm@28896970@nm@Rio das Ostras@nm@Jardim Mariléa@nm@Avenida @nm@até 684/685@nm@
+RJ@nm@@nm@Paranaíba@nm@28893970@nm@Rio das Ostras@nm@Balneário Remanso@nm@Rua @nm@@nm@
+RJ@nm@@nm@Professor Leandro Faria Sarzedas@nm@28899970@nm@Rio das Ostras@nm@Cantagalo@nm@Estrada @nm@@nm@
+RJ@nm@@nm@A@nm@23013970@nm@Rio de Janeiro@nm@Campo Grande@nm@Rua @nm@(Cabuçu)@nm@
+RJ@nm@@nm@Adequê@nm@21620971@nm@Rio de Janeiro@nm@Ricardo de Albuquerque@nm@Rua @nm@@nm@
+RJ@nm@@nm@Adequê@nm@21620970@nm@Rio de Janeiro@nm@Ricardo de Albuquerque@nm@Rua @nm@@nm@
+RJ@nm@@nm@Adolfo Bergamini@nm@20730970@nm@Rio de Janeiro@nm@Engenho de Dentro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Adolfo Bergamini@nm@20730971@nm@Rio de Janeiro@nm@Engenho de Dentro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20299999@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211972@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20212973@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211986@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211987@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211971@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211980@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211988@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211970@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Cavalcanti@nm@20211981@nm@Rio de Janeiro@nm@Cidade Nova@nm@Rua @nm@@nm@
+RJ@nm@@nm@Afonso Pena@nm@20270972@nm@Rio de Janeiro@nm@Tijuca@nm@Rua @nm@até 76 - lado par@nm@
+RJ@nm@@nm@Alexandre Fernandes de Lima@nm@20911984@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@@nm@
+RJ@nm@@nm@Almirante Barroso@nm@20031974@nm@Rio de Janeiro@nm@Centro@nm@Avenida @nm@até 54 - lado par@nm@
+RJ@nm@@nm@Almirante Barroso@nm@20031972@nm@Rio de Janeiro@nm@Centro@nm@Avenida @nm@até 54 - lado par@nm@
+RJ@nm@@nm@Altin de Carvalho@nm@23026970@nm@Rio de Janeiro@nm@Guaratiba@nm@Rua @nm@@nm@
+RJ@nm@@nm@Amaro Cavalcanti@nm@20735970@nm@Rio de Janeiro@nm@Méier@nm@Avenida @nm@até 571/572@nm@
+RJ@nm@@nm@Américo Júnior@nm@21050971@nm@Rio de Janeiro@nm@Manguinhos@nm@Praça @nm@@nm@
+RJ@nm@@nm@Ana Neri@nm@20960970@nm@Rio de Janeiro@nm@Sampaio@nm@Rua @nm@de 2213 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Arapogi@nm@21011971@nm@Rio de Janeiro@nm@Braz de Pina@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Areia Branca@nm@23550970@nm@Rio de Janeiro@nm@Santa Cruz@nm@Avenida @nm@de 1461/1462 ao fim@nm@
+RJ@nm@@nm@Aristides Caire@nm@20775972@nm@Rio de Janeiro@nm@Méier@nm@Rua @nm@@nm@
+RJ@nm@@nm@Armando Cruz@nm@21310970@nm@Rio de Janeiro@nm@Madureira@nm@Praça @nm@@nm@
+RJ@nm@@nm@Armando Lombardi@nm@22640972@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@lado par@nm@
+RJ@nm@@nm@Ataulfo de Paiva@nm@22440970@nm@Rio de Janeiro@nm@Leblon@nm@Avenida @nm@até 764 - lado par@nm@
+RJ@nm@@nm@Athos da Silveira Ramos@nm@21941972@nm@Rio de Janeiro@nm@Cidade Universitária@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Ayrton Senna@nm@22775970@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@até 659/0660@nm@
+RJ@nm@@nm@Azhaury Mascarenhas@nm@23078970@nm@Rio de Janeiro@nm@Campo Grande@nm@Rua @nm@@nm@
+RJ@nm@@nm@Barão de Iguatemi@nm@20270970@nm@Rio de Janeiro@nm@Praça da Bandeira@nm@Rua @nm@@nm@
+RJ@nm@@nm@Barão de Ladário@nm@20091970@nm@Rio de Janeiro@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Barão de Ladário@nm@20091971@nm@Rio de Janeiro@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Barão de Mesquita@nm@20540973@nm@Rio de Janeiro@nm@Grajaú@nm@Rua @nm@de 923 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Barão de São Francisco@nm@20560971@nm@Rio de Janeiro@nm@Andaraí@nm@Rua @nm@até 316 - lado par@nm@
+RJ@nm@@nm@Barcelos Domingos@nm@23080970@nm@Rio de Janeiro@nm@Campo Grande@nm@Rua @nm@@nm@
+RJ@nm@@nm@Barreiros@nm@21031970@nm@Rio de Janeiro@nm@Ramos@nm@Rua @nm@até 652 - lado par@nm@
+RJ@nm@@nm@Baturité@nm@21040971@nm@Rio de Janeiro@nm@Bonsucesso@nm@Rua @nm@@nm@
+RJ@nm@@nm@Bela@nm@20930974@nm@Rio de Janeiro@nm@São Cristóvão@nm@Rua @nm@até 1258 - lado par@nm@
+RJ@nm@@nm@Bela@nm@20930970@nm@Rio de Janeiro@nm@São Cristóvão@nm@Rua @nm@até 1258 - lado par@nm@
+RJ@nm@@nm@Belisário Pena@nm@21020978@nm@Rio de Janeiro@nm@Penha@nm@Rua @nm@@nm@
+RJ@nm@@nm@Botafogo@nm@22250970@nm@Rio de Janeiro@nm@Botafogo@nm@Praia @nm@de 285/286 ao fim@nm@
+RJ@nm@@nm@Brasil@nm@21012970@nm@Rio de Janeiro@nm@Penha@nm@Avenida @nm@de 9022 a 13000 - lado par@nm@
+RJ@nm@@nm@Brasil@nm@21040970@nm@Rio de Janeiro@nm@Bonsucesso@nm@Avenida @nm@de 3800 a 7026 - lado par@nm@
+RJ@nm@@nm@Brasil@nm@23078971@nm@Rio de Janeiro@nm@Campo Grande@nm@Avenida @nm@de 37915 a 49387 - lado ímpar@nm@
+RJ@nm@@nm@Braz de Pina@nm@21210972@nm@Rio de Janeiro@nm@Vila da Penha@nm@Avenida @nm@de 1155 a 1557 - lado ímpar@nm@
+RJ@nm@@nm@Buenos Aires@nm@20061970@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@até 186 - lado par@nm@
+RJ@nm@@nm@Cachambi@nm@20775971@nm@Rio de Janeiro@nm@Cachambi@nm@Rua @nm@até 409 - lado ímpar@nm@
+RJ@nm@@nm@Camboatá@nm@21665970@nm@Rio de Janeiro@nm@Guadalupe@nm@Estrada @nm@de 2939/2940 a 3998/3999@nm@
+RJ@nm@@nm@Campos da Paz@nm@20250970@nm@Rio de Janeiro@nm@Rio Comprido@nm@Rua @nm@@nm@
+RJ@nm@@nm@Cândido Benício@nm@22733970@nm@Rio de Janeiro@nm@Praça Seca@nm@Rua @nm@de 689 a 1125 - lado ímpar@nm@
+RJ@nm@@nm@Capitão Barbosa@nm@21921970@nm@Rio de Janeiro@nm@Praia da Bandeira@nm@Rua @nm@@nm@
+RJ@nm@@nm@Capitão Félix@nm@20920970@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@@nm@
+RJ@nm@@nm@Cardoso de Morais@nm@21032971@nm@Rio de Janeiro@nm@Bonsucesso@nm@Rua @nm@@nm@
+RJ@nm@@nm@Carlos Chagas@nm@21041971@nm@Rio de Janeiro@nm@Manguinhos@nm@Rua @nm@@nm@
+RJ@nm@@nm@Carlos Chagas Filho@nm@21941971@nm@Rio de Janeiro@nm@Cidade Universitária@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Carolina Machado@nm@21351971@nm@Rio de Janeiro@nm@Cascadura@nm@Rua @nm@até 90/91@nm@
+RJ@nm@@nm@Carolina Méier@nm@20780970@nm@Rio de Janeiro@nm@Méier@nm@Rua @nm@@nm@
+RJ@nm@@nm@Casimiro de Abreu@nm@20750971@nm@Rio de Janeiro@nm@Pilares@nm@Rua @nm@@nm@
+RJ@nm@@nm@Ceres@nm@21862971@nm@Rio de Janeiro@nm@Bangu@nm@Rua @nm@@nm@
+RJ@nm@@nm@Cesário de Melo@nm@23050972@nm@Rio de Janeiro@nm@Campo Grande@nm@Avenida @nm@de 2839 a 2881 - lado ímpar@nm@
+RJ@nm@@nm@Cesário de Melo@nm@23052970@nm@Rio de Janeiro@nm@Campo Grande@nm@Avenida @nm@de 2839 a 2881 - lado ímpar@nm@
+RJ@nm@@nm@Cherburgo@nm@21875971@nm@Rio de Janeiro@nm@Padre Miguel@nm@Rua @nm@@nm@
+RJ@nm@@nm@Cidade Lima@nm@20220973@nm@Rio de Janeiro@nm@Santo Cristo@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Cinco de Julho@nm@22051973@nm@Rio de Janeiro@nm@Copacabana@nm@Rua @nm@@nm@
+RJ@nm@@nm@Conde de Azambuja@nm@20785970@nm@Rio de Janeiro@nm@Maria da Graça@nm@Rua @nm@até 284 - lado par@nm@
+RJ@nm@@nm@Conde de Bonfim@nm@20520970@nm@Rio de Janeiro@nm@Tijuca@nm@Rua @nm@até 0186 - lado par@nm@
+RJ@nm@@nm@Conde de Leopoldina@nm@20930971@nm@Rio de Janeiro@nm@São Cristóvão@nm@Rua @nm@@nm@
+RJ@nm@@nm@Coronel Phidias Távora@nm@21535970@nm@Rio de Janeiro@nm@Pavuna@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Coronel Tamarindo@nm@21840970@nm@Rio de Janeiro@nm@Bangu@nm@Rua @nm@até 1547 - lado ímpar@nm@
+RJ@nm@@nm@Correia Dias@nm@21241970@nm@Rio de Janeiro@nm@Vigário Geral@nm@Rua @nm@até 449/450@nm@
+RJ@nm@@nm@Cristiano Otoni@nm@20221970@nm@Rio de Janeiro@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Cuba@nm@21020970@nm@Rio de Janeiro@nm@Penha@nm@Rua @nm@@nm@
+RJ@nm@@nm@da Água Grande@nm@21230970@nm@Rio de Janeiro@nm@Irajá@nm@Estrada @nm@até 754 - lado par@nm@
+RJ@nm@@nm@da Alfândega@nm@20070970@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@até 53/054@nm@
+RJ@nm@@nm@da Assembléia@nm@20011970@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+RJ@nm@@nm@da Carioca@nm@20050971@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@da Conceição@nm@20051970@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@até 120 - lado par@nm@
+RJ@nm@@nm@da Estrela@nm@20251970@nm@Rio de Janeiro@nm@Rio Comprido@nm@Rua @nm@lado ímpar@nm@
+RJ@nm@@nm@da Farinha@nm@21011970@nm@Rio de Janeiro@nm@Penha Circular@nm@Rua @nm@@nm@
+RJ@nm@@nm@da Lapa@nm@20021970@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@da Liberdade@nm@21050972@nm@Rio de Janeiro@nm@Bonsucesso@nm@Rua @nm@(Vila São Pedro)@nm@
+RJ@nm@@nm@da Passagem@nm@22290973@nm@Rio de Janeiro@nm@Botafogo@nm@Rua @nm@até 99/100@nm@
+RJ@nm@@nm@da Quitanda@nm@20011972@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@até 77/78@nm@
+RJ@nm@@nm@Darke de Matos@nm@21051970@nm@Rio de Janeiro@nm@Higienópolis@nm@Rua @nm@@nm@
+RJ@nm@@nm@das Américas@nm@22640970@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@até 2211 - lado ímpar@nm@
+RJ@nm@@nm@das Américas@nm@22631970@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@até 2211 - lado ímpar@nm@
+RJ@nm@@nm@das Américas@nm@22790970@nm@Rio de Janeiro@nm@Recreio dos Bandeirantes@nm@Avenida @nm@de 12003 a 16235 - lado ímpar@nm@
+RJ@nm@@nm@das Américas@nm@22790971@nm@Rio de Janeiro@nm@Recreio dos Bandeirantes@nm@Avenida @nm@de 12003 a 16235 - lado ímpar@nm@
+RJ@nm@@nm@das Américas@nm@22793970@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@até 2211 - lado ímpar@nm@
+RJ@nm@@nm@das Américas@nm@22790972@nm@Rio de Janeiro@nm@Recreio dos Bandeirantes@nm@Avenida @nm@de 12003 a 16235 - lado ímpar@nm@
+RJ@nm@@nm@das Américas@nm@22640973@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@de 1602 a 2550 - lado par@nm@
+RJ@nm@@nm@das Américas@nm@22640971@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@até 2211 - lado ímpar@nm@
+RJ@nm@@nm@das Marrecas@nm@20031971@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@de Catumbi@nm@20251971@nm@Rio de Janeiro@nm@Catumbi@nm@Rua @nm@@nm@
+RJ@nm@@nm@de Inhoaiba@nm@23063970@nm@Rio de Janeiro@nm@Inhoaíba@nm@Estrada @nm@@nm@
+RJ@nm@@nm@de Jacarepaguá@nm@22753973@nm@Rio de Janeiro@nm@Freguesia (Jacarepaguá)@nm@Estrada @nm@de 6985 ao fim - lado ímpar@nm@
+RJ@nm@@nm@de Jacarepaguá@nm@22753970@nm@Rio de Janeiro@nm@Freguesia (Jacarepaguá)@nm@Estrada @nm@de 6985 ao fim - lado ímpar@nm@
+RJ@nm@@nm@de Santa Cruz@nm@21715970@nm@Rio de Janeiro@nm@Realengo@nm@Avenida @nm@até 1380 - lado par@nm@
+RJ@nm@@nm@de Santa Cruz@nm@21710970@nm@Rio de Janeiro@nm@Realengo@nm@Avenida @nm@até 1380 - lado par@nm@
+RJ@nm@@nm@Dias da Cruz@nm@20720970@nm@Rio de Janeiro@nm@Méier@nm@Rua @nm@até 460 - lado par@nm@
+RJ@nm@@nm@Dias da Rocha@nm@22051970@nm@Rio de Janeiro@nm@Copacabana@nm@Rua @nm@lado ímpar@nm@
+RJ@nm@@nm@Dias da Rocha@nm@22051974@nm@Rio de Janeiro@nm@Copacabana@nm@Rua @nm@lado ímpar@nm@
+RJ@nm@@nm@do Bispo@nm@20261970@nm@Rio de Janeiro@nm@Rio Comprido@nm@Rua @nm@até 129 - lado ímpar@nm@
+RJ@nm@@nm@do Gado@nm@23570970@nm@Rio de Janeiro@nm@Santa Cruz@nm@Praça @nm@@nm@
+RJ@nm@@nm@do Galeão@nm@21941974@nm@Rio de Janeiro@nm@Galeão@nm@Ponta @nm@@nm@
+RJ@nm@@nm@do Galeão@nm@21946972@nm@Rio de Janeiro@nm@Galeão@nm@Ponta @nm@@nm@
+RJ@nm@@nm@do Galeão@nm@21931972@nm@Rio de Janeiro@nm@Jardim Carioca@nm@Estrada @nm@de 1502 a 2220 - lado par@nm@
+RJ@nm@@nm@do Galeão@nm@21941983@nm@Rio de Janeiro@nm@Galeão@nm@Ponta @nm@@nm@
+RJ@nm@@nm@do Galeão@nm@21931970@nm@Rio de Janeiro@nm@Jardim Carioca@nm@Estrada @nm@de 1502 a 2220 - lado par@nm@
+RJ@nm@@nm@do Galeão@nm@21931971@nm@Rio de Janeiro@nm@Jardim Carioca@nm@Estrada @nm@de 1502 a 2220 - lado par@nm@
+RJ@nm@@nm@do Humaitá@nm@22261970@nm@Rio de Janeiro@nm@Humaitá@nm@Rua @nm@até 109 - lado ímpar@nm@
+RJ@nm@@nm@do Machado@nm@22221971@nm@Rio de Janeiro@nm@Catete@nm@Largo @nm@@nm@
+RJ@nm@@nm@do Machado@nm@22221970@nm@Rio de Janeiro@nm@Catete@nm@Largo @nm@@nm@
+RJ@nm@@nm@do Magarça@nm@23031970@nm@Rio de Janeiro@nm@Campo Grande@nm@Estrada @nm@até 369/370@nm@
+RJ@nm@@nm@do Mendanha@nm@23087970@nm@Rio de Janeiro@nm@Campo Grande@nm@Estrada @nm@até 588 - lado par@nm@
+RJ@nm@@nm@do Ouvidor@nm@20040970@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@até 48/49@nm@
+RJ@nm@@nm@do Portela@nm@21351970@nm@Rio de Janeiro@nm@Madureira@nm@Estrada @nm@até 279 - lado ímpar@nm@
+RJ@nm@@nm@do Quitungo@nm@21215970@nm@Rio de Janeiro@nm@Braz de Pina@nm@Estrada @nm@de 2 a 1318 - lado par@nm@
+RJ@nm@@nm@do Quitungo@nm@21215971@nm@Rio de Janeiro@nm@Braz de Pina@nm@Estrada @nm@de 2 a 1318 - lado par@nm@
+RJ@nm@@nm@do Rio Grande@nm@22720970@nm@Rio de Janeiro@nm@Taquara@nm@Estrada @nm@até 2811 - lado ímpar@nm@
+RJ@nm@@nm@do Tindiba@nm@22740971@nm@Rio de Janeiro@nm@Taquara@nm@Estrada @nm@de 2714 ao fim - lado par@nm@
+RJ@nm@@nm@do Tindiba@nm@22740970@nm@Rio de Janeiro@nm@Taquara@nm@Estrada @nm@de 2714 ao fim - lado par@nm@
+RJ@nm@@nm@do Tindiba@nm@22740974@nm@Rio de Janeiro@nm@Pechincha@nm@Estrada @nm@até 464/465@nm@
+RJ@nm@@nm@Dom Hélder Câmara@nm@20973971@nm@Rio de Janeiro@nm@Benfica@nm@Avenida @nm@até 757 - lado ímpar@nm@
+RJ@nm@@nm@Dom Hélder Câmara@nm@20973970@nm@Rio de Janeiro@nm@Benfica@nm@Avenida @nm@até 757 - lado ímpar@nm@
+RJ@nm@@nm@Dom Hélder Câmara@nm@20751970@nm@Rio de Janeiro@nm@Abolição@nm@Avenida @nm@de 7240 a 7800 - lado par@nm@
+RJ@nm@@nm@Dom Hélder Câmara@nm@20771971@nm@Rio de Janeiro@nm@Del Castilho@nm@Avenida @nm@de 3538 a 4738 - lado par@nm@
+RJ@nm@@nm@Dom Manuel@nm@20010975@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Dona Isabel@nm@21032970@nm@Rio de Janeiro@nm@Bonsucesso@nm@Rua @nm@@nm@
+RJ@nm@@nm@Dona Januaria@nm@23510970@nm@Rio de Janeiro@nm@Santa Cruz@nm@Rua @nm@@nm@
+RJ@nm@@nm@dos Bandeirantes@nm@22775971@nm@Rio de Janeiro@nm@Curicica@nm@Estrada @nm@de 3598 a 5258 - lado par@nm@
+RJ@nm@@nm@dos Bandeirantes@nm@22710970@nm@Rio de Janeiro@nm@Taquara@nm@Estrada @nm@até 867 - lado ímpar@nm@
+RJ@nm@@nm@dos Bandeirantes@nm@22775973@nm@Rio de Janeiro@nm@Curicica@nm@Estrada @nm@de 3598 a 5258 - lado par@nm@
+RJ@nm@@nm@dos Coqueiros@nm@21843970@nm@Rio de Janeiro@nm@Senador Camará@nm@Estrada @nm@até 691 - lado ímpar@nm@
+RJ@nm@@nm@dos Inválidos@nm@20031976@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@até 95 - lado ímpar@nm@
+RJ@nm@@nm@dos Italianos@nm@21599999@nm@Rio de Janeiro@nm@Rocha Miranda@nm@Avenida @nm@de 164 a 1102 - lado par@nm@
+RJ@nm@@nm@dos Italianos@nm@21510970@nm@Rio de Janeiro@nm@Rocha Miranda@nm@Avenida @nm@de 164 a 1102 - lado par@nm@
+RJ@nm@@nm@Doutor Lacerda@nm@20397970@nm@Rio de Janeiro@nm@Paquetá@nm@Rua @nm@@nm@
+RJ@nm@@nm@Doutor Raul Boaventura@nm@23050970@nm@Rio de Janeiro@nm@Campo Grande@nm@Praça @nm@@nm@
+RJ@nm@@nm@Doutora Maria Estrela@nm@21862970@nm@Rio de Janeiro@nm@Bangu@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Edgard Werneck@nm@22763970@nm@Rio de Janeiro@nm@Cidade de Deus@nm@Rua @nm@de 1378/1379 ao fim@nm@
+RJ@nm@@nm@Embaixador Abelardo Bueno@nm@22775974@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@de 751 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Erasmo Braga@nm@20020970@nm@Rio de Janeiro@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Estrela@nm@21041973@nm@Rio de Janeiro@nm@Bonsucesso@nm@Rua @nm@(Monsenhor Brito)@nm@
+RJ@nm@@nm@Felipe Cardoso@nm@23510972@nm@Rio de Janeiro@nm@Santa Cruz@nm@Rua @nm@até 0608 - lado par@nm@
+RJ@nm@@nm@Felipe Cardoso@nm@23510971@nm@Rio de Janeiro@nm@Santa Cruz@nm@Rua @nm@até 0608 - lado par@nm@
+RJ@nm@@nm@Fernandes da Fonseca@nm@21930970@nm@Rio de Janeiro@nm@Ribeira@nm@Rua @nm@@nm@
+RJ@nm@@nm@Fonseca@nm@21820971@nm@Rio de Janeiro@nm@Bangu@nm@Rua @nm@@nm@
+RJ@nm@@nm@Francisco Bicalho@nm@20220970@nm@Rio de Janeiro@nm@Santo Cristo@nm@Avenida @nm@@nm@
+RJ@nm@@nm@General Polidoro@nm@22280970@nm@Rio de Janeiro@nm@Botafogo@nm@Rua @nm@até 163 - lado ímpar@nm@
+RJ@nm@@nm@General Sampaio@nm@20931970@nm@Rio de Janeiro@nm@Caju@nm@Rua @nm@@nm@
+RJ@nm@@nm@Geremário Dantas@nm@22740973@nm@Rio de Janeiro@nm@Tanque@nm@Avenida @nm@até 448 - lado par@nm@
+RJ@nm@@nm@Guilherme Maxwell@nm@21042970@nm@Rio de Janeiro@nm@Bonsucesso@nm@Avenida @nm@de 2 a 394 - lado par@nm@
+RJ@nm@@nm@Guilherme Maxwell@nm@21042971@nm@Rio de Janeiro@nm@Bonsucesso@nm@Avenida @nm@de 2 a 394 - lado par@nm@
+RJ@nm@@nm@Haddock Lobo@nm@20260970@nm@Rio de Janeiro@nm@Estácio@nm@Rua @nm@até 105 - lado ímpar@nm@
+RJ@nm@@nm@Hannibal Porto@nm@21230971@nm@Rio de Janeiro@nm@Irajá@nm@Rua @nm@@nm@
+RJ@nm@@nm@Heitor Beltrão@nm@20550970@nm@Rio de Janeiro@nm@Tijuca@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Humberto de Campos@nm@22430970@nm@Rio de Janeiro@nm@Leblon@nm@Rua @nm@@nm@
+RJ@nm@@nm@Intendente Magalhães@nm@21330971@nm@Rio de Janeiro@nm@Madureira@nm@Estrada @nm@de 2 a 334 - lado par@nm@
+RJ@nm@@nm@Isidro de Figueiredo@nm@20271970@nm@Rio de Janeiro@nm@Maracanã@nm@Rua @nm@@nm@
+RJ@nm@@nm@Itaóca@nm@21061970@nm@Rio de Janeiro@nm@Bonsucesso@nm@Avenida @nm@lado par@nm@
+RJ@nm@@nm@Jardim Botânico@nm@22460970@nm@Rio de Janeiro@nm@Jardim Botânico@nm@Rua @nm@até 518 - lado par@nm@
+RJ@nm@@nm@João Vicente@nm@21331970@nm@Rio de Janeiro@nm@Bento Ribeiro@nm@Rua @nm@de 1200/1201 a 1438/1439@nm@
+RJ@nm@@nm@Jornalista Geraldo Rocha@nm@21240970@nm@Rio de Janeiro@nm@Jardim América@nm@Rua @nm@@nm@
+RJ@nm@@nm@José dos Reis@nm@20756971@nm@Rio de Janeiro@nm@Engenho de Dentro@nm@Rua @nm@de 1194 a 1590 - lado par@nm@
+RJ@nm@@nm@Lauro Muller@nm@22290972@nm@Rio de Janeiro@nm@Botafogo@nm@Rua @nm@@nm@
+RJ@nm@@nm@Leopoldina Rego@nm@21021970@nm@Rio de Janeiro@nm@Olaria@nm@Rua @nm@de 224 a 578 - lado par@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911972@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911986@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911982@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911985@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911983@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911974@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911973@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911970@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Leopoldo Bulhões@nm@20911971@nm@Rio de Janeiro@nm@Benfica@nm@Rua @nm@até 949/950@nm@
+RJ@nm@@nm@Lobo Júnior@nm@21020973@nm@Rio de Janeiro@nm@Penha Circular@nm@Avenida @nm@de 635 a 1195 - lado ímpar@nm@
+RJ@nm@@nm@Marechal Fontenelle@nm@21740970@nm@Rio de Janeiro@nm@Campo dos Afonsos@nm@Avenida @nm@até 2904 - lado par@nm@
+RJ@nm@@nm@Marechal Miguel Salazar Mendes de Morais@nm@22770970@nm@Rio de Janeiro@nm@Taquara@nm@Estrada @nm@até 1055 - lado ímpar@nm@
+RJ@nm@@nm@Mário Portela@nm@22241970@nm@Rio de Janeiro@nm@Laranjeiras@nm@Rua @nm@@nm@
+RJ@nm@@nm@Mariz e Barros@nm@20270971@nm@Rio de Janeiro@nm@Praça da Bandeira@nm@Rua @nm@até 210 - lado par@nm@
+RJ@nm@@nm@Marquês de Aracati@nm@21235970@nm@Rio de Janeiro@nm@Irajá@nm@Rua @nm@@nm@
+RJ@nm@@nm@Marquês de São Vicente@nm@22451970@nm@Rio de Janeiro@nm@Gávea@nm@Rua @nm@até 133 - lado ímpar@nm@
+RJ@nm@@nm@Maruja@nm@22765970@nm@Rio de Janeiro@nm@Gardênia Azul@nm@Rua @nm@@nm@
+RJ@nm@@nm@Meriti@nm@21250972@nm@Rio de Janeiro@nm@Cordovil@nm@Avenida @nm@de 3004 a 3982 - lado par@nm@
+RJ@nm@@nm@Ministro Edgard Romero@nm@21360971@nm@Rio de Janeiro@nm@Madureira@nm@Avenida @nm@até 116 - lado par@nm@
+RJ@nm@@nm@Ministro Edgard Romero@nm@21360970@nm@Rio de Janeiro@nm@Madureira@nm@Avenida @nm@até 116 - lado par@nm@
+RJ@nm@@nm@Nicarágua@nm@21020972@nm@Rio de Janeiro@nm@Penha@nm@Rua @nm@@nm@
+RJ@nm@@nm@Nossa Senhora de Copacabana@nm@22060970@nm@Rio de Janeiro@nm@Copacabana@nm@Avenida @nm@de 833 a 1107 - lado ímpar@nm@
+RJ@nm@@nm@Nossa Senhora de Copacabana@nm@22020970@nm@Rio de Janeiro@nm@Copacabana@nm@Avenida @nm@de 833 a 1107 - lado ímpar@nm@
+RJ@nm@@nm@Nossa Senhora dos Navegantes@nm@21050970@nm@Rio de Janeiro@nm@Manguinhos@nm@Rua @nm@(João Goulart)@nm@
+RJ@nm@@nm@Nova@nm@22753972@nm@Rio de Janeiro@nm@Anil@nm@Rua @nm@@nm@
+RJ@nm@@nm@Novo Rio@nm@21041972@nm@Rio de Janeiro@nm@Bonsucesso@nm@Avenida @nm@até 456 - lado par@nm@
+RJ@nm@@nm@Odorico Mendes@nm@20771970@nm@Rio de Janeiro@nm@Cachambi@nm@Rua @nm@@nm@
+RJ@nm@@nm@Oito de Maio@nm@21511970@nm@Rio de Janeiro@nm@Rocha Miranda@nm@Praça @nm@@nm@
+RJ@nm@@nm@Olegário Maciel@nm@22621970@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Padre Guilherme Decaminada@nm@23575970@nm@Rio de Janeiro@nm@Santa Cruz@nm@Avenida @nm@até 1915/1916@nm@
+RJ@nm@@nm@Paris@nm@21041970@nm@Rio de Janeiro@nm@Bonsucesso@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Pasteur@nm@22290970@nm@Rio de Janeiro@nm@Botafogo@nm@Avenida @nm@até 213/214@nm@
+RJ@nm@@nm@Pastor Martin Luther King Jr@nm@20765971@nm@Rio de Janeiro@nm@Del Castilho@nm@Avenida @nm@até 1865 - lado ímpar@nm@
+RJ@nm@@nm@Paulino Fernandes@nm@22270971@nm@Rio de Janeiro@nm@Botafogo@nm@Rua @nm@@nm@
+RJ@nm@@nm@Pedro II@nm@20941970@nm@Rio de Janeiro@nm@São Cristóvão@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Pereira Nunes@nm@20511970@nm@Rio de Janeiro@nm@Vila Isabel@nm@Rua @nm@até 209 - lado ímpar@nm@
+RJ@nm@@nm@Peter Lund@nm@20930973@nm@Rio de Janeiro@nm@Caju@nm@Rua @nm@@nm@
+RJ@nm@@nm@Plínio de Oliveira@nm@21070970@nm@Rio de Janeiro@nm@Penha@nm@Rua @nm@@nm@
+RJ@nm@@nm@Presidente Antônio Carlos@nm@20020973@nm@Rio de Janeiro@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Presidente João Goulart@nm@22450970@nm@Rio de Janeiro@nm@Vidigal@nm@Avenida @nm@até 680 - lado par@nm@
+RJ@nm@@nm@Presidente Vargas@nm@20210972@nm@Rio de Janeiro@nm@Cidade Nova@nm@Avenida @nm@de 1263 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Presidente Vargas@nm@20210973@nm@Rio de Janeiro@nm@Cidade Nova@nm@Avenida @nm@de 1263 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Presidente Vargas@nm@20210970@nm@Rio de Janeiro@nm@Cidade Nova@nm@Avenida @nm@de 1263 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Presidente Wilson@nm@20030970@nm@Rio de Janeiro@nm@Centro@nm@Avenida @nm@até 164/165@nm@
+RJ@nm@@nm@Primeiro de Março@nm@20010974@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Primeiro de Março@nm@20010977@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Primeiro de Março@nm@20010970@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Princesa Isabel@nm@22011971@nm@Rio de Janeiro@nm@Copacabana@nm@Avenida @nm@lado ímpar@nm@
+RJ@nm@@nm@Prudente de Morais@nm@22420970@nm@Rio de Janeiro@nm@Ipanema@nm@Rua @nm@até 1080 - lado par@nm@
+RJ@nm@@nm@Raimundo Correia@nm@22040970@nm@Rio de Janeiro@nm@Copacabana@nm@Rua @nm@de 1 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Raul Azevedo@nm@21833970@nm@Rio de Janeiro@nm@Senador Camará@nm@Rua @nm@@nm@
+RJ@nm@@nm@República do Chile@nm@20031975@nm@Rio de Janeiro@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Rio Branco@nm@20040972@nm@Rio de Janeiro@nm@Centro@nm@Avenida @nm@até 20 - lado par@nm@
+RJ@nm@@nm@Ruy Frazão Soares@nm@22793971@nm@Rio de Janeiro@nm@Barra da Tijuca@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Salvador Allende@nm@22790973@nm@Rio de Janeiro@nm@Recreio dos Bandeirantes@nm@Avenida @nm@@nm@
+RJ@nm@@nm@São Clemente@nm@22260970@nm@Rio de Janeiro@nm@Botafogo@nm@Rua @nm@até 107 - lado ímpar@nm@
+RJ@nm@@nm@São Cristóvão@nm@20921970@nm@Rio de Janeiro@nm@São Cristóvão@nm@Campo @nm@@nm@
+RJ@nm@@nm@São Félix@nm@21235971@nm@Rio de Janeiro@nm@Vista Alegre@nm@Avenida @nm@até 529/530@nm@
+RJ@nm@@nm@São Januário@nm@20921971@nm@Rio de Janeiro@nm@São Cristóvão@nm@Rua @nm@até 548 - lado par@nm@
+RJ@nm@@nm@São Lucas@nm@21070971@nm@Rio de Janeiro@nm@Penha@nm@Praça @nm@@nm@
+RJ@nm@@nm@São Luiz Gonzaga@nm@20910970@nm@Rio de Janeiro@nm@São Cristóvão@nm@Rua @nm@de 911 a 1369 - lado ímpar@nm@
+RJ@nm@@nm@Senador Salgado Filho@nm@20021971@nm@Rio de Janeiro@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Sidônio País@nm@21350970@nm@Rio de Janeiro@nm@Cascadura@nm@Rua @nm@até 274 - lado par@nm@
+RJ@nm@@nm@Sizenando Nabuco@nm@21041974@nm@Rio de Janeiro@nm@Manguinhos@nm@Rua @nm@@nm@
+RJ@nm@@nm@Soares da Costa@nm@20520971@nm@Rio de Janeiro@nm@Tijuca@nm@Rua @nm@@nm@
+RJ@nm@@nm@Sousa Valente@nm@20941971@nm@Rio de Janeiro@nm@São Cristóvão@nm@Rua @nm@@nm@
+RJ@nm@@nm@Tadeu Kosciusko@nm@20230972@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Teodoro da Silva@nm@20560970@nm@Rio de Janeiro@nm@Vila Isabel@nm@Rua @nm@até 419 - lado ímpar@nm@
+RJ@nm@@nm@Torres de Oliveira@nm@20740971@nm@Rio de Janeiro@nm@Piedade@nm@Rua @nm@@nm@
+RJ@nm@@nm@Uranos@nm@21060970@nm@Rio de Janeiro@nm@Olaria@nm@Rua @nm@lado par@nm@
+RJ@nm@@nm@Uranos@nm@21060973@nm@Rio de Janeiro@nm@Ramos@nm@Rua @nm@lado par@nm@
+RJ@nm@@nm@Uruguai@nm@20510970@nm@Rio de Janeiro@nm@Tijuca@nm@Rua @nm@de 382 ao fim - lado par@nm@
+RJ@nm@@nm@Vicente de Carvalho@nm@21210970@nm@Rio de Janeiro@nm@Vicente de Carvalho@nm@Avenida @nm@de 601 a 881 - lado ímpar@nm@
+RJ@nm@@nm@Vicente de Carvalho@nm@21210971@nm@Rio de Janeiro@nm@Vicente de Carvalho@nm@Avenida @nm@de 601 a 881 - lado ímpar@nm@
+RJ@nm@@nm@Vinte de Janeiro@nm@21941970@nm@Rio de Janeiro@nm@Galeão@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Vinte e Oito de Setembro@nm@20551970@nm@Rio de Janeiro@nm@Vila Isabel@nm@Boulevard @nm@até 171 - lado ímpar@nm@
+RJ@nm@@nm@Vinte e Quatro de Maio@nm@20950971@nm@Rio de Janeiro@nm@Riachuelo@nm@Rua @nm@de 301/302 a 519/520@nm@
+RJ@nm@@nm@Visconde de Inhaúma@nm@20091972@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Visconde de Itaboraí@nm@20010976@nm@Rio de Janeiro@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Visconde de Pirajá@nm@22410971@nm@Rio de Janeiro@nm@Ipanema@nm@Rua @nm@de 333 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Visconde de Pirajá@nm@22410970@nm@Rio de Janeiro@nm@Ipanema@nm@Rua @nm@de 333 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Voluntários da Pátria@nm@22270970@nm@Rio de Janeiro@nm@Botafogo@nm@Rua @nm@até 151 - lado ímpar@nm@
+RJ@nm@@nm@Antônio Pires@nm@24455970@nm@São Gonçalo@nm@Antonina@nm@Rua @nm@@nm@
+RJ@nm@@nm@Capitão Juvenal Figueiredo@nm@24744971@nm@São Gonçalo@nm@Colubande@nm@Rua @nm@lado par@nm@
+RJ@nm@@nm@Capitão Juvenal Figueiredo@nm@24744972@nm@São Gonçalo@nm@Colubande@nm@Rua @nm@lado par@nm@
+RJ@nm@@nm@Dezoito do Forte@nm@24460971@nm@São Gonçalo@nm@Mutuá@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Dezoito do Forte@nm@24460970@nm@São Gonçalo@nm@Mutuá@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Doutor Francisco Portela@nm@24435970@nm@São Gonçalo@nm@Patronato@nm@Rua @nm@lado ímpar@nm@
+RJ@nm@@nm@Estefania de Carvalho@nm@24440970@nm@São Gonçalo@nm@Zé Garoto@nm@Praça @nm@@nm@
+RJ@nm@@nm@Estefania de Carvalho@nm@24440971@nm@São Gonçalo@nm@Zé Garoto@nm@Praça @nm@@nm@
+RJ@nm@@nm@João de Almeida@nm@24710971@nm@São Gonçalo@nm@Alcântara@nm@Rua @nm@@nm@
+RJ@nm@@nm@José Lourenço Azevedo@nm@24421970@nm@São Gonçalo@nm@Rocha@nm@Rua @nm@@nm@
+RJ@nm@@nm@Marinho dos Santos@nm@24710970@nm@São Gonçalo@nm@Raul Veiga@nm@Rua @nm@@nm@
+RJ@nm@@nm@Santa Paula@nm@24744970@nm@São Gonçalo@nm@Tribobó@nm@Rua @nm@@nm@
+RJ@nm@@nm@São Gonçalo@nm@24466970@nm@São Gonçalo@nm@Boa Vista@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Arnaud Guedes de Amorim@nm@25550971@nm@São João de Meriti@nm@Coelho da Rocha@nm@Rua @nm@@nm@
+RJ@nm@@nm@Automóvel Clube@nm@25561971@nm@São João de Meriti@nm@Centro@nm@Avenida @nm@até 990 - lado par@nm@
+RJ@nm@@nm@Comendador Teles@nm@25561970@nm@São João de Meriti@nm@Vilar dos Teles@nm@Avenida @nm@até 2564 - lado par@nm@
+RJ@nm@@nm@Doutor Arruda Negreiros@nm@25520970@nm@São João de Meriti@nm@Centro@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Eronildes Martins dos Santos@nm@25510970@nm@São João de Meriti@nm@Agostinho Porto@nm@Rua @nm@@nm@
+RJ@nm@@nm@Manoel Machado Nunes@nm@25525970@nm@São João de Meriti@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Nossa Senhora das Graças@nm@25515973@nm@São João de Meriti@nm@Centro@nm@Avenida @nm@até 890 - lado par@nm@
+RJ@nm@@nm@Presidente Dutra@nm@25586970@nm@São João de Meriti@nm@Jardim José Bonifácio@nm@Rodovia @nm@de 4000 a 4200 - lado par@nm@
+RJ@nm@@nm@Santo Antônio@nm@25515972@nm@São João de Meriti@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Santo Antônio@nm@25515970@nm@São João de Meriti@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Amaral Peixoto@nm@28948970@nm@São Pedro da Aldeia@nm@Flexeira@nm@Rodovia @nm@@nm@
+RJ@nm@@nm@do Alecrim@nm@28943972@nm@São Pedro da Aldeia@nm@Porto do Carro@nm@Estrada @nm@@nm@
+RJ@nm@@nm@do Alecrim@nm@28944970@nm@São Pedro da Aldeia@nm@Alecrim@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Doutor Antônio Alves@nm@28941970@nm@São Pedro da Aldeia@nm@Centro@nm@Rua @nm@@nm@
+RJ@nm@@nm@Enilde de Souza@nm@28948971@nm@São Pedro da Aldeia@nm@Jardim das Acácias@nm@Rua @nm@@nm@
+RJ@nm@@nm@Marechal Juarez Távora@nm@28943971@nm@São Pedro da Aldeia@nm@São João@nm@Rua @nm@@nm@
+RJ@nm@@nm@Paulino Gomes da Costa@nm@28942970@nm@São Pedro da Aldeia@nm@Campo Redondo@nm@Rua @nm@@nm@
+RJ@nm@@nm@Samuel Sampaio@nm@28943970@nm@São Pedro da Aldeia@nm@Baixo Grande@nm@Rua @nm@@nm@
+RJ@nm@@nm@Alfredo Muniz@nm@28995970@nm@Saquarema@nm@Rio da Areia (Bacaxá)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Almeida Marques@nm@28997971@nm@Saquarema@nm@Sampaio Correia (Sampaio Correia)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Amaral Peixoto@nm@28993975@nm@Saquarema@nm@Bonsucesso (Bacaxá)@nm@Rodovia @nm@@nm@
+RJ@nm@@nm@Coronel João Catarino@nm@28990973@nm@Saquarema@nm@Jardim@nm@Rua @nm@@nm@
+RJ@nm@@nm@da Mombaça@nm@28990976@nm@Saquarema@nm@Mombaça@nm@Estrada @nm@@nm@
+RJ@nm@@nm@de Praia Seca@nm@28992972@nm@Saquarema@nm@Ipitangas@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Jayme Mello@nm@28995971@nm@Saquarema@nm@Madressilva (Bacaxá)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Noventa e Sete@nm@28999970@nm@Saquarema@nm@Jaconé (Sampaio Correia)@nm@Rua @nm@@nm@
+RJ@nm@@nm@Oscar Macedo Soares@nm@28990970@nm@Saquarema@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Oscar Macedo Soares@nm@28990975@nm@Saquarema@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Praia de São Conrado@nm@28992970@nm@Saquarema@nm@Vilatur@nm@Rua @nm@@nm@
+RJ@nm@@nm@São Pedro@nm@28992971@nm@Saquarema@nm@Ipitangas@nm@Praça @nm@@nm@
+RJ@nm@@nm@Faustino Fernandes Moura@nm@23895970@nm@Seropédica@nm@Fazenda Caxias@nm@Rua @nm@@nm@
+RJ@nm@@nm@Ministro Fernando Costa@nm@23895971@nm@Seropédica@nm@Fazenda Caxias@nm@Avenida @nm@até 469 - lado ímpar@nm@
+RJ@nm@@nm@UO@nm@23897970@nm@Seropédica@nm@UFRRJ@nm@Rua @nm@@nm@
+RJ@nm@@nm@Baltazar da Silveira@nm@25953971@nm@Teresópolis@nm@Várzea@nm@Praça @nm@@nm@
+RJ@nm@@nm@Doutor Rogério de Moura Estevão@nm@25995970@nm@Teresópolis@nm@Vieira@nm@Estrada @nm@do km 33,000 ao km 39,000@nm@
+RJ@nm@@nm@Doutor Rogério de Moura Estevão@nm@25976970@nm@Teresópolis@nm@Venda Nova@nm@Estrada @nm@do km 16,001 ao km 23,000@nm@
+RJ@nm@@nm@Doutor Rogério de Moura Estevão@nm@25995971@nm@Teresópolis@nm@Bonsucesso@nm@Estrada @nm@do km 27,501 ao km 31,000@nm@
+RJ@nm@@nm@Feliciano Sodré@nm@25963970@nm@Teresópolis@nm@Várzea@nm@Avenida @nm@até 408 - lado par@nm@
+RJ@nm@@nm@Lúcio Meira@nm@25953970@nm@Teresópolis@nm@Várzea@nm@Avenida @nm@de 500 a 1048 - lado par@nm@
+RJ@nm@@nm@Oliveira Botelho@nm@25961970@nm@Teresópolis@nm@Alto@nm@Avenida @nm@de 735 ao fim - lado ímpar@nm@
+RJ@nm@@nm@Serra do Sampaio@nm@25995972@nm@Teresópolis@nm@Água Quente@nm@Estrada @nm@@nm@
+RJ@nm@@nm@Tenente Luiz Meirelles@nm@25955970@nm@Teresópolis@nm@Várzea@nm@Rua @nm@até 1000/1001@nm@
+RJ@nm@@nm@Professor Moreira@nm@25815970@nm@Três Rios@nm@Vila Isabel@nm@Rua @nm@@nm@
+RJ@nm@@nm@São Sebastião@nm@25804971@nm@Três Rios@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@São Sebastião@nm@25804970@nm@Três Rios@nm@Centro@nm@Praça @nm@@nm@
+RJ@nm@@nm@Amazonas@nm@27281970@nm@Volta Redonda@nm@Vila Mury@nm@Avenida @nm@@nm@
+RJ@nm@@nm@Bernardo Ferraz@nm@27213970@nm@Volta Redonda@nm@Aterrado@nm@Rua @nm@@nm@
+RJ@nm@@nm@dos Trabalhadores@nm@27255971@nm@Volta Redonda@nm@Vila Santa Cecília@nm@Avenida @nm@de 572 ao fim - lado par@nm@
+RJ@nm@@nm@Gustavo Lira@nm@27253970@nm@Volta Redonda@nm@São João@nm@Rua @nm@@nm@
+RJ@nm@@nm@Miguel Gustavo@nm@27281972@nm@Volta Redonda@nm@Vila Mury@nm@Rua @nm@@nm@
+RJ@nm@@nm@Paulo de Frontin@nm@27215971@nm@Volta Redonda@nm@Aterrado@nm@Avenida @nm@até 444 - lado par@nm@
+RJ@nm@@nm@Vinte e Três-B@nm@27260971@nm@Volta Redonda@nm@Vila Santa Cecília@nm@Rua @nm@@nm@

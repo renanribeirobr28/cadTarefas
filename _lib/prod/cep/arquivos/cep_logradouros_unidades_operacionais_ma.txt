@@ -1,0 +1,41 @@
+MA@nm@@nm@Anísio Vieira Chaves@nm@65608970@nm@Caxias@nm@Centro@nm@Rua @nm@@nm@
+MA@nm@@nm@Desembargador Morato@nm@65600970@nm@Caxias@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+MA@nm@@nm@Bernardo Sayão@nm@65903971@nm@Imperatriz@nm@Três Poderes@nm@Avenida @nm@@nm@
+MA@nm@@nm@BR-010@nm@65913970@nm@Imperatriz@nm@Aeroporto@nm@Rodovia @nm@@nm@
+MA@nm@@nm@Dorgival Pinheiro de Sousa@nm@65900970@nm@Imperatriz@nm@Centro@nm@Avenida @nm@@nm@
+MA@nm@@nm@Dorgival Pinheiro de Sousa@nm@65903970@nm@Imperatriz@nm@Centro@nm@Avenida @nm@@nm@
+MA@nm@@nm@Leôncio Pires Dourado@nm@65901970@nm@Imperatriz@nm@Bacuri@nm@Rua @nm@@nm@
+MA@nm@@nm@Rio de Janeiro@nm@65903973@nm@Imperatriz@nm@Entroncamento@nm@Rua @nm@@nm@
+MA@nm@@nm@da Raposa@nm@65300970@nm@Santa Inês@nm@Centro@nm@Rua @nm@@nm@
+MA@nm@@nm@Marechal Castelo Branco@nm@65304970@nm@Santa Inês@nm@São Cristóvão@nm@Avenida @nm@@nm@
+MA@nm@@nm@203@nm@65055971@nm@São Luís@nm@Cidade Operária@nm@Rua @nm@(Unidade 203)@nm@
+MA@nm@@nm@Camboa@nm@65020971@nm@São Luís@nm@Camboa@nm@Avenida @nm@@nm@
+MA@nm@@nm@Coronel Colares Moreira@nm@65075972@nm@São Luís@nm@Jardim Renascença@nm@Avenida @nm@@nm@
+MA@nm@@nm@Daniel de La Touche@nm@65070971@nm@São Luís@nm@Cohama@nm@Avenida @nm@@nm@
+MA@nm@@nm@de Ribamar@nm@65054971@nm@São Luís@nm@Forquilha@nm@Estrada @nm@@nm@
+MA@nm@@nm@de Ribamar@nm@65054970@nm@São Luís@nm@Forquilha@nm@Estrada @nm@@nm@
+MA@nm@@nm@dos Holandeses@nm@65071971@nm@São Luís@nm@Calhau@nm@Avenida @nm@@nm@
+MA@nm@@nm@dos Libaneses@nm@65056970@nm@São Luís@nm@Tirirical@nm@Avenida @nm@@nm@
+MA@nm@@nm@Doze@nm@65071970@nm@São Luís@nm@Vinhais@nm@Rua @nm@@nm@
+MA@nm@@nm@Engenheiro Emiliano Macieira@nm@65095971@nm@São Luís@nm@Tibiri@nm@Avenida @nm@do km 2,501 ao km 4,500@nm@
+MA@nm@@nm@Engenheiro Emiliano Macieira@nm@65095976@nm@São Luís@nm@Tibiri@nm@Avenida @nm@do km 2,501 ao km 4,500@nm@
+MA@nm@@nm@Guajajaras@nm@65055972@nm@São Luís@nm@Jardim São Cristóvão@nm@Avenida @nm@@nm@
+MA@nm@@nm@Jerônimo de Albuquerque Maranhão@nm@65060973@nm@São Luís@nm@Cruzeiro do Anil@nm@Avenida @nm@@nm@
+MA@nm@@nm@João Lisboa@nm@65010970@nm@São Luís@nm@Centro@nm@Praça @nm@@nm@
+MA@nm@@nm@João Pessoa@nm@65045972@nm@São Luís@nm@Outeiro da Cruz@nm@Avenida @nm@@nm@
+MA@nm@@nm@João Pessoa@nm@65041970@nm@São Luís@nm@João Paulo@nm@Avenida @nm@@nm@
+MA@nm@@nm@João Pessoa@nm@65045971@nm@São Luís@nm@Outeiro da Cruz@nm@Avenida @nm@@nm@
+MA@nm@@nm@Jorge Damous@nm@65040970@nm@São Luís@nm@Vila Ivar Saldanha@nm@Rua @nm@@nm@
+MA@nm@@nm@Lourenço Vieira da Silva@nm@65055970@nm@São Luís@nm@Jardim São Cristóvão@nm@Avenida @nm@@nm@
+MA@nm@@nm@Odilo Costa Filho@nm@65085970@nm@São Luís@nm@Anjo da Guarda@nm@Avenida @nm@@nm@
+MA@nm@@nm@Perdizes@nm@65075971@nm@São Luís@nm@Jardim Renascença@nm@Rua @nm@@nm@
+MA@nm@@nm@Perimetral Norte@nm@65060972@nm@São Luís@nm@Bequimão@nm@Avenida @nm@@nm@
+MA@nm@@nm@Professor Carlos Cunha@nm@65076970@nm@São Luís@nm@Jaracaty@nm@Avenida @nm@@nm@
+MA@nm@@nm@São Luís Rei de França@nm@65067970@nm@São Luís@nm@Jardim Eldorado@nm@Avenida @nm@@nm@
+MA@nm@@nm@São Pantaleão@nm@65015971@nm@São Luís@nm@Centro@nm@Rua @nm@@nm@
+MA@nm@@nm@São Pantaleão@nm@65015970@nm@São Luís@nm@Centro@nm@Rua @nm@@nm@
+MA@nm@@nm@São Sebastião@nm@65060971@nm@São Luís@nm@Cruzeiro do Anil@nm@Avenida @nm@@nm@
+MA@nm@@nm@Benedito Ferreira Campos@nm@65633970@nm@Timon@nm@Parque Alvorada@nm@Avenida @nm@@nm@
+MA@nm@@nm@Francisco Carlos Jansen@nm@65631970@nm@Timon@nm@Parque Piauí@nm@Avenida @nm@@nm@
+MA@nm@@nm@Magalhães de Almeida@nm@65630970@nm@Timon@nm@Centro@nm@Rua @nm@@nm@
+MA@nm@@nm@Magalhães de Almeida@nm@65630971@nm@Timon@nm@Centro@nm@Rua @nm@@nm@

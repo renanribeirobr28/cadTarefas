@@ -1,0 +1,116 @@
+PE@nm@@nm@Cento e Oitenta e Cinco@nm@53530970@nm@Abreu e Lima@nm@Caetés I@nm@Rua @nm@@nm@
+PE@nm@@nm@do Eucalipto@nm@53550970@nm@Abreu e Lima@nm@Alto São Miguel@nm@Avenida @nm@@nm@
+PE@nm@@nm@Duque de Caxias@nm@53560970@nm@Abreu e Lima@nm@Centro@nm@Avenida @nm@de 336/337 a 1129/1130@nm@
+PE@nm@@nm@Barão do Rio Branco@nm@56506970@nm@Arcoverde@nm@Centro@nm@Praça @nm@@nm@
+PE@nm@@nm@José Bonifácio@nm@56512970@nm@Arcoverde@nm@São Cristóvão@nm@Avenida @nm@até 503 - lado ímpar@nm@
+PE@nm@@nm@José Bonifácio@nm@56512971@nm@Arcoverde@nm@São Cristóvão@nm@Avenida @nm@até 503 - lado ímpar@nm@
+PE@nm@@nm@Osvaldo Cruz@nm@56512972@nm@Arcoverde@nm@Coronel Siqueira Campos@nm@Avenida @nm@do km 255,000 ao km 259,000@nm@
+PE@nm@@nm@Dom Luiz@nm@55155970@nm@Belo Jardim@nm@São Pedro@nm@Praça @nm@@nm@
+PE@nm@@nm@Quitéria Neves@nm@55155971@nm@Belo Jardim@nm@São Pedro@nm@Rua @nm@@nm@
+PE@nm@@nm@Oscar Francisco de Lima@nm@54580970@nm@Cabo de Santo Agostinho@nm@Ponte dos Carvalhos@nm@Rua @nm@(Lot B Sucesso)@nm@
+PE@nm@@nm@Presidente Getúlio Vargas@nm@54505971@nm@Cabo de Santo Agostinho@nm@Centro@nm@Avenida @nm@até 378/379@nm@
+PE@nm@@nm@Visconde de Pelotas@nm@54505970@nm@Cabo de Santo Agostinho@nm@Centro@nm@Rua @nm@@nm@
+PE@nm@@nm@Doutor Belmino Correia@nm@54765970@nm@Camaragibe@nm@Timbí@nm@Avenida @nm@de 2504 a 3954 - lado par@nm@
+PE@nm@@nm@Doutor Belmino Correia@nm@54765971@nm@Camaragibe@nm@Timbí@nm@Avenida @nm@de 2504 a 3954 - lado par@nm@
+PE@nm@@nm@Presidente Getúlio Vargas@nm@55819970@nm@Carpina@nm@Santa Cruz@nm@Rua @nm@@nm@
+PE@nm@@nm@Martins Júnior@nm@55002970@nm@Caruaru@nm@Nossa Senhora das Dores@nm@Rua @nm@@nm@
+PE@nm@@nm@Padre Manoel da Nóbrega@nm@55008972@nm@Caruaru@nm@São Francisco@nm@Rua @nm@@nm@
+PE@nm@@nm@Padre Manoel da Nóbrega@nm@55008973@nm@Caruaru@nm@São Francisco@nm@Rua @nm@@nm@
+PE@nm@@nm@Primeiro de Maio@nm@55002971@nm@Caruaru@nm@Nossa Senhora das Dores@nm@Rua @nm@@nm@
+PE@nm@@nm@Silvino Macêdo@nm@55012970@nm@Caruaru@nm@Maurício de Nassau@nm@Rua @nm@@nm@
+PE@nm@@nm@Amaury de Medeiros@nm@55295973@nm@Garanhuns@nm@Heliópolis@nm@Rua @nm@até 195 - lado ímpar@nm@
+PE@nm@@nm@Amaury de Medeiros@nm@55295972@nm@Garanhuns@nm@Heliópolis@nm@Rua @nm@até 195 - lado ímpar@nm@
+PE@nm@@nm@Amaury de Medeiros@nm@55295971@nm@Garanhuns@nm@Heliópolis@nm@Rua @nm@até 195 - lado ímpar@nm@
+PE@nm@@nm@Doutor Manoel Jardim@nm@55293970@nm@Garanhuns@nm@Santo Antônio@nm@Praça @nm@@nm@
+PE@nm@@nm@Quinze de Novembro@nm@55295970@nm@Garanhuns@nm@Santo Antônio@nm@Rua @nm@@nm@
+PE@nm@@nm@Francisco Galdino Chaves@nm@55641971@nm@Gravatá@nm@Gravatá Centro@nm@Rua @nm@@nm@
+PE@nm@@nm@Lamartine de Farias Castro@nm@55642970@nm@Gravatá@nm@Prado@nm@Rua @nm@@nm@
+PE@nm@@nm@Padre Rodolfo de Moraes Moreira@nm@55641970@nm@Gravatá@nm@Nossa Senhora das Graças@nm@Praça @nm@@nm@
+PE@nm@@nm@José de Holanda@nm@53630970@nm@Igarassu@nm@Cruz do Rebouças@nm@Avenida @nm@(Lot. Vitória)@nm@
+PE@nm@@nm@Severino Tavares Uchôa@nm@53610970@nm@Igarassu@nm@Agamenon Magalhães@nm@Avenida @nm@lado ímpar@nm@
+PE@nm@@nm@Bernardo Vieira de Melo@nm@54410970@nm@Jaboatão dos Guararapes@nm@Piedade@nm@Avenida @nm@de 2/3 a 99998/99999@nm@
+PE@nm@@nm@da Batalha@nm@54315970@nm@Jaboatão dos Guararapes@nm@Prazeres@nm@Estrada @nm@lado ímpar@nm@
+PE@nm@@nm@Duque de Caxias@nm@54080970@nm@Jaboatão dos Guararapes@nm@Centro@nm@Rua @nm@@nm@
+PE@nm@@nm@Major Celso da Câmara Lima@nm@54330970@nm@Jaboatão dos Guararapes@nm@Cajueiro Seco@nm@Rua @nm@@nm@
+PE@nm@@nm@Marechal Floriano Peixoto@nm@54160970@nm@Jaboatão dos Guararapes@nm@Socorro@nm@Praça @nm@@nm@
+PE@nm@@nm@Presidente Castelo Branco@nm@54440971@nm@Jaboatão dos Guararapes@nm@Candeias@nm@Avenida @nm@até 1565/1566@nm@
+PE@nm@@nm@Presidente Kennedy@nm@54430971@nm@Jaboatão dos Guararapes@nm@Candeias@nm@Avenida @nm@de 4400/4401 a 4936/4937@nm@
+PE@nm@@nm@Riachão@nm@54355973@nm@Jaboatão dos Guararapes@nm@Muribeca@nm@Rua @nm@de 1/2 ao fim@nm@
+PE@nm@@nm@Riachão@nm@54355970@nm@Jaboatão dos Guararapes@nm@Muribeca@nm@Rua @nm@de 1/2 ao fim@nm@
+PE@nm@@nm@Riacho@nm@54335972@nm@Jaboatão dos Guararapes@nm@Prazeres@nm@Rua @nm@@nm@
+PE@nm@@nm@Doutor Joaquim Nabuco@nm@53370970@nm@Olinda@nm@Ouro Preto@nm@Avenida @nm@de 1639 a 3967 - lado ímpar@nm@
+PE@nm@@nm@Governador Carlos de Lima Cavalcante@nm@53040970@nm@Olinda@nm@Rio Doce@nm@Avenida @nm@de 4001/4002 ao fim@nm@
+PE@nm@@nm@João Pessoa@nm@53120970@nm@Olinda@nm@Carmo@nm@Praça @nm@@nm@
+PE@nm@@nm@Presidente Getúlio Vargas@nm@53030970@nm@Olinda@nm@Bairro Novo@nm@Avenida @nm@@nm@
+PE@nm@@nm@Presidente Kennedy@nm@53230971@nm@Olinda@nm@Peixinhos@nm@Avenida @nm@@nm@
+PE@nm@@nm@Professor Andrade Bezerra@nm@53110970@nm@Olinda@nm@Salgadinho@nm@Avenida @nm@@nm@
+PE@nm@@nm@Agamenon Magalhães@nm@53401971@nm@Paulista@nm@Centro@nm@Praça @nm@@nm@
+PE@nm@@nm@Doutor Cláudio José Gueiros Leite@nm@53435971@nm@Paulista@nm@Janga@nm@Avenida @nm@até 2100/2101@nm@
+PE@nm@@nm@Doutor Cláudio José Gueiros Leite@nm@53435970@nm@Paulista@nm@Janga@nm@Avenida @nm@até 2100/2101@nm@
+PE@nm@@nm@Marechal Floriano Peixoto@nm@53401970@nm@Paulista@nm@Centro@nm@Avenida @nm@@nm@
+PE@nm@@nm@Coronel Amorim@nm@56302972@nm@Petrolina@nm@Centro@nm@Rua @nm@@nm@
+PE@nm@@nm@Dom Malan@nm@56302970@nm@Petrolina@nm@Centro@nm@Praça @nm@@nm@
+PE@nm@@nm@Guararapes@nm@56302971@nm@Petrolina@nm@Centro@nm@Avenida @nm@@nm@
+PE@nm@@nm@Polônia@nm@56328970@nm@Petrolina@nm@Areia Branca@nm@Rua @nm@até 56/57@nm@
+PE@nm@@nm@Advogado José Paulo Cavalcanti@nm@50080970@nm@Recife@nm@Ilha Joana Bezerra@nm@Avenida @nm@@nm@
+PE@nm@@nm@Afonso Olindense@nm@50810970@nm@Recife@nm@Várzea@nm@Avenida @nm@@nm@
+PE@nm@@nm@Artur Azevedo@nm@52021971@nm@Recife@nm@Encruzilhada@nm@Rua @nm@@nm@
+PE@nm@@nm@Beberibe@nm@52130970@nm@Recife@nm@Água Fria@nm@Avenida @nm@de 1873/1874 a 2305/2306@nm@
+PE@nm@@nm@Carlos Gomes@nm@50720970@nm@Recife@nm@Madalena@nm@Rua @nm@até 162/163@nm@
+PE@nm@@nm@Conselheiro Aguiar@nm@51021970@nm@Recife@nm@Boa Viagem@nm@Avenida @nm@de 1366 a 2252 - lado par@nm@
+PE@nm@@nm@Conselheiro Aguiar@nm@51020974@nm@Recife@nm@Boa Viagem@nm@Avenida @nm@de 1366 a 2252 - lado par@nm@
+PE@nm@@nm@Conselheiro Aguiar@nm@51020972@nm@Recife@nm@Boa Viagem@nm@Avenida @nm@de 1366 a 2252 - lado par@nm@
+PE@nm@@nm@Cruz Cabugá@nm@50040971@nm@Recife@nm@Santo Amaro@nm@Avenida @nm@@nm@
+PE@nm@@nm@Dantas Barreto@nm@50020972@nm@Recife@nm@São José@nm@Avenida @nm@de 829/830 ao fim@nm@
+PE@nm@@nm@do Arraial@nm@52051971@nm@Recife@nm@Tamarineira@nm@Estrada @nm@até 3514/3515@nm@
+PE@nm@@nm@do Riachuelo@nm@50050971@nm@Recife@nm@Boa Vista@nm@Rua @nm@@nm@
+PE@nm@@nm@Dois Rios@nm@51230970@nm@Recife@nm@Ibura@nm@Avenida @nm@até 1598/1599@nm@
+PE@nm@@nm@Doutor José Maria@nm@52041970@nm@Recife@nm@Encruzilhada@nm@Rua @nm@até 664/665@nm@
+PE@nm@@nm@Doutor José Rufino@nm@50780970@nm@Recife@nm@Barro@nm@Avenida @nm@de 1328 a 2870 - lado par@nm@
+PE@nm@@nm@Doutor José Rufino@nm@50780971@nm@Recife@nm@Barro@nm@Avenida @nm@de 1328 a 2870 - lado par@nm@
+PE@nm@@nm@Doutor Otávio de Moraes Vasconcelos@nm@51320970@nm@Recife@nm@COHAB@nm@Rua @nm@@nm@
+PE@nm@@nm@Engenheiro Abdias de Carvalho@nm@50750970@nm@Recife@nm@Madalena@nm@Avenida @nm@até 178 - lado par@nm@
+PE@nm@@nm@Engenheiro Abdias de Carvalho@nm@50740970@nm@Recife@nm@Ilha do Retiro@nm@Avenida @nm@até 1055 - lado ímpar@nm@
+PE@nm@@nm@Engenheiro Domingos Ferreira@nm@51111970@nm@Recife@nm@Boa Viagem@nm@Avenida @nm@de 1352 a 2200 - lado par@nm@
+PE@nm@@nm@Engenheiro Domingos Ferreira@nm@51021971@nm@Recife@nm@Boa Viagem@nm@Avenida @nm@de 1352 a 2200 - lado par@nm@
+PE@nm@@nm@Ernesto de Paula Santos@nm@51021972@nm@Recife@nm@Boa Viagem@nm@Rua @nm@@nm@
+PE@nm@@nm@Frei Matias Tévis@nm@50070970@nm@Recife@nm@Ilha do Leite@nm@Rua @nm@até 285/286@nm@
+PE@nm@@nm@General San Martin@nm@50630972@nm@Recife@nm@Prado@nm@Avenida @nm@de 663 a 1207 - lado ímpar@nm@
+PE@nm@@nm@General San Martin@nm@50630971@nm@Recife@nm@Prado@nm@Avenida @nm@de 663 a 1207 - lado ímpar@nm@
+PE@nm@@nm@General San Martin@nm@50630981@nm@Recife@nm@Prado@nm@Avenida @nm@de 663 a 1207 - lado ímpar@nm@
+PE@nm@@nm@General San Martin@nm@50630974@nm@Recife@nm@Prado@nm@Avenida @nm@de 663 a 1207 - lado ímpar@nm@
+PE@nm@@nm@General San Martin@nm@50630982@nm@Recife@nm@Cordeiro@nm@Avenida @nm@até 659/660@nm@
+PE@nm@@nm@General San Martin@nm@50630970@nm@Recife@nm@Prado@nm@Avenida @nm@de 663 a 1207 - lado ímpar@nm@
+PE@nm@@nm@General San Martin@nm@50630973@nm@Recife@nm@Prado@nm@Avenida @nm@de 663 a 1207 - lado ímpar@nm@
+PE@nm@@nm@Gervásio Pires@nm@50060970@nm@Recife@nm@Boa Vista@nm@Rua @nm@de 287/288 a 629/630@nm@
+PE@nm@@nm@Guararapes@nm@50010970@nm@Recife@nm@Santo Antônio@nm@Avenida @nm@@nm@
+PE@nm@@nm@Guararapes@nm@50010971@nm@Recife@nm@Santo Antônio@nm@Avenida @nm@@nm@
+PE@nm@@nm@Guararapes@nm@50010972@nm@Recife@nm@Santo Antônio@nm@Avenida @nm@@nm@
+PE@nm@@nm@Jean Emile Favre@nm@51190970@nm@Recife@nm@Ipsep@nm@Rua @nm@de 560/561 ao fim@nm@
+PE@nm@@nm@João de Barros@nm@52021970@nm@Recife@nm@Encruzilhada@nm@Avenida @nm@de 1839/1840 ao fim@nm@
+PE@nm@@nm@Joaquim Nabuco@nm@52011970@nm@Recife@nm@Graças@nm@Rua @nm@lado par@nm@
+PE@nm@@nm@José Clementino@nm@52050970@nm@Recife@nm@Graças@nm@Rua @nm@@nm@
+PE@nm@@nm@Marechal Mascarenhas de Moraes@nm@51180970@nm@Recife@nm@Imbiribeira@nm@Avenida @nm@até 1681 - lado ímpar@nm@
+PE@nm@@nm@Marquês de Olinda@nm@50030970@nm@Recife@nm@Recife@nm@Avenida @nm@@nm@
+PE@nm@@nm@Ministro Salgado Filho@nm@51210970@nm@Recife@nm@Ibura@nm@Praça @nm@@nm@
+PE@nm@@nm@Padre Carapuceiro@nm@51020970@nm@Recife@nm@Boa Viagem@nm@Rua @nm@@nm@
+PE@nm@@nm@Padre Carapuceiro@nm@51020973@nm@Recife@nm@Boa Viagem@nm@Rua @nm@@nm@
+PE@nm@@nm@Padre Leandro Camelo@nm@51130971@nm@Recife@nm@Boa Viagem@nm@Rua @nm@@nm@
+PE@nm@@nm@Padre Lemos@nm@52070970@nm@Recife@nm@Casa Amarela@nm@Rua @nm@@nm@
+PE@nm@@nm@Padre Lemos@nm@52070971@nm@Recife@nm@Casa Amarela@nm@Rua @nm@@nm@
+PE@nm@@nm@Prefeito Antônio Pereira@nm@50950970@nm@Recife@nm@Várzea@nm@Avenida @nm@@nm@
+PE@nm@@nm@Princesa Isabel@nm@50050970@nm@Recife@nm@Santo Amaro@nm@Rua @nm@@nm@
+PE@nm@@nm@República do Líbano@nm@51110972@nm@Recife@nm@Pina@nm@Avenida @nm@@nm@
+PE@nm@@nm@Santa Rita@nm@50020971@nm@Recife@nm@Santo Antônio@nm@Cais @nm@até 200 - lado par@nm@
+PE@nm@@nm@São Mateus@nm@50680970@nm@Recife@nm@Iputinga@nm@Rua @nm@até 418/419@nm@
+PE@nm@@nm@São Miguel@nm@50770971@nm@Recife@nm@Afogados@nm@Rua @nm@até 861/862@nm@
+PE@nm@@nm@São Miguel@nm@50770970@nm@Recife@nm@Afogados@nm@Rua @nm@até 861/862@nm@
+PE@nm@@nm@São Miguel@nm@50770972@nm@Recife@nm@Afogados@nm@Rua @nm@até 861/862@nm@
+PE@nm@@nm@Vinte e Quatro de Maio@nm@50020970@nm@Recife@nm@Santo Antônio@nm@Rua @nm@até 209/210@nm@
+PE@nm@@nm@Visconde de Albuquerque@nm@50610971@nm@Recife@nm@Madalena@nm@Avenida @nm@@nm@
+PE@nm@@nm@Major Negrinho@nm@55192970@nm@Santa Cruz do Capibaribe@nm@Bairro Novo@nm@Rua @nm@@nm@
+PE@nm@@nm@Manoel Quintão@nm@54730970@nm@São Lourenço da Mata@nm@Pixete@nm@Avenida @nm@@nm@
+PE@nm@@nm@Coronel Cornélio Soares@nm@56903970@nm@Serra Talhada@nm@Nossa Senhora da Penha@nm@Rua @nm@@nm@
+PE@nm@@nm@Henrique de Holanda@nm@55602971@nm@Vitória de Santo Antão@nm@Matriz@nm@Avenida @nm@até 1618/1619@nm@
+PE@nm@@nm@Mariana Amália@nm@55602970@nm@Vitória de Santo Antão@nm@Matriz@nm@Avenida @nm@@nm@
+PE@nm@@nm@Santo Ivo@nm@55617970@nm@Vitória de Santo Antão@nm@Povoado Cidade de Deus@nm@Rua @nm@@nm@

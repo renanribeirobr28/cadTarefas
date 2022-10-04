@@ -1,0 +1,49 @@
+RN@nm@@nm@Alberto Maranhão@nm@59600972@nm@Mossoró@nm@Centro@nm@Avenida @nm@@nm@
+RN@nm@@nm@Felipe Camarão@nm@59603970@nm@Mossoró@nm@Doze Anos@nm@Rua @nm@@nm@
+RN@nm@@nm@Felipe Camarão@nm@59603971@nm@Mossoró@nm@Doze Anos@nm@Rua @nm@@nm@
+RN@nm@@nm@Jeremias da Rocha@nm@59611970@nm@Mossoró@nm@Santo Antônio@nm@Rua @nm@@nm@
+RN@nm@@nm@Presidente Dutra@nm@59631970@nm@Mossoró@nm@Alto de São Manoel@nm@Avenida @nm@@nm@
+RN@nm@@nm@Rafael Fernandes@nm@59600971@nm@Mossoró@nm@Centro@nm@Praça @nm@@nm@
+RN@nm@@nm@Rafael Fernandes@nm@59600970@nm@Mossoró@nm@Centro@nm@Praça @nm@@nm@
+RN@nm@@nm@Ayrton Senna@nm@59091970@nm@Natal@nm@Neópolis@nm@Avenida @nm@de 1828 a 2174 - lado par@nm@
+RN@nm@@nm@Ayrton Senna@nm@59080971@nm@Natal@nm@Capim Macio@nm@Avenida @nm@até 603/604@nm@
+RN@nm@@nm@Bernardo Vieira@nm@59015970@nm@Natal@nm@Tirol@nm@Avenida @nm@de 3593 a 4785 - lado ímpar@nm@
+RN@nm@@nm@Bernardo Vieira@nm@59054970@nm@Natal@nm@Dix-Sept Rosado@nm@Avenida @nm@de 1236 a 2800 - lado par@nm@
+RN@nm@@nm@Coronel Norton Chaves@nm@59075970@nm@Natal@nm@Lagoa Nova@nm@Avenida @nm@@nm@
+RN@nm@@nm@Coronel Norton Chaves@nm@59075971@nm@Natal@nm@Lagoa Nova@nm@Avenida @nm@@nm@
+RN@nm@@nm@Coronel Norton Chaves@nm@59075979@nm@Natal@nm@Lagoa Nova@nm@Avenida @nm@@nm@
+RN@nm@@nm@dos Tororós@nm@59054972@nm@Natal@nm@Lagoa Nova@nm@Rua @nm@@nm@
+RN@nm@@nm@dos Tororós@nm@59054975@nm@Natal@nm@Lagoa Nova@nm@Rua @nm@@nm@
+RN@nm@@nm@dos Tororós@nm@59054978@nm@Natal@nm@Lagoa Nova@nm@Rua @nm@@nm@
+RN@nm@@nm@dos Tororós@nm@59054977@nm@Natal@nm@Lagoa Nova@nm@Rua @nm@@nm@
+RN@nm@@nm@dos Tororós@nm@59054973@nm@Natal@nm@Lagoa Nova@nm@Rua @nm@@nm@
+RN@nm@@nm@dos Tororós@nm@59054974@nm@Natal@nm@Lagoa Nova@nm@Rua @nm@@nm@
+RN@nm@@nm@Doutor João Medeiros Filho@nm@59110970@nm@Natal@nm@Redinha@nm@Avenida @nm@de 3722 a 4600 - lado par@nm@
+RN@nm@@nm@Doutor João Medeiros Filho@nm@59110972@nm@Natal@nm@Potengi@nm@Avenida @nm@de 873 a 2141 - lado ímpar@nm@
+RN@nm@@nm@Doutor Lauro Pinto@nm@59064972@nm@Natal@nm@Lagoa Nova@nm@Rua @nm@@nm@
+RN@nm@@nm@Engenheiro Hildebrando de Góis@nm@59010970@nm@Natal@nm@Ribeira@nm@Avenida @nm@@nm@
+RN@nm@@nm@Engenheiro Roberto Freire@nm@59082970@nm@Natal@nm@Capim Macio@nm@Avenida @nm@de 455 a 945 - lado ímpar@nm@
+RN@nm@@nm@Engenheiro Roberto Freire@nm@59078972@nm@Natal@nm@Capim Macio@nm@Avenida @nm@de 455 a 945 - lado ímpar@nm@
+RN@nm@@nm@Engenheiro Roberto Freire@nm@59082971@nm@Natal@nm@Capim Macio@nm@Avenida @nm@de 455 a 945 - lado ímpar@nm@
+RN@nm@@nm@Hermes da Fonseca@nm@59020970@nm@Natal@nm@Tirol@nm@Avenida @nm@de 602 a 780 - lado par@nm@
+RN@nm@@nm@Hermes da Fonseca@nm@59020973@nm@Natal@nm@Tirol@nm@Avenida @nm@de 602 a 780 - lado par@nm@
+RN@nm@@nm@Hermes da Fonseca@nm@59020972@nm@Natal@nm@Tirol@nm@Avenida @nm@de 602 a 780 - lado par@nm@
+RN@nm@@nm@Jandaira@nm@59042970@nm@Natal@nm@Nordeste@nm@Rua @nm@@nm@
+RN@nm@@nm@Presidente Sarmento@nm@59037970@nm@Natal@nm@Alecrim@nm@Rua @nm@até 885/0886@nm@
+RN@nm@@nm@Princesa Isabel@nm@59025971@nm@Natal@nm@Cidade Alta@nm@Rua @nm@de 391/392 ao fim@nm@
+RN@nm@@nm@Prudente de Morais@nm@59065970@nm@Natal@nm@Candelária@nm@Avenida @nm@de 5772 ao fim - lado par@nm@
+RN@nm@@nm@Rio Branco@nm@59025970@nm@Natal@nm@Cidade Alta@nm@Avenida @nm@de 373 a 643 - lado ímpar@nm@
+RN@nm@@nm@Rio Juruá@nm@59068970@nm@Natal@nm@Pitimbu@nm@Rua @nm@@nm@
+RN@nm@@nm@Senador Salgado Filho@nm@59078970@nm@Natal@nm@Lagoa Nova@nm@Avenida @nm@de 1561/1562 a 1847/1848@nm@
+RN@nm@@nm@Senador Salgado Filho@nm@59078971@nm@Natal@nm@Capim Macio@nm@Avenida @nm@de 2013 a 2233 - lado ímpar@nm@
+RN@nm@@nm@Sete de Setembro@nm@59025972@nm@Natal@nm@Cidade Alta@nm@Praça @nm@@nm@
+RN@nm@@nm@Solange Nunes do Nascimento@nm@59072974@nm@Natal@nm@Cidade Nova@nm@Avenida @nm@@nm@
+RN@nm@@nm@Deputado Márcio Marinho@nm@59161970@nm@Parnamirim@nm@Pirangi do Norte (Distrito Litoral)@nm@Avenida @nm@@nm@
+RN@nm@@nm@Doutor Carlos Matheus@nm@59146970@nm@Parnamirim@nm@Monte Castelo@nm@Rua @nm@@nm@
+RN@nm@@nm@Jabuticabeira@nm@59152970@nm@Parnamirim@nm@Nova Parnamirim@nm@Rua @nm@@nm@
+RN@nm@@nm@Joaquim Patrício@nm@59160970@nm@Parnamirim@nm@Pium (Distrito Litoral)@nm@Avenida @nm@@nm@
+RN@nm@@nm@Tenente Aurélio@nm@59140970@nm@Parnamirim@nm@Centro@nm@Rua @nm@@nm@
+RN@nm@@nm@Tenente Osório@nm@59140971@nm@Parnamirim@nm@Santos Reis@nm@Rua @nm@@nm@
+RN@nm@@nm@Cidade das Rosas@nm@59293970@nm@São Gonçalo do Amarante@nm@Jardins@nm@Avenida @nm@@nm@
+RN@nm@@nm@Coronel Estevam Moura@nm@59291970@nm@São Gonçalo do Amarante@nm@Centro@nm@Avenida @nm@@nm@
+RN@nm@@nm@Engenheiro Roberto Bezerra Freire@nm@59297970@nm@São Gonçalo do Amarante@nm@Santo Antônio do Potengi@nm@Rua @nm@@nm@

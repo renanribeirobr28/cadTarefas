@@ -1,0 +1,116 @@
+CE@nm@@nm@Central@nm@61620976@nm@Caucaia@nm@Icaraí@nm@Avenida @nm@de 2000 a 3000 - lado par@nm@
+CE@nm@@nm@Coronel Correia@nm@61600970@nm@Caucaia@nm@Centro@nm@Rua @nm@de 1181/1182 a 2699/2700@nm@
+CE@nm@@nm@Dom Almeida Lustosa@nm@61650971@nm@Caucaia@nm@Parque Guadalajara (Jurema)@nm@Avenida @nm@de 1981/1982 a 3225/3226@nm@
+CE@nm@@nm@dos Coqueiros@nm@61619974@nm@Caucaia@nm@Cumbuco@nm@Avenida @nm@até 949/950@nm@
+CE@nm@@nm@Estruturante - CE 085@nm@61637973@nm@Caucaia@nm@Garrote@nm@Rodovia @nm@lado ímpar@nm@
+CE@nm@@nm@Humberto Martins de Castro@nm@61603970@nm@Caucaia@nm@Parque Soledade@nm@Rua @nm@@nm@
+CE@nm@@nm@João Melo Cavalcante@nm@63700970@nm@Crateús@nm@Centro@nm@Praça @nm@@nm@
+CE@nm@@nm@Doutor João Pessoa@nm@63100971@nm@Crato@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@José Justino Alves@nm@63135975@nm@Crato@nm@Santa Rosa@nm@Rua @nm@@nm@
+CE@nm@@nm@São Luís@nm@63123975@nm@Crato@nm@São Bento@nm@Rua @nm@@nm@
+CE@nm@@nm@Tristão Gonçalves@nm@63100972@nm@Crato@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@Tristão Gonçalves@nm@63100970@nm@Crato@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@A@nm@60533971@nm@Fortaleza@nm@Conjunto Ceará I@nm@Avenida @nm@(Cj Ceará) - até 1039 - lado ímpar@nm@
+CE@nm@@nm@Aguanambi@nm@60055971@nm@Fortaleza@nm@José Bonifácio@nm@Avenida @nm@até 680 - lado par@nm@
+CE@nm@@nm@Aguanambi@nm@60055974@nm@Fortaleza@nm@José Bonifácio@nm@Avenida @nm@até 680 - lado par@nm@
+CE@nm@@nm@Alanis Maria Laurindo de Oliveira@nm@60533970@nm@Fortaleza@nm@Conjunto Ceará I@nm@Avenida @nm@até 321 - lado ímpar@nm@
+CE@nm@@nm@Alberto Craveiro@nm@60861972@nm@Fortaleza@nm@Boa Vista@nm@Avenida @nm@de 1001 ao fim - lado ímpar@nm@
+CE@nm@@nm@Alberto Craveiro@nm@60861975@nm@Fortaleza@nm@Boa Vista@nm@Avenida @nm@de 1001 ao fim - lado ímpar@nm@
+CE@nm@@nm@Alberto Nepomuceno@nm@60055977@nm@Fortaleza@nm@Centro@nm@Avenida @nm@@nm@
+CE@nm@@nm@Almirante Tamandaré@nm@60060973@nm@Fortaleza@nm@Praia de Iracema@nm@Avenida @nm@lado ímpar@nm@
+CE@nm@@nm@Almirante Tamandaré@nm@60060979@nm@Fortaleza@nm@Praia de Iracema@nm@Avenida @nm@lado ímpar@nm@
+CE@nm@@nm@Augusto dos Anjos@nm@60720971@nm@Fortaleza@nm@Parangaba@nm@Avenida @nm@até 1595 - lado ímpar@nm@
+CE@nm@@nm@Augusto dos Anjos@nm@60520973@nm@Fortaleza@nm@Jóquei Clube@nm@Avenida @nm@até 1050 - lado par@nm@
+CE@nm@@nm@Barão de Aracati@nm@60115970@nm@Fortaleza@nm@Aldeota@nm@Rua @nm@de 851/852 a 2099/2100@nm@
+CE@nm@@nm@Barão de Aratanha@nm@60050972@nm@Fortaleza@nm@José Bonifácio@nm@Rua @nm@de 340/341 a 1079/1080@nm@
+CE@nm@@nm@Barão de Studart@nm@60120970@nm@Fortaleza@nm@Aldeota@nm@Avenida @nm@de 761 a 2061 - lado ímpar@nm@
+CE@nm@@nm@Beira Mar@nm@60165973@nm@Fortaleza@nm@Meireles@nm@Avenida @nm@de 941/942 a 3498/3499@nm@
+CE@nm@@nm@Bezerra de Menezes@nm@60325970@nm@Fortaleza@nm@Farias Brito@nm@Avenida @nm@até 549 - lado ímpar@nm@
+CE@nm@@nm@Bezerra de Menezes@nm@60325971@nm@Fortaleza@nm@São Gerardo@nm@Avenida @nm@de 551 a 1317 - lado ímpar@nm@
+CE@nm@@nm@BR-116@nm@60864972@nm@Fortaleza@nm@Cajazeiras@nm@Rodovia @nm@lado par@nm@
+CE@nm@@nm@C@nm@60750970@nm@Fortaleza@nm@Prefeito José Walter@nm@Avenida @nm@(Cj Prefeito José Walter)@nm@
+CE@nm@@nm@Carlos Câmara@nm@60425972@nm@Fortaleza@nm@Damas@nm@Rua @nm@de 1201/1202 ao fim@nm@
+CE@nm@@nm@Deputado Oswaldo Studart@nm@60411970@nm@Fortaleza@nm@Fátima@nm@Avenida @nm@@nm@
+CE@nm@@nm@Deputado Oswaldo Studart@nm@60411975@nm@Fortaleza@nm@Fátima@nm@Avenida @nm@@nm@
+CE@nm@@nm@dos Tabajaras@nm@60060974@nm@Fortaleza@nm@Praia de Iracema@nm@Rua @nm@@nm@
+CE@nm@@nm@Duque de Caxias@nm@60035971@nm@Fortaleza@nm@Centro@nm@Avenida @nm@até 1800 - lado par@nm@
+CE@nm@@nm@Duque de Caxias@nm@60035970@nm@Fortaleza@nm@Centro@nm@Avenida @nm@até 1800 - lado par@nm@
+CE@nm@@nm@Engenheiro Alberto Sá@nm@60175971@nm@Fortaleza@nm@Papicu@nm@Avenida @nm@lado par@nm@
+CE@nm@@nm@Engenheiro Santana Júnior@nm@60175973@nm@Fortaleza@nm@Papicu@nm@Avenida @nm@de 446 a 1444 - lado par@nm@
+CE@nm@@nm@Francisco Glicério@nm@60711971@nm@Fortaleza@nm@Maraponga@nm@Rua @nm@até 1468/1469@nm@
+CE@nm@@nm@Francisco Sá@nm@60310970@nm@Fortaleza@nm@Jacarecanga@nm@Avenida @nm@até 2399/2400@nm@
+CE@nm@@nm@Francisco Sá@nm@60310971@nm@Fortaleza@nm@Jacarecanga@nm@Avenida @nm@até 2399/2400@nm@
+CE@nm@@nm@Frei Cirilo@nm@60840974@nm@Fortaleza@nm@Messejana@nm@Avenida @nm@@nm@
+CE@nm@@nm@General Bezerril@nm@60055972@nm@Fortaleza@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@Gois Monteiro@nm@60356971@nm@Fortaleza@nm@Padre Andrade@nm@Rua @nm@até 1069/1070@nm@
+CE@nm@@nm@João Cordeiro@nm@60110974@nm@Fortaleza@nm@Centro@nm@Rua @nm@de 422 a 2100 - lado par@nm@
+CE@nm@@nm@João Pessoa@nm@60721970@nm@Fortaleza@nm@Parangaba@nm@Avenida @nm@de 6500/6501 ao fim@nm@
+CE@nm@@nm@João Pessoa@nm@60721971@nm@Fortaleza@nm@Parangaba@nm@Avenida @nm@de 6500/6501 ao fim@nm@
+CE@nm@@nm@Joaquim Felício@nm@60840971@nm@Fortaleza@nm@Messejana@nm@Rua @nm@até 1449/1450@nm@
+CE@nm@@nm@Joaquim Felício@nm@60840970@nm@Fortaleza@nm@Messejana@nm@Rua @nm@até 1449/1450@nm@
+CE@nm@@nm@José Aurélio Câmara@nm@60440970@nm@Fortaleza@nm@Pici@nm@Rua @nm@@nm@
+CE@nm@@nm@Maria Tomásia@nm@60150970@nm@Fortaleza@nm@Aldeota@nm@Rua @nm@@nm@
+CE@nm@@nm@Maria Tomásia@nm@60150971@nm@Fortaleza@nm@Aldeota@nm@Rua @nm@@nm@
+CE@nm@@nm@Mister Hull@nm@60356972@nm@Fortaleza@nm@Antônio Bezerra@nm@Avenida @nm@de 4383 a 5599 - lado ímpar@nm@
+CE@nm@@nm@Mozart Pinheiro de Lucena@nm@60347971@nm@Fortaleza@nm@Vila Velha@nm@Avenida @nm@até 1520 - lado par@nm@
+CE@nm@@nm@Oliveira Paiva@nm@60822970@nm@Fortaleza@nm@Cambeba@nm@Avenida @nm@de 2002 ao fim - lado par@nm@
+CE@nm@@nm@Oliveira Paiva@nm@60822975@nm@Fortaleza@nm@Cambeba@nm@Avenida @nm@de 2002 ao fim - lado par@nm@
+CE@nm@@nm@Oliveira Paiva@nm@60822971@nm@Fortaleza@nm@Parque Manibura@nm@Avenida @nm@de 1603 ao fim - lado ímpar@nm@
+CE@nm@@nm@Osvaldo Cruz@nm@60125973@nm@Fortaleza@nm@Meireles@nm@Rua @nm@até 829/830@nm@
+CE@nm@@nm@Padre Antônio Tomás@nm@60140973@nm@Fortaleza@nm@Aldeota@nm@Avenida @nm@até 2494 - lado par@nm@
+CE@nm@@nm@Padre Valdevino@nm@60135971@nm@Fortaleza@nm@Joaquim Távora@nm@Rua @nm@até 1700 - lado par@nm@
+CE@nm@@nm@Pedro Borges@nm@60055973@nm@Fortaleza@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@Piauí@nm@60441973@nm@Fortaleza@nm@Pan Americano@nm@Rua @nm@até 1274/1275@nm@
+CE@nm@@nm@Pontes Vieira@nm@60130973@nm@Fortaleza@nm@Joaquim Távora@nm@Avenida @nm@até 989 - lado ímpar@nm@
+CE@nm@@nm@Pontes Vieira@nm@60130971@nm@Fortaleza@nm@São João do Tauape@nm@Avenida @nm@até 1550 - lado par@nm@
+CE@nm@@nm@Pontes Vieira@nm@60130977@nm@Fortaleza@nm@Joaquim Távora@nm@Avenida @nm@até 989 - lado ímpar@nm@
+CE@nm@@nm@Presidente Costa e Silva@nm@60761971@nm@Fortaleza@nm@Parque Dois Irmãos@nm@Avenida @nm@de 2631 a 4107 - lado ímpar@nm@
+CE@nm@@nm@Professor Costa Mendes@nm@60430970@nm@Fortaleza@nm@Rodolfo Teófilo@nm@Rua @nm@de 1281/1282 ao fim@nm@
+CE@nm@@nm@Professor Costa Mendes@nm@60430971@nm@Fortaleza@nm@Rodolfo Teófilo@nm@Rua @nm@de 1281/1282 ao fim@nm@
+CE@nm@@nm@Professor Gomes de Matos@nm@60410975@nm@Fortaleza@nm@Jardim América@nm@Avenida @nm@até 350 - lado par@nm@
+CE@nm@@nm@Professor Gomes de Matos@nm@60410970@nm@Fortaleza@nm@Montese@nm@Avenida @nm@de 1035 ao fim - lado ímpar@nm@
+CE@nm@@nm@Santos Dumont@nm@60150973@nm@Fortaleza@nm@Aldeota@nm@Avenida @nm@de 980/981 a 2398/2399@nm@
+CE@nm@@nm@Santos Dumont@nm@60192971@nm@Fortaleza@nm@Cocó@nm@Avenida @nm@de 5002 a 5780 - lado par@nm@
+CE@nm@@nm@Sargento Hermínio Sampaio@nm@60326971@nm@Fortaleza@nm@Monte Castelo@nm@Avenida @nm@até 1351 - lado ímpar@nm@
+CE@nm@@nm@Senador Alencar@nm@60030970@nm@Fortaleza@nm@Centro@nm@Rua @nm@até 811/812@nm@
+CE@nm@@nm@Senador Alencar@nm@60030971@nm@Fortaleza@nm@Centro@nm@Rua @nm@até 811/812@nm@
+CE@nm@@nm@Senador Carlos Jereissati@nm@60741970@nm@Fortaleza@nm@Serrinha@nm@Avenida @nm@de 2997 ao fim  - lado ímpar@nm@
+CE@nm@@nm@Senador Virgílio Távora@nm@60170971@nm@Fortaleza@nm@Aldeota@nm@Avenida @nm@de 891 a 2189 - lado ímpar@nm@
+CE@nm@@nm@Treze de Maio@nm@60040975@nm@Fortaleza@nm@Benfica@nm@Avenida @nm@de 1991 ao fim - lado ímpar@nm@
+CE@nm@@nm@Vinte e Quatro de Maio@nm@60020973@nm@Fortaleza@nm@Centro@nm@Rua @nm@até 1388/1389@nm@
+CE@nm@@nm@Vitória@nm@60521971@nm@Fortaleza@nm@Henrique Jorge@nm@Rua @nm@até 1444/1445@nm@
+CE@nm@@nm@Washington Soares@nm@60811970@nm@Fortaleza@nm@Edson Queiroz@nm@Avenida @nm@até 3737 - lado ímpar@nm@
+CE@nm@@nm@Washington Soares@nm@60811971@nm@Fortaleza@nm@Edson Queiroz@nm@Avenida @nm@até 3737 - lado ímpar@nm@
+CE@nm@@nm@Washington Soares@nm@60811975@nm@Fortaleza@nm@Edson Queiroz@nm@Avenida @nm@até 3737 - lado ímpar@nm@
+CE@nm@@nm@Washington Soares@nm@60810970@nm@Fortaleza@nm@Engenheiro Luciano Cavalcante@nm@Avenida @nm@de 1262 a 3630 - lado par@nm@
+CE@nm@@nm@Jorge Eusébio da Silva@nm@62880974@nm@Horizonte@nm@Catolé@nm@Rua @nm@@nm@
+CE@nm@@nm@Presidente Castelo Branco@nm@62880972@nm@Horizonte@nm@Centro@nm@Avenida @nm@de 3602 a 4640 - lado par@nm@
+CE@nm@@nm@Presidente Castelo Branco@nm@62880970@nm@Horizonte@nm@Centro@nm@Avenida @nm@de 3602 a 4640 - lado par@nm@
+CE@nm@@nm@Doutor João Pessoa@nm@63500970@nm@Iguatu@nm@Centro@nm@Rua @nm@até 719/720@nm@
+CE@nm@@nm@Doutor João Pessoa@nm@63500975@nm@Iguatu@nm@Centro@nm@Rua @nm@até 719/720@nm@
+CE@nm@@nm@Doutor João Pessoa@nm@63500971@nm@Iguatu@nm@Centro@nm@Rua @nm@até 719/720@nm@
+CE@nm@@nm@Anastácio Braga@nm@62500970@nm@Itapipoca@nm@Centro@nm@Avenida @nm@de 285 a 953 - lado ímpar@nm@
+CE@nm@@nm@Ailton Gomes de Alencar@nm@63020971@nm@Juazeiro do Norte@nm@Pirajá@nm@Avenida @nm@de 1314 a 2510 - lado par@nm@
+CE@nm@@nm@Clóvis Beviláqua@nm@63010972@nm@Juazeiro do Norte@nm@Centro@nm@Rua @nm@de 130/131 ao fim@nm@
+CE@nm@@nm@da Conceição@nm@63010970@nm@Juazeiro do Norte@nm@Centro@nm@Rua @nm@de 179/180 a 975/976@nm@
+CE@nm@@nm@Delmiro Gouveia@nm@63050971@nm@Juazeiro do Norte@nm@Centro@nm@Rua @nm@até 489/490@nm@
+CE@nm@@nm@Maria Ednir Bezerra de Mendonça@nm@63033975@nm@Juazeiro do Norte@nm@José Geraldo da Cruz@nm@Avenida @nm@@nm@
+CE@nm@@nm@Raimundo Homem@nm@63050974@nm@Juazeiro do Norte@nm@Santa Tereza@nm@Rua @nm@@nm@
+CE@nm@@nm@Central@nm@61919975@nm@Maracanaú@nm@Novo Oriente@nm@Avenida @nm@(Cj Novo Oriente)@nm@
+CE@nm@@nm@Doutor Mendel Steinbruch@nm@61932971@nm@Maracanaú@nm@Pajuçara@nm@Rodovia @nm@de 271 a 10509 - lado ímpar@nm@
+CE@nm@@nm@Miguel Alves@nm@61900970@nm@Maracanaú@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@Miguel Alves@nm@61900971@nm@Maracanaú@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@Raimundo Pessoa de Araújo@nm@61915975@nm@Maracanaú@nm@Mucunã@nm@Rodovia @nm@lado ímpar@nm@
+CE@nm@@nm@São Mateus@nm@61932975@nm@Maracanaú@nm@Menino Jesus de Praga@nm@Rua @nm@@nm@
+CE@nm@@nm@Coronel Manoel Paula@nm@61940970@nm@Maranguape@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@74@nm@61814970@nm@Pacatuba@nm@Senador Carlos Jereissati@nm@Rua @nm@(Conj Jereissati II)@nm@
+CE@nm@@nm@Antônio Luís de Sousa@nm@61805970@nm@Pacatuba@nm@Monguba@nm@Rua @nm@@nm@
+CE@nm@@nm@José Guilherme@nm@61809974@nm@Pacatuba@nm@Pavuna@nm@Avenida @nm@@nm@
+CE@nm@@nm@Presidente Getúlio Vargas@nm@61801970@nm@Pacatuba@nm@Centro@nm@Rua @nm@@nm@
+CE@nm@@nm@Francisco Enéas de Lima@nm@63900971@nm@Quixadá@nm@Centro@nm@Rua @nm@até 1695/1696@nm@
+CE@nm@@nm@Francisco Enéas de Lima@nm@63900970@nm@Quixadá@nm@Centro@nm@Rua @nm@até 1695/1696@nm@
+CE@nm@@nm@Dom José Tupinambá da Frota@nm@62010971@nm@Sobral@nm@Centro@nm@Avenida @nm@de 201/202 a 1199/1200@nm@
+CE@nm@@nm@John Sanford@nm@62030975@nm@Sobral@nm@Junco@nm@Avenida @nm@lado ímpar@nm@
+CE@nm@@nm@Padre Anchieta@nm@62030972@nm@Sobral@nm@Campo dos Velhos@nm@Rua @nm@@nm@
+CE@nm@@nm@Padre Anchieta@nm@62030976@nm@Sobral@nm@Campo dos Velhos@nm@Rua @nm@@nm@
+CE@nm@@nm@Tabelião Ildefonso Cavalcante@nm@62010970@nm@Sobral@nm@Centro@nm@Rua @nm@lado ímpar@nm@

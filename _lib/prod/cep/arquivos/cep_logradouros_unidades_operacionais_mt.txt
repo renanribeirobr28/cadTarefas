@@ -1,0 +1,74 @@
+MT@nm@@nm@Agrícola Paes de Barros@nm@78030970@nm@Cuiabá@nm@Cidade Alta@nm@Avenida @nm@de 436 a 1360 - lado par@nm@
+MT@nm@@nm@Barão de Melgaço@nm@78025970@nm@Cuiabá@nm@Porto@nm@Rua @nm@até 1905/1906@nm@
+MT@nm@@nm@Barão de Melgaço@nm@78020973@nm@Cuiabá@nm@Centro-Sul@nm@Rua @nm@de 1907/1908 a 3269/3270@nm@
+MT@nm@@nm@Benedito Antônio@nm@78098971@nm@Cuiabá@nm@Pascoal Ramos@nm@Rua @nm@@nm@
+MT@nm@@nm@Benjamin Pedroso da Silva@nm@78055971@nm@Cuiabá@nm@Morada da Serra@nm@Rua @nm@(Núc Hab CPA II)@nm@
+MT@nm@@nm@Brasília@nm@78060970@nm@Cuiabá@nm@Jardim das Américas@nm@Avenida @nm@@nm@
+MT@nm@@nm@Carmindo de Campos@nm@78015970@nm@Cuiabá@nm@Terceiro@nm@Avenida @nm@lado ímpar@nm@
+MT@nm@@nm@Catorze@nm@78099970@nm@Cuiabá@nm@Pedra 90@nm@Rua @nm@@nm@
+MT@nm@@nm@Coronel Escolástico@nm@78010971@nm@Cuiabá@nm@Bandeirantes@nm@Avenida @nm@@nm@
+MT@nm@@nm@da República@nm@78005983@nm@Cuiabá@nm@Centro-Norte@nm@Praça @nm@@nm@
+MT@nm@@nm@da República@nm@78005980@nm@Cuiabá@nm@Centro-Norte@nm@Praça @nm@@nm@
+MT@nm@@nm@da República@nm@78005981@nm@Cuiabá@nm@Centro-Norte@nm@Praça @nm@@nm@
+MT@nm@@nm@da República@nm@78005970@nm@Cuiabá@nm@Centro-Norte@nm@Praça @nm@@nm@
+MT@nm@@nm@da República@nm@78005984@nm@Cuiabá@nm@Centro-Norte@nm@Praça @nm@@nm@
+MT@nm@@nm@Deputado Milton Teixeira de Figueredo@nm@78053972@nm@Cuiabá@nm@Morada do Ouro@nm@Avenida @nm@(St Norte)@nm@
+MT@nm@@nm@Fernando Correa da Costa@nm@78070970@nm@Cuiabá@nm@Jardim Shangri-Lá@nm@Avenida @nm@de 2946 a 4020 - lado par@nm@
+MT@nm@@nm@Fernando Correa da Costa@nm@78080973@nm@Cuiabá@nm@São José@nm@Avenida @nm@de 6702 a 99998 - lado par@nm@
+MT@nm@@nm@Fernando Correa da Costa@nm@78088970@nm@Cuiabá@nm@Parque Ohara@nm@Avenida @nm@de 4875 a 6233 - lado ímpar@nm@
+MT@nm@@nm@Fernando Correa da Costa@nm@78070971@nm@Cuiabá@nm@Jardim Shangri-Lá@nm@Avenida @nm@de 2946 a 4020 - lado par@nm@
+MT@nm@@nm@Historiador Rubens de Mendonça@nm@78050974@nm@Cuiabá@nm@Bosque da Saúde@nm@Avenida @nm@de 1252 a 1832 - lado par@nm@
+MT@nm@@nm@Historiador Rubens de Mendonça@nm@78050975@nm@Cuiabá@nm@Bosque da Saúde@nm@Avenida @nm@de 1252 a 1832 - lado par@nm@
+MT@nm@@nm@Historiador Rubens de Mendonça@nm@78050973@nm@Cuiabá@nm@Bosque da Saúde@nm@Avenida @nm@de 1252 a 1832 - lado par@nm@
+MT@nm@@nm@Historiador Rubens de Mendonça@nm@78008973@nm@Cuiabá@nm@Baú@nm@Avenida @nm@até 1250 - lado par@nm@
+MT@nm@@nm@Jornalista Amaro de Figueiredo Falcão@nm@78055970@nm@Cuiabá@nm@Morada da Serra@nm@Rua @nm@(Núc Hab CPA I)@nm@
+MT@nm@@nm@José Monteiro de Figueiredo@nm@78043970@nm@Cuiabá@nm@Duque de Caxias@nm@Avenida @nm@@nm@
+MT@nm@@nm@Manoel José da Silva@nm@78093970@nm@Cuiabá@nm@São João Del Rei@nm@Avenida @nm@lado par@nm@
+MT@nm@@nm@Miguel Sutil@nm@78043971@nm@Cuiabá@nm@Duque de Caxias@nm@Avenida @nm@de 6061 a 8343 - lado ímpar@nm@
+MT@nm@@nm@Miguel Sutil@nm@78005972@nm@Cuiabá@nm@Araés@nm@Avenida @nm@lado ímpar@nm@
+MT@nm@@nm@Miranda Reis@nm@78010970@nm@Cuiabá@nm@Poção@nm@Rua @nm@@nm@
+MT@nm@@nm@Moreira Cabral@nm@78020975@nm@Cuiabá@nm@Centro-Sul@nm@Praça @nm@@nm@
+MT@nm@@nm@Nestor de Lara Pinto@nm@78080972@nm@Cuiabá@nm@Jardim das Palmeiras@nm@Avenida @nm@@nm@
+MT@nm@@nm@Nestor de Lara Pinto@nm@78080970@nm@Cuiabá@nm@Jardim das Palmeiras@nm@Avenida @nm@@nm@
+MT@nm@@nm@Newton Rabello de Castro@nm@78099972@nm@Cuiabá@nm@Pedra 90@nm@Avenida @nm@@nm@
+MT@nm@@nm@Pedro Paulo de Faria Junior@nm@78098970@nm@Cuiabá@nm@Distrito Industrial@nm@Avenida @nm@@nm@
+MT@nm@@nm@Presidente Getúlio Vargas@nm@78005974@nm@Cuiabá@nm@Centro-Norte@nm@Avenida @nm@@nm@
+MT@nm@@nm@Presidente Getúlio Vargas@nm@78045970@nm@Cuiabá@nm@Quilombo@nm@Avenida @nm@lado par@nm@
+MT@nm@@nm@São Joaquim@nm@78020970@nm@Cuiabá@nm@Centro-Sul@nm@Rua @nm@até 1149/1150@nm@
+MT@nm@@nm@São Sebastião@nm@78035971@nm@Cuiabá@nm@Goiabeiras@nm@Avenida @nm@de 1800/1801 a 2029/2030@nm@
+MT@nm@@nm@Tenente-Coronel Duarte@nm@78015972@nm@Cuiabá@nm@Dom Aquino@nm@Avenida @nm@de 573 ao fim - lado ímpar@nm@
+MT@nm@@nm@Tenente-Coronel Duarte@nm@78020971@nm@Cuiabá@nm@Dom Aquino@nm@Avenida @nm@de 573 ao fim - lado ímpar@nm@
+MT@nm@@nm@Amazonas@nm@78700980@nm@Rondonópolis@nm@Centro@nm@Avenida @nm@@nm@
+MT@nm@@nm@Amazonas@nm@78700970@nm@Rondonópolis@nm@Centro@nm@Avenida @nm@@nm@
+MT@nm@@nm@Dom Pedro II@nm@78740970@nm@Rondonópolis@nm@Vila Aurora I@nm@Rua @nm@@nm@
+MT@nm@@nm@Fernando Corrêa da Costa@nm@78700974@nm@Rondonópolis@nm@Centro@nm@Rua @nm@@nm@
+MT@nm@@nm@Goiânia@nm@78715970@nm@Rondonópolis@nm@Jardim Tropical@nm@Avenida @nm@de 797/798 a 2299/2300@nm@
+MT@nm@@nm@Goiânia@nm@78710971@nm@Rondonópolis@nm@Jardim Santa Marta@nm@Avenida @nm@até 795/796@nm@
+MT@nm@@nm@Goiânia@nm@78710970@nm@Rondonópolis@nm@Jardim Santa Marta@nm@Avenida @nm@até 795/796@nm@
+MT@nm@@nm@Marechal Rondon@nm@78700973@nm@Rondonópolis@nm@Centro@nm@Avenida @nm@@nm@
+MT@nm@@nm@Brasil@nm@78558970@nm@Sinop@nm@Loteamento Alto da Glória@nm@Rua @nm@até 199/200@nm@
+MT@nm@@nm@das Avencas@nm@78550972@nm@Sinop@nm@Setor Comercial@nm@Rua @nm@de 1945 a 2601 - lado ímpar@nm@
+MT@nm@@nm@das Embaúbas@nm@78550970@nm@Sinop@nm@Setor Comercial@nm@Avenida @nm@de 1369 a 1621 - lado ímpar@nm@
+MT@nm@@nm@das Seringueiras@nm@78556971@nm@Sinop@nm@Jardim Botânico@nm@Rua @nm@de 1072/1073 a 1548/1549@nm@
+MT@nm@@nm@das Seringueiras@nm@78556974@nm@Sinop@nm@Jardim Botânico@nm@Rua @nm@de 1072/1073 a 1548/1549@nm@
+MT@nm@@nm@João Pedro Moreira de Carvalho@nm@78559970@nm@Sinop@nm@Loteamento Umuarama II@nm@Rua @nm@lado ímpar@nm@
+MT@nm@@nm@Matrinchã@nm@78551970@nm@Sinop@nm@Camping Club@nm@Rua @nm@@nm@
+MT@nm@@nm@Ary Paes Barreto@nm@78118970@nm@Várzea Grande@nm@Cristo Rei@nm@Rua @nm@(Lot Lga Jacaré)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115980@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115985@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot VI Sadia)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115983@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot VI Sadia)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115984@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115986@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115987@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115978@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot VI Sadia)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115972@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot VI Sadia)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115976@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot VI Sadia)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115981@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Benedito Escalante@nm@78115982@nm@Várzea Grande@nm@Ponte Nova@nm@Rua @nm@(Lot VI Sadia)@nm@
+MT@nm@@nm@Couto Magalhães@nm@78110972@nm@Várzea Grande@nm@Centro-Norte@nm@Avenida @nm@(Lot Centro)@nm@
+MT@nm@@nm@Couto Magalhães@nm@78110970@nm@Várzea Grande@nm@Centro-Norte@nm@Avenida @nm@(Lot Centro)@nm@
+MT@nm@@nm@Dom Orlando Chaves@nm@78115971@nm@Várzea Grande@nm@Ponte Nova@nm@Avenida @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Dom Orlando Chaves@nm@78115975@nm@Várzea Grande@nm@Ponte Nova@nm@Avenida @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Dom Orlando Chaves@nm@78115970@nm@Várzea Grande@nm@Ponte Nova@nm@Avenida @nm@(Lot Construmat)@nm@
+MT@nm@@nm@Miguel Leite@nm@78110971@nm@Várzea Grande@nm@Centro-Sul@nm@Rua @nm@(Lot Sta Luzia)@nm@
+MT@nm@@nm@Santa Bárbara@nm@78120970@nm@Várzea Grande@nm@Parque do Lago@nm@Rua @nm@(Lot Prq Lago)@nm@

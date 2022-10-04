@@ -1,0 +1,32 @@
+SE@nm@@nm@Acre@nm@49075972@nm@Aracaju@nm@Siqueira Campos@nm@Rua @nm@até 1084 - lado par@nm@
+SE@nm@@nm@Acre@nm@49075970@nm@Aracaju@nm@Siqueira Campos@nm@Rua @nm@até 1084 - lado par@nm@
+SE@nm@@nm@Acre@nm@49075975@nm@Aracaju@nm@Siqueira Campos@nm@Rua @nm@até 1084 - lado par@nm@
+SE@nm@@nm@Acre@nm@49075971@nm@Aracaju@nm@Siqueira Campos@nm@Rua @nm@até 1084 - lado par@nm@
+SE@nm@@nm@Adélia Franco@nm@49046970@nm@Aracaju@nm@Luzia@nm@Avenida @nm@até 9998 - lado par@nm@
+SE@nm@@nm@Agenor Costa Vieira@nm@49037972@nm@Aracaju@nm@Aeroporto@nm@Rua @nm@@nm@
+SE@nm@@nm@Alagoas@nm@49085971@nm@Aracaju@nm@José Conrado de Araújo@nm@Rua @nm@de 766/767 ao fim@nm@
+SE@nm@@nm@Alagoas@nm@49085972@nm@Aracaju@nm@José Conrado de Araújo@nm@Rua @nm@de 766/767 ao fim@nm@
+SE@nm@@nm@Alagoas@nm@49085970@nm@Aracaju@nm@José Conrado de Araújo@nm@Rua @nm@de 766/767 ao fim@nm@
+SE@nm@@nm@Arauá@nm@49015970@nm@Aracaju@nm@São José@nm@Rua @nm@de 503/504 ao fim@nm@
+SE@nm@@nm@Barão de Maruim@nm@49015972@nm@Aracaju@nm@São José@nm@Avenida @nm@lado ímpar@nm@
+SE@nm@@nm@Barão de Maruim@nm@49015973@nm@Aracaju@nm@São José@nm@Avenida @nm@lado ímpar@nm@
+SE@nm@@nm@Campo do Brito@nm@49015974@nm@Aracaju@nm@São José@nm@Rua @nm@lado par@nm@
+SE@nm@@nm@Coelho e Campos@nm@49010971@nm@Aracaju@nm@Centro@nm@Avenida @nm@até 815 - lado ímpar@nm@
+SE@nm@@nm@Delmiro Gouveia@nm@49036970@nm@Aracaju@nm@Coroa do Meio@nm@Avenida @nm@@nm@
+SE@nm@@nm@Deputado Carlos Correia@nm@49075976@nm@Aracaju@nm@Siqueira Campos@nm@Rua @nm@@nm@
+SE@nm@@nm@Deputado Pedro Barreto de Andrade@nm@49031970@nm@Aracaju@nm@Farolândia@nm@Praça @nm@@nm@
+SE@nm@@nm@Desembargador Maynard@nm@49055970@nm@Aracaju@nm@Cirurgia@nm@Avenida @nm@até 672 - lado par@nm@
+SE@nm@@nm@Francisco José da Fonseca@nm@49042971@nm@Aracaju@nm@São Conrado@nm@Avenida @nm@@nm@
+SE@nm@@nm@João Ribeiro@nm@49060970@nm@Aracaju@nm@Santo Antônio@nm@Avenida @nm@lado ímpar@nm@
+SE@nm@@nm@Laranjeiras@nm@49010972@nm@Aracaju@nm@Centro@nm@Rua @nm@até 1022/1023@nm@
+SE@nm@@nm@Laranjeiras@nm@49010970@nm@Aracaju@nm@Centro@nm@Rua @nm@até 1022/1023@nm@
+SE@nm@@nm@Major Aureliano@nm@49087970@nm@Aracaju@nm@Santos Dumont@nm@Rua @nm@@nm@
+SE@nm@@nm@Melício Machado@nm@49037973@nm@Aracaju@nm@Atalaia@nm@Avenida @nm@lado ímpar@nm@
+SE@nm@@nm@Metal Norte@nm@49040970@nm@Aracaju@nm@Inácio Barbosa@nm@Travessa @nm@@nm@
+SE@nm@@nm@Murilo Dantas@nm@49032971@nm@Aracaju@nm@Farolândia@nm@Avenida @nm@@nm@
+SE@nm@@nm@Padre Nestor Sampaio@nm@49045970@nm@Aracaju@nm@Ponto Novo@nm@Rua @nm@de 1/2 ao fim@nm@
+SE@nm@@nm@Presidente Tancredo Neves@nm@49094970@nm@Aracaju@nm@Jabotiana@nm@Avenida @nm@de 2697 a 5655 - lado ímpar@nm@
+SE@nm@@nm@Senador Júlio Leite@nm@49037971@nm@Aracaju@nm@Aeroporto@nm@Avenida @nm@@nm@
+SE@nm@@nm@Francisco Santos@nm@49500972@nm@Itabaiana@nm@Centro@nm@Rua @nm@@nm@
+SE@nm@@nm@Ivo de Carvalho@nm@49500970@nm@Itabaiana@nm@Centro@nm@Avenida @nm@lado par@nm@
+SE@nm@@nm@Rural@nm@49500971@nm@Itabaiana@nm@Área Rural de Itabaiana@nm@Área @nm@@nm@

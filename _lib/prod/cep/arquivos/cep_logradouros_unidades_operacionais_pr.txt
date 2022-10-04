@@ -1,0 +1,302 @@
+PR@nm@@nm@dos Minérios@nm@83514970@nm@Almirante Tamandaré@nm@Tranqueira@nm@Rodovia @nm@@nm@
+PR@nm@@nm@Fredolin Wolf@nm@83501970@nm@Almirante Tamandaré@nm@Vila Santa Terezinha@nm@Rua @nm@@nm@
+PR@nm@@nm@Frei Mauro@nm@83501971@nm@Almirante Tamandaré@nm@Vila Santa Terezinha@nm@Rua @nm@@nm@
+PR@nm@@nm@Professor Alberto Krause@nm@83508971@nm@Almirante Tamandaré@nm@Tanguá@nm@Rua @nm@@nm@
+PR@nm@@nm@Curitiba@nm@86801981@nm@Apucarana@nm@Centro@nm@Avenida @nm@de 901/902 a 1120/1121@nm@
+PR@nm@@nm@Curitiba@nm@86800971@nm@Apucarana@nm@Centro@nm@Avenida @nm@de 901/902 a 1120/1121@nm@
+PR@nm@@nm@José Jacinto Fernandes@nm@86814970@nm@Apucarana@nm@São Pedro da Taquara@nm@Rua @nm@@nm@
+PR@nm@@nm@Nicolau Kowalski@nm@86803970@nm@Apucarana@nm@Barra Funda@nm@Rua @nm@@nm@
+PR@nm@@nm@Ponta Grossa@nm@86800970@nm@Apucarana@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Arapongas@nm@86700970@nm@Arapongas@nm@Centro@nm@Avenida @nm@até 924/925@nm@
+PR@nm@@nm@Araras@nm@86700971@nm@Arapongas@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Guaratinga@nm@86703981@nm@Arapongas@nm@Parque Industrial II@nm@Rua @nm@@nm@
+PR@nm@@nm@Guaratinga@nm@86703980@nm@Arapongas@nm@Parque Industrial II@nm@Rua @nm@@nm@
+PR@nm@@nm@Íbis@nm@86704970@nm@Arapongas@nm@Centro@nm@Rua @nm@de 431/432 ao fim@nm@
+PR@nm@@nm@de Tietê@nm@83700971@nm@Araucária@nm@Tietê@nm@Estrada @nm@@nm@
+PR@nm@@nm@Doutor Júlio Szymanski@nm@83700970@nm@Araucária@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Doutor Victor do Amaral@nm@83702981@nm@Araucária@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Major Sezino Pereira de Souza@nm@83702970@nm@Araucária@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Brasil@nm@86181970@nm@Cambé@nm@Vila Salomé@nm@Avenida @nm@de 717/718 ao fim@nm@
+PR@nm@@nm@Inglaterra@nm@86180970@nm@Cambé@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@José Afonso dos Santos@nm@86186981@nm@Cambé@nm@Jardim Santo Amaro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Antônio Guaresi@nm@83609970@nm@Campo Largo@nm@Vila Torres@nm@Rua @nm@@nm@
+PR@nm@@nm@Benedito Soares Pinto@nm@83600970@nm@Campo Largo@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Benedito Soares Pinto@nm@83601970@nm@Campo Largo@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Canadá@nm@83602970@nm@Campo Largo@nm@Conjunto Habitacional Monsenhor Francisco Gorski@nm@Avenida @nm@@nm@
+PR@nm@@nm@Padre Natal Pigatto@nm@83603970@nm@Campo Largo@nm@Vila Bancária@nm@Avenida @nm@até 1200/1201@nm@
+PR@nm@@nm@Padre Natal Pigatto@nm@83601981@nm@Campo Largo@nm@Vila Bancária@nm@Avenida @nm@até 1200/1201@nm@
+PR@nm@@nm@Principal@nm@83604970@nm@Campo Largo@nm@Jardim Itaqui@nm@Rua @nm@@nm@
+PR@nm@@nm@Principal@nm@83631970@nm@Campo Largo@nm@Colônia Antônio Rebouças@nm@Rua @nm@@nm@
+PR@nm@@nm@Principal@nm@83632970@nm@Campo Largo@nm@Colônia Dom Pedro II@nm@Rua @nm@@nm@
+PR@nm@@nm@Francisco Ferreira Albuquerque@nm@87300970@nm@Campo Mourão@nm@Centro@nm@Rua @nm@de 601/602 a 1319/1320@nm@
+PR@nm@@nm@Manoel Mendes de Camargo@nm@87302970@nm@Campo Mourão@nm@Centro@nm@Avenida @nm@até 1259/1260@nm@
+PR@nm@@nm@Presidente Kennedy@nm@87305970@nm@Campo Mourão@nm@Jardim Lar Paraná@nm@Avenida @nm@até 1379/1380@nm@
+PR@nm@@nm@Santa Cruz@nm@87303970@nm@Campo Mourão@nm@Centro@nm@Rua @nm@de 481/482 a 1169/1170@nm@
+PR@nm@@nm@Adoniran Barbosa@nm@85815970@nm@Cascavel@nm@Brasília@nm@Rua @nm@@nm@
+PR@nm@@nm@Brasil@nm@85816981@nm@Cascavel@nm@São Cristóvão@nm@Avenida @nm@de 2038 a 3892 - lado par@nm@
+PR@nm@@nm@Brasil@nm@85812971@nm@Cascavel@nm@Centro@nm@Avenida @nm@de 4293 a 4899 - lado ímpar@nm@
+PR@nm@@nm@Carlos Gomes@nm@85802970@nm@Cascavel@nm@Centro@nm@Rua @nm@de 3243 ao fim - lado ímpar@nm@
+PR@nm@@nm@Carlos Gomes@nm@85807970@nm@Cascavel@nm@Centro@nm@Rua @nm@de 3243 ao fim - lado ímpar@nm@
+PR@nm@@nm@Erechim@nm@85812970@nm@Cascavel@nm@Centro@nm@Rua @nm@de 451/452 ao fim@nm@
+PR@nm@@nm@Maranhão@nm@85801971@nm@Cascavel@nm@Centro@nm@Rua @nm@de 2703 a 3029 - lado ímpar@nm@
+PR@nm@@nm@Maranhão@nm@85805970@nm@Cascavel@nm@Centro@nm@Rua @nm@de 2703 a 3029 - lado ímpar@nm@
+PR@nm@@nm@Paraná@nm@85810971@nm@Cascavel@nm@Centro@nm@Rua @nm@de 591/592 a 1698/1699@nm@
+PR@nm@@nm@Paraná@nm@85810981@nm@Cascavel@nm@Centro@nm@Rua @nm@de 591/592 a 1698/1699@nm@
+PR@nm@@nm@PR-180@nm@85820970@nm@Cascavel@nm@São Salvador@nm@Rodovia @nm@@nm@
+PR@nm@@nm@PR-486@nm@85820971@nm@Cascavel@nm@Interlagos@nm@Rodovia @nm@@nm@
+PR@nm@@nm@Presidente Juscelino Kubitschek@nm@85807981@nm@Cascavel@nm@Coqueiral@nm@Rua @nm@de 553 a 1421 - lado ímpar@nm@
+PR@nm@@nm@Souza Naves@nm@85806970@nm@Cascavel@nm@Centro@nm@Rua @nm@de 3225/3226 a 3839/3840@nm@
+PR@nm@@nm@Cipriano Marques de Souza@nm@84165970@nm@Castro@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Cipriano Marques de Souza@nm@84165971@nm@Castro@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Doutor Jorge Xavier da Silva@nm@84166980@nm@Castro@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Doutor Jorge Xavier da Silva@nm@84166981@nm@Castro@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Maranhão@nm@87200981@nm@Cianorte@nm@Zona 01@nm@Avenida @nm@até 469/470@nm@
+PR@nm@@nm@Maranhão@nm@87200980@nm@Cianorte@nm@Zona 01@nm@Avenida @nm@até 469/470@nm@
+PR@nm@@nm@Orlando Brugin@nm@87200971@nm@Cianorte@nm@Zona de Armazém@nm@Avenida @nm@@nm@
+PR@nm@@nm@Santa Catarina@nm@87200970@nm@Cianorte@nm@Zona 01@nm@Avenida @nm@até 459/460@nm@
+PR@nm@@nm@BR-116@nm@83413970@nm@Colombo@nm@Atuba@nm@Rodovia @nm@@nm@
+PR@nm@@nm@da Ribeira BR-476@nm@83411970@nm@Colombo@nm@Guaraituba@nm@Estrada @nm@@nm@
+PR@nm@@nm@da Uva@nm@83402970@nm@Colombo@nm@Roça Grande@nm@Rodovia @nm@@nm@
+PR@nm@@nm@Dorval Ceccon@nm@83409970@nm@Colombo@nm@Fátima@nm@Rua @nm@@nm@
+PR@nm@@nm@Padre Francisco Bonato@nm@83414970@nm@Colombo@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Agudos do Sul@nm@81900981@nm@Curitiba@nm@Sítio Cercado@nm@Rua @nm@@nm@
+PR@nm@@nm@Alferes Ângelo Sampaio@nm@80420982@nm@Curitiba@nm@Batel@nm@Rua @nm@de 1100/1101 a 2089/2090@nm@
+PR@nm@@nm@Ambrósio Thomazzi@nm@81900970@nm@Curitiba@nm@Sítio Cercado@nm@Rua @nm@@nm@
+PR@nm@@nm@Amintas de Barros@nm@80062981@nm@Curitiba@nm@Centro@nm@Rua @nm@até 688/689@nm@
+PR@nm@@nm@André de Barros@nm@80010981@nm@Curitiba@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Anita Garibaldi@nm@82201980@nm@Curitiba@nm@Ahú@nm@Avenida @nm@de 181 a 1345 - lado ímpar@nm@
+PR@nm@@nm@Anita Garibaldi@nm@82200970@nm@Curitiba@nm@Ahú@nm@Avenida @nm@de 181 a 1345 - lado ímpar@nm@
+PR@nm@@nm@Anita Garibaldi@nm@82220970@nm@Curitiba@nm@Barreirinha@nm@Avenida @nm@de 4211/4212 ao fim@nm@
+PR@nm@@nm@Anne Frank@nm@81730971@nm@Curitiba@nm@Boqueirão@nm@Rua @nm@de 2061/2062 a 4279/4280@nm@
+PR@nm@@nm@Antônio Lacerda Braga@nm@81010970@nm@Curitiba@nm@Cidade Industrial@nm@Rua @nm@@nm@
+PR@nm@@nm@Antônio Lacerda Braga@nm@81270970@nm@Curitiba@nm@Cidade Industrial@nm@Rua @nm@@nm@
+PR@nm@@nm@Antônio Lacerda Braga@nm@81010972@nm@Curitiba@nm@Cidade Industrial@nm@Rua @nm@@nm@
+PR@nm@@nm@Augusto Stresser@nm@80040981@nm@Curitiba@nm@Juvevê@nm@Rua @nm@de 300/301 a 1150/1151@nm@
+PR@nm@@nm@BR-116@nm@81690980@nm@Curitiba@nm@Tatuquara@nm@Rodovia @nm@de 20931/20932 a 30629/30630@nm@
+PR@nm@@nm@Brasília@nm@81057970@nm@Curitiba@nm@Novo Mundo@nm@Avenida @nm@@nm@
+PR@nm@@nm@Brasília@nm@81020981@nm@Curitiba@nm@Novo Mundo@nm@Avenida @nm@@nm@
+PR@nm@@nm@Campos Sales@nm@80030980@nm@Curitiba@nm@Juvevê@nm@Rua @nm@de 416/417 a 979/980@nm@
+PR@nm@@nm@Carlos Klemtz@nm@81320981@nm@Curitiba@nm@Fazendinha@nm@Rua @nm@@nm@
+PR@nm@@nm@Catarina Scotti@nm@81050981@nm@Curitiba@nm@Novo Mundo@nm@Rua @nm@@nm@
+PR@nm@@nm@Comendador Franco@nm@81520981@nm@Curitiba@nm@Guabirotuba@nm@Avenida @nm@de 2132 a 3704 - lado par@nm@
+PR@nm@@nm@Comendador Franco@nm@81570971@nm@Curitiba@nm@Uberaba@nm@Avenida @nm@de 5011/5012 a 7264/7265@nm@
+PR@nm@@nm@Conselheiro Laurindo@nm@80063980@nm@Curitiba@nm@Centro@nm@Rua @nm@até 1084/1085@nm@
+PR@nm@@nm@Coronel Francisco Heráclito dos Santos@nm@81531980@nm@Curitiba@nm@Jardim das Américas@nm@Avenida @nm@até 1139/1140@nm@
+PR@nm@@nm@Delegado Leopoldo Belczak@nm@82801970@nm@Curitiba@nm@Capão da Imbuia@nm@Rua @nm@de 1386/1387 ao fim@nm@
+PR@nm@@nm@Delegado Leopoldo Belczak@nm@82800981@nm@Curitiba@nm@Capão da Imbuia@nm@Rua @nm@de 1386/1387 ao fim@nm@
+PR@nm@@nm@Deputado Heitor Alencar Furtado@nm@81200981@nm@Curitiba@nm@Mossunguê@nm@Rua @nm@de 1006/1007 a 2800/2801@nm@
+PR@nm@@nm@Desembargador Westphalen@nm@80220980@nm@Curitiba@nm@Parolin@nm@Rua @nm@de 2862/2863 ao fim@nm@
+PR@nm@@nm@do Comércio 24 Horas@nm@80410970@nm@Curitiba@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Doutor Carlos de Carvalho@nm@80410981@nm@Curitiba@nm@Centro@nm@Alameda @nm@até 489/490@nm@
+PR@nm@@nm@Emiliano Perneta@nm@80020982@nm@Curitiba@nm@Centro@nm@Rua @nm@até 370/371@nm@
+PR@nm@@nm@Engenheiro Ariel Villar Tacla@nm@81350971@nm@Curitiba@nm@Cidade Industrial@nm@Rua @nm@@nm@
+PR@nm@@nm@Fagundes Varela@nm@82520980@nm@Curitiba@nm@Bacacheri@nm@Rua @nm@de 1090/1091 ao fim@nm@
+PR@nm@@nm@Fagundes Varela@nm@82520981@nm@Curitiba@nm@Jardim Social@nm@Rua @nm@até 1088/1089@nm@
+PR@nm@@nm@Francisco Derosso@nm@81720981@nm@Curitiba@nm@Xaxim@nm@Rua @nm@até 1724/1725@nm@
+PR@nm@@nm@Gilberto Mezzomo@nm@82530981@nm@Curitiba@nm@Tarumã@nm@Rua @nm@@nm@
+PR@nm@@nm@Hedwirges Sophia Walesko@nm@81825970@nm@Curitiba@nm@Xaxim@nm@Rua @nm@@nm@
+PR@nm@@nm@Holanda@nm@82501970@nm@Curitiba@nm@Bacacheri@nm@Rua @nm@até 639/640@nm@
+PR@nm@@nm@Holanda@nm@82507970@nm@Curitiba@nm@Bacacheri@nm@Rua @nm@até 639/640@nm@
+PR@nm@@nm@Itacolomi@nm@81070970@nm@Curitiba@nm@Portão@nm@Rua @nm@até 1905/1906@nm@
+PR@nm@@nm@João Bettega@nm@80611970@nm@Curitiba@nm@Portão@nm@Rua @nm@até 1100/1101@nm@
+PR@nm@@nm@João Bettega@nm@80627970@nm@Curitiba@nm@Portão@nm@Rua @nm@até 1100/1101@nm@
+PR@nm@@nm@João Gualberto@nm@80030970@nm@Curitiba@nm@Juvevê@nm@Avenida @nm@de 1345/1346 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80238983@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80235971@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80233970@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80231970@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80237970@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80230974@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80230973@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80230970@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80235970@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80238970@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@João Negrão@nm@80230972@nm@Curitiba@nm@Rebouças@nm@Rua @nm@de 851/852 ao fim@nm@
+PR@nm@@nm@José de Oliveira Franco@nm@82840970@nm@Curitiba@nm@Bairro Alto@nm@Rua @nm@até 1279/1280@nm@
+PR@nm@@nm@Lamenha Lins@nm@80250981@nm@Curitiba@nm@Centro@nm@Rua @nm@até 494/495@nm@
+PR@nm@@nm@Lodovico Geronazzo@nm@82560971@nm@Curitiba@nm@Boa Vista@nm@Rua @nm@@nm@
+PR@nm@@nm@Lodovico Geronazzo@nm@82560970@nm@Curitiba@nm@Boa Vista@nm@Rua @nm@@nm@
+PR@nm@@nm@Lourival Wendler@nm@82960981@nm@Curitiba@nm@Cajuru@nm@Rua @nm@@nm@
+PR@nm@@nm@Luiz Xavier@nm@80021980@nm@Curitiba@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Maestro Francisco Antonello@nm@81030970@nm@Curitiba@nm@Fanny@nm@Rua @nm@até 2498/2499@nm@
+PR@nm@@nm@Maestro Francisco Antonello@nm@81032980@nm@Curitiba@nm@Fanny@nm@Rua @nm@até 2498/2499@nm@
+PR@nm@@nm@Manoel Ribas@nm@80810980@nm@Curitiba@nm@Mercês@nm@Avenida @nm@de 896/897 a 1828/1829@nm@
+PR@nm@@nm@Manoel Ribas@nm@82020970@nm@Curitiba@nm@Santa Felicidade@nm@Avenida @nm@de 4557/4558 a 7369/7370@nm@
+PR@nm@@nm@Manoel Ribas@nm@80510970@nm@Curitiba@nm@Mercês@nm@Avenida @nm@de 896/897 a 1828/1829@nm@
+PR@nm@@nm@Marechal Deodoro@nm@80011970@nm@Curitiba@nm@Centro@nm@Rua @nm@até 0765 - lado ímpar@nm@
+PR@nm@@nm@Marechal Deodoro@nm@80012970@nm@Curitiba@nm@Centro@nm@Rua @nm@até 0765 - lado ímpar@nm@
+PR@nm@@nm@Marechal Deodoro@nm@80010971@nm@Curitiba@nm@Centro@nm@Rua @nm@até 0765 - lado ímpar@nm@
+PR@nm@@nm@Marechal Deodoro@nm@80010970@nm@Curitiba@nm@Centro@nm@Rua @nm@até 0765 - lado ímpar@nm@
+PR@nm@@nm@Marechal Floriano Peixoto@nm@81611970@nm@Curitiba@nm@Hauer@nm@Avenida @nm@de 4543 a 6619 - lado ímpar@nm@
+PR@nm@@nm@Marechal Floriano Peixoto@nm@81650981@nm@Curitiba@nm@Boqueirão@nm@Avenida @nm@de 6621 a 8759 - lado ímpar@nm@
+PR@nm@@nm@Marechal Floriano Peixoto@nm@81730970@nm@Curitiba@nm@Boqueirão@nm@Avenida @nm@de 6621 a 8759 - lado ímpar@nm@
+PR@nm@@nm@Marechal Floriano Peixoto@nm@81617970@nm@Curitiba@nm@Boqueirão@nm@Avenida @nm@de 6621 a 8759 - lado ímpar@nm@
+PR@nm@@nm@Marechal José Bernardino Bormann@nm@80737970@nm@Curitiba@nm@Bigorrilho@nm@Rua @nm@de 1551/1552 ao fim@nm@
+PR@nm@@nm@Marechal José Bernardino Bormann@nm@80730970@nm@Curitiba@nm@Bigorrilho@nm@Rua @nm@de 1551/1552 ao fim@nm@
+PR@nm@@nm@Marechal Mascarenhas de Moraes@nm@82625970@nm@Curitiba@nm@Atuba@nm@Avenida @nm@@nm@
+PR@nm@@nm@Mateus Leme@nm@82200981@nm@Curitiba@nm@São Lourenço@nm@Rua @nm@de 2711/2712 a 4669/4670@nm@
+PR@nm@@nm@Mateus Leme@nm@80530970@nm@Curitiba@nm@Centro Cívico@nm@Rua @nm@de 402 a 2710 - lado par@nm@
+PR@nm@@nm@Mateus Leme@nm@80517970@nm@Curitiba@nm@Centro Cívico@nm@Rua @nm@de 402 a 2710 - lado par@nm@
+PR@nm@@nm@Nossa Senhora Aparecida@nm@80440970@nm@Curitiba@nm@Seminário@nm@Avenida @nm@até 629/630@nm@
+PR@nm@@nm@Omar Raymundo Picheth@nm@81810981@nm@Curitiba@nm@Xaxim@nm@Rua @nm@@nm@
+PR@nm@@nm@Padre Anchieta@nm@80430970@nm@Curitiba@nm@São Francisco@nm@Rua @nm@até 99/100@nm@
+PR@nm@@nm@Paraná@nm@82620980@nm@Curitiba@nm@Santa Cândida@nm@Avenida @nm@de 3746/3747 ao fim@nm@
+PR@nm@@nm@Paraná@nm@82620981@nm@Curitiba@nm@Santa Cândida@nm@Avenida @nm@de 3746/3747 ao fim@nm@
+PR@nm@@nm@Prefeito João Moreira Garcez@nm@80020981@nm@Curitiba@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Presidente Arthur da Silva Bernardes@nm@80310981@nm@Curitiba@nm@Portão@nm@Avenida @nm@@nm@
+PR@nm@@nm@Presidente Getúlio Vargas@nm@80242981@nm@Curitiba@nm@Água Verde@nm@Avenida @nm@de 1503/1504 a 3579/3580@nm@
+PR@nm@@nm@Presidente João Goulart@nm@81470970@nm@Curitiba@nm@Tatuquara@nm@Rua @nm@@nm@
+PR@nm@@nm@Presidente Kennedy@nm@80613981@nm@Curitiba@nm@Água Verde@nm@Avenida @nm@de 1704 ao fim - lado par@nm@
+PR@nm@@nm@Presidente Taunay@nm@80430981@nm@Curitiba@nm@Bigorrilho@nm@Alameda @nm@de 506/507 a 1273/1274@nm@
+PR@nm@@nm@Professor João Doetzer@nm@81540970@nm@Curitiba@nm@Jardim das Américas@nm@Rua @nm@@nm@
+PR@nm@@nm@Professor João Falarz@nm@81280980@nm@Curitiba@nm@Campo Comprido@nm@Rua @nm@@nm@
+PR@nm@@nm@Professor Nilo Brandão@nm@82130970@nm@Curitiba@nm@São Lourenço@nm@Rua @nm@@nm@
+PR@nm@@nm@Professor Pedro Viriato Parigot de Souza@nm@81200970@nm@Curitiba@nm@Mossunguê@nm@Rua @nm@de 566/567 a 2748/2749@nm@
+PR@nm@@nm@República Argentina@nm@80620970@nm@Curitiba@nm@Água Verde@nm@Avenida @nm@até 824/825@nm@
+PR@nm@@nm@Senador Salgado Filho@nm@81570970@nm@Curitiba@nm@Uberaba@nm@Avenida @nm@de 2661/2662 a 3759/3760@nm@
+PR@nm@@nm@Senador Xavier da Silva@nm@80530971@nm@Curitiba@nm@Centro Cívico@nm@Rua @nm@de 381/382 ao fim@nm@
+PR@nm@@nm@Senador Xavier da Silva@nm@80530980@nm@Curitiba@nm@Centro Cívico@nm@Rua @nm@de 381/382 ao fim@nm@
+PR@nm@@nm@Tenente Tito Teixeira de Castro@nm@81650970@nm@Curitiba@nm@Boqueirão@nm@Rua @nm@até 1059/1060@nm@
+PR@nm@@nm@Trinta e Um de Março@nm@81150970@nm@Curitiba@nm@Pinheirinho@nm@Rua @nm@@nm@
+PR@nm@@nm@Vereador Toaldo Túlio@nm@82320970@nm@Curitiba@nm@Santa Felicidade@nm@Avenida @nm@até 1598 - lado par@nm@
+PR@nm@@nm@Vereador Toaldo Túlio@nm@82300981@nm@Curitiba@nm@São Braz@nm@Avenida @nm@de 1600 a 4132 - lado par@nm@
+PR@nm@@nm@Vereador Toaldo Túlio@nm@82300980@nm@Curitiba@nm@Santa Felicidade@nm@Avenida @nm@até 1598 - lado par@nm@
+PR@nm@@nm@Vicente Machado@nm@80420981@nm@Curitiba@nm@Centro@nm@Avenida @nm@até 631/0632@nm@
+PR@nm@@nm@Visconde de Guarapuava@nm@80061981@nm@Curitiba@nm@Centro@nm@Avenida @nm@de 3337/3338 a 4379/4380@nm@
+PR@nm@@nm@Visconde de Nacar@nm@80410971@nm@Curitiba@nm@Mercês@nm@Rua @nm@até 839/840@nm@
+PR@nm@@nm@Winston Churchill@nm@81130970@nm@Curitiba@nm@Pinheirinho@nm@Avenida @nm@de 2331/2332 ao fim@nm@
+PR@nm@@nm@Winston Churchill@nm@81170970@nm@Curitiba@nm@Capão Raso@nm@Avenida @nm@até 1959/1960@nm@
+PR@nm@@nm@XV de Novembro@nm@80001970@nm@Curitiba@nm@Centro@nm@Rua @nm@até 894/0895@nm@
+PR@nm@@nm@XV de Novembro@nm@80050981@nm@Curitiba@nm@Alto da Rua XV@nm@Rua @nm@de 2232/2233 a 2750/2751@nm@
+PR@nm@@nm@César Carelli@nm@83820970@nm@Fazenda Rio Grande@nm@Pioneiros@nm@Rua @nm@até 419/420@nm@
+PR@nm@@nm@Farid Stephens@nm@83833971@nm@Fazenda Rio Grande@nm@Pioneiros@nm@Rua @nm@@nm@
+PR@nm@@nm@Brasil@nm@85857970@nm@Foz do Iguaçu@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Engenheiro Rebouças@nm@85852971@nm@Foz do Iguaçu@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Engenheiro Rebouças@nm@85852970@nm@Foz do Iguaçu@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Getúlio Vargas@nm@85851970@nm@Foz do Iguaçu@nm@Centro@nm@Praça @nm@@nm@
+PR@nm@@nm@Juscelino Kubitschek@nm@85864970@nm@Foz do Iguaçu@nm@Vila Paraguaia@nm@Avenida @nm@de 1139/1140 a 3485/3486@nm@
+PR@nm@@nm@Juscelino Kubitschek@nm@85865970@nm@Foz do Iguaçu@nm@Vila Portes@nm@Avenida @nm@de 3487/3488 ao fim@nm@
+PR@nm@@nm@Marechal Deodoro da Fonseca@nm@85851971@nm@Foz do Iguaçu@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Mário Filho@nm@85859970@nm@Foz do Iguaçu@nm@Parque Residencial Morumbi II@nm@Avenida @nm@de 996/997 ao fim@nm@
+PR@nm@@nm@Sílvio Américo Sasdelli@nm@85869970@nm@Foz do Iguaçu@nm@Vila Residencial A@nm@Avenida @nm@@nm@
+PR@nm@@nm@Tancredo Neves@nm@85856970@nm@Foz do Iguaçu@nm@Jardim Itaipu@nm@Avenida @nm@@nm@
+PR@nm@@nm@Tancredo Neves@nm@85867970@nm@Foz do Iguaçu@nm@Conjunto B@nm@Avenida @nm@lado ímpar@nm@
+PR@nm@@nm@General Osório@nm@85604981@nm@Francisco Beltrão@nm@Cango@nm@Avenida @nm@@nm@
+PR@nm@@nm@Vereador Romeu Lauro Werlang@nm@85601970@nm@Francisco Beltrão@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Vereador Romeu Lauro Werlang@nm@85601971@nm@Francisco Beltrão@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Manoel Ribas@nm@85055980@nm@Guarapuava@nm@Conradinho@nm@Avenida @nm@de 2681/2682 ao fim@nm@
+PR@nm@@nm@Manoel Ribas@nm@85055981@nm@Guarapuava@nm@Conradinho@nm@Avenida @nm@de 2681/2682 ao fim@nm@
+PR@nm@@nm@Principal@nm@85100971@nm@Guarapuava@nm@Vila Jordão@nm@Rua @nm@@nm@
+PR@nm@@nm@Quinze de Novembro@nm@85010970@nm@Guarapuava@nm@Centro@nm@Rua @nm@de 6801/6802 a 8068/8069@nm@
+PR@nm@@nm@Quinze de Novembro@nm@85015970@nm@Guarapuava@nm@Centro@nm@Rua @nm@de 6801/6802 a 8068/8069@nm@
+PR@nm@@nm@Quinze de Novembro@nm@85010971@nm@Guarapuava@nm@Centro@nm@Rua @nm@de 6801/6802 a 8068/8069@nm@
+PR@nm@@nm@Saldanha Marinho@nm@85010981@nm@Guarapuava@nm@Centro@nm@Rua @nm@de 0896/897 a 2549/2550@nm@
+PR@nm@@nm@Saldanha Marinho@nm@85010980@nm@Guarapuava@nm@Centro@nm@Rua @nm@de 0896/897 a 2549/2550@nm@
+PR@nm@@nm@Coronel Guilherme de Paula@nm@85301970@nm@Laranjeiras do Sul@nm@Centro@nm@Rua @nm@até 1200/1201@nm@
+PR@nm@@nm@Bahia@nm@86020970@nm@Londrina@nm@Centro@nm@Rua @nm@até 457/458@nm@
+PR@nm@@nm@Capitão-do-mato@nm@86085981@nm@Londrina@nm@Conjunto Habitacional Violim@nm@Rua @nm@@nm@
+PR@nm@@nm@Celso Garcia Cid@nm@86050981@nm@Londrina@nm@Jardim Portal de Versalhes 1@nm@Rodovia @nm@do km 381,001 ao km 383,000@nm@
+PR@nm@@nm@Celso Garcia Cid@nm@86057973@nm@Londrina@nm@Jardim Portal de Versalhes 1@nm@Rodovia @nm@do km 381,001 ao km 383,000@nm@
+PR@nm@@nm@Celso Garcia Cid@nm@86057971@nm@Londrina@nm@Jardim Portal de Versalhes 1@nm@Rodovia @nm@do km 381,001 ao km 383,000@nm@
+PR@nm@@nm@Celso Garcia Cid@nm@86067970@nm@Londrina@nm@Jardim Portal de Versalhes 1@nm@Rodovia @nm@do km 381,001 ao km 383,000@nm@
+PR@nm@@nm@Celso Garcia Cid@nm@86057970@nm@Londrina@nm@Jardim Portal de Versalhes 1@nm@Rodovia @nm@do km 381,001 ao km 383,000@nm@
+PR@nm@@nm@Celso Garcia Cid@nm@86057972@nm@Londrina@nm@Jardim Portal de Versalhes 1@nm@Rodovia @nm@do km 381,001 ao km 383,000@nm@
+PR@nm@@nm@Dez de Dezembro@nm@86026981@nm@Londrina@nm@Helena@nm@Avenida @nm@de 1877/1878 a 3999/4000@nm@
+PR@nm@@nm@Duque de Caxias@nm@86010981@nm@Londrina@nm@Jardim Londrilar@nm@Avenida @nm@de 1691/1692 a 3967/3968@nm@
+PR@nm@@nm@Duque de Caxias@nm@86015981@nm@Londrina@nm@Jardim Londrilar@nm@Avenida @nm@de 1691/1692 a 3967/3968@nm@
+PR@nm@@nm@Guaporé@nm@86025981@nm@Londrina@nm@Centro@nm@Rua @nm@até 493/494@nm@
+PR@nm@@nm@Higienópolis@nm@86020980@nm@Londrina@nm@Centro@nm@Avenida @nm@até 1149/1150@nm@
+PR@nm@@nm@Maestro Egídio Camargo do Amaral@nm@86001970@nm@Londrina@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Maringá@nm@86060981@nm@Londrina@nm@Vitória@nm@Avenida @nm@@nm@
+PR@nm@@nm@Maringá@nm@86060970@nm@Londrina@nm@Vitória@nm@Avenida @nm@@nm@
+PR@nm@@nm@Máximo Peres Garcia@nm@86037970@nm@Londrina@nm@Jardim Belo Horizonte@nm@Avenida @nm@@nm@
+PR@nm@@nm@Pernambuco@nm@86020971@nm@Londrina@nm@Centro@nm@Rua @nm@até 791/792@nm@
+PR@nm@@nm@Quintino Bocaiúva@nm@86022981@nm@Londrina@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Quintino Bocaiúva@nm@86022980@nm@Londrina@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Sergipe@nm@86023970@nm@Londrina@nm@Centro@nm@Rua @nm@até 1005/1006@nm@
+PR@nm@@nm@Tiradentes@nm@86071981@nm@Londrina@nm@Jardim Shangri-la A@nm@Avenida @nm@até 1599/1600@nm@
+PR@nm@@nm@Toshio Sanada@nm@86030970@nm@Londrina@nm@Residencial Quadra Norte@nm@Rua @nm@@nm@
+PR@nm@@nm@Antônio Santiago Gualda@nm@87105970@nm@Maringá@nm@Distrito de Floriano (Floriano)@nm@Avenida @nm@@nm@
+PR@nm@@nm@Brasil@nm@87017970@nm@Maringá@nm@Zona 04@nm@Avenida @nm@de 4571/4572 a 5239/5240@nm@
+PR@nm@@nm@Brasil@nm@87015980@nm@Maringá@nm@Zona 05@nm@Avenida @nm@de 5242/5243 a 5855/5856@nm@
+PR@nm@@nm@Brasil@nm@87015981@nm@Maringá@nm@Zona 05@nm@Avenida @nm@de 5242/5243 a 5855/5856@nm@
+PR@nm@@nm@Cerro Azul@nm@87010970@nm@Maringá@nm@Zona 02@nm@Avenida @nm@até 1099/1100@nm@
+PR@nm@@nm@Colombo@nm@87053970@nm@Maringá@nm@Zona 7@nm@Avenida @nm@de 5791/5792 a 6950/6951@nm@
+PR@nm@@nm@Deputado Renato Celidônio@nm@87001970@nm@Maringá@nm@Zona 01@nm@Praça @nm@@nm@
+PR@nm@@nm@Mandacaru@nm@87080970@nm@Maringá@nm@Vila Santa Izabel@nm@Avenida @nm@lado ímpar@nm@
+PR@nm@@nm@Manoel Frigo@nm@87103970@nm@Maringá@nm@Distrito de Iguatemi (Iguatemi)@nm@Rua @nm@até 399/400@nm@
+PR@nm@@nm@Mauá@nm@87050970@nm@Maringá@nm@Zona 03@nm@Avenida @nm@até 2659 - lado ímpar@nm@
+PR@nm@@nm@Mauá@nm@87057970@nm@Maringá@nm@Zona 03@nm@Avenida @nm@até 2659 - lado ímpar@nm@
+PR@nm@@nm@Mauá@nm@87056970@nm@Maringá@nm@Zona 03@nm@Avenida @nm@até 2659 - lado ímpar@nm@
+PR@nm@@nm@Mauá@nm@87013981@nm@Maringá@nm@Zona 01@nm@Avenida @nm@de 2661 ao fim - lado ímpar@nm@
+PR@nm@@nm@Pedro Taques@nm@87030981@nm@Maringá@nm@Zona 03@nm@Avenida @nm@até 115/116@nm@
+PR@nm@@nm@São João@nm@87037970@nm@Maringá@nm@Zona 07@nm@Rua @nm@até 1095/1096@nm@
+PR@nm@@nm@Tuiuti@nm@87040981@nm@Maringá@nm@Vila Morangueira@nm@Avenida @nm@@nm@
+PR@nm@@nm@Arthur de Abreu@nm@83203970@nm@Paranaguá@nm@Centro Histórico@nm@Avenida @nm@@nm@
+PR@nm@@nm@Maneco Viana@nm@83206981@nm@Paranaguá@nm@Alto São Sebastião@nm@Rua @nm@@nm@
+PR@nm@@nm@Prefeito Roque Vernalha@nm@83204970@nm@Paranaguá@nm@Vila Paranaguá@nm@Rua @nm@de 863/864 ao fim@nm@
+PR@nm@@nm@Princesa Isabel@nm@83218970@nm@Paranaguá@nm@Centro Histórico@nm@Rua @nm@@nm@
+PR@nm@@nm@Heitor Alencar Furtado@nm@87701971@nm@Paranavaí@nm@Jardim São Jorge@nm@Avenida @nm@até 2149/2150@nm@
+PR@nm@@nm@Paraíba@nm@87701970@nm@Paranavaí@nm@Centro@nm@Rua @nm@de 1599/1600 a 1909/1910@nm@
+PR@nm@@nm@Paraná@nm@87704981@nm@Paranavaí@nm@Centro@nm@Avenida @nm@até 717/718@nm@
+PR@nm@@nm@Caramuru@nm@85501970@nm@Pato Branco@nm@Centro@nm@Rua @nm@até 305/306@nm@
+PR@nm@@nm@Tapir@nm@85502970@nm@Pato Branco@nm@Centro@nm@Rua @nm@de 898/899 a 1240/1241@nm@
+PR@nm@@nm@Tupi@nm@85505981@nm@Pato Branco@nm@Baixada@nm@Avenida @nm@de 3172 a 3716 - lado par@nm@
+PR@nm@@nm@Camilo di Lellis@nm@83323980@nm@Pinhais@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Camilo di Lellis@nm@83323981@nm@Pinhais@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Jacob Macanhan@nm@83321970@nm@Pinhais@nm@Emiliano Perneta@nm@Avenida @nm@de 1255 a 2941 - lado ímpar@nm@
+PR@nm@@nm@João Leopoldo Jacomel@nm@83320970@nm@Pinhais@nm@Maria Antonieta@nm@Rodovia @nm@de 6900 a 9852 - lado par@nm@
+PR@nm@@nm@Salgado Filho@nm@83330971@nm@Pinhais@nm@Jardim Amélia@nm@Rua @nm@até 850/851@nm@
+PR@nm@@nm@Salgado Filho@nm@83330972@nm@Pinhais@nm@Jardim Amélia@nm@Rua @nm@até 850/851@nm@
+PR@nm@@nm@Getúlio Vargas@nm@83301970@nm@Piraquara@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Getúlio Vargas@nm@83301971@nm@Piraquara@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Herbert Trap@nm@83311970@nm@Piraquara@nm@Guarituba@nm@Rua @nm@até 1300/1301@nm@
+PR@nm@@nm@Augusto Ribas@nm@84001970@nm@Ponta Grossa@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Augusto Ribas@nm@84017970@nm@Ponta Grossa@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Bento Ribeiro@nm@84070970@nm@Ponta Grossa@nm@Nova Rússia@nm@Rua @nm@até 699/0700@nm@
+PR@nm@@nm@Dom Pedro II@nm@84071981@nm@Ponta Grossa@nm@Nova Rússia@nm@Avenida @nm@@nm@
+PR@nm@@nm@Dom Pedro II@nm@84071980@nm@Ponta Grossa@nm@Nova Rússia@nm@Avenida @nm@@nm@
+PR@nm@@nm@Doutor Vicente Machado@nm@84010981@nm@Ponta Grossa@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@General Carlos Cavalcanti@nm@84030970@nm@Ponta Grossa@nm@Uvaranas@nm@Avenida @nm@até 2529/2530@nm@
+PR@nm@@nm@General Carlos Cavalcanti@nm@84025970@nm@Ponta Grossa@nm@Uvaranas@nm@Avenida @nm@até 2529/2530@nm@
+PR@nm@@nm@Jacob Holzmann@nm@84035970@nm@Ponta Grossa@nm@Olarias@nm@Rua @nm@@nm@
+PR@nm@@nm@Jorge Becher@nm@84045971@nm@Ponta Grossa@nm@Colônia Dona Luíza@nm@Rua @nm@@nm@
+PR@nm@@nm@Jorge Becher@nm@84045970@nm@Ponta Grossa@nm@Colônia Dona Luíza@nm@Rua @nm@@nm@
+PR@nm@@nm@Souza Naves@nm@84062981@nm@Ponta Grossa@nm@Chapada@nm@Avenida @nm@até 3514/3515@nm@
+PR@nm@@nm@Visconde de Mauá@nm@84045981@nm@Ponta Grossa@nm@Oficinas@nm@Avenida @nm@até 1059/1060@nm@
+PR@nm@@nm@Interventor Manoel Ribas@nm@86600970@nm@Rolândia@nm@Centro@nm@Avenida @nm@até 736/737@nm@
+PR@nm@@nm@Salgado Filho@nm@86600981@nm@Rolândia@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+PR@nm@@nm@Salgado Filho@nm@86600980@nm@Rolândia@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+PR@nm@@nm@Willie Davids@nm@86600971@nm@Rolândia@nm@Centro@nm@Rua @nm@até 350/351@nm@
+PR@nm@@nm@Alberto Michosz@nm@83023970@nm@São José dos Pinhais@nm@Campestre da Faxina@nm@Rua @nm@@nm@
+PR@nm@@nm@Antônio Quintino de Almeida@nm@83115970@nm@São José dos Pinhais@nm@Contenda@nm@Rua @nm@@nm@
+PR@nm@@nm@Benjamin Negoseki@nm@83021970@nm@São José dos Pinhais@nm@Cachoeira@nm@Rua @nm@@nm@
+PR@nm@@nm@Bom Pastor@nm@83015970@nm@São José dos Pinhais@nm@Barro Preto@nm@Alameda @nm@@nm@
+PR@nm@@nm@Caçador@nm@83075971@nm@São José dos Pinhais@nm@Borda do Campo@nm@Rua @nm@@nm@
+PR@nm@@nm@da Roseira@nm@83075970@nm@São José dos Pinhais@nm@Borda do Campo@nm@Estrada @nm@de 3003/3004 ao fim@nm@
+PR@nm@@nm@Guatupê@nm@83060970@nm@São José dos Pinhais@nm@Guatupê@nm@Avenida @nm@até 2899/2900@nm@
+PR@nm@@nm@Izabel a Redentora@nm@83005971@nm@São José dos Pinhais@nm@Centro@nm@Rua @nm@de 1202/1203 ao fim@nm@
+PR@nm@@nm@Professora Marieta de Souza e Silva@nm@83050970@nm@São José dos Pinhais@nm@Parque da Fonte@nm@Rua @nm@@nm@
+PR@nm@@nm@Quinze de Novembro@nm@83005970@nm@São José dos Pinhais@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Rocha Pombo@nm@83010970@nm@São José dos Pinhais@nm@Águas Belas@nm@Avenida @nm@de 2302/2303 ao fim@nm@
+PR@nm@@nm@Rui Barbosa@nm@83056981@nm@São José dos Pinhais@nm@Afonso Pena@nm@Avenida @nm@@nm@
+PR@nm@@nm@Rui Barbosa@nm@83006970@nm@São José dos Pinhais@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Vereador Domingos Benvenuto Moletta@nm@83024970@nm@São José dos Pinhais@nm@Colonia Marcelino@nm@Avenida @nm@@nm@
+PR@nm@@nm@Visconde do Rio Branco@nm@83005981@nm@São José dos Pinhais@nm@Centro@nm@Rua @nm@@nm@
+PR@nm@@nm@Ipiranga@nm@87111970@nm@Sarandi@nm@Centro@nm@Praça @nm@@nm@
+PR@nm@@nm@Ipiranga@nm@87111971@nm@Sarandi@nm@Centro@nm@Praça @nm@@nm@
+PR@nm@@nm@Londrina@nm@87112981@nm@Sarandi@nm@Jardim Independência@nm@Avenida @nm@de 727/728 ao fim@nm@
+PR@nm@@nm@Desembargador Edmundo Mercer Júnior@nm@84261970@nm@Telêmaco Borba@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Paraná@nm@84262981@nm@Telêmaco Borba@nm@Centro@nm@Avenida @nm@@nm@
+PR@nm@@nm@Samuel Klabin@nm@84261971@nm@Telêmaco Borba@nm@Centro@nm@Avenida @nm@de 774/775 ao fim@nm@
+PR@nm@@nm@Barão do Rio Branco@nm@85900981@nm@Toledo@nm@Centro@nm@Rua @nm@até 919/920@nm@
+PR@nm@@nm@Nossa Senhora do Rocio@nm@85900971@nm@Toledo@nm@Centro@nm@Rua @nm@até 1999/2000@nm@
+PR@nm@@nm@Primeiro de Maio@nm@85910981@nm@Toledo@nm@Vila Pioneiro@nm@Rua @nm@até 1699/1700@nm@
+PR@nm@@nm@São Vicente de Paulo@nm@85901980@nm@Toledo@nm@Centro@nm@Largo @nm@@nm@
+PR@nm@@nm@São Vicente de Paulo@nm@85900970@nm@Toledo@nm@Centro@nm@Largo @nm@@nm@
+PR@nm@@nm@Aricanduva@nm@87502970@nm@Umuarama@nm@Zona II@nm@Rua @nm@@nm@
+PR@nm@@nm@Padre José Germano Neto Júnior@nm@87503970@nm@Umuarama@nm@Zona VI@nm@Avenida @nm@@nm@
+PR@nm@@nm@Rio Branco@nm@87501981@nm@Umuarama@nm@Zona I@nm@Avenida @nm@@nm@
+PR@nm@@nm@Clotário Portugal@nm@84600971@nm@União da Vitória@nm@Centro@nm@Rua @nm@de 245/246 a 1049/1050@nm@
+PR@nm@@nm@Manoel Ribas@nm@84600981@nm@União da Vitória@nm@Centro@nm@Avenida @nm@até 1032/1033@nm@
+PR@nm@@nm@Professor Cleto@nm@84600970@nm@União da Vitória@nm@Centro@nm@Rua @nm@até 669/670@nm@

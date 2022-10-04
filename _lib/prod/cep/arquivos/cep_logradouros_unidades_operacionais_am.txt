@@ -1,0 +1,51 @@
+AM@nm@@nm@Parque@nm@69100970@nm@Itacoatiara@nm@Centro@nm@Avenida @nm@de 483 a 1001 - lado ímpar@nm@
+AM@nm@@nm@Pedro Rattes@nm@69400971@nm@Manacapuru@nm@Aparecida@nm@Boulevard @nm@até 509 - lado ímpar@nm@
+AM@nm@@nm@Pedro Rattes@nm@69400970@nm@Manacapuru@nm@Aparecida@nm@Boulevard @nm@até 509 - lado ímpar@nm@
+AM@nm@@nm@André Araújo@nm@69057970@nm@Manaus@nm@Adrianópolis@nm@Avenida @nm@@nm@
+AM@nm@@nm@Arquiteto José Henriques B. Rodrigues@nm@69059970@nm@Manaus@nm@Monte das Oliveiras@nm@Avenida @nm@@nm@
+AM@nm@@nm@Autaz Mirim@nm@69087970@nm@Manaus@nm@Jorge Teixeira@nm@Avenida @nm@@nm@
+AM@nm@@nm@Autaz Mirim@nm@69087971@nm@Manaus@nm@Tancredo Neves@nm@Avenida @nm@@nm@
+AM@nm@@nm@Barroso@nm@69010972@nm@Manaus@nm@Centro@nm@Rua @nm@@nm@
+AM@nm@@nm@Benjamin Constant@nm@69063971@nm@Manaus@nm@Petrópolis@nm@Rua @nm@@nm@
+AM@nm@@nm@Borba@nm@69065971@nm@Manaus@nm@Cachoeirinha@nm@Avenida @nm@@nm@
+AM@nm@@nm@Brasil@nm@69036971@nm@Manaus@nm@Compensa@nm@Avenida @nm@@nm@
+AM@nm@@nm@Codajás@nm@69063972@nm@Manaus@nm@Petrópolis@nm@Avenida @nm@@nm@
+AM@nm@@nm@Cosme Ferreira@nm@69085972@nm@Manaus@nm@São José Operário@nm@Avenida @nm@@nm@
+AM@nm@@nm@Criciúma@nm@69043970@nm@Manaus@nm@Alvorada@nm@Rua @nm@de 1691/1692 ao fim@nm@
+AM@nm@@nm@Desembargador João Machado@nm@69044970@nm@Manaus@nm@Planalto@nm@Avenida @nm@até 1063/1064@nm@
+AM@nm@@nm@Djalma Batista@nm@69055972@nm@Manaus@nm@Parque 10 de Novembro@nm@Avenida @nm@@nm@
+AM@nm@@nm@Djalma Batista@nm@69050971@nm@Manaus@nm@Chapada@nm@Avenida @nm@de 1/2 ao fim@nm@
+AM@nm@@nm@Djalma Batista@nm@69050970@nm@Manaus@nm@Chapada@nm@Avenida @nm@de 1/2 ao fim@nm@
+AM@nm@@nm@do Congresso@nm@69010971@nm@Manaus@nm@Centro@nm@Rua @nm@@nm@
+AM@nm@@nm@do Congresso@nm@69010970@nm@Manaus@nm@Centro@nm@Rua @nm@@nm@
+AM@nm@@nm@Dona Benedita Castelo Branco@nm@69058971@nm@Manaus@nm@Flores@nm@Rua @nm@@nm@
+AM@nm@@nm@Dona Raquel de Souza@nm@69063970@nm@Manaus@nm@Petrópolis@nm@Rua @nm@@nm@
+AM@nm@@nm@General Jacintho Botinelly@nm@69042971@nm@Manaus@nm@Alvorada@nm@Rua @nm@@nm@
+AM@nm@@nm@Getúlio Vargas@nm@69008970@nm@Manaus@nm@Colônia Antônio Aleixo@nm@Avenida @nm@@nm@
+AM@nm@@nm@João Valério@nm@69053971@nm@Manaus@nm@Nossa Senhora das Graças@nm@Avenida @nm@@nm@
+AM@nm@@nm@Leopoldo Péres@nm@69070970@nm@Manaus@nm@Educandos@nm@Avenida @nm@@nm@
+AM@nm@@nm@Marechal Deodoro@nm@69005970@nm@Manaus@nm@Centro@nm@Rua @nm@@nm@
+AM@nm@@nm@Marechal Deodoro@nm@69099999@nm@Manaus@nm@Centro@nm@Rua @nm@@nm@
+AM@nm@@nm@Max Teixeira@nm@69090973@nm@Manaus@nm@Cidade Nova@nm@Avenida @nm@de 1884 a 3038 - lado par@nm@
+AM@nm@@nm@Max Teixeira@nm@69090972@nm@Manaus@nm@Cidade Nova@nm@Avenida @nm@de 1884 a 3038 - lado par@nm@
+AM@nm@@nm@Max Teixeira@nm@69090971@nm@Manaus@nm@Cidade Nova@nm@Avenida @nm@de 1884 a 3038 - lado par@nm@
+AM@nm@@nm@Miranda Leão@nm@69005971@nm@Manaus@nm@Centro@nm@Rua @nm@@nm@
+AM@nm@@nm@Noel Nutels@nm@69090970@nm@Manaus@nm@Cidade Nova@nm@Avenida @nm@até 849/850@nm@
+AM@nm@@nm@Noel Nutels@nm@69096970@nm@Manaus@nm@Cidade Nova@nm@Avenida @nm@até 849/850@nm@
+AM@nm@@nm@Pará@nm@69053970@nm@Manaus@nm@São Geraldo@nm@Rua @nm@@nm@
+AM@nm@@nm@Pedro Teixeira@nm@69040970@nm@Manaus@nm@Dom Pedro I@nm@Avenida @nm@@nm@
+AM@nm@@nm@Professor Abílio Alencar@nm@69042970@nm@Manaus@nm@Alvorada@nm@Rua @nm@até 1479/1480@nm@
+AM@nm@@nm@Rio Tapi@nm@69036970@nm@Manaus@nm@Santo Agostinho@nm@Rua @nm@@nm@
+AM@nm@@nm@Rodrigo Otávio@nm@69080972@nm@Manaus@nm@Coroado@nm@Avenida @nm@@nm@
+AM@nm@@nm@Rodrigo Otávio@nm@69080970@nm@Manaus@nm@Coroado@nm@Avenida @nm@@nm@
+AM@nm@@nm@Rodrigo Otávio@nm@69075970@nm@Manaus@nm@Distrito Industrial I@nm@Avenida @nm@@nm@
+AM@nm@@nm@Santos Dumont@nm@69049970@nm@Manaus@nm@Tarumã@nm@Avenida @nm@@nm@
+AM@nm@@nm@São Paulo de Olivença@nm@69060973@nm@Manaus@nm@São Francisco@nm@Rua @nm@@nm@
+AM@nm@@nm@Senador Raimundo Parente@nm@69048970@nm@Manaus@nm@Alvorada@nm@Avenida @nm@@nm@
+AM@nm@@nm@Silves@nm@69065970@nm@Manaus@nm@Cachoeirinha@nm@Avenida @nm@até 99997/99998@nm@
+AM@nm@@nm@Tancredo Neves@nm@69054970@nm@Manaus@nm@Parque 10 de Novembro@nm@Avenida @nm@até 859/860@nm@
+AM@nm@@nm@Tefé@nm@69020970@nm@Manaus@nm@Praça 14 de Janeiro@nm@Avenida @nm@@nm@
+AM@nm@@nm@Tefé@nm@69068970@nm@Manaus@nm@Raiz@nm@Avenida @nm@@nm@
+AM@nm@@nm@Torquato Tapajós@nm@69048971@nm@Manaus@nm@Flores@nm@Avenida @nm@@nm@
+AM@nm@@nm@Ruy Barbosa@nm@69151970@nm@Parintins@nm@Centro@nm@Rua @nm@@nm@
+AM@nm@@nm@do Aeroporto@nm@69550970@nm@Tefé@nm@Centro@nm@Estrada @nm@até 899 - lado ímpar@nm@

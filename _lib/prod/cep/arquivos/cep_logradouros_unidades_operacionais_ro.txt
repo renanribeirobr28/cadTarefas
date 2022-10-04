@@ -1,0 +1,33 @@
+RO@nm@@nm@Jamari@nm@76870971@nm@Ariquemes@nm@Áreas Especiais 01@nm@Avenida @nm@de 3140 a 3450 - lado par@nm@
+RO@nm@@nm@Tancredo Neves@nm@76870972@nm@Ariquemes@nm@Setor Institucional@nm@Avenida @nm@de 1830 a 1960 - lado par@nm@
+RO@nm@@nm@Tancredo Neves@nm@76870970@nm@Ariquemes@nm@Setor Institucional@nm@Avenida @nm@de 1830 a 1960 - lado par@nm@
+RO@nm@@nm@Porto Velho@nm@76960971@nm@Cacoal@nm@Centro@nm@Avenida @nm@até 2339 - lado ímpar@nm@
+RO@nm@@nm@São Paulo@nm@76960970@nm@Cacoal@nm@Centro@nm@Avenida @nm@até 2181 - lado ímpar@nm@
+RO@nm@@nm@São Paulo@nm@76960973@nm@Cacoal@nm@Centro@nm@Avenida @nm@até 2181 - lado ímpar@nm@
+RO@nm@@nm@São Paulo@nm@76960972@nm@Cacoal@nm@Centro@nm@Avenida @nm@até 2181 - lado ímpar@nm@
+RO@nm@@nm@Marechal Rondon@nm@76900970@nm@Ji-Paraná@nm@Centro@nm@Avenida @nm@de 223 a 569 - lado ímpar@nm@
+RO@nm@@nm@Marechal Rondon@nm@76900972@nm@Ji-Paraná@nm@Centro@nm@Avenida @nm@de 228 a 570 - lado par@nm@
+RO@nm@@nm@Martins Costa@nm@76900971@nm@Ji-Paraná@nm@Jotão@nm@Rua @nm@@nm@
+RO@nm@@nm@Sete de Setembro@nm@76900973@nm@Ji-Paraná@nm@Centro@nm@Rua @nm@de 1050/1051 a 1269/1270@nm@
+RO@nm@@nm@Amazonas@nm@76820972@nm@Porto Velho@nm@Agenor de Carvalho@nm@Avenida @nm@de 3508 a 3900 - lado par@nm@
+RO@nm@@nm@Amazonas@nm@76820971@nm@Porto Velho@nm@Nova Porto Velho@nm@Avenida @nm@de 1864 a 2360 - lado par@nm@
+RO@nm@@nm@Anari@nm@76807970@nm@Porto Velho@nm@Cohab@nm@Rua @nm@de 5548 a 5978 - lado par@nm@
+RO@nm@@nm@Anari@nm@76807971@nm@Porto Velho@nm@Cohab@nm@Rua @nm@de 5548 a 5978 - lado par@nm@
+RO@nm@@nm@Dom Pedro II@nm@76820970@nm@Porto Velho@nm@Embratel@nm@Rua @nm@de 2843 ao fim - lado ímpar@nm@
+RO@nm@@nm@dos Imigrantes@nm@76801970@nm@Porto Velho@nm@São Sebastião@nm@Avenida @nm@de 1201 a 1615 - lado ímpar@nm@
+RO@nm@@nm@dos Imigrantes@nm@76801973@nm@Porto Velho@nm@São Sebastião@nm@Avenida @nm@até 465 - lado ímpar@nm@
+RO@nm@@nm@dos Imigrantes@nm@76801972@nm@Porto Velho@nm@São Sebastião@nm@Avenida @nm@de 1201 a 1615 - lado ímpar@nm@
+RO@nm@@nm@Governador Jorge Teixeira@nm@76803970@nm@Porto Velho@nm@Aeroporto@nm@Avenida @nm@de 6320/6321 ao fim@nm@
+RO@nm@@nm@José Amador dos Reis@nm@76829970@nm@Porto Velho@nm@Tancredo Neves@nm@Rua @nm@de 3301/3302 a 3600/3601@nm@
+RO@nm@@nm@José Camacho@nm@76801982@nm@Porto Velho@nm@Olaria@nm@Rua @nm@de 869 a 1193 - lado ímpar@nm@
+RO@nm@@nm@Lauro Sodré@nm@76801971@nm@Porto Velho@nm@Costa e Silva@nm@Avenida @nm@de 2561/2562 a 2939/2940@nm@
+RO@nm@@nm@Lauro Sodré@nm@76803972@nm@Porto Velho@nm@Costa e Silva@nm@Avenida @nm@de 2561/2562 a 2939/2940@nm@
+RO@nm@@nm@Lauro Sodré@nm@76803971@nm@Porto Velho@nm@Costa e Silva@nm@Avenida @nm@de 2561/2562 a 2939/2940@nm@
+RO@nm@@nm@Nações Unidas@nm@76804970@nm@Porto Velho@nm@Nossa Senhora das Graças@nm@Avenida @nm@de 312 a 638 - lado par@nm@
+RO@nm@@nm@Orion@nm@76813970@nm@Porto Velho@nm@Ulisses Guimarães@nm@Rua @nm@@nm@
+RO@nm@@nm@Padre Ângelo Cerri@nm@76801976@nm@Porto Velho@nm@Pedrinhas@nm@Rua @nm@de 797/798 a 1090/1091@nm@
+RO@nm@@nm@Presidente Dutra@nm@76801974@nm@Porto Velho@nm@Centro@nm@Avenida @nm@de 2334/2335 a 2501/2502@nm@
+RO@nm@@nm@Presidente Dutra@nm@76801981@nm@Porto Velho@nm@Centro@nm@Avenida @nm@de 2334/2335 a 2501/2502@nm@
+RO@nm@@nm@Sete de Setembro@nm@76801975@nm@Porto Velho@nm@Centro@nm@Avenida @nm@até 582 - lado par@nm@
+RO@nm@@nm@Rony de Castro Pereira@nm@76980973@nm@Vilhena@nm@Jardim América@nm@Rua @nm@de 3800/3801 a 4060/4061@nm@
+RO@nm@@nm@Rony de Castro Pereira@nm@76980970@nm@Vilhena@nm@Jardim América@nm@Rua @nm@de 3800/3801 a 4060/4061@nm@

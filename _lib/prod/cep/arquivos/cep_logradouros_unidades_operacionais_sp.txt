@@ -1,0 +1,1330 @@
+SP@nm@@nm@Joaquim Ferreira Souto@nm@17120970@nm@Agudos@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Marechal Deodoro@nm@17135970@nm@Agudos@nm@Centro (Domélia)@nm@Rua @nm@@nm@
+SP@nm@@nm@Alfredo Spinola de Mello@nm@13469970@nm@Americana@nm@Parque Gramado@nm@Rua @nm@@nm@
+SP@nm@@nm@Campos Sales@nm@13465973@nm@Americana@nm@Jardim Girassol@nm@Avenida @nm@@nm@
+SP@nm@@nm@Cecília Meirelles@nm@13474970@nm@Americana@nm@Jardim Nossa Senhora Aparecida@nm@Avenida @nm@@nm@
+SP@nm@@nm@da Saúde@nm@13478970@nm@Americana@nm@Vila Nossa Senhora de Fátima@nm@Avenida @nm@@nm@
+SP@nm@@nm@de Cillo@nm@13465972@nm@Americana@nm@Vila Pavan@nm@Avenida @nm@até 701/702@nm@
+SP@nm@@nm@Dom Pedro II@nm@13465970@nm@Americana@nm@Centro@nm@Rua @nm@até 497/498@nm@
+SP@nm@@nm@Dom Pedro II@nm@13465999@nm@Americana@nm@Centro@nm@Rua @nm@até 497/498@nm@
+SP@nm@@nm@José Meneghel@nm@13478971@nm@Americana@nm@Industrial Maria Joana Crivelloni Abrão@nm@Avenida @nm@@nm@
+SP@nm@@nm@Santo Antônio@nm@13472970@nm@Americana@nm@São Manoel@nm@Rua @nm@@nm@
+SP@nm@@nm@Tamoio@nm@13466970@nm@Americana@nm@Vila Santa Catarina@nm@Rua @nm@@nm@
+SP@nm@@nm@Bernardino de Campos@nm@13900972@nm@Amparo@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Comendador Guimarães@nm@13900970@nm@Amparo@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@José Angelo Marson@nm@13903970@nm@Amparo@nm@Retiro Luiz Cenati@nm@Rua @nm@@nm@
+SP@nm@@nm@José Jacobsen@nm@13908970@nm@Amparo@nm@Centro (Arcadas)@nm@Rua @nm@@nm@
+SP@nm@@nm@Monsenhor João Batista Lisboa@nm@13900999@nm@Amparo@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Nelson José Urbano@nm@13909970@nm@Amparo@nm@Centro (Três Pontes)@nm@Praça @nm@@nm@
+SP@nm@@nm@Rodrigues Alves@nm@16900999@nm@Andradina@nm@Centro@nm@Rua @nm@de 400/401 ao fim@nm@
+SP@nm@@nm@Rodrigues Alves@nm@16900972@nm@Andradina@nm@Centro@nm@Rua @nm@de 400/401 ao fim@nm@
+SP@nm@@nm@Rodrigues Alves@nm@16900970@nm@Andradina@nm@Centro@nm@Rua @nm@de 400/401 ao fim@nm@
+SP@nm@@nm@Aguapeí@nm@16025970@nm@Araçatuba@nm@Vila Carvalho@nm@Rua @nm@de 912/913 a 1420/1421@nm@
+SP@nm@@nm@Antônio Gomes do Amaral@nm@16050973@nm@Araçatuba@nm@Santana@nm@Rua @nm@de 240/241 ao fim@nm@
+SP@nm@@nm@Brasília@nm@16015970@nm@Araçatuba@nm@Vila São Paulo@nm@Avenida @nm@até 1721 - lado ímpar@nm@
+SP@nm@@nm@Conselheiro Oscar Rodrigues Alves@nm@16010970@nm@Araçatuba@nm@Centro@nm@Rua @nm@até 557/558@nm@
+SP@nm@@nm@Hermílio Magalhães@nm@16010973@nm@Araçatuba@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Luiz Pereira Barreto@nm@16010972@nm@Araçatuba@nm@Centro@nm@Rua @nm@até 560/561@nm@
+SP@nm@@nm@Marcílio Dias@nm@16074970@nm@Araçatuba@nm@Novo Paraíso@nm@Rua @nm@de 1125/1126 a 1623/1624@nm@
+SP@nm@@nm@Vereador Aldo Campos@nm@16050970@nm@Araçatuba@nm@São Joaquim@nm@Rua @nm@até 290/291@nm@
+SP@nm@@nm@Antonio Lourenço Corrêa@nm@14810971@nm@Araraquara@nm@Vila Xavier (Vila Xavier)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Brasil@nm@14800999@nm@Araraquara@nm@Centro@nm@Avenida @nm@até 1298/1299@nm@
+SP@nm@@nm@Brasil@nm@14801970@nm@Araraquara@nm@Centro@nm@Avenida @nm@até 1298/1299@nm@
+SP@nm@@nm@Dona Maria Janasi Biagioni@nm@14801974@nm@Araraquara@nm@Centro@nm@Rua @nm@até 283/284@nm@
+SP@nm@@nm@Dona Maria Janasi Biagioni@nm@14801971@nm@Araraquara@nm@Centro@nm@Rua @nm@até 283/284@nm@
+SP@nm@@nm@Estrada de Ferro Araraquara@nm@14810970@nm@Araraquara@nm@Vila Cidade Industrial (Vila Xavier)@nm@Avenida @nm@até 448/449@nm@
+SP@nm@@nm@Padre Francisco Sales Colturato@nm@14801972@nm@Araraquara@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Papa Pio IX@nm@14807970@nm@Araraquara@nm@Jardim Higienópolis@nm@Avenida @nm@até 208/209@nm@
+SP@nm@@nm@Antônio Alfredo Mathiesen@nm@13600972@nm@Araras@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Alfredo Mathiesen@nm@13600973@nm@Araras@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Irineu Carrocci@nm@13606970@nm@Araras@nm@Jardim José Ometto II@nm@Avenida @nm@até 1458/1459@nm@
+SP@nm@@nm@Padre Alarico Zacharias@nm@13601970@nm@Araras@nm@Jardim Belvedere@nm@Avenida @nm@@nm@
+SP@nm@@nm@Tiradentes@nm@13600970@nm@Araras@nm@Centro@nm@Rua @nm@até 630/631@nm@
+SP@nm@@nm@de Santo Fáveri@nm@13167970@nm@Artur Nogueira@nm@Jardim Santa Rosa@nm@Rua @nm@de 611 a 799 - lado ímpar@nm@
+SP@nm@@nm@dos Expedicionários@nm@07400970@nm@Arujá@nm@Jardim Rincão@nm@Avenida @nm@até 823/824@nm@
+SP@nm@@nm@dos Expedicionários@nm@07400972@nm@Arujá@nm@Jardim Rincão@nm@Avenida @nm@até 823/824@nm@
+SP@nm@@nm@João Manoel@nm@07400971@nm@Arujá@nm@Centro@nm@Avenida @nm@até 669 - lado ímpar@nm@
+SP@nm@@nm@Brasil@nm@19800971@nm@Assis@nm@Centro@nm@Rua @nm@até 550/551@nm@
+SP@nm@@nm@Doutor Lycio Brandão de Camargo@nm@19802970@nm@Assis@nm@Vila Clementina@nm@Rua @nm@@nm@
+SP@nm@@nm@José Nogueira Marmontel@nm@19814970@nm@Assis@nm@Centro@nm@Rua @nm@até 280/281@nm@
+SP@nm@@nm@José Teodoro@nm@19800999@nm@Assis@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Vereador David Passarinho@nm@19804970@nm@Assis@nm@Vila Souza@nm@Avenida @nm@até 878/879@nm@
+SP@nm@@nm@Antonio da Cunha Leite@nm@12948970@nm@Atibaia@nm@Portão@nm@Rua @nm@@nm@
+SP@nm@@nm@Engenheiro Sílvio Alvim Soares@nm@12942971@nm@Atibaia@nm@Alvinópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@Jerônimo de Camargo@nm@12940971@nm@Atibaia@nm@Jardim Brasil@nm@Avenida @nm@de 4012/4013 a 4609/4610@nm@
+SP@nm@@nm@João Pires@nm@12940972@nm@Atibaia@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@José Alvim@nm@12940999@nm@Atibaia@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@José Alvim@nm@12940970@nm@Atibaia@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Rio Grande do Sul@nm@18701970@nm@Avaré@nm@Braz I@nm@Rua @nm@de 1622/1623 ao fim@nm@
+SP@nm@@nm@Rio Grande do Sul@nm@18701971@nm@Avaré@nm@Braz I@nm@Rua @nm@de 1622/1623 ao fim@nm@
+SP@nm@@nm@Santa Catarina@nm@18700971@nm@Avaré@nm@Centro@nm@Rua @nm@até 1430/1431@nm@
+SP@nm@@nm@14@nm@14780999@nm@Barretos@nm@Centro@nm@Rua @nm@até 1068/1069@nm@
+SP@nm@@nm@14@nm@14780970@nm@Barretos@nm@Centro@nm@Rua @nm@até 1068/1069@nm@
+SP@nm@@nm@20@nm@14783970@nm@Barretos@nm@Centro@nm@Rua @nm@até 1565/1566@nm@
+SP@nm@@nm@43@nm@14780972@nm@Barretos@nm@Jardim Alvorada@nm@Avenida @nm@de 521 ao fim - lado ímpar@nm@
+SP@nm@@nm@Jorge Tibiriçá@nm@14789970@nm@Barretos@nm@Ibitu@nm@Avenida @nm@@nm@
+SP@nm@@nm@Araguaia@nm@06455972@nm@Barueri@nm@Alphaville Industrial@nm@Alameda @nm@@nm@
+SP@nm@@nm@Araguaia@nm@06455970@nm@Barueri@nm@Alphaville Industrial@nm@Alameda @nm@@nm@
+SP@nm@@nm@Campos Sales@nm@06420972@nm@Barueri@nm@Centro@nm@Rua @nm@até 799/800@nm@
+SP@nm@@nm@Capitão Francisco Cézar@nm@06415970@nm@Barueri@nm@Vila Pindorama@nm@Avenida @nm@@nm@
+SP@nm@@nm@dos Cravos@nm@06453970@nm@Barueri@nm@Condomínio Centro Comercial Alphaville@nm@Calçada @nm@@nm@
+SP@nm@@nm@dos Patos@nm@06429970@nm@Barueri@nm@Residencial Morada das Estrelas (Aldeia da Serra)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Grupo Bandeirante@nm@06420970@nm@Barueri@nm@Jardim Belval@nm@Rua @nm@@nm@
+SP@nm@@nm@Marcos Penteado de Ulhôa Rodrigues@nm@06460971@nm@Barueri@nm@Tamboré@nm@Avenida @nm@@nm@
+SP@nm@@nm@Municipal@nm@06433970@nm@Barueri@nm@Jardim Silveira@nm@Avenida @nm@@nm@
+SP@nm@@nm@Sansão@nm@06402970@nm@Barueri@nm@Jardim São Pedro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Sansão@nm@06402999@nm@Barueri@nm@Jardim São Pedro@nm@Avenida @nm@@nm@
+SP@nm@@nm@14 de Março@nm@14315970@nm@Batatais@nm@Riachuelo@nm@Avenida @nm@de 661 ao fim - lado ímpar@nm@
+SP@nm@@nm@Comandante Salgado@nm@14300971@nm@Batatais@nm@Castelo@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Washington Luiz@nm@14300970@nm@Batatais@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Benedito Eleutério@nm@17050970@nm@Bauru@nm@Vila Pacífico@nm@Rua @nm@@nm@
+SP@nm@@nm@Castelo Branco@nm@17052970@nm@Bauru@nm@Vila Paulista@nm@Avenida @nm@de Quadra 11 a Quadra 24@nm@
+SP@nm@@nm@Dom Pedro II@nm@17015973@nm@Bauru@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Dom Pedro II@nm@17015970@nm@Bauru@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@dos Andradas@nm@17050972@nm@Bauru@nm@Vila Souto@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Marcos de Paula Raphael@nm@17026970@nm@Bauru@nm@Núcleo Habitacional Mary Dota@nm@Avenida @nm@@nm@
+SP@nm@@nm@Engenheiro Saint Martin@nm@17015972@nm@Bauru@nm@Centro@nm@Rua @nm@até Quadra 11@nm@
+SP@nm@@nm@Figueira de Mello@nm@17110972@nm@Bauru@nm@Tibiriçá@nm@Rua @nm@@nm@
+SP@nm@@nm@Irmã Arminda@nm@17011970@nm@Bauru@nm@Jardim Brasil@nm@Rua @nm@até Quadra 10@nm@
+SP@nm@@nm@Izzet Farha@nm@17034972@nm@Bauru@nm@Distrito Industrial Domingos Biancardi@nm@Avenida @nm@@nm@
+SP@nm@@nm@Izzet Farha@nm@17034979@nm@Bauru@nm@Distrito Industrial Domingos Biancardi@nm@Avenida @nm@@nm@
+SP@nm@@nm@Joaquim Marques de Figueiredo@nm@17034971@nm@Bauru@nm@Distrito Industrial Domingos Biancardi@nm@Rua @nm@@nm@
+SP@nm@@nm@Joaquim Marques de Figueiredo@nm@17034970@nm@Bauru@nm@Distrito Industrial Domingos Biancardi@nm@Rua @nm@@nm@
+SP@nm@@nm@Nações Unidas@nm@17013970@nm@Bauru@nm@Vila Santo Antônio@nm@Avenida @nm@de Quadra 12 a Quadra 17@nm@
+SP@nm@@nm@Nações Unidas@nm@17013971@nm@Bauru@nm@Vila Santo Antônio@nm@Avenida @nm@de Quadra 12 a Quadra 17@nm@
+SP@nm@@nm@Rafael Pereira Martini@nm@17032970@nm@Bauru@nm@Jardim Redentor@nm@Rua @nm@até Quadra 12@nm@
+SP@nm@@nm@Rio Branco@nm@17014970@nm@Bauru@nm@Vila América@nm@Rua @nm@de Quadra 16 a Quadra 23@nm@
+SP@nm@@nm@Allan Kardec@nm@14701972@nm@Bebedouro@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Coronel Conrado Caldeira@nm@14701971@nm@Bebedouro@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Fabiano Zacarelli@nm@14715970@nm@Bebedouro@nm@Andes@nm@Via @nm@@nm@
+SP@nm@@nm@José Luiz de Almeida@nm@14716970@nm@Bebedouro@nm@Turvínea@nm@Rua @nm@@nm@
+SP@nm@@nm@Nagib M Burjailli@nm@14718970@nm@Bebedouro@nm@Botafogo@nm@Rua @nm@@nm@
+SP@nm@@nm@Prefeito Pedro Paschoal@nm@14701970@nm@Bebedouro@nm@Jardim Paraíso@nm@Avenida @nm@de 901 ao fim - lado ímpar@nm@
+SP@nm@@nm@Quinze de Novembro@nm@14700970@nm@Bebedouro@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Quinze de Novembro@nm@14700999@nm@Bebedouro@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Anchieta@nm@11250970@nm@Bertioga@nm@Centro@nm@Avenida @nm@até 949 - lado ímpar@nm@
+SP@nm@@nm@José Costa@nm@11271970@nm@Bertioga@nm@Boraceia@nm@Rua @nm@@nm@
+SP@nm@@nm@Barão do Rio Branco@nm@16200970@nm@Birigüi@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Barão do Rio Branco@nm@16200971@nm@Birigüi@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Euclides Miragaia@nm@16200972@nm@Birigüi@nm@Jardim Pérola@nm@Avenida @nm@@nm@
+SP@nm@@nm@Amando de Barros@nm@18600971@nm@Botucatu@nm@Centro@nm@Rua @nm@até 1140/1141@nm@
+SP@nm@@nm@Benedito Rodrigues da Silva@nm@18605970@nm@Botucatu@nm@Conjunto Habitacional Humberto Popolo@nm@Rua @nm@@nm@
+SP@nm@@nm@Bento Lopes@nm@18618970@nm@Botucatu@nm@Jardim Santo Inácio (Rubião Junior)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Braz de Assis@nm@18608970@nm@Botucatu@nm@Vila Casa Branca@nm@Rua @nm@de 412/413 ao fim@nm@
+SP@nm@@nm@Condessa de Serra Negra@nm@18619970@nm@Botucatu@nm@Vitoriana@nm@Rua @nm@@nm@
+SP@nm@@nm@Cruz Pereira@nm@18609970@nm@Botucatu@nm@Vila dos Lavradores@nm@Rua @nm@@nm@
+SP@nm@@nm@Firmino Pontes Ribeiro@nm@18617970@nm@Botucatu@nm@Anhumas@nm@Rua @nm@@nm@
+SP@nm@@nm@Marechal Floriano Peixoto@nm@18603970@nm@Botucatu@nm@Centro@nm@Avenida @nm@de 522/523 ao fim@nm@
+SP@nm@@nm@Advogado Zeferino Vasconcellos@nm@12902970@nm@Bragança Paulista@nm@Lavapés@nm@Rua @nm@( Vila Boava )@nm@
+SP@nm@@nm@Antônio Pires Pimentel@nm@12914970@nm@Bragança Paulista@nm@Jardim Santa Rita de Cássia@nm@Avenida @nm@de 694/695 ao fim@nm@
+SP@nm@@nm@Doutor Cândido Rodrigues@nm@12900970@nm@Bragança Paulista@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Coronel Manoel Inocêncio@nm@12281971@nm@Caçapava@nm@Vila São João@nm@Avenida @nm@de 531/532 ao fim@nm@
+SP@nm@@nm@da Bandeira@nm@12281970@nm@Caçapava@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Dona Ambrosina do Carmo Buonaguide@nm@07700973@nm@Caieiras@nm@Região Central@nm@Rua @nm@(Lot Cresciúma) - até 598/599@nm@
+SP@nm@@nm@Professor Carvalho Pinto@nm@07700970@nm@Caieiras@nm@Região Central@nm@Avenida @nm@(Jd Sto Antonio)@nm@
+SP@nm@@nm@Antonio da Silva Esparrinha@nm@07750971@nm@Cajamar@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Creusa Ferreira Lima de Souza Araújo@nm@07790971@nm@Cajamar@nm@Polvilho (Polvilho)@nm@Rua @nm@(Jd B Vista I)@nm@
+SP@nm@@nm@Creusa Ferreira Lima de Souza Araújo@nm@07790970@nm@Cajamar@nm@Polvilho (Polvilho)@nm@Rua @nm@(Jd B Vista I)@nm@
+SP@nm@@nm@Domingo Alonso Lopez@nm@07786970@nm@Cajamar@nm@Altos de Jordanésia (Jordanésia)@nm@Avenida @nm@(Jd Penteado)@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750973@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750976@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750972@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750975@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750974@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750979@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750978@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Antonio João Abdalla@nm@07750977@nm@Cajamar@nm@Empresarial Colina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Adalberto Maia@nm@13076971@nm@Campinas@nm@Taquaral@nm@Rua @nm@@nm@
+SP@nm@@nm@Afonso Pena@nm@13026970@nm@Campinas@nm@Jardim Primavera@nm@Rua @nm@até 786/787@nm@
+SP@nm@@nm@Alfredo da Costa Figo@nm@13087971@nm@Campinas@nm@Parque Rural Fazenda Santa Cândida@nm@Rua @nm@@nm@
+SP@nm@@nm@Benedita Amaral Pinto@nm@13080970@nm@Campinas@nm@Jardim Santa Genebra@nm@Rua @nm@@nm@
+SP@nm@@nm@Brasil@nm@13073971@nm@Campinas@nm@Jardim Brasil@nm@Avenida @nm@de 505/506 a 1018/1019@nm@
+SP@nm@@nm@Carlos Gomes@nm@13083970@nm@Campinas@nm@Cidade Universitária@nm@Rua @nm@@nm@
+SP@nm@@nm@Charles Miller@nm@13054971@nm@Campinas@nm@Jardim São Francisco@nm@Rua @nm@@nm@
+SP@nm@@nm@das Amoreiras@nm@13030971@nm@Campinas@nm@São Bernardo@nm@Avenida @nm@de 961/962 a 1472/1473@nm@
+SP@nm@@nm@dos Gráficos@nm@13050973@nm@Campinas@nm@Jardim do Lago@nm@Rua @nm@@nm@
+SP@nm@@nm@dos Gráficos@nm@13050970@nm@Campinas@nm@Jardim do Lago@nm@Rua @nm@@nm@
+SP@nm@@nm@dos Gráficos@nm@13050972@nm@Campinas@nm@Jardim do Lago@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Armando Sales de Oliveira@nm@13076970@nm@Campinas@nm@Taquaral@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Jesuíno Marcondes Machado@nm@13092972@nm@Campinas@nm@Nova Campinas@nm@Avenida @nm@até 930/931@nm@
+SP@nm@@nm@Edson Luiz Rigonatto@nm@13058971@nm@Campinas@nm@Jardim Metonópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@Engenheiro Antônio Francisco de Paula Souza@nm@13043970@nm@Campinas@nm@Vila Paraíso@nm@Avenida @nm@até 1950/1951@nm@
+SP@nm@@nm@Ernesto Alves Filho@nm@13058970@nm@Campinas@nm@Jardim Campos Elíseos@nm@Rua @nm@@nm@
+SP@nm@@nm@Francisco Glicério@nm@13012971@nm@Campinas@nm@Centro@nm@Avenida @nm@de 327 a 1809 - lado ímpar@nm@
+SP@nm@@nm@Francisco Glicério@nm@13012970@nm@Campinas@nm@Centro@nm@Avenida @nm@de 327 a 1809 - lado ímpar@nm@
+SP@nm@@nm@Francisco Glicério@nm@13012972@nm@Campinas@nm@Centro@nm@Avenida @nm@de 327 a 1809 - lado ímpar@nm@
+SP@nm@@nm@Francisco Teodoro@nm@13035970@nm@Campinas@nm@Vila Industrial@nm@Rua @nm@@nm@
+SP@nm@@nm@Governador Pedro de Toledo@nm@13070971@nm@Campinas@nm@Bonfim@nm@Avenida @nm@de 1499/1500 ao fim@nm@
+SP@nm@@nm@Guilherme Campos@nm@13087970@nm@Campinas@nm@Parque das Flores@nm@Avenida @nm@@nm@
+SP@nm@@nm@João Erbolato@nm@13070973@nm@Campinas@nm@Jardim Chapadão@nm@Avenida @nm@até 720/721@nm@
+SP@nm@@nm@João Jorge@nm@13035971@nm@Campinas@nm@Vila Industrial@nm@Avenida @nm@@nm@
+SP@nm@@nm@José de Alencar@nm@13013971@nm@Campinas@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@José Pancetti@nm@13033970@nm@Campinas@nm@Vila Proost de Souza@nm@Avenida @nm@@nm@
+SP@nm@@nm@José Rosolem@nm@13060970@nm@Campinas@nm@Jardim Londres@nm@Rua @nm@@nm@
+SP@nm@@nm@Luzitana@nm@13015970@nm@Campinas@nm@Centro@nm@Rua @nm@de 692/693 a 1190/1191@nm@
+SP@nm@@nm@Maria Monteiro@nm@13025970@nm@Campinas@nm@Cambuí@nm@Rua @nm@até 580/581@nm@
+SP@nm@@nm@Papa João Paulo II@nm@13068971@nm@Campinas@nm@Conjunto Habitacional Padre Anchieta@nm@Avenida @nm@@nm@
+SP@nm@@nm@Professor Jorge Hennings@nm@13070970@nm@Campinas@nm@Jardim Chapadão@nm@Rua @nm@@nm@
+SP@nm@@nm@Rotary@nm@13092971@nm@Campinas@nm@Vila Brandina@nm@Avenida @nm@@nm@
+SP@nm@@nm@Sacramento@nm@13023970@nm@Campinas@nm@Vila Itapura@nm@Rua @nm@de 611/612 ao fim@nm@
+SP@nm@@nm@Santa Isabel@nm@13084970@nm@Campinas@nm@Barão Geraldo@nm@Avenida @nm@até 998/999@nm@
+SP@nm@@nm@Santana Gomes@nm@13070972@nm@Campinas@nm@Bonfim@nm@Rua @nm@@nm@
+SP@nm@@nm@Santos Dumont@nm@13052970@nm@Campinas@nm@Parque Viracopos@nm@Rodovia @nm@(SP 075) - do km 62,000 ao km 72,498 - lado par@nm@
+SP@nm@@nm@Siqueira Campos@nm@13106970@nm@Campinas@nm@Sousas@nm@Rua @nm@@nm@
+SP@nm@@nm@Tapuru@nm@13098970@nm@Campinas@nm@Loteamento Alphaville Campinas@nm@Rua @nm@@nm@
+SP@nm@@nm@Washington Luís@nm@13042971@nm@Campinas@nm@Vila Marieta@nm@Avenida @nm@de 1001/1002 ao fim@nm@
+SP@nm@@nm@Yves Montand@nm@13054970@nm@Campinas@nm@Chácara Santa Letícia@nm@Rua @nm@@nm@
+SP@nm@@nm@Casa Branca@nm@13238970@nm@Campo Limpo Paulista@nm@Vila Constança (Botujuru)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Francisco Miguel@nm@13230970@nm@Campo Limpo Paulista@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Francisco Miguel@nm@13231999@nm@Campo Limpo Paulista@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Manoel Tavares da Silva@nm@13230971@nm@Campo Limpo Paulista@nm@Vila Tavares@nm@Avenida @nm@@nm@
+SP@nm@@nm@Manoel Ligeiro@nm@18990970@nm@Canitar@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Elias Jorge Daniel@nm@18303970@nm@Capão Bonito@nm@Vila Aparecida@nm@Avenida @nm@@nm@
+SP@nm@@nm@Nove de Julho@nm@18300970@nm@Capão Bonito@nm@Centro@nm@Rua @nm@de 474/475 a 898/899@nm@
+SP@nm@@nm@Vinte e Quatro de Fevereiro@nm@18300999@nm@Capão Bonito@nm@Centro@nm@Rua @nm@até 494/495@nm@
+SP@nm@@nm@Altino Arantes@nm@11660970@nm@Caraguatatuba@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@José Herculano@nm@11669970@nm@Caraguatatuba@nm@Travessão@nm@Avenida @nm@de 6968/6969 a 8344/8345@nm@
+SP@nm@@nm@Prisciliana de Castilho@nm@11660971@nm@Caraguatatuba@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Rio Branco@nm@11675970@nm@Caraguatatuba@nm@Indaiá@nm@Avenida @nm@até 382/383@nm@
+SP@nm@@nm@Amazonas@nm@06326970@nm@Carapicuíba@nm@Conjunto Habitacional Presidente Castelo Branco@nm@Avenida @nm@até 259/260@nm@
+SP@nm@@nm@da Aldeia@nm@06343970@nm@Carapicuíba@nm@Jardim Marilu@nm@Praça @nm@@nm@
+SP@nm@@nm@Inocêncio Seráfico@nm@06380970@nm@Carapicuíba@nm@Vila Silva Ribeiro@nm@Avenida @nm@de 1583/1584 a 1715/1716@nm@
+SP@nm@@nm@Inocêncio Seráfico@nm@06380972@nm@Carapicuíba@nm@Vila Silva Ribeiro@nm@Avenida @nm@de 1583/1584 a 1715/1716@nm@
+SP@nm@@nm@Inocêncio Seráfico@nm@06320971@nm@Carapicuíba@nm@Centro@nm@Avenida @nm@até 999/1000@nm@
+SP@nm@@nm@Maria Helena@nm@06320999@nm@Carapicuíba@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Rui Barbosa@nm@06311970@nm@Carapicuíba@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Rui Barbosa@nm@06311971@nm@Carapicuíba@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Maranhão@nm@15800999@nm@Catanduva@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Maranhão@nm@15800970@nm@Catanduva@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Pará@nm@15800971@nm@Catanduva@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@São Paulo@nm@15804970@nm@Catanduva@nm@Higienópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@Sete de Setembro@nm@15805970@nm@Catanduva@nm@Higienópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@José Joaquim de Moraes Sarmento@nm@18760970@nm@Cerqueira César@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Altino Arantes@nm@18970970@nm@Chavantes@nm@Centro@nm@Rua @nm@até 268/269@nm@
+SP@nm@@nm@Vicente Paulo Bergamo@nm@18980971@nm@Chavantes@nm@Centro (Irapé)@nm@Rua @nm@@nm@
+SP@nm@@nm@7 de Setembro@nm@13150971@nm@Cosmópolis@nm@Jardim Bela Vista@nm@Rua @nm@de 351/352 a 700/701@nm@
+SP@nm@@nm@Ramos de Azevedo@nm@13150970@nm@Cosmópolis@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Mathias de Camargo@nm@06700999@nm@Cotia@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Estrela do Mar@nm@06717971@nm@Cotia@nm@Vila São Francisco de Assis@nm@Rua @nm@@nm@
+SP@nm@@nm@Nitaro Nakamura@nm@06716970@nm@Cotia@nm@Jardim Sabiá@nm@Rua @nm@@nm@
+SP@nm@@nm@Nossa Senhora de Fátima@nm@06717970@nm@Cotia@nm@Vila Monte Serrat@nm@Avenida @nm@@nm@
+SP@nm@@nm@Roque Celestino Pires@nm@06727970@nm@Cotia@nm@Centro (Caucaia do Alto)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Thomekiti Kira@nm@06709970@nm@Cotia@nm@Granja Viana@nm@Rua @nm@@nm@
+SP@nm@@nm@Engenheiro Antônio Penido@nm@12710970@nm@Cruzeiro@nm@Centro@nm@Rua @nm@até 829/830@nm@
+SP@nm@@nm@Engenheiro Antônio Penido@nm@12701999@nm@Cruzeiro@nm@Centro@nm@Rua @nm@até 829/830@nm@
+SP@nm@@nm@Engenheiro Antônio Penido@nm@12701970@nm@Cruzeiro@nm@Centro@nm@Rua @nm@até 829/830@nm@
+SP@nm@@nm@Brasil@nm@11533970@nm@Cubatão@nm@Jardim Casqueiro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Nove de Abril@nm@11520971@nm@Cubatão@nm@Vila Nova@nm@Avenida @nm@de 2833/2834 ao fim@nm@
+SP@nm@@nm@Quinze de Novembro@nm@11520970@nm@Cubatão@nm@Vila Nova@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Dias Adorno@nm@09951970@nm@Diadema@nm@Vila Nogueira@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Dias Adorno@nm@09951971@nm@Diadema@nm@Vila Nogueira@nm@Rua @nm@@nm@
+SP@nm@@nm@Dom João VI@nm@09941970@nm@Diadema@nm@Taboão@nm@Avenida @nm@de 950/951 ao fim@nm@
+SP@nm@@nm@Lico Maia@nm@09981970@nm@Diadema@nm@Conceição@nm@Avenida @nm@@nm@
+SP@nm@@nm@Nossa Senhora das Vitórias@nm@09910970@nm@Diadema@nm@Centro@nm@Avenida @nm@(Jd Conceição)@nm@
+SP@nm@@nm@Nossa Senhora dos Navegantes@nm@09972970@nm@Diadema@nm@Eldorado@nm@Avenida @nm@até 748/749@nm@
+SP@nm@@nm@Paranapanema@nm@09930970@nm@Diadema@nm@Taboão@nm@Avenida @nm@(Jd S J Tadeu)@nm@
+SP@nm@@nm@Piraporinha@nm@09950971@nm@Diadema@nm@Vila Nogueira@nm@Avenida @nm@@nm@
+SP@nm@@nm@Prestes Maia@nm@09930971@nm@Diadema@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Sete de Setembro@nm@09912970@nm@Diadema@nm@Centro@nm@Avenida @nm@(Jd Recanto)@nm@
+SP@nm@@nm@Cerqueira César@nm@06813970@nm@Embu das Artes@nm@Jardim Santa Tereza@nm@Rua @nm@@nm@
+SP@nm@@nm@Elias Yazbek@nm@06803999@nm@Embu das Artes@nm@Tingidor@nm@Avenida @nm@de 496 a 1618 - lado par@nm@
+SP@nm@@nm@Elias Yazbek@nm@06803970@nm@Embu das Artes@nm@Tingidor@nm@Avenida @nm@de 496 a 1618 - lado par@nm@
+SP@nm@@nm@Elias Yazbek@nm@06803971@nm@Embu das Artes@nm@Tingidor@nm@Avenida @nm@de 496 a 1618 - lado par@nm@
+SP@nm@@nm@Jair Roberto Mulla@nm@13445970@nm@Engenheiro Coelho@nm@Jardim Amália@nm@Rua @nm@@nm@
+SP@nm@@nm@Maria Perpétua Piedade Gonçalves@nm@18935970@nm@Espírito Santo do Turvo@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@das Américas@nm@15614970@nm@Fernandópolis@nm@Centro (Distrito de Brasitânia)@nm@Rua @nm@@nm@
+SP@nm@@nm@Paulo Saravalli@nm@15600971@nm@Fernandópolis@nm@Centro@nm@Avenida @nm@de 700/701 a 1968/1969@nm@
+SP@nm@@nm@Primo Angelucci@nm@15600970@nm@Fernandópolis@nm@Centro@nm@Avenida @nm@até 798/799@nm@
+SP@nm@@nm@São Paulo@nm@15600972@nm@Fernandópolis@nm@Coester@nm@Rua @nm@de 2140/2141 ao fim@nm@
+SP@nm@@nm@Brasil@nm@08501970@nm@Ferraz de Vasconcelos@nm@Sitio Paredão@nm@Avenida @nm@de 0673/674 a 1267/1268@nm@
+SP@nm@@nm@da Bíblia@nm@08530970@nm@Ferraz de Vasconcelos@nm@Vila Ana Maria@nm@Praça @nm@@nm@
+SP@nm@@nm@da Bíblia@nm@08530999@nm@Ferraz de Vasconcelos@nm@Vila Ana Maria@nm@Praça @nm@@nm@
+SP@nm@@nm@Otávio Rodrigues Barbosa@nm@08500970@nm@Ferraz de Vasconcelos@nm@Vila Romanópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Bernardes Pinto@nm@14405972@nm@Franca@nm@Vila Chico Júlio@nm@Rua @nm@até 4967/4968@nm@
+SP@nm@@nm@Coronel Francisco de Andrade Junqueira@nm@14400970@nm@Franca@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@David Ewbank@nm@14400999@nm@Franca@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Distrito Federal@nm@14401970@nm@Franca@nm@São José@nm@Avenida @nm@@nm@
+SP@nm@@nm@Gini Teixeira Rocha@nm@14405970@nm@Franca@nm@Jardim Integração@nm@Rua @nm@@nm@
+SP@nm@@nm@Presidente Vargas@nm@14401971@nm@Franca@nm@Cidade Nova@nm@Avenida @nm@até 2059 - lado ímpar@nm@
+SP@nm@@nm@Simpliciano Pombo@nm@14405971@nm@Franca@nm@Vila Santos Dumont@nm@Rua @nm@@nm@
+SP@nm@@nm@Gerônimo Caetano Garcia@nm@07901970@nm@Francisco Morato@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Manoel Vilaboim@nm@07910970@nm@Francisco Morato@nm@Jardim Professor Francisco Morato@nm@Rua @nm@@nm@
+SP@nm@@nm@Progresso@nm@07901971@nm@Francisco Morato@nm@Centro@nm@Rua @nm@até 695/696@nm@
+SP@nm@@nm@do Governo@nm@07859970@nm@Franco da Rocha@nm@Pouso Alegre@nm@Estrada @nm@de 76/77 a 884/885@nm@
+SP@nm@@nm@Doutor Hamilton Prado@nm@07801970@nm@Franco da Rocha@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Sete de Setembro@nm@07851970@nm@Franco da Rocha@nm@Vila Artur Sestini@nm@Avenida @nm@até 557/0558@nm@
+SP@nm@@nm@Antenor de Vasconcelos Cardoso@nm@12511970@nm@Guaratinguetá@nm@Vila Comendador Rodrigues Alves@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Mario De Moraes Altenfelder Silva@nm@12505970@nm@Guaratinguetá@nm@Chácara Selles@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Martiniano@nm@12500972@nm@Guaratinguetá@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Nove de Julho@nm@12500999@nm@Guaratinguetá@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Nove de Julho@nm@12500970@nm@Guaratinguetá@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Bahia@nm@11450970@nm@Guarujá@nm@Vila Alice (Vicente de Carvalho)@nm@Rua @nm@@nm@
+SP@nm@@nm@Dom Pedro I@nm@11440970@nm@Guarujá@nm@Enseada@nm@Avenida @nm@de 847/848 a 1753/1754@nm@
+SP@nm@@nm@Puglisi@nm@11410999@nm@Guarujá@nm@Pitangueiras@nm@Avenida @nm@até 383 - lado ímpar@nm@
+SP@nm@@nm@Puglisi@nm@11410971@nm@Guarujá@nm@Pitangueiras@nm@Avenida @nm@até 383 - lado ímpar@nm@
+SP@nm@@nm@Santos Dumont@nm@11460970@nm@Guarujá@nm@Sítio Paecara (Vicente de Carvalho)@nm@Avenida @nm@de 2 a 762 - lado par@nm@
+SP@nm@@nm@Santos Dumont@nm@11460999@nm@Guarujá@nm@Sítio Paecara (Vicente de Carvalho)@nm@Avenida @nm@de 2 a 762 - lado par@nm@
+SP@nm@@nm@Santos Dumont@nm@11460971@nm@Guarujá@nm@Sítio Paecara (Vicente de Carvalho)@nm@Avenida @nm@de 2 a 762 - lado par@nm@
+SP@nm@@nm@Sílvio Daige@nm@11440971@nm@Guarujá@nm@Enseada@nm@Rua @nm@@nm@
+SP@nm@@nm@Acacio Antonio Batista@nm@07175971@nm@Guarulhos@nm@Vila Nova Bonsucesso@nm@Estrada @nm@@nm@
+SP@nm@@nm@Alzimar Vargas Batista@nm@07077970@nm@Guarulhos@nm@Parque Continental I@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio de Souza@nm@07111971@nm@Guarulhos@nm@Jardim Santa Francisca@nm@Avenida @nm@@nm@
+SP@nm@@nm@Cachoeira@nm@07080970@nm@Guarulhos@nm@Jardim Rosa de Franca@nm@Rua @nm@@nm@
+SP@nm@@nm@Carlos Korkischko@nm@07192970@nm@Guarulhos@nm@Vila Barros@nm@Rua @nm@@nm@
+SP@nm@@nm@Cavadas@nm@07044970@nm@Guarulhos@nm@Vila São João@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Timóteo Penteado@nm@07061999@nm@Guarulhos@nm@Vila Galvão@nm@Avenida @nm@de 3025/3026 a 3449/3450@nm@
+SP@nm@@nm@Doutor Timóteo Penteado@nm@07094970@nm@Guarulhos@nm@Vila Hulda@nm@Avenida @nm@até 2379/2380@nm@
+SP@nm@@nm@Emílio Ribas@nm@07051970@nm@Guarulhos@nm@Jardim Vila Galvão@nm@Avenida @nm@de 2042 ao fim - lado par@nm@
+SP@nm@@nm@Esperança@nm@07095970@nm@Guarulhos@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Florestópolis@nm@07170970@nm@Guarulhos@nm@Cidade Parque São Luiz@nm@Rua @nm@@nm@
+SP@nm@@nm@Frei Inocêncio@nm@07195970@nm@Guarulhos@nm@Jardim Eliana@nm@Rua @nm@@nm@
+SP@nm@@nm@Guarulhos@nm@07030970@nm@Guarulhos@nm@Ponte Grande@nm@Avenida @nm@de 2413 a 3641 - lado ímpar@nm@
+SP@nm@@nm@Hélio Smidt@nm@07190971@nm@Guarulhos@nm@Aeroporto@nm@Rodovia @nm@@nm@
+SP@nm@@nm@Hélio Smidt@nm@07190972@nm@Guarulhos@nm@Aeroporto@nm@Rodovia @nm@@nm@
+SP@nm@@nm@Hélio Smidt@nm@07190973@nm@Guarulhos@nm@Aeroporto@nm@Rodovia @nm@@nm@
+SP@nm@@nm@Jacob@nm@07051971@nm@Guarulhos@nm@Jardim Tranqüilidade@nm@Rua @nm@@nm@
+SP@nm@@nm@Joaquina de Jesus@nm@07140971@nm@Guarulhos@nm@Parque Santo Agostinho@nm@Rua @nm@@nm@
+SP@nm@@nm@Luiz Gama@nm@07010972@nm@Guarulhos@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Manoel Quintão@nm@07052970@nm@Guarulhos@nm@Jardim Tranqüilidade@nm@Rua @nm@@nm@
+SP@nm@@nm@Monteiro Lobato@nm@07180970@nm@Guarulhos@nm@Cidade Jardim Cumbica@nm@Avenida @nm@de 3501/3502 ao fim@nm@
+SP@nm@@nm@Monteiro Lobato@nm@07190999@nm@Guarulhos@nm@Macedo@nm@Avenida @nm@até 1589/1590@nm@
+SP@nm@@nm@Monteiro Lobato@nm@07112970@nm@Guarulhos@nm@Macedo@nm@Avenida @nm@até 1589/1590@nm@
+SP@nm@@nm@Otávio Braga de Mesquita@nm@07140972@nm@Guarulhos@nm@Jardim São Geraldo@nm@Avenida @nm@de 2751/2752 ao fim@nm@
+SP@nm@@nm@Presidente Juscelino Kubitschek de Oliveira@nm@07252971@nm@Guarulhos@nm@Jardim Albertina@nm@Estrada @nm@@nm@
+SP@nm@@nm@Presidente Juscelino Kubitschek de Oliveira@nm@07272970@nm@Guarulhos@nm@Jardim dos Pimentas@nm@Estrada @nm@@nm@
+SP@nm@@nm@Rio Real@nm@07170971@nm@Guarulhos@nm@Jardim Presidente Dutra@nm@Avenida @nm@@nm@
+SP@nm@@nm@Santos Dumont@nm@07220972@nm@Guarulhos@nm@Cidade Industrial Satélite de São Paulo@nm@Avenida @nm@@nm@
+SP@nm@@nm@Santos Dumont@nm@07220973@nm@Guarulhos@nm@Cidade Industrial Satélite de São Paulo@nm@Avenida @nm@@nm@
+SP@nm@@nm@Tiradentes@nm@07010971@nm@Guarulhos@nm@Centro@nm@Avenida @nm@de 1231/1232 a 1372/1373@nm@
+SP@nm@@nm@Tiradentes@nm@07010999@nm@Guarulhos@nm@Centro@nm@Avenida @nm@de 1231/1232 a 1372/1373@nm@
+SP@nm@@nm@Tiradentes@nm@07113970@nm@Guarulhos@nm@Jardim Bom Clima@nm@Avenida @nm@de 2872/2873 ao fim@nm@
+SP@nm@@nm@Yayá@nm@07060970@nm@Guarulhos@nm@Jardim Aida@nm@Alameda @nm@@nm@
+SP@nm@@nm@Armelinda Espurio da Silva@nm@13185970@nm@Hortolândia@nm@Jardim Santa Izabel@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Leandro Luis Camargo dos Santos@nm@13184972@nm@Hortolândia@nm@Vila São Francisco@nm@Rua @nm@@nm@
+SP@nm@@nm@Líbero Badaró@nm@13186970@nm@Hortolândia@nm@Jardim Santa Rita de Cássia@nm@Rua @nm@@nm@
+SP@nm@@nm@Senhorinha Matilde da Silva@nm@13184970@nm@Hortolândia@nm@Loteamento Remanso Campineiro@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Adail de Oliveira@nm@14940970@nm@Ibitinga@nm@Centro@nm@Rua @nm@até 528/529@nm@
+SP@nm@@nm@Engenheiro Ivanil Francischini@nm@14944970@nm@Ibitinga@nm@Jardim Eldorado@nm@Avenida @nm@@nm@
+SP@nm@@nm@Prudente de Moraes@nm@14940971@nm@Ibitinga@nm@Centro@nm@Rua @nm@até 708/709@nm@
+SP@nm@@nm@Algemiro Coraini Júnior@nm@13344970@nm@Indaiatuba@nm@Vila Costa e Silva@nm@Rua @nm@@nm@
+SP@nm@@nm@Cerqueira César@nm@13330970@nm@Indaiatuba@nm@Centro@nm@Rua @nm@até 1257/1258@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337970@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337980@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337971@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337974@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337972@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337973@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337978@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337981@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337976@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337975@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337977@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Engenheiro Ermênio de Oliveira Penteado@nm@13337979@nm@Indaiatuba@nm@Helvétia@nm@Rodovia @nm@(SP-075) - do km 57,000 ao km 65,000@nm@
+SP@nm@@nm@Jacob Lyra@nm@13346970@nm@Indaiatuba@nm@Parque das Nações@nm@Rua @nm@até 343/344@nm@
+SP@nm@@nm@Onze de Junho@nm@13330972@nm@Indaiatuba@nm@Centro@nm@Rua @nm@até 1459/1460@nm@
+SP@nm@@nm@Oswaldo Cruz@nm@13334970@nm@Indaiatuba@nm@Cidade Nova I@nm@Rua @nm@de 560/561 ao fim@nm@
+SP@nm@@nm@Quinze de Novembro@nm@18730970@nm@Itaí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Américo Vazone@nm@06850971@nm@Itapecerica da Serra@nm@Jardim Tereza Maria@nm@Rua @nm@@nm@
+SP@nm@@nm@Cesário Verde@nm@06864970@nm@Itapecerica da Serra@nm@Jardim Jacira@nm@Rua @nm@@nm@
+SP@nm@@nm@Miguel Rotger Domingues@nm@06850970@nm@Itapecerica da Serra@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Quinze de Novembro@nm@06850999@nm@Itapecerica da Serra@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Quinze de Novembro@nm@06850972@nm@Itapecerica da Serra@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Barbosa Franco@nm@18200999@nm@Itapetininga@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Barbosa Franco@nm@18200970@nm@Itapetininga@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Virgílio de Rezende@nm@18200972@nm@Itapetininga@nm@Centro@nm@Rua @nm@até 579/580@nm@
+SP@nm@@nm@João Adolfo@nm@18200971@nm@Itapetininga@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@do Correio@nm@18400999@nm@Itapeva@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@do Correio@nm@18400970@nm@Itapeva@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Dona Paulina de Morais@nm@18407970@nm@Itapeva@nm@Jardim Maringá@nm@Avenida @nm@de 553/554 ao fim@nm@
+SP@nm@@nm@Ruy Barbosa@nm@18400971@nm@Itapeva@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Leopoldina de Camargo@nm@06653971@nm@Itapevi@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Presidente Vargas@nm@06694970@nm@Itapevi@nm@Nova Itapevi@nm@Avenida @nm@@nm@
+SP@nm@@nm@Bernardino de Campos@nm@13970970@nm@Itapira@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@da Penha@nm@13970971@nm@Itapira@nm@Chácara Freitas@nm@Rua @nm@até 428/429@nm@
+SP@nm@@nm@José Ivalt Fernandes@nm@13971970@nm@Itapira@nm@Vila Penha do Rio do Peixe@nm@Rua @nm@@nm@
+SP@nm@@nm@Alberto Hinoto@nm@08576970@nm@Itaquaquecetuba@nm@Vila Zeferina@nm@Estrada @nm@de 1082 a 1578 - lado par@nm@
+SP@nm@@nm@Alberto Hinoto@nm@08599972@nm@Itaquaquecetuba@nm@Vila São Carlos@nm@Estrada @nm@de 2909 a 3887 - lado ímpar@nm@
+SP@nm@@nm@Galvão@nm@08597970@nm@Itaquaquecetuba@nm@Quinta da Boa Vista (Residencial)@nm@Rua @nm@@nm@
+SP@nm@@nm@Padre João Álvares@nm@08570999@nm@Itaquaquecetuba@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Padre João Álvares@nm@08570970@nm@Itaquaquecetuba@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Florêncio Pupo@nm@13250970@nm@Itatiba@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Vicente Catalani@nm@13256970@nm@Itatiba@nm@Jardim das Nações@nm@Avenida @nm@@nm@
+SP@nm@@nm@Vinte e Nove de Abril@nm@13256971@nm@Itatiba@nm@Vila Santa Clara@nm@Avenida @nm@até 469/470@nm@
+SP@nm@@nm@Bom Jesus@nm@13300971@nm@Itu@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@da Independência@nm@13300970@nm@Itu@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Doutor Lauro de Souza Lima@nm@13308970@nm@Itu@nm@Vila Martins@nm@Rua @nm@@nm@
+SP@nm@@nm@Eugen Wissmann@nm@13304970@nm@Itu@nm@São Luiz@nm@Avenida @nm@@nm@
+SP@nm@@nm@Barão do Rio Branco@nm@14870973@nm@Jaboticabal@nm@Centro@nm@Rua @nm@até 899/900@nm@
+SP@nm@@nm@Carlos Berchieri@nm@14870971@nm@Jaboticabal@nm@Centro@nm@Avenida @nm@até 1700 - lado par@nm@
+SP@nm@@nm@Doutor Joaquim Batista@nm@14870999@nm@Jaboticabal@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Doutor Joaquim Batista@nm@14870970@nm@Jaboticabal@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Esplanada do Lago Carlos Rodrigues Serra@nm@14870972@nm@Jaboticabal@nm@Vila Serra@nm@Praça @nm@@nm@
+SP@nm@@nm@Manoel Barbosa@nm@14896970@nm@Jaboticabal@nm@Córrego Rico@nm@Avenida @nm@@nm@
+SP@nm@@nm@Professor Paulo Donato Castellane@nm@14884970@nm@Jaboticabal@nm@Vila Industrial@nm@Via de Acesso @nm@@nm@
+SP@nm@@nm@Quinze de Novembro@nm@14870974@nm@Jaboticabal@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Humberto Peloggia@nm@12324970@nm@Jacareí@nm@Jardim São Luiz@nm@Rua @nm@@nm@
+SP@nm@@nm@Maria Augusta Fagundes Gomes@nm@12322971@nm@Jacareí@nm@Residencial São Paulo@nm@Avenida @nm@@nm@
+SP@nm@@nm@São Gabriel@nm@12340970@nm@Jacareí@nm@Jardim São Gabriel@nm@Avenida @nm@@nm@
+SP@nm@@nm@São João@nm@12322970@nm@Jacareí@nm@São João@nm@Avenida @nm@@nm@
+SP@nm@@nm@Sargento Acrísio Santana@nm@12327999@nm@Jacareí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Sargento Acrísio Santana@nm@12327970@nm@Jacareí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Senador Joaquim Miguel Martins de Siqueira@nm@12327971@nm@Jacareí@nm@Jardim Pereira do Amparo@nm@Avenida @nm@@nm@
+SP@nm@@nm@Siqueira Campos@nm@12307970@nm@Jacareí@nm@Jardim Esper@nm@Avenida @nm@de 525/526 ao fim@nm@
+SP@nm@@nm@Takeo Ota@nm@12335970@nm@Jacareí@nm@Parque Meia Lua@nm@Rua @nm@@nm@
+SP@nm@@nm@José Alves Guedes@nm@13910971@nm@Jaguariúna@nm@Centro@nm@Rua @nm@até 640/641@nm@
+SP@nm@@nm@Julia Bueno@nm@13910972@nm@Jaguariúna@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@18@nm@15700971@nm@Jales@nm@Centro@nm@Rua @nm@de 2000/2001 a 2498/2499@nm@
+SP@nm@@nm@8@nm@15700970@nm@Jales@nm@Centro@nm@Rua @nm@de 2500/2501 ao fim@nm@
+SP@nm@@nm@Benedito Pereira Leite@nm@06600999@nm@Jandira@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Carmine Gragnano@nm@06600970@nm@Jandira@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Willian Wadell@nm@06606970@nm@Jandira@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Quinzinho@nm@17210970@nm@Jaú@nm@Chácara Peccioli@nm@Avenida @nm@@nm@
+SP@nm@@nm@Francisco Canhos@nm@17202970@nm@Jaú@nm@Santo Antônio@nm@Avenida @nm@@nm@
+SP@nm@@nm@Lourenço Prado@nm@17201971@nm@Jaú@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@São Manoel@nm@17220970@nm@Jaú@nm@Distrito de Potunduva (Potunduva)@nm@Rua @nm@@nm@
+SP@nm@@nm@Tenente Lopes@nm@17201970@nm@Jaú@nm@Centro@nm@Rua @nm@até 920/0921@nm@
+SP@nm@@nm@Zezinho Magalhães@nm@17203970@nm@Jaú@nm@Jardim Estádio@nm@Avenida @nm@de 402/403 a 1310/1311@nm@
+SP@nm@@nm@Abílio Figueiredo@nm@13208972@nm@Jundiaí@nm@Anhangabaú@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Frederico Ozanan@nm@13215970@nm@Jundiaí@nm@Vila Rio Branco@nm@Avenida @nm@de 4922 a 6700 - lado par@nm@
+SP@nm@@nm@Benedicto Castilho de Andrade@nm@13212970@nm@Jundiaí@nm@Parque Residencial Eloy Chaves@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Antenor Soares Gandra@nm@13218971@nm@Jundiaí@nm@Colônia@nm@Rua @nm@de 0951/952 a 1726/1727@nm@
+SP@nm@@nm@Emile Pilon@nm@13202970@nm@Jundiaí@nm@Vila Arens II@nm@Rua @nm@@nm@
+SP@nm@@nm@Itirapina@nm@13214970@nm@Jundiaí@nm@Vila Lacerda@nm@Rua @nm@até 969/970@nm@
+SP@nm@@nm@Marechal Deodoro da Fonseca@nm@13201971@nm@Jundiaí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Norivaldo Martins da Silva@nm@13211970@nm@Jundiaí@nm@Retiro@nm@Rua @nm@@nm@
+SP@nm@@nm@Nove de Julho@nm@13201974@nm@Jundiaí@nm@Centro@nm@Avenida @nm@até 0999 - lado ímpar@nm@
+SP@nm@@nm@Petronilha Antunes@nm@13201970@nm@Jundiaí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@São João@nm@13216970@nm@Jundiaí@nm@Vila Joana@nm@Avenida @nm@@nm@
+SP@nm@@nm@29 de Agosto@nm@13610971@nm@Leme@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Américo Bergamasco@nm@13617970@nm@Leme@nm@Vila Bom Jesus@nm@Rua @nm@@nm@
+SP@nm@@nm@Major Arthur Franco Mourão@nm@13611970@nm@Leme@nm@Centro@nm@Rua @nm@até 50/51@nm@
+SP@nm@@nm@Rafael de Barros@nm@13610970@nm@Leme@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Sete de Setembro@nm@18682970@nm@Lençóis Paulista@nm@Centro@nm@Rua @nm@até 960/961@nm@
+SP@nm@@nm@Vinte e Cinco de Janeiro@nm@18681970@nm@Lençóis Paulista@nm@Vila Mamedina@nm@Avenida @nm@até 560/561@nm@
+SP@nm@@nm@Doutor Custódio Moreira Cesar@nm@13480973@nm@Limeira@nm@Jardim São Manoel@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Huberto Amsbruster@nm@13486971@nm@Limeira@nm@Boa Vista@nm@Rua @nm@@nm@
+SP@nm@@nm@Duque de Caxias@nm@13486972@nm@Limeira@nm@Centro@nm@Rua @nm@até 400/401@nm@
+SP@nm@@nm@Jacob de Gaspari@nm@13489970@nm@Limeira@nm@Tatu@nm@Rua @nm@@nm@
+SP@nm@@nm@Pedro Elias@nm@13487970@nm@Limeira@nm@Jardim Vista Alegre@nm@Rua @nm@até 1058/1059@nm@
+SP@nm@@nm@Piracicaba@nm@13480972@nm@Limeira@nm@Vila São João@nm@Avenida @nm@@nm@
+SP@nm@@nm@Tiradentes@nm@13480971@nm@Limeira@nm@Centro@nm@Rua @nm@até 570 - lado par@nm@
+SP@nm@@nm@Tiradentes@nm@13480970@nm@Limeira@nm@Centro@nm@Rua @nm@até 570 - lado par@nm@
+SP@nm@@nm@José Garcia de Carvalho@nm@16400971@nm@Lins@nm@Jardim Ariano@nm@Rua @nm@@nm@
+SP@nm@@nm@Olavo Bilac@nm@16400999@nm@Lins@nm@Centro@nm@Rua @nm@até 860/0861@nm@
+SP@nm@@nm@Olavo Bilac@nm@16400970@nm@Lins@nm@Centro@nm@Rua @nm@até 860/0861@nm@
+SP@nm@@nm@Tomaz Antônio Gonzaga@nm@16400972@nm@Lins@nm@Jardim Ariano@nm@Rua @nm@@nm@
+SP@nm@@nm@Dom Bosco@nm@12600970@nm@Lorena@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Oswaldo Aranha@nm@12600971@nm@Lorena@nm@Cruz@nm@Avenida @nm@@nm@
+SP@nm@@nm@Coronel Fagundes@nm@07600973@nm@Mairiporã@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Coronel Fagundes@nm@07600970@nm@Mairiporã@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@XV de Novembro@nm@07600971@nm@Mairiporã@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Castro Alves@nm@17506971@nm@Marília@nm@Somenzari@nm@Avenida @nm@até 1260/1261@nm@
+SP@nm@@nm@Coronel Galdino de Almeida@nm@17500972@nm@Marília@nm@Centro@nm@Rua @nm@até 620/621@nm@
+SP@nm@@nm@das Roseiras@nm@17519970@nm@Marília@nm@Fragata@nm@Rua @nm@@nm@
+SP@nm@@nm@Getulio Vargas@nm@17530970@nm@Marília@nm@Centro (Amadeu Amaral)@nm@Rua @nm@@nm@
+SP@nm@@nm@Gonçalves Dias@nm@17539970@nm@Marília@nm@Centro (Lácio)@nm@Rua @nm@@nm@
+SP@nm@@nm@João Ramalho@nm@17522971@nm@Marília@nm@Núcleo Habitacional Nova Marília@nm@Avenida @nm@de 1842/1843 ao fim@nm@
+SP@nm@@nm@José Belmiro da Rocha@nm@17535970@nm@Marília@nm@Centro (Rosália)@nm@Rua @nm@@nm@
+SP@nm@@nm@Pedro de Toledo@nm@17509972@nm@Marília@nm@Palmital@nm@Avenida @nm@até 950/951@nm@
+SP@nm@@nm@Rui Barbosa@nm@17509973@nm@Marília@nm@Palmital@nm@Rua @nm@@nm@
+SP@nm@@nm@Sampaio Vidal@nm@17500970@nm@Marília@nm@Centro@nm@Avenida @nm@de 212/213 a 600/601@nm@
+SP@nm@@nm@Sampaio Vidal@nm@17533970@nm@Marília@nm@Centro (Padre Nóbrega)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Sampaio Vidal@nm@17537970@nm@Marília@nm@Dirceu (Distrito de Marilia)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Santo Antônio@nm@17506970@nm@Marília@nm@Somenzari@nm@Avenida @nm@de 1612/1613 a 3170/3171@nm@
+SP@nm@@nm@Vicente Ferreira@nm@17509971@nm@Marília@nm@São João@nm@Avenida @nm@de 1502/1503 ao fim@nm@
+SP@nm@@nm@Vitória Régia@nm@17532970@nm@Marília@nm@Avencas (Avencas)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Domingos Primiano@nm@15999970@nm@Matão@nm@São Lourenço do Turvo@nm@Rua @nm@@nm@
+SP@nm@@nm@Francisco José de Souza@nm@15998970@nm@Matão@nm@Silvania@nm@Avenida @nm@@nm@
+SP@nm@@nm@José Bonifácio@nm@15990970@nm@Matão@nm@Centro@nm@Rua @nm@até 1399/1400@nm@
+SP@nm@@nm@José Bonifácio@nm@15990999@nm@Matão@nm@Centro@nm@Rua @nm@até 1399/1400@nm@
+SP@nm@@nm@Quinze de Novembro@nm@15997970@nm@Matão@nm@Alto@nm@Avenida @nm@de 1481/1482 ao fim@nm@
+SP@nm@@nm@Rui Barbosa@nm@15990972@nm@Matão@nm@Vila Santa Cruz@nm@Rua @nm@de 1301/1302 a 1959/1960@nm@
+SP@nm@@nm@São Lourenço@nm@15990971@nm@Matão@nm@Centro@nm@Rua @nm@de 32 a 1300 - lado par@nm@
+SP@nm@@nm@Ataulfo Alves@nm@09380970@nm@Mauá@nm@Jardim Sônia Maria@nm@Rua @nm@@nm@
+SP@nm@@nm@Campos Sales@nm@09310970@nm@Mauá@nm@Vila Bocaina@nm@Rua @nm@@nm@
+SP@nm@@nm@Dom José Gaspar@nm@09370970@nm@Mauá@nm@Matriz@nm@Avenida @nm@@nm@
+SP@nm@@nm@Dom José Gaspar@nm@09370971@nm@Mauá@nm@Matriz@nm@Avenida @nm@@nm@
+SP@nm@@nm@Havana@nm@09351970@nm@Mauá@nm@Parque das Américas@nm@Rua @nm@@nm@
+SP@nm@@nm@Presidente Castelo Branco@nm@09321970@nm@Mauá@nm@Jardim Zaira@nm@Avenida @nm@até 999/1000@nm@
+SP@nm@@nm@Vinte e Dois de Novembro@nm@09310999@nm@Mauá@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Vinte e Dois de Novembro@nm@09310971@nm@Mauá@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Doutor Anísio José Moreira@nm@15130971@nm@Mirassol@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Quintino Bocaiuva@nm@15130970@nm@Mirassol@nm@Centro@nm@Rua @nm@até 2698/2699@nm@
+SP@nm@@nm@Quintino Bocaiuva@nm@15130972@nm@Mirassol@nm@Centro@nm@Rua @nm@até 2698/2699@nm@
+SP@nm@@nm@Roberto Lucato Hansen@nm@15139970@nm@Mirassol@nm@Centro (Ruilândia)@nm@Rua @nm@@nm@
+SP@nm@@nm@Capitão Miguel Ferreira@nm@13730971@nm@Mococa@nm@Vila Mariana@nm@Rua @nm@@nm@
+SP@nm@@nm@Carmo Taliberti@nm@13730970@nm@Mococa@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Coronel Diogo@nm@13730972@nm@Mococa@nm@Centro@nm@Rua @nm@de 1092/1093 ao fim@nm@
+SP@nm@@nm@Doutor Ricardo Vilela@nm@08710999@nm@Mogi das Cruzes@nm@Centro@nm@Rua @nm@até 783/784@nm@
+SP@nm@@nm@Doutor Ricardo Vilela@nm@08710971@nm@Mogi das Cruzes@nm@Centro@nm@Rua @nm@até 783/784@nm@
+SP@nm@@nm@Doutor Ricardo Vilela@nm@08780970@nm@Mogi das Cruzes@nm@Centro@nm@Rua @nm@até 783/784@nm@
+SP@nm@@nm@Francisco Affonso de Melo@nm@08740970@nm@Mogi das Cruzes@nm@Vila Brás Cubas@nm@Rua @nm@@nm@
+SP@nm@@nm@Francisco Ferreira Lopes@nm@08735970@nm@Mogi das Cruzes@nm@Vila Lavínia@nm@Avenida @nm@até 1909/1910@nm@
+SP@nm@@nm@Guararema@nm@08765970@nm@Mogi das Cruzes@nm@Taiaçupeba@nm@Rua @nm@@nm@
+SP@nm@@nm@José Bonifácio@nm@08710972@nm@Mogi das Cruzes@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Presidente Rodrigues Alves@nm@08710973@nm@Mogi das Cruzes@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Ricieri José Marcatto@nm@08810970@nm@Mogi das Cruzes@nm@Vila Suissa@nm@Avenida @nm@@nm@
+SP@nm@@nm@Santo Ângelo@nm@08750970@nm@Mogi das Cruzes@nm@Jundiapeba@nm@Alameda @nm@@nm@
+SP@nm@@nm@Thuller@nm@08740971@nm@Mogi das Cruzes@nm@Jardim Universo@nm@Rua @nm@@nm@
+SP@nm@@nm@Voluntário Fernando Pinheiro Franco@nm@08710970@nm@Mogi das Cruzes@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Honório Correa@nm@13855970@nm@Mogi Guaçu@nm@Martinho Prado Júnior@nm@Rua @nm@@nm@
+SP@nm@@nm@Júlio Xavier da Silva@nm@13845970@nm@Mogi Guaçu@nm@Parque Cidade Nova@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Marechal Castelo Branco@nm@13840970@nm@Mogi Guaçu@nm@Loteamento Morro de Ouro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Paulista@nm@13845971@nm@Mogi Guaçu@nm@Jardim Centenário@nm@Avenida @nm@@nm@
+SP@nm@@nm@Luís Pilla@nm@13817971@nm@Mogi Mirim@nm@Martim Francisco@nm@Avenida @nm@@nm@
+SP@nm@@nm@Marciliano@nm@13800971@nm@Mogi Mirim@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Marciliano@nm@13800973@nm@Mogi Mirim@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Sebastião Milano Sobrinho@nm@13801970@nm@Mogi Mirim@nm@Jardim Planalto@nm@Rua @nm@@nm@
+SP@nm@@nm@Sebastião Milano Sobrinho@nm@13801972@nm@Mogi Mirim@nm@Jardim Planalto@nm@Rua @nm@@nm@
+SP@nm@@nm@Senador José Bonifácio@nm@13800970@nm@Mogi Mirim@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Aristeu Valente@nm@13380971@nm@Nova Odessa@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Rio Branco@nm@13380972@nm@Nova Odessa@nm@Centro@nm@Rua @nm@até 729/730@nm@
+SP@nm@@nm@Agudos@nm@06223971@nm@Osasco@nm@Rochdale@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Carlos Costa@nm@06053970@nm@Osasco@nm@Bela Vista@nm@Avenida @nm@até 561 - lado ímpar@nm@
+SP@nm@@nm@Benedito Alves Turíbio@nm@06160970@nm@Osasco@nm@Padroeira@nm@Avenida @nm@até 501/502@nm@
+SP@nm@@nm@da Redenção@nm@06250970@nm@Osasco@nm@Jardim Elvira@nm@Praça @nm@@nm@
+SP@nm@@nm@dos Autonomistas@nm@06194971@nm@Osasco@nm@km 18@nm@Avenida @nm@de 4334 ao fim - lado par@nm@
+SP@nm@@nm@dos Autonomistas@nm@06194970@nm@Osasco@nm@km 18@nm@Avenida @nm@de 4231 ao fim - lado ímpar@nm@
+SP@nm@@nm@dos Remédios@nm@06298970@nm@Osasco@nm@Remédios@nm@Avenida @nm@até 301 - lado ímpar (lado par pertence a(o) São Paulo)@nm@
+SP@nm@@nm@Doutor Alberto Jackson Byington@nm@06273970@nm@Osasco@nm@Vila Menck@nm@Avenida @nm@até 1399/1400@nm@
+SP@nm@@nm@General Bitencourt@nm@06016972@nm@Osasco@nm@Centro@nm@Rua @nm@até 309/310@nm@
+SP@nm@@nm@Getúlio Vargas@nm@06233970@nm@Osasco@nm@Piratininga@nm@Avenida @nm@@nm@
+SP@nm@@nm@Hilário Pereira de Souza@nm@06010970@nm@Osasco@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@João de Andrade@nm@06132971@nm@Osasco@nm@Santo Antônio@nm@Avenida @nm@de 553/554 a 1178/1179@nm@
+SP@nm@@nm@Oswaldo Collino@nm@06210970@nm@Osasco@nm@Presidente Altino@nm@Rua @nm@até 399/400@nm@
+SP@nm@@nm@Padre Damaso@nm@06016970@nm@Osasco@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Padre Vicente Melillo@nm@06036970@nm@Osasco@nm@Umuarama@nm@Avenida @nm@até 659 - lado ímpar@nm@
+SP@nm@@nm@República do Líbano@nm@06013971@nm@Osasco@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@República do Líbano@nm@06013970@nm@Osasco@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Tenente Avelar Pires de Azevedo@nm@06016999@nm@Osasco@nm@Centro@nm@Rua @nm@até 273/274@nm@
+SP@nm@@nm@Doutor Antônio Prado@nm@19911971@nm@Ourinhos@nm@Vila Recreio@nm@Rua @nm@de 519/520 ao fim@nm@
+SP@nm@@nm@Euclides da Cunha@nm@19900970@nm@Ourinhos@nm@Centro@nm@Rua @nm@até 1130/1131@nm@
+SP@nm@@nm@Euclides da Cunha@nm@19900971@nm@Ourinhos@nm@Centro@nm@Rua @nm@até 1130/1131@nm@
+SP@nm@@nm@Euclides da Cunha@nm@19900999@nm@Ourinhos@nm@Centro@nm@Rua @nm@até 1130/1131@nm@
+SP@nm@@nm@Prefeito Benício do Espírito Santo@nm@19907970@nm@Ourinhos@nm@Vila Margarida@nm@Praça @nm@@nm@
+SP@nm@@nm@Dom Pedro I@nm@13140971@nm@Paulínia@nm@Vila Bressani@nm@Rua @nm@@nm@
+SP@nm@@nm@José Paulino@nm@13140970@nm@Paulínia@nm@Jardim de Itapoan@nm@Avenida @nm@de 1379 a 1851 - lado ímpar@nm@
+SP@nm@@nm@São Bento@nm@13140972@nm@Paulínia@nm@Santa Cecília@nm@Rua @nm@até 885/886@nm@
+SP@nm@@nm@Thomaz Magdaleno@nm@17150970@nm@Paulistânia@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Amazonas@nm@16305970@nm@Penápolis@nm@Parque São Luiz@nm@Rua @nm@até 61 - lado ímpar@nm@
+SP@nm@@nm@Expedicionário Diogo Garcia Martins@nm@16300970@nm@Penápolis@nm@Centro@nm@Avenida @nm@de 27/28 a 1398/1399@nm@
+SP@nm@@nm@Irmãos Chrisóstomo de Oliveira@nm@16300972@nm@Penápolis@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Barão do Rio Branco@nm@12400970@nm@Pindamonhangaba@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Doutor Campos Salles@nm@12422970@nm@Pindamonhangaba@nm@Chácara da Galega@nm@Rua @nm@de 221/222 ao fim@nm@
+SP@nm@@nm@Doutor José Monteiro Machado César@nm@12441970@nm@Pindamonhangaba@nm@Loteamento João Tamborindeguy Fernandes@nm@Avenida @nm@@nm@
+SP@nm@@nm@João Guimarães Alves@nm@12422971@nm@Pindamonhangaba@nm@Chácara da Galega@nm@Rua @nm@@nm@
+SP@nm@@nm@Américo Faganello@nm@13433970@nm@Piracicaba@nm@Tanquinho (Guamium)@nm@Rua @nm@@nm@
+SP@nm@@nm@Antonia Pazinato Sturion@nm@13420970@nm@Piracicaba@nm@Morumbi@nm@Avenida @nm@@nm@
+SP@nm@@nm@Armando de Salles Oliveira@nm@13400973@nm@Piracicaba@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Armando de Salles Oliveira@nm@13400970@nm@Piracicaba@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Carlos Botelho@nm@13416970@nm@Piracicaba@nm@São Dimas@nm@Avenida @nm@até 320/321@nm@
+SP@nm@@nm@Doutor Paulo de Moraes@nm@13400972@nm@Piracicaba@nm@Paulista@nm@Avenida @nm@até 2000/2001@nm@
+SP@nm@@nm@Doutor Paulo de Moraes@nm@13400971@nm@Piracicaba@nm@Paulista@nm@Avenida @nm@até 2000/2001@nm@
+SP@nm@@nm@João Alfredo@nm@13432970@nm@Piracicaba@nm@Centro (Ártemis)@nm@Praça @nm@@nm@
+SP@nm@@nm@Luiz Dias Gonzaga@nm@13404970@nm@Piracicaba@nm@Anhumas@nm@Rodovia @nm@@nm@
+SP@nm@@nm@Manoel Conceição@nm@13405971@nm@Piracicaba@nm@Vila Rezende@nm@Avenida @nm@@nm@
+SP@nm@@nm@Moraes Barros@nm@13419970@nm@Piracicaba@nm@Cidade Alta@nm@Rua @nm@de 1052/1053 a 1870/1871@nm@
+SP@nm@@nm@Piracicaba@nm@13428970@nm@Piracicaba@nm@Centro (Tupi)@nm@Rua @nm@@nm@
+SP@nm@@nm@Piracicaba@nm@13434970@nm@Piracicaba@nm@Centro (Ibitiruna)@nm@Rua @nm@@nm@
+SP@nm@@nm@Rio das Pedras@nm@13420971@nm@Piracicaba@nm@Pompéia@nm@Avenida @nm@de 1401 ao fim - lado ímpar@nm@
+SP@nm@@nm@São Jorge@nm@13411971@nm@Piracicaba@nm@Santana@nm@Rua @nm@@nm@
+SP@nm@@nm@Trinta e Um de Março@nm@13424970@nm@Piracicaba@nm@Paulicéia@nm@Avenida @nm@até 496/497@nm@
+SP@nm@@nm@Trinta e Um de Março@nm@13424971@nm@Piracicaba@nm@Paulicéia@nm@Avenida @nm@até 496/497@nm@
+SP@nm@@nm@Virgílio da Silva Fagundes@nm@13411970@nm@Piracicaba@nm@Santa Terezinha@nm@Rua @nm@@nm@
+SP@nm@@nm@Campos Salles@nm@16600970@nm@Pirajuí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Joaquim dos Santos@nm@16619970@nm@Pirajuí@nm@Centro (Corredeira)@nm@Rua @nm@@nm@
+SP@nm@@nm@José Flamino@nm@16618970@nm@Pirajuí@nm@Centro (Pradínia)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Santo Antônio@nm@16617970@nm@Pirajuí@nm@Centro (Santo Antônio da Estiva)@nm@Rua @nm@@nm@
+SP@nm@@nm@General Osório@nm@13630970@nm@Pirassununga@nm@Centro@nm@Rua @nm@até 258/259@nm@
+SP@nm@@nm@Newton Prado@nm@13631970@nm@Pirassununga@nm@Centro@nm@Avenida @nm@lado par@nm@
+SP@nm@@nm@Prefeito Euberto Nemésio Pereira de Godoy@nm@13641970@nm@Pirassununga@nm@Jardim Cachoeira@nm@Rodovia @nm@@nm@
+SP@nm@@nm@Theodoro Mac Cann@nm@13631971@nm@Pirassununga@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Elias Addad@nm@17490970@nm@Piratininga@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Francisco Manoel de Oliveira@nm@08568970@nm@Poá@nm@Jardim Nova Poá@nm@Rua @nm@@nm@
+SP@nm@@nm@Nove de Julho@nm@08550970@nm@Poá@nm@Centro@nm@Avenida @nm@até 869/870@nm@
+SP@nm@@nm@Nove de Julho@nm@08550999@nm@Poá@nm@Centro@nm@Avenida @nm@até 869/870@nm@
+SP@nm@@nm@Vital Brasil@nm@08557970@nm@Poá@nm@Vila Acoreana@nm@Avenida @nm@até 898/899@nm@
+SP@nm@@nm@Coronel Procópio de Carvalho@nm@13660970@nm@Porto Ferreira@nm@Centro@nm@Rua @nm@até 1272/1273@nm@
+SP@nm@@nm@Daniel de Oliveira Carvalho@nm@13660971@nm@Porto Ferreira@nm@Vila Nova@nm@Rua @nm@até 656/657@nm@
+SP@nm@@nm@Arquiteto Nelson Rocha@nm@11724970@nm@Praia Grande@nm@Glória@nm@Rua @nm@@nm@
+SP@nm@@nm@Guilherme de Almeida@nm@11704970@nm@Praia Grande@nm@Ocian@nm@Rua @nm@@nm@
+SP@nm@@nm@Marechal Mallet@nm@11700970@nm@Praia Grande@nm@Canto do Forte@nm@Avenida @nm@lado par@nm@
+SP@nm@@nm@Presidente Costa e Silva@nm@11701970@nm@Praia Grande@nm@Boqueirão@nm@Avenida @nm@até 621 - lado ímpar@nm@
+SP@nm@@nm@Presidente Costa e Silva@nm@11701999@nm@Praia Grande@nm@Boqueirão@nm@Avenida @nm@até 621 - lado ímpar@nm@
+SP@nm@@nm@Presidente Kennedy@nm@11707970@nm@Praia Grande@nm@Caiçara@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Presidente Kennedy@nm@11707971@nm@Praia Grande@nm@Caiçara@nm@Avenida @nm@lado par@nm@
+SP@nm@@nm@Presidente Kennedy@nm@11702970@nm@Praia Grande@nm@Guilhermina@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Ana Jacinta@nm@19027970@nm@Presidente Prudente@nm@Jardim Bela Vista@nm@Avenida @nm@até 1350 - lado par@nm@
+SP@nm@@nm@Celestino José Figueiredo@nm@19015971@nm@Presidente Prudente@nm@Vila Comercial@nm@Avenida @nm@@nm@
+SP@nm@@nm@dos Expedicionários@nm@19110970@nm@Presidente Prudente@nm@Montalvão@nm@Rua @nm@@nm@
+SP@nm@@nm@João Batista Colnago@nm@19050970@nm@Presidente Prudente@nm@Vila Liberdade@nm@Rua @nm@@nm@
+SP@nm@@nm@José Tarifa Conde@nm@19020970@nm@Presidente Prudente@nm@Vila Santa Izabel@nm@Rua @nm@@nm@
+SP@nm@@nm@Manoel Ferreira da Silva@nm@19064970@nm@Presidente Prudente@nm@Conjunto Habitacional Ana Jacinta@nm@Rua @nm@@nm@
+SP@nm@@nm@Presidente Dutra@nm@19140970@nm@Presidente Prudente@nm@Centro (Ameliópolis)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Quintino Bocaiúva@nm@19030972@nm@Presidente Prudente@nm@Vila Marcondes@nm@Rua @nm@@nm@
+SP@nm@@nm@Ribeiro de Barros@nm@19015970@nm@Presidente Prudente@nm@Vila Dubus@nm@Rua @nm@de 1081/1082 ao fim@nm@
+SP@nm@@nm@Ribeiro de Barros@nm@19015972@nm@Presidente Prudente@nm@Vila Dubus@nm@Rua @nm@de 1081/1082 ao fim@nm@
+SP@nm@@nm@Vereador Aurelino Coutinho@nm@19053971@nm@Presidente Prudente@nm@Jardim Alto da Boa Vista@nm@Avenida @nm@@nm@
+SP@nm@@nm@Vereador Aurelino Coutinho@nm@19053975@nm@Presidente Prudente@nm@Jardim Alto da Boa Vista@nm@Avenida @nm@@nm@
+SP@nm@@nm@Vereador Aurelino Coutinho@nm@19053970@nm@Presidente Prudente@nm@Jardim Alto da Boa Vista@nm@Avenida @nm@@nm@
+SP@nm@@nm@Francisco Monteiro@nm@09420970@nm@Ribeirão Pires@nm@Santana@nm@Avenida @nm@de 0703/704 a 1499/1500@nm@
+SP@nm@@nm@Francisco Monteiro@nm@09406970@nm@Ribeirão Pires@nm@Santana@nm@Avenida @nm@de 0703/704 a 1499/1500@nm@
+SP@nm@@nm@Índio Tibiriçá@nm@09431970@nm@Ribeirão Pires@nm@Santa Luzia@nm@Rodovia @nm@(SP-31)@nm@
+SP@nm@@nm@João Domingues de Oliveira@nm@09400970@nm@Ribeirão Pires@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@João Domingues de Oliveira@nm@09400999@nm@Ribeirão Pires@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Álvares Cabral@nm@14010970@nm@Ribeirão Preto@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Álvares Cabral@nm@14001970@nm@Ribeirão Preto@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Álvares Cabral@nm@14000999@nm@Ribeirão Preto@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Álvares Cabral@nm@14010973@nm@Ribeirão Preto@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Fernandes Figueroa@nm@14095971@nm@Ribeirão Preto@nm@Parque Industrial Lagoinha@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Fernandes Figueroa@nm@14095970@nm@Ribeirão Preto@nm@Parque Industrial Lagoinha@nm@Rua @nm@@nm@
+SP@nm@@nm@Bonfim@nm@14055972@nm@Ribeirão Preto@nm@Ipiranga@nm@Rua @nm@de 670/671 ao fim@nm@
+SP@nm@@nm@Brasil@nm@14075970@nm@Ribeirão Preto@nm@Vila Carvalho@nm@Avenida @nm@até 3099 - lado ímpar@nm@
+SP@nm@@nm@Cardeal Arcoverde@nm@14030970@nm@Ribeirão Preto@nm@Vila Virgínia@nm@Rua @nm@@nm@
+SP@nm@@nm@Coronel Fernando Ferreira Leite@nm@14026970@nm@Ribeirão Preto@nm@Jardim Califórnia@nm@Avenida @nm@de 901 ao fim - lado ímpar@nm@
+SP@nm@@nm@da Saudade@nm@14085970@nm@Ribeirão Preto@nm@Campos Elíseos@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor João Guião@nm@14030971@nm@Ribeirão Preto@nm@Vila Virgínia@nm@Rua @nm@até 1538/1539@nm@
+SP@nm@@nm@Farjala Moisés@nm@14093970@nm@Ribeirão Preto@nm@Parque Residencial Cândido Portinari@nm@Rua @nm@@nm@
+SP@nm@@nm@Gedeon Alves Feitosa@nm@14076970@nm@Ribeirão Preto@nm@Independência@nm@Rua @nm@@nm@
+SP@nm@@nm@Henrique Dumont@nm@14090971@nm@Ribeirão Preto@nm@Jardim Paulista@nm@Rua @nm@de 409/410 ao fim@nm@
+SP@nm@@nm@Independência@nm@14010972@nm@Ribeirão Preto@nm@Centro@nm@Avenida @nm@de 2 a 1198 - lado par@nm@
+SP@nm@@nm@Javari@nm@14061970@nm@Ribeirão Preto@nm@Antônio Marincek@nm@Rua @nm@de 4500 a 99998 - lado par@nm@
+SP@nm@@nm@João Nutti@nm@14090970@nm@Ribeirão Preto@nm@Jardim Paulistano@nm@Rua @nm@de 511/512 a 1549/1550@nm@
+SP@nm@@nm@Joaquim Nabuco@nm@14050970@nm@Ribeirão Preto@nm@Vila Tibério@nm@Rua @nm@@nm@
+SP@nm@@nm@Presidente Kennedy@nm@14095978@nm@Ribeirão Preto@nm@Ribeirânia@nm@Avenida @nm@até 1899 - lado ímpar@nm@
+SP@nm@@nm@Professor Doutor Zeferino Vaz@nm@14040970@nm@Ribeirão Preto@nm@Vila Monte Alegre@nm@Avenida @nm@@nm@
+SP@nm@@nm@Rio Grande do Norte@nm@14055970@nm@Ribeirão Preto@nm@Alto do Ipiranga@nm@Rua @nm@de 1700/1701 ao fim@nm@
+SP@nm@@nm@São José@nm@14010971@nm@Ribeirão Preto@nm@Centro@nm@Rua @nm@até 1398/1399@nm@
+SP@nm@@nm@Wilson Roberto de Jesus@nm@14070971@nm@Ribeirão Preto@nm@Quintino Facci II@nm@Rua @nm@@nm@
+SP@nm@@nm@1@nm@13504972@nm@Rio Claro@nm@Batovi@nm@Rua @nm@@nm@
+SP@nm@@nm@1@nm@13500970@nm@Rio Claro@nm@Centro@nm@Rua @nm@de 1086/1087 a 1476/1477@nm@
+SP@nm@@nm@32@nm@13500972@nm@Rio Claro@nm@Vila Aparecida@nm@Avenida @nm@até 240/241@nm@
+SP@nm@@nm@36@nm@13504970@nm@Rio Claro@nm@Vila Operária@nm@Avenida @nm@de 274/275 a 1614/1615@nm@
+SP@nm@@nm@36@nm@13504971@nm@Rio Claro@nm@Vila Operária@nm@Avenida @nm@de 274/275 a 1614/1615@nm@
+SP@nm@@nm@4@nm@13500971@nm@Rio Claro@nm@Centro@nm@Rua @nm@de 1080/1081 a 1474/1475@nm@
+SP@nm@@nm@4@nm@13500973@nm@Rio Claro@nm@Centro@nm@Rua @nm@de 1080/1081 a 1474/1475@nm@
+SP@nm@@nm@4 Ajapi@nm@13508971@nm@Rio Claro@nm@Centro (Ajapi)@nm@Rua @nm@@nm@
+SP@nm@@nm@5 Ferraz@nm@13508970@nm@Rio Claro@nm@Ferraz@nm@Rua @nm@@nm@
+SP@nm@@nm@José Felício Castellano@nm@13506970@nm@Rio Claro@nm@Vila Cristina@nm@Rua @nm@de 1400 a 2160 - lado par@nm@
+SP@nm@@nm@M 23@nm@13505970@nm@Rio Claro@nm@Parque das Indústrias@nm@Avenida @nm@de 700/701 a 1768/1769@nm@
+SP@nm@@nm@Maria Ferraz Pereira@nm@13509970@nm@Rio Claro@nm@Recanto das Pedras (Assistência)@nm@Rua @nm@@nm@
+SP@nm@@nm@Dom Pedro II@nm@13320972@nm@Salto@nm@Centro@nm@Avenida @nm@até 749/750@nm@
+SP@nm@@nm@Doutor Barros Júnior@nm@13320970@nm@Salto@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Joaquim Nabuco@nm@13320971@nm@Salto@nm@Jardim Sevilha@nm@Rua @nm@de 1100 a 99998 - lado par@nm@
+SP@nm@@nm@Prudente de Morais@nm@19920970@nm@Salto Grande@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@do Osmio@nm@13456970@nm@Santa Bárbara D'Oeste@nm@Jardim Mollon@nm@Rua @nm@@nm@
+SP@nm@@nm@Dona Margarida@nm@13450970@nm@Santa Bárbara D'Oeste@nm@Centro@nm@Rua @nm@até 648/649@nm@
+SP@nm@@nm@Joaquim de Oliveira@nm@13450971@nm@Santa Bárbara D'Oeste@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Di Cavalcanti@nm@06537970@nm@Santana de Parnaíba@nm@Colinas da Anhangüera@nm@Rua @nm@@nm@
+SP@nm@@nm@Maricá Marques@nm@06529970@nm@Santana de Parnaíba@nm@Jardim Represa (Fazendinha)@nm@Estrada @nm@@nm@
+SP@nm@@nm@Quinze de Novembro@nm@06501970@nm@Santana de Parnaíba@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Tenente Marques@nm@06530971@nm@Santana de Parnaíba@nm@Chácara do Solar I (Fazendinha)@nm@Estrada @nm@@nm@
+SP@nm@@nm@Tenente Marques@nm@06530970@nm@Santana de Parnaíba@nm@Chácara do Solar I (Fazendinha)@nm@Estrada @nm@@nm@
+SP@nm@@nm@Yojiro Takaoka@nm@06541970@nm@Santana de Parnaíba@nm@Alphaville@nm@Avenida @nm@de 3331/3332 a 5449/5450@nm@
+SP@nm@@nm@Antônio Francisco de Paula Souza@nm@09150970@nm@Santo André@nm@Paranapiacaba@nm@Avenida @nm@(Parte Baixa)@nm@
+SP@nm@@nm@Artur de Queirós@nm@09015972@nm@Santo André@nm@Casa Branca@nm@Avenida @nm@@nm@
+SP@nm@@nm@Artur de Queirós@nm@09015971@nm@Santo André@nm@Casa Branca@nm@Avenida @nm@@nm@
+SP@nm@@nm@Carijós@nm@09180971@nm@Santo André@nm@Vila Alzira@nm@Rua @nm@até 1409/1410@nm@
+SP@nm@@nm@Carijós@nm@09180970@nm@Santo André@nm@Vila Linda@nm@Rua @nm@de 1411/1412 ao fim@nm@
+SP@nm@@nm@Correia Dias@nm@09010970@nm@Santo André@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@das Nações@nm@09270970@nm@Santo André@nm@Parque Capuava@nm@Avenida @nm@de 2111/2112 a 2539/2540@nm@
+SP@nm@@nm@do Pedroso@nm@09132970@nm@Santo André@nm@Vila Luzita@nm@Estrada @nm@até 1099/1100@nm@
+SP@nm@@nm@Dom Bosco@nm@09240970@nm@Santo André@nm@Vila Lucinda@nm@Avenida @nm@@nm@
+SP@nm@@nm@Dom Pedro I@nm@09110970@nm@Santo André@nm@Vila Tibiriçá@nm@Avenida @nm@de 2100 a 3398 - lado par@nm@
+SP@nm@@nm@dos Estados@nm@09210999@nm@Santo André@nm@Santa Terezinha@nm@Avenida @nm@@nm@
+SP@nm@@nm@dos Estados@nm@09210972@nm@Santo André@nm@Santa Terezinha@nm@Avenida @nm@@nm@
+SP@nm@@nm@dos Estados@nm@09210971@nm@Santo André@nm@Santa Terezinha@nm@Avenida @nm@@nm@
+SP@nm@@nm@dos Estados@nm@09290970@nm@Santo André@nm@Santa Terezinha@nm@Avenida @nm@@nm@
+SP@nm@@nm@Gilda@nm@09190971@nm@Santo André@nm@Vila Gilda@nm@Avenida @nm@@nm@
+SP@nm@@nm@Gilda@nm@09190999@nm@Santo André@nm@Vila Gilda@nm@Avenida @nm@@nm@
+SP@nm@@nm@Índio Tibiriçá@nm@09160970@nm@Santo André@nm@Parque Represa Billings III@nm@Rodovia @nm@@nm@
+SP@nm@@nm@Itamarati@nm@09271970@nm@Santo André@nm@Parque Erasmo Assunção@nm@Avenida @nm@de 1992/1993 ao fim@nm@
+SP@nm@@nm@Martim Francisco@nm@09230970@nm@Santo André@nm@Vila Alto de Santo André@nm@Avenida @nm@até 1299/1300@nm@
+SP@nm@@nm@Oratório@nm@09260970@nm@Santo André@nm@Bangú@nm@Rua @nm@até 1389/1390@nm@
+SP@nm@@nm@Pedro Américo@nm@09110971@nm@Santo André@nm@Vila Homero Thon@nm@Avenida @nm@@nm@
+SP@nm@@nm@Quarto Centenário@nm@09015999@nm@Santo André@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Quarto Centenário@nm@09015970@nm@Santo André@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Quarto Centenário@nm@09015973@nm@Santo André@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Santa Maria Goretti@nm@09220970@nm@Santo André@nm@Utinga@nm@Rua @nm@@nm@
+SP@nm@@nm@Santo Amaro@nm@09090970@nm@Santo André@nm@Jardim@nm@Travessa @nm@@nm@
+SP@nm@@nm@Santo Amaro@nm@09090971@nm@Santo André@nm@Jardim@nm@Travessa @nm@@nm@
+SP@nm@@nm@São Paulo@nm@09111970@nm@Santo André@nm@Cidade São Jorge@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Jorge Tibiriçá@nm@13830970@nm@Santo Antônio de Posse@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Affonso Penna@nm@11020970@nm@Santos@nm@Estuário@nm@Avenida @nm@de 463 a 693 - lado ímpar@nm@
+SP@nm@@nm@Ana Costa@nm@11060970@nm@Santos@nm@Gonzaga@nm@Avenida @nm@até 341 - lado ímpar@nm@
+SP@nm@@nm@Cidade de Toledo@nm@11010970@nm@Santos@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Cidade de Toledo@nm@11010999@nm@Santos@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Cidade de Toledo@nm@11010971@nm@Santos@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Conselheiro Nébias@nm@11015971@nm@Santos@nm@Paquetá@nm@Avenida @nm@até 200 - lado par@nm@
+SP@nm@@nm@Conselheiro Nébias@nm@11050970@nm@Santos@nm@Boqueirão@nm@Avenida @nm@de 534 ao fim - lado par@nm@
+SP@nm@@nm@Conselheiro Nébias@nm@11045970@nm@Santos@nm@Boqueirão@nm@Avenida @nm@de 534 ao fim - lado par@nm@
+SP@nm@@nm@Doutor Alderico Monteiro Soares@nm@11090970@nm@Santos@nm@Bom Retiro@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Pedro Lessa@nm@11025971@nm@Santos@nm@Ponta da Praia@nm@Avenida @nm@até 1594 - lado par@nm@
+SP@nm@@nm@Doutor Pedro Lessa@nm@11025972@nm@Santos@nm@Aparecida@nm@Avenida @nm@de 1596 ao fim - lado par@nm@
+SP@nm@@nm@Iguatemi Martins@nm@11013970@nm@Santos@nm@Vila Nova@nm@Praça @nm@@nm@
+SP@nm@@nm@Jovino de Mello@nm@11089971@nm@Santos@nm@Areia Branca@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Jovino de Mello@nm@11089974@nm@Santos@nm@Areia Branca@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Jovino de Mello@nm@11089970@nm@Santos@nm@Areia Branca@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Jovino de Mello@nm@11089976@nm@Santos@nm@Areia Branca@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Julio de Mesquita@nm@11075970@nm@Santos@nm@Vila Mathias@nm@Rua @nm@até 165/166@nm@
+SP@nm@@nm@Nossa Senhora de Fátima@nm@11085973@nm@Santos@nm@Saboó@nm@Avenida @nm@até 276 - lado par@nm@
+SP@nm@@nm@Nossa Senhora de Fátima@nm@11085970@nm@Santos@nm@Saboó@nm@Avenida @nm@até 276 - lado par@nm@
+SP@nm@@nm@Saturnino de Brito@nm@11070970@nm@Santos@nm@Marapé@nm@Rua @nm@até 155/156@nm@
+SP@nm@@nm@Senador Pinheiro Machado@nm@11075971@nm@Santos@nm@Marapé@nm@Avenida @nm@até 610 - lado par@nm@
+SP@nm@@nm@Senador Pinheiro Machado@nm@11065970@nm@Santos@nm@Pompéia@nm@Avenida @nm@de 933 ao fim - lado ímpar@nm@
+SP@nm@@nm@Siqueira Campos@nm@11045971@nm@Santos@nm@Embaré@nm@Avenida @nm@de 333 ao fim - lado ímpar@nm@
+SP@nm@@nm@Vereador Henrique Soler@nm@11030970@nm@Santos@nm@Ponta da Praia@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Álvaro Guimarães@nm@09890971@nm@São Bernardo do Campo@nm@Planalto@nm@Avenida @nm@até 261/0262@nm@
+SP@nm@@nm@Álvaro Guimarães@nm@09890970@nm@São Bernardo do Campo@nm@Planalto@nm@Avenida @nm@até 261/0262@nm@
+SP@nm@@nm@Anchieta@nm@09635970@nm@São Bernardo do Campo@nm@Rudge Ramos@nm@Rua @nm@@nm@
+SP@nm@@nm@Araguaia@nm@09830970@nm@São Bernardo do Campo@nm@Rio Grande@nm@Avenida @nm@@nm@
+SP@nm@@nm@Brigadeiro Faria Lima@nm@09720973@nm@São Bernardo do Campo@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Brigadeiro Faria Lima@nm@09720970@nm@São Bernardo do Campo@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Brigadeiro Faria Lima@nm@09720999@nm@São Bernardo do Campo@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Brigadeiro Faria Lima@nm@09720972@nm@São Bernardo do Campo@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Brigadeiro Faria Lima@nm@09720971@nm@São Bernardo do Campo@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Cristiano Angeli@nm@09812970@nm@São Bernardo do Campo@nm@Assunção@nm@Rua @nm@até 1109/1110@nm@
+SP@nm@@nm@Cristiano Angeli@nm@09812971@nm@São Bernardo do Campo@nm@Assunção@nm@Rua @nm@até 1109/1110@nm@
+SP@nm@@nm@Cristiano Angeli@nm@09812999@nm@São Bernardo do Campo@nm@Assunção@nm@Rua @nm@até 1109/1110@nm@
+SP@nm@@nm@do Taboão@nm@09656970@nm@São Bernardo do Campo@nm@Taboão@nm@Avenida @nm@até 3011/3012@nm@
+SP@nm@@nm@dos Expedicionários@nm@09750970@nm@São Bernardo do Campo@nm@Jardim do Mar@nm@Praça @nm@@nm@
+SP@nm@@nm@Doutor Rudge Ramos@nm@09636999@nm@São Bernardo do Campo@nm@Rudge Ramos@nm@Avenida @nm@até 650 - lado par@nm@
+SP@nm@@nm@Doutor Rudge Ramos@nm@09636970@nm@São Bernardo do Campo@nm@Rudge Ramos@nm@Avenida @nm@até 650 - lado par@nm@
+SP@nm@@nm@Garcia Lorca@nm@09695970@nm@São Bernardo do Campo@nm@Paulicéia@nm@Rua @nm@@nm@
+SP@nm@@nm@Getúlio Vargas@nm@09751970@nm@São Bernardo do Campo@nm@Baeta Neves@nm@Avenida @nm@até 1139/1140@nm@
+SP@nm@@nm@Kennedy@nm@09726970@nm@São Bernardo do Campo@nm@Jardim do Mar@nm@Avenida @nm@até 170 - lado par@nm@
+SP@nm@@nm@M M D C@nm@09690970@nm@São Bernardo do Campo@nm@Paulicéia@nm@Rua @nm@até 959/960@nm@
+SP@nm@@nm@Senador Vergueiro@nm@09604970@nm@São Bernardo do Campo@nm@Rudge Ramos@nm@Avenida @nm@de 3800 a 4198 - lado par@nm@
+SP@nm@@nm@Wallace Simonsen@nm@09771971@nm@São Bernardo do Campo@nm@Nova Petrópolis@nm@Avenida @nm@até 989/990@nm@
+SP@nm@@nm@Amazonas@nm@09552970@nm@São Caetano do Sul@nm@Centro@nm@Rua @nm@até 920 - lado par@nm@
+SP@nm@@nm@Goiás@nm@09521970@nm@São Caetano do Sul@nm@Santo Antônio@nm@Avenida @nm@até 1770 - lado par@nm@
+SP@nm@@nm@Manoel Coelho@nm@09510999@nm@São Caetano do Sul@nm@Centro@nm@Rua @nm@até 420 - lado par@nm@
+SP@nm@@nm@Manoel Coelho@nm@09510970@nm@São Caetano do Sul@nm@Centro@nm@Rua @nm@até 420 - lado par@nm@
+SP@nm@@nm@Perrella@nm@09520970@nm@São Caetano do Sul@nm@Fundação@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Taipas@nm@09560970@nm@São Caetano do Sul@nm@Santa Maria@nm@Rua @nm@@nm@
+SP@nm@@nm@Taipas@nm@09560999@nm@São Caetano do Sul@nm@Santa Maria@nm@Rua @nm@@nm@
+SP@nm@@nm@Visconde de Inhaúma@nm@09571970@nm@São Caetano do Sul@nm@Osvaldo Cruz@nm@Rua @nm@até 630 - lado par@nm@
+SP@nm@@nm@Cândido de Arruda Botelho@nm@13562970@nm@São Carlos@nm@Parque Santa Felícia Jardim@nm@Rua @nm@@nm@
+SP@nm@@nm@Coronel José Augusto de Oliveira Salles@nm@13570970@nm@São Carlos@nm@Vila Izabel@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Bernardino de Campos@nm@13574971@nm@São Carlos@nm@Vila Prado@nm@Rua @nm@@nm@
+SP@nm@@nm@Episcopal@nm@13560970@nm@São Carlos@nm@Núcleo Residencial Silvio Vilari@nm@Rua @nm@até 1730/1731@nm@
+SP@nm@@nm@João Paulo@nm@13573970@nm@São Carlos@nm@Cidade Aracy@nm@Rua @nm@@nm@
+SP@nm@@nm@Marechal Deodoro@nm@13560972@nm@São Carlos@nm@Centro@nm@Rua @nm@até 2220/2221@nm@
+SP@nm@@nm@Sallum@nm@13574970@nm@São Carlos@nm@Vila Prado@nm@Avenida @nm@@nm@
+SP@nm@@nm@São Carlos@nm@13566970@nm@São Carlos@nm@Vila Costa do Sol@nm@Avenida @nm@de 3136/3137 ao fim@nm@
+SP@nm@@nm@Vinte e Quatro de Maio@nm@13560974@nm@São Carlos@nm@Jardim São Carlos@nm@Rua @nm@@nm@
+SP@nm@@nm@Vinte e Quatro de Maio@nm@13560971@nm@São Carlos@nm@Jardim São Carlos@nm@Rua @nm@@nm@
+SP@nm@@nm@Antonina Junqueira@nm@13870970@nm@São João da Boa Vista@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@João Osório@nm@13870972@nm@São João da Boa Vista@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Professor Hugo Sarmento@nm@13870971@nm@São João da Boa Vista@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Alberto Vetorazzo@nm@15102970@nm@São José do Rio Preto@nm@Centro (Talhado)@nm@Rua @nm@@nm@
+SP@nm@@nm@Alfredo Teodoro de Oliveira@nm@15047970@nm@São José do Rio Preto@nm@Jardim das Oliveiras@nm@Avenida @nm@até 3200 - lado par@nm@
+SP@nm@@nm@Antônio Frederico Ozanan@nm@15015971@nm@São José do Rio Preto@nm@Vila Redentora@nm@Rua @nm@@nm@
+SP@nm@@nm@Aparecida do Taboado@nm@15043970@nm@São José do Rio Preto@nm@Eldorado@nm@Rua @nm@@nm@
+SP@nm@@nm@Bernardino de Campos@nm@15060970@nm@São José do Rio Preto@nm@Vila Maceno@nm@Rua @nm@até 2539/2540@nm@
+SP@nm@@nm@Bernardino de Campos@nm@15015972@nm@São José do Rio Preto@nm@Vila Maceno@nm@Rua @nm@até 2539/2540@nm@
+SP@nm@@nm@Brigadeiro Faria Lima@nm@15090970@nm@São José do Rio Preto@nm@Vila São José@nm@Avenida @nm@@nm@
+SP@nm@@nm@Capitão José Maria@nm@15084970@nm@São José do Rio Preto@nm@Jardim Urano@nm@Rua @nm@de 300/301 ao fim@nm@
+SP@nm@@nm@Constituição@nm@15025970@nm@São José do Rio Preto@nm@Boa Vista@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Cenobelino de Barros Serra@nm@15030970@nm@São José do Rio Preto@nm@Parque Industrial@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Labiênio Teixeira de Mendonça@nm@15035977@nm@São José do Rio Preto@nm@Distrito Industrial Waldemar de Oliveira Verdi@nm@Rua @nm@@nm@
+SP@nm@@nm@Jorge Cury@nm@15015970@nm@São José do Rio Preto@nm@Vila Redentora@nm@Rua @nm@@nm@
+SP@nm@@nm@José Munia@nm@15085970@nm@São José do Rio Preto@nm@Jardim Redentor@nm@Avenida @nm@até 5801 - lado ímpar@nm@
+SP@nm@@nm@Monte Aprazível@nm@15043971@nm@São José do Rio Preto@nm@Eldorado@nm@Avenida @nm@até 3798/3799@nm@
+SP@nm@@nm@Murchid Homsi@nm@15070970@nm@São José do Rio Preto@nm@Parque Residencial Comendador Mançor Daud@nm@Avenida @nm@até 1601 - lado ímpar@nm@
+SP@nm@@nm@Nossa Senhora da Paz@nm@15055971@nm@São José do Rio Preto@nm@Jardim Alto Alegre@nm@Avenida @nm@até 800/801@nm@
+SP@nm@@nm@Nossa Senhora da Paz@nm@15055970@nm@São José do Rio Preto@nm@Jardim Alto Alegre@nm@Avenida @nm@até 800/801@nm@
+SP@nm@@nm@Potirendaba@nm@15080970@nm@São José do Rio Preto@nm@Jardim Santa Luzia@nm@Avenida @nm@até 2109/2110@nm@
+SP@nm@@nm@Prudente de Moraes@nm@15010972@nm@São José do Rio Preto@nm@Centro@nm@Rua @nm@de 2721/2722 a 3398/3399@nm@
+SP@nm@@nm@Prudente de Moraes@nm@15010970@nm@São José do Rio Preto@nm@Centro@nm@Rua @nm@de 2721/2722 a 3398/3399@nm@
+SP@nm@@nm@Roque de Campos Teixeira@nm@15035976@nm@São José do Rio Preto@nm@Distrito Industrial Waldemar de Oliveira Verdi@nm@Rua @nm@@nm@
+SP@nm@@nm@Roque de Campos Teixeira@nm@15035970@nm@São José do Rio Preto@nm@Distrito Industrial Waldemar de Oliveira Verdi@nm@Rua @nm@@nm@
+SP@nm@@nm@São Bento@nm@15104970@nm@São José do Rio Preto@nm@Centro (Engenheiro Schmitt)@nm@Rua @nm@de 751 ao fim - lado ímpar@nm@
+SP@nm@@nm@Andrômeda@nm@12230971@nm@São José dos Campos@nm@Jardim Satélite@nm@Avenida @nm@até 2530 - lado par@nm@
+SP@nm@@nm@Doutor Nelson D'Avila@nm@12245970@nm@São José dos Campos@nm@Jardim São Dimas@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Sebastião Henrique da Cunha Pontes@nm@12237971@nm@São José dos Campos@nm@Palmeiras de São José@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Sebastião Henrique da Cunha Pontes@nm@12237974@nm@São José dos Campos@nm@Palmeiras de São José@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Sebastião Henrique da Cunha Pontes@nm@12237970@nm@São José dos Campos@nm@Palmeiras de São José@nm@Avenida @nm@@nm@
+SP@nm@@nm@Goiânia@nm@12235970@nm@São José dos Campos@nm@Parque Industrial@nm@Rua @nm@@nm@
+SP@nm@@nm@Israel Diamante@nm@12220971@nm@São José dos Campos@nm@Vila Industrial@nm@Rua @nm@@nm@
+SP@nm@@nm@Loanda@nm@12238970@nm@São José dos Campos@nm@Chácaras Reunidas@nm@Rua @nm@@nm@
+SP@nm@@nm@Marechal-do-Ar Eduardo Gomes@nm@12228970@nm@São José dos Campos@nm@Campus do CTA@nm@Praça @nm@@nm@
+SP@nm@@nm@Paraibuna@nm@12245972@nm@São José dos Campos@nm@Jardim São Dimas@nm@Rua @nm@até 1501 - lado ímpar@nm@
+SP@nm@@nm@Perseu@nm@12230970@nm@São José dos Campos@nm@Jardim Satélite@nm@Avenida @nm@@nm@
+SP@nm@@nm@Quinze de Novembro@nm@12247970@nm@São José dos Campos@nm@Eugênio de Mello@nm@Rua @nm@@nm@
+SP@nm@@nm@Riachuelo@nm@12216971@nm@São José dos Campos@nm@Jardim Paulista@nm@Rua @nm@@nm@
+SP@nm@@nm@Rubião Júnior@nm@12210970@nm@São José dos Campos@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Rui Barbosa@nm@12212970@nm@São José dos Campos@nm@Santana@nm@Avenida @nm@de 2187/2188 a 2768/2769@nm@
+SP@nm@@nm@Sabara@nm@12220970@nm@São José dos Campos@nm@Jardim Ismênia@nm@Rua @nm@@nm@
+SP@nm@@nm@Santa Clara@nm@12243970@nm@São José dos Campos@nm@Vila Adyana@nm@Rua @nm@@nm@
+SP@nm@@nm@São João@nm@12242971@nm@São José dos Campos@nm@Jardim Esplanada@nm@Avenida @nm@até 1999/2000@nm@
+SP@nm@@nm@São João@nm@12242970@nm@São José dos Campos@nm@Jardim das Colinas@nm@Avenida @nm@de 2001/2002 ao fim@nm@
+SP@nm@@nm@Abel Tavares@nm@03810970@nm@São Paulo@nm@Jardim Belém@nm@Rua @nm@@nm@
+SP@nm@@nm@Abílio Soares@nm@04005971@nm@São Paulo@nm@Paraíso@nm@Rua @nm@até 279/280@nm@
+SP@nm@@nm@Adolfo Pinheiro@nm@04733999@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@até 195 - lado ímpar@nm@
+SP@nm@@nm@Adolfo Pinheiro@nm@04733971@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@até 195 - lado ímpar@nm@
+SP@nm@@nm@Agenor Couto de Magalhães@nm@05174970@nm@São Paulo@nm@Jardim Regina@nm@Avenida @nm@@nm@
+SP@nm@@nm@Água Fria@nm@02332970@nm@São Paulo@nm@Água Fria@nm@Avenida @nm@até 792 - lado par@nm@
+SP@nm@@nm@Águia de Haia@nm@03694970@nm@São Paulo@nm@Parque Paineiras@nm@Avenida @nm@até 3301/3302@nm@
+SP@nm@@nm@Alencar Araripe@nm@04253970@nm@São Paulo@nm@Sacomã@nm@Rua @nm@@nm@
+SP@nm@@nm@Alexandre Dumas@nm@04717971@nm@São Paulo@nm@Chácara Santo Antônio (Zona Sul)@nm@Rua @nm@até 659/660@nm@
+SP@nm@@nm@Alfredo Pujol@nm@02464970@nm@São Paulo@nm@Santana@nm@Rua @nm@até 450 - lado par@nm@
+SP@nm@@nm@Alfredo Pujol@nm@02017970@nm@São Paulo@nm@Santana@nm@Rua @nm@até 450 - lado par@nm@
+SP@nm@@nm@Alice Garcia Vega@nm@02737970@nm@São Paulo@nm@Itaberaba@nm@Rua @nm@@nm@
+SP@nm@@nm@Álvaro Ramos@nm@03331970@nm@São Paulo@nm@Quarta Parada@nm@Avenida @nm@de 603 a 1071 - lado ímpar@nm@
+SP@nm@@nm@Álvaro Ramos@nm@03331999@nm@São Paulo@nm@Quarta Parada@nm@Avenida @nm@de 603 a 1071 - lado ímpar@nm@
+SP@nm@@nm@Amador Bueno da Veiga@nm@03653999@nm@São Paulo@nm@Penha de França@nm@Avenida @nm@até 1170 - lado par@nm@
+SP@nm@@nm@Amador Bueno da Veiga@nm@03653970@nm@São Paulo@nm@Penha de França@nm@Avenida @nm@até 1170 - lado par@nm@
+SP@nm@@nm@Anchieta@nm@04246970@nm@São Paulo@nm@Vila Vermelha@nm@Via @nm@do km 11,000 ao km 13,181 (trechos posteriores pertencem a(o) São Bernardo do Campo)@nm@
+SP@nm@@nm@Angélica@nm@01227970@nm@São Paulo@nm@Santa Cecília@nm@Avenida @nm@até 955 - lado ímpar@nm@
+SP@nm@@nm@Angélica@nm@01227999@nm@São Paulo@nm@Santa Cecília@nm@Avenida @nm@até 955 - lado ímpar@nm@
+SP@nm@@nm@Anhaia@nm@01130970@nm@São Paulo@nm@Bom Retiro@nm@Rua @nm@@nm@
+SP@nm@@nm@Anhangüera@nm@05113970@nm@São Paulo@nm@Vila Jaguara@nm@Via @nm@até km 15,501 - lado ímpar@nm@
+SP@nm@@nm@Anhangüera@nm@05113971@nm@São Paulo@nm@Vila Jaguara@nm@Via @nm@até km 15,501 - lado ímpar@nm@
+SP@nm@@nm@Antônio D'Amin@nm@08122970@nm@São Paulo@nm@Jardim das Oliveiras@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio de Barros@nm@03089970@nm@São Paulo@nm@Tatuapé@nm@Rua @nm@até 699/700@nm@
+SP@nm@@nm@Araújo@nm@01220970@nm@São Paulo@nm@República@nm@Rua @nm@@nm@
+SP@nm@@nm@Arnaldo Magniccaro@nm@04691970@nm@São Paulo@nm@Vila Gea@nm@Rua @nm@@nm@
+SP@nm@@nm@Augusta@nm@01304971@nm@São Paulo@nm@Consolação@nm@Rua @nm@até 697 - lado ímpar@nm@
+SP@nm@@nm@Augusta@nm@01305970@nm@São Paulo@nm@Cerqueira César@nm@Rua @nm@de 1681 a 2429 - lado ímpar@nm@
+SP@nm@@nm@Augusto Cavalcanti@nm@08253970@nm@São Paulo@nm@Conjunto Residencial José Bonifácio@nm@Rua @nm@@nm@
+SP@nm@@nm@Bandeirantes do Sul@nm@02165970@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Bandeirantes do Sul@nm@02165971@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Barão de Duprat@nm@04743970@nm@São Paulo@nm@Santo Amaro@nm@Rua @nm@@nm@
+SP@nm@@nm@Barão de Limeira@nm@01202970@nm@São Paulo@nm@Campos Elíseos@nm@Alameda @nm@até 672 - lado par@nm@
+SP@nm@@nm@Barão do Rio Branco@nm@04717970@nm@São Paulo@nm@Santo Amaro@nm@Rua @nm@até 459/460@nm@
+SP@nm@@nm@Barão do Triunfo@nm@04602999@nm@São Paulo@nm@Brooklin Paulista@nm@Rua @nm@de 0491/492 a 669/0670@nm@
+SP@nm@@nm@Barão do Triunfo@nm@04602970@nm@São Paulo@nm@Brooklin Paulista@nm@Rua @nm@de 0491/492 a 669/0670@nm@
+SP@nm@@nm@Bartolomeu Paes@nm@05092970@nm@São Paulo@nm@Vila Anastácio@nm@Rua @nm@@nm@
+SP@nm@@nm@Belém@nm@03057970@nm@São Paulo@nm@Belenzinho@nm@Rua @nm@@nm@
+SP@nm@@nm@Belgrado@nm@04285971@nm@São Paulo@nm@Vila Moinho Velho@nm@Rua @nm@até 449/450@nm@
+SP@nm@@nm@Belmiro Valverde@nm@08450970@nm@São Paulo@nm@Lajeado@nm@Rua @nm@@nm@
+SP@nm@@nm@Benedito Andrade@nm@02936970@nm@São Paulo@nm@Vila Pereira Barreto@nm@Avenida @nm@@nm@
+SP@nm@@nm@Boa Vista@nm@01014970@nm@São Paulo@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Bonifácio Cubas@nm@02731970@nm@São Paulo@nm@Vila Albertina@nm@Rua @nm@@nm@
+SP@nm@@nm@Bonifácio Cubas@nm@02731999@nm@São Paulo@nm@Vila Albertina@nm@Rua @nm@@nm@
+SP@nm@@nm@Brasil@nm@04428970@nm@São Paulo@nm@Americanópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@Brigadeiro Faria Lima@nm@01452970@nm@São Paulo@nm@Jardim Paulistano@nm@Avenida @nm@de 1018 a 1882 - lado par@nm@
+SP@nm@@nm@Brigadeiro Luís Antônio@nm@01318970@nm@São Paulo@nm@Bela Vista@nm@Avenida @nm@até 698 - lado par@nm@
+SP@nm@@nm@Brigadeiro Luís Antônio@nm@01401999@nm@São Paulo@nm@Jardim Paulista@nm@Avenida @nm@de 2252 a 3198 - lado par@nm@
+SP@nm@@nm@Brigadeiro Luís Antônio@nm@01402971@nm@São Paulo@nm@Jardim Paulista@nm@Avenida @nm@de 2252 a 3198 - lado par@nm@
+SP@nm@@nm@Brigadeiro Luís Antônio@nm@01401970@nm@São Paulo@nm@Jardim Paulista@nm@Avenida @nm@de 3200 a 4098 - lado par@nm@
+SP@nm@@nm@Brigadeiro Luís Antônio@nm@01401971@nm@São Paulo@nm@Jardim Paulista@nm@Avenida @nm@de 2252 a 3198 - lado par@nm@
+SP@nm@@nm@Brigadeiro Luís Antônio@nm@01318999@nm@São Paulo@nm@Bela Vista@nm@Avenida @nm@até 698 - lado par@nm@
+SP@nm@@nm@Butantã@nm@05424999@nm@São Paulo@nm@Pinheiros@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Butantã@nm@05424970@nm@São Paulo@nm@Pinheiros@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Cabo Antônio Pinton@nm@02186970@nm@São Paulo@nm@Parque Novo Mundo@nm@Rua @nm@@nm@
+SP@nm@@nm@Cananéia@nm@03132970@nm@São Paulo@nm@Vila Prudente@nm@Rua @nm@@nm@
+SP@nm@@nm@Cangaíba@nm@03712971@nm@São Paulo@nm@Cangaíba@nm@Avenida @nm@de 1870 a 2374 - lado par@nm@
+SP@nm@@nm@Cangaíba@nm@03712970@nm@São Paulo@nm@Cangaíba@nm@Avenida @nm@de 2384 a 2912 - lado par@nm@
+SP@nm@@nm@Cangaíba@nm@03712972@nm@São Paulo@nm@Cangaíba@nm@Avenida @nm@de 2384 a 2912 - lado par@nm@
+SP@nm@@nm@Cangaíba@nm@03712999@nm@São Paulo@nm@Cangaíba@nm@Avenida @nm@de 2384 a 2912 - lado par@nm@
+SP@nm@@nm@Caraíbas@nm@05020970@nm@São Paulo@nm@Perdizes@nm@Rua @nm@@nm@
+SP@nm@@nm@Carlos Oberhuber@nm@04836970@nm@São Paulo@nm@Jardim Floresta@nm@Avenida @nm@até 608/0609@nm@
+SP@nm@@nm@Carlos Oberhuber@nm@04836999@nm@São Paulo@nm@Jardim Floresta@nm@Avenida @nm@até 608/0609@nm@
+SP@nm@@nm@Carneiro da Cunha@nm@04144970@nm@São Paulo@nm@Vila da Saúde@nm@Rua @nm@até 605/606@nm@
+SP@nm@@nm@Casalbuono@nm@02047999@nm@São Paulo@nm@Vila Guilherme@nm@Travessa @nm@@nm@
+SP@nm@@nm@Catão@nm@05049970@nm@São Paulo@nm@Vila Romana@nm@Rua @nm@@nm@
+SP@nm@@nm@Catão@nm@05049999@nm@São Paulo@nm@Vila Romana@nm@Rua @nm@@nm@
+SP@nm@@nm@Cavalheiro Basílio Jafet@nm@01022970@nm@São Paulo@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Celso Garcia@nm@03017970@nm@São Paulo@nm@Brás@nm@Avenida @nm@até 2480 - lado par@nm@
+SP@nm@@nm@Celso Garcia@nm@03015970@nm@São Paulo@nm@Brás@nm@Avenida @nm@até 2480 - lado par@nm@
+SP@nm@@nm@Celso Garcia@nm@03064970@nm@São Paulo@nm@Tatuapé@nm@Avenida @nm@de 2482 a 3028 - lado par@nm@
+SP@nm@@nm@Celso Garcia@nm@03015971@nm@São Paulo@nm@Brás@nm@Avenida @nm@até 2480 - lado par@nm@
+SP@nm@@nm@Cerro Corá@nm@05061970@nm@São Paulo@nm@Vila Romana@nm@Rua @nm@até 498 - lado par@nm@
+SP@nm@@nm@Clodomiro Amazonas@nm@04537970@nm@São Paulo@nm@Vila Nova Conceição@nm@Rua @nm@de 421 a 839 - lado ímpar@nm@
+SP@nm@@nm@Comendador Alberto Bonfiglioli@nm@05593970@nm@São Paulo@nm@Jardim Bonfiglioli@nm@Avenida @nm@até 495/496@nm@
+SP@nm@@nm@Comendador Sant'Anna@nm@05866970@nm@São Paulo@nm@Capão Redondo@nm@Avenida @nm@@nm@
+SP@nm@@nm@Conceição do Herval@nm@03410971@nm@São Paulo@nm@Chácara Santo Antônio (Zona Leste)@nm@Praça @nm@@nm@
+SP@nm@@nm@Conselheiro Carrão@nm@03402999@nm@São Paulo@nm@Vila Carrão@nm@Avenida @nm@até 1111 - lado ímpar@nm@
+SP@nm@@nm@Conselheiro Carrão@nm@03402971@nm@São Paulo@nm@Chácara Califórnia@nm@Avenida @nm@até 1092 - lado par@nm@
+SP@nm@@nm@Conselheiro Carrão@nm@03402970@nm@São Paulo@nm@Vila Carrão@nm@Avenida @nm@até 1111 - lado ímpar@nm@
+SP@nm@@nm@Conselheiro Moreira de Barros@nm@02430971@nm@São Paulo@nm@Lauzane Paulista@nm@Rua @nm@de 3001/3002 ao fim@nm@
+SP@nm@@nm@Conselheiro Moreira de Barros@nm@02430972@nm@São Paulo@nm@Lauzane Paulista@nm@Rua @nm@de 1361/1362 a 2079/2080@nm@
+SP@nm@@nm@Corifeu de Azevedo Marques@nm@05339970@nm@São Paulo@nm@Vila Lageado@nm@Avenida @nm@de 2302 a 3770 - lado par@nm@
+SP@nm@@nm@Corifeu de Azevedo Marques@nm@05581970@nm@São Paulo@nm@Butantã@nm@Avenida @nm@até 1088 - lado par@nm@
+SP@nm@@nm@Coriolano@nm@05047970@nm@São Paulo@nm@Vila Romana@nm@Rua @nm@até 999/1000@nm@
+SP@nm@@nm@Coronel Diogo@nm@01545970@nm@São Paulo@nm@Jardim da Glória@nm@Rua @nm@de 655/656 ao fim@nm@
+SP@nm@@nm@Coronel José Eusébio@nm@01239970@nm@São Paulo@nm@Higienópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@Coronel Sezefredo Fagundes@nm@02306971@nm@São Paulo@nm@Tucuruvi@nm@Avenida @nm@até 1414 - lado par@nm@
+SP@nm@@nm@Coronel Sezefredo Fagundes@nm@02306999@nm@São Paulo@nm@Tucuruvi@nm@Avenida @nm@até 1414 - lado par@nm@
+SP@nm@@nm@Costa Barros@nm@03210971@nm@São Paulo@nm@Vila Alpina@nm@Rua @nm@até 1103/1104@nm@
+SP@nm@@nm@Costa Barros@nm@03210970@nm@São Paulo@nm@Vila Alpina@nm@Rua @nm@até 1103/1104@nm@
+SP@nm@@nm@Cupecê@nm@04366972@nm@São Paulo@nm@Jardim Prudência@nm@Avenida @nm@até 2951 - lado ímpar@nm@
+SP@nm@@nm@da Alfândega@nm@03006970@nm@São Paulo@nm@Brás@nm@Rua @nm@@nm@
+SP@nm@@nm@da Barreira Grande@nm@03386970@nm@São Paulo@nm@Jardim Colorado@nm@Avenida @nm@até 999/1000@nm@
+SP@nm@@nm@da Colônia@nm@04892970@nm@São Paulo@nm@Parelheiros@nm@Estrada @nm@@nm@
+SP@nm@@nm@da Consolação@nm@01301999@nm@São Paulo@nm@Consolação@nm@Rua @nm@até 1098 - lado par@nm@
+SP@nm@@nm@da Graça@nm@01125970@nm@São Paulo@nm@Bom Retiro@nm@Rua @nm@de 1 ao fim - lado ímpar@nm@
+SP@nm@@nm@da Liberdade@nm@01502999@nm@São Paulo@nm@Liberdade@nm@Avenida @nm@até 367 - lado ímpar@nm@
+SP@nm@@nm@da Liberdade@nm@01502970@nm@São Paulo@nm@Liberdade@nm@Avenida @nm@até 367 - lado ímpar@nm@
+SP@nm@@nm@da Mooca@nm@03165970@nm@São Paulo@nm@Mooca@nm@Rua @nm@de 1548 a 2148 - lado par@nm@
+SP@nm@@nm@da Mooca@nm@03104999@nm@São Paulo@nm@Mooca@nm@Rua @nm@de 2560 a 3800 - lado par@nm@
+SP@nm@@nm@da Mooca@nm@03104970@nm@São Paulo@nm@Mooca@nm@Rua @nm@de 2560 a 3800 - lado par@nm@
+SP@nm@@nm@da Mooca@nm@03165971@nm@São Paulo@nm@Mooca@nm@Rua @nm@de 2560 a 3800 - lado par@nm@
+SP@nm@@nm@das Cavas@nm@04370971@nm@São Paulo@nm@Vila Santa Catarina@nm@Rua @nm@@nm@
+SP@nm@@nm@das Cavas@nm@04370970@nm@São Paulo@nm@Vila Santa Catarina@nm@Rua @nm@@nm@
+SP@nm@@nm@das Cerejeiras@nm@02124970@nm@São Paulo@nm@Jardim Japão@nm@Avenida @nm@até 1215/1216@nm@
+SP@nm@@nm@das Nações Unidas@nm@04795970@nm@São Paulo@nm@Vila Almeida@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@das Nações Unidas@nm@04795999@nm@São Paulo@nm@Vila Almeida@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@das Taipas@nm@02991970@nm@São Paulo@nm@Jardim Rincão@nm@Estrada @nm@@nm@
+SP@nm@@nm@de Itapecerica@nm@05835970@nm@São Paulo@nm@Vila das Belezas@nm@Estrada @nm@até 500 - lado par@nm@
+SP@nm@@nm@de Itapecerica@nm@05835972@nm@São Paulo@nm@Vila das Belezas@nm@Estrada @nm@até 500 - lado par@nm@
+SP@nm@@nm@Demifonte@nm@05223970@nm@São Paulo@nm@Vila Fanton@nm@Rua @nm@@nm@
+SP@nm@@nm@Deputado Emílio Carlos@nm@02720970@nm@São Paulo@nm@Limão@nm@Avenida @nm@até 0720 - lado par@nm@
+SP@nm@@nm@Desembargador Armando Fairbanks@nm@05501970@nm@São Paulo@nm@Butantã@nm@Rua @nm@@nm@
+SP@nm@@nm@Dezenove de Janeiro@nm@03449970@nm@São Paulo@nm@Vila Carrão@nm@Avenida @nm@@nm@
+SP@nm@@nm@do Alvarenga@nm@04474970@nm@São Paulo@nm@Balneário São Francisco@nm@Estrada @nm@de 2701/2702 ao fim@nm@
+SP@nm@@nm@do Arvoreiro@nm@04824970@nm@São Paulo@nm@Parque das Árvores@nm@Avenida @nm@@nm@
+SP@nm@@nm@do Boqueirão@nm@04293972@nm@São Paulo@nm@Saúde@nm@Rua @nm@@nm@
+SP@nm@@nm@do Boqueirão@nm@04293970@nm@São Paulo@nm@Saúde@nm@Rua @nm@@nm@
+SP@nm@@nm@do Boqueirão@nm@04293971@nm@São Paulo@nm@Saúde@nm@Rua @nm@@nm@
+SP@nm@@nm@do Café@nm@04311970@nm@São Paulo@nm@Vila Guarani (Z Sul)@nm@Avenida @nm@até 349/350@nm@
+SP@nm@@nm@do Campo Limpo@nm@05787971@nm@São Paulo@nm@Pirajussara@nm@Estrada @nm@de 3901/3902 ao fim@nm@
+SP@nm@@nm@do Campo Limpo@nm@05777970@nm@São Paulo@nm@Pirajussara@nm@Estrada @nm@de 3901/3902 ao fim@nm@
+SP@nm@@nm@do Correio@nm@01031970@nm@São Paulo@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@do Cursino@nm@04132971@nm@São Paulo@nm@Saúde@nm@Avenida @nm@de 1302 a 2226 - lado par@nm@
+SP@nm@@nm@do Cursino@nm@04169970@nm@São Paulo@nm@Saúde@nm@Avenida @nm@até 1229 - lado ímpar@nm@
+SP@nm@@nm@do Imperador@nm@08050970@nm@São Paulo@nm@Jardim São Sebastião@nm@Avenida @nm@@nm@
+SP@nm@@nm@do Lageado Velho@nm@08451970@nm@São Paulo@nm@Guaianazes@nm@Estrada @nm@até 569 - lado ímpar@nm@
+SP@nm@@nm@do M Boi Mirim@nm@04948970@nm@São Paulo@nm@Jardim Ângela (Zona Sul)@nm@Estrada @nm@de 4501 a 5499 - lado ímpar@nm@
+SP@nm@@nm@do M Boi Mirim@nm@04905970@nm@São Paulo@nm@Parque do Lago@nm@Estrada @nm@de 7902 ao fim - lado par@nm@
+SP@nm@@nm@do Oratório@nm@03220970@nm@São Paulo@nm@Jardim Guairaca@nm@Avenida @nm@de 2972 a 4998 - lado par@nm@
+SP@nm@@nm@do Oratório@nm@03195970@nm@São Paulo@nm@Alto da Mooca@nm@Rua @nm@de 1777 ao fim - lado ímpar@nm@
+SP@nm@@nm@do Rio Pequeno@nm@05379971@nm@São Paulo@nm@Rio Pequeno@nm@Avenida @nm@@nm@
+SP@nm@@nm@Dom Gastão Liberal Pinto@nm@04534970@nm@São Paulo@nm@Itaim Bibi@nm@Praça @nm@@nm@
+SP@nm@@nm@Dom Luís Felipe de Orleans@nm@02118970@nm@São Paulo@nm@Vila Maria Baixa@nm@Rua @nm@até 729/730@nm@
+SP@nm@@nm@Domingos de Morais@nm@04035972@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@de 1238 a 1860 - lado par@nm@
+SP@nm@@nm@Domingos de Morais@nm@04015971@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@até 439 - lado ímpar@nm@
+SP@nm@@nm@Domingos de Morais@nm@04010970@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@até 439 - lado ímpar@nm@
+SP@nm@@nm@Domingos de Morais@nm@04009972@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@até 439 - lado ímpar@nm@
+SP@nm@@nm@Domingos de Morais@nm@04009999@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@até 439 - lado ímpar@nm@
+SP@nm@@nm@Domingos Rosolia@nm@05567970@nm@São Paulo@nm@Jardim São Jorge (Raposo Tavares)@nm@Rua @nm@@nm@
+SP@nm@@nm@Dona Ana Flora Pinheiro de Sousa@nm@08060970@nm@São Paulo@nm@Vila Jacuí@nm@Rua @nm@@nm@
+SP@nm@@nm@Dona Belmira Marin@nm@04846971@nm@São Paulo@nm@Parque Brasil@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Dona Matilde@nm@03512970@nm@São Paulo@nm@Vila Matilde@nm@Rua @nm@@nm@
+SP@nm@@nm@Dona Matilde@nm@03512999@nm@São Paulo@nm@Vila Matilde@nm@Rua @nm@@nm@
+SP@nm@@nm@dos Inocentes@nm@04764970@nm@São Paulo@nm@Socorro@nm@Rua @nm@@nm@
+SP@nm@@nm@dos Latinos@nm@03572970@nm@São Paulo@nm@Jardim Santa Terezinha (Zona Leste)@nm@Avenida @nm@@nm@
+SP@nm@@nm@dos Maracatins@nm@04089999@nm@São Paulo@nm@Indianópolis@nm@Alameda @nm@até 341 - lado ímpar@nm@
+SP@nm@@nm@dos Maracatins@nm@04089972@nm@São Paulo@nm@Indianópolis@nm@Alameda @nm@até 341 - lado ímpar@nm@
+SP@nm@@nm@dos Metalúrgicos@nm@08471970@nm@São Paulo@nm@Cidade Tiradentes@nm@Avenida @nm@até 1789/1790@nm@
+SP@nm@@nm@dos Pinheiros@nm@05422999@nm@São Paulo@nm@Pinheiros@nm@Rua @nm@até 513 - lado ímpar@nm@
+SP@nm@@nm@dos Pinheiros@nm@05422970@nm@São Paulo@nm@Pinheiros@nm@Rua @nm@até 513 - lado ímpar@nm@
+SP@nm@@nm@Doutor Almeida Lima@nm@03103973@nm@São Paulo@nm@Mooca@nm@Rua @nm@de 0601/602 a 1199/1200@nm@
+SP@nm@@nm@Doutor Campos Moura@nm@03568970@nm@São Paulo@nm@Parque Artur Alvim@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor César Castiglioni Júnior@nm@02515970@nm@São Paulo@nm@Casa Verde@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor César Castiglioni Júnior@nm@02515999@nm@São Paulo@nm@Casa Verde@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Clóvis de Oliveira@nm@05616970@nm@São Paulo@nm@Vila Progredior@nm@Rua @nm@até 284 - lado par@nm@
+SP@nm@@nm@Doutor Djalma Pinheiro Franco@nm@04368971@nm@São Paulo@nm@Vila Santa Catarina@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor Eduardo Cotching@nm@03356970@nm@São Paulo@nm@Vila Formosa@nm@Avenida @nm@até 1299/1300@nm@
+SP@nm@@nm@Doutor Elisio de Castro@nm@04277970@nm@São Paulo@nm@Vila Dom Pedro I@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Gabriel de Resende@nm@03350970@nm@São Paulo@nm@Vila Invernada@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Guilherme Dumont Villares@nm@05640970@nm@São Paulo@nm@Jardim Londrina@nm@Avenida @nm@até 417/418@nm@
+SP@nm@@nm@Doutor Jesuíno Maciel@nm@04615970@nm@São Paulo@nm@Campo Belo@nm@Rua @nm@até 391/392@nm@
+SP@nm@@nm@Doutor João Guimarães@nm@05741970@nm@São Paulo@nm@Jardim Taboão@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor João Mendes@nm@01501970@nm@São Paulo@nm@Centro@nm@Praça @nm@lado ímpar@nm@
+SP@nm@@nm@Doutor José Artur Nova@nm@08090970@nm@São Paulo@nm@Parque Paulistano@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Luiz Migliano@nm@05711970@nm@São Paulo@nm@Jardim Caboré@nm@Rua @nm@de 673/674 ao fim@nm@
+SP@nm@@nm@Doutor Pereira Vergueiro@nm@03563999@nm@São Paulo@nm@Vila Nhocune@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Pereira Vergueiro@nm@03563970@nm@São Paulo@nm@Vila Nhocune@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Pereira Vergueiro@nm@03563971@nm@São Paulo@nm@Vila Nhocune@nm@Avenida @nm@@nm@
+SP@nm@@nm@Doutor Siqueira Campos@nm@01509970@nm@São Paulo@nm@Liberdade@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Vital Brasil@nm@05503970@nm@São Paulo@nm@Butantã@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Duque de Caxias@nm@01214999@nm@São Paulo@nm@Santa Efigênia@nm@Avenida @nm@lado par@nm@
+SP@nm@@nm@Edu Chaves@nm@02229970@nm@São Paulo@nm@Parque Edu Chaves@nm@Avenida @nm@até 989/990@nm@
+SP@nm@@nm@Egídio Alves da Costa@nm@03271970@nm@São Paulo@nm@Jardim Regina@nm@Rua @nm@@nm@
+SP@nm@@nm@Emílio Colella@nm@05126970@nm@São Paulo@nm@Parque São Domingos@nm@Rua @nm@@nm@
+SP@nm@@nm@Enéas de Barros@nm@03613970@nm@São Paulo@nm@Vila Santana@nm@Rua @nm@@nm@
+SP@nm@@nm@Engenheiro Armando de Arruda Pereira@nm@04308970@nm@São Paulo@nm@Jabaquara@nm@Avenida @nm@até 940 - lado par@nm@
+SP@nm@@nm@Engenheiro Aubertin@nm@05068970@nm@São Paulo@nm@Lapa de Baixo@nm@Rua @nm@@nm@
+SP@nm@@nm@Engenheiro Caetano Álvares@nm@02413970@nm@São Paulo@nm@Imirim@nm@Avenida @nm@de 3751/3752 a 4999/5000@nm@
+SP@nm@@nm@Engenheiro Caetano Álvares@nm@02546970@nm@São Paulo@nm@Limão@nm@Avenida @nm@até 799 - lado ímpar@nm@
+SP@nm@@nm@Engenheiro Heitor Antônio Eiras Garcia@nm@05588970@nm@São Paulo@nm@Jardim Esmeralda@nm@Avenida @nm@até 649/650@nm@
+SP@nm@@nm@Estados Unidos@nm@01427970@nm@São Paulo@nm@Jardim América@nm@Rua @nm@até 789/790@nm@
+SP@nm@@nm@Fernando Sandreschi@nm@02013999@nm@São Paulo@nm@Santana@nm@Rua @nm@@nm@
+SP@nm@@nm@Fernando Sandreschi@nm@02013971@nm@São Paulo@nm@Santana@nm@Rua @nm@@nm@
+SP@nm@@nm@Fernando Sandreschi@nm@02013970@nm@São Paulo@nm@Santana@nm@Rua @nm@@nm@
+SP@nm@@nm@Fernão Tavares@nm@03306970@nm@São Paulo@nm@Cidade Mãe do Céu@nm@Rua @nm@@nm@
+SP@nm@@nm@Filipe Camarão@nm@03065972@nm@São Paulo@nm@Tatuapé@nm@Rua @nm@@nm@
+SP@nm@@nm@Filipe Camarão@nm@03065973@nm@São Paulo@nm@Tatuapé@nm@Rua @nm@@nm@
+SP@nm@@nm@Florêncio de Abreu@nm@01029970@nm@São Paulo@nm@Centro@nm@Rua @nm@de 401 ao fim - lado ímpar@nm@
+SP@nm@@nm@Fradique Coutinho@nm@05416970@nm@São Paulo@nm@Pinheiros@nm@Rua @nm@até 636 - lado par@nm@
+SP@nm@@nm@Francesco Melzi@nm@03579970@nm@São Paulo@nm@Jardim Marília@nm@Rua @nm@@nm@
+SP@nm@@nm@Francisco Matarazzo@nm@05001971@nm@São Paulo@nm@Água Branca@nm@Avenida @nm@até 1071/1072@nm@
+SP@nm@@nm@Francisco Matarazzo@nm@05001999@nm@São Paulo@nm@Água Branca@nm@Avenida @nm@até 1071/1072@nm@
+SP@nm@@nm@Francisco Matarazzo@nm@05001970@nm@São Paulo@nm@Água Branca@nm@Avenida @nm@até 1071/1072@nm@
+SP@nm@@nm@Frederico Rene de Jaegher@nm@04826970@nm@São Paulo@nm@Rio Bonito@nm@Rua @nm@até 1129 - lado ímpar@nm@
+SP@nm@@nm@Frei Caneca@nm@01307970@nm@São Paulo@nm@Consolação@nm@Rua @nm@até 879 - lado ímpar@nm@
+SP@nm@@nm@Friedrich Von Voith@nm@02995970@nm@São Paulo@nm@Jardim São João (Jaraguá)@nm@Rua @nm@@nm@
+SP@nm@@nm@Friedrich Von Voith@nm@02995971@nm@São Paulo@nm@Jardim São João (Jaraguá)@nm@Rua @nm@@nm@
+SP@nm@@nm@Galatea@nm@02068973@nm@São Paulo@nm@Carandiru@nm@Rua @nm@@nm@
+SP@nm@@nm@Galatea@nm@02068972@nm@São Paulo@nm@Carandiru@nm@Rua @nm@@nm@
+SP@nm@@nm@Galatea@nm@02068970@nm@São Paulo@nm@Carandiru@nm@Rua @nm@@nm@
+SP@nm@@nm@General Roberto Alves de Carvalho Filho@nm@04744999@nm@São Paulo@nm@Santo Amaro@nm@Rua @nm@até 329/330@nm@
+SP@nm@@nm@General Roberto Alves de Carvalho Filho@nm@04744970@nm@São Paulo@nm@Santo Amaro@nm@Rua @nm@até 329/330@nm@
+SP@nm@@nm@General Valdomiro de Lima@nm@04344970@nm@São Paulo@nm@Jabaquara@nm@Avenida @nm@@nm@
+SP@nm@@nm@George Smith@nm@05074970@nm@São Paulo@nm@Lapa@nm@Rua @nm@@nm@
+SP@nm@@nm@Giovanni Gronchi@nm@05724972@nm@São Paulo@nm@Vila Andrade@nm@Avenida @nm@de 3503 a 4143 - lado ímpar@nm@
+SP@nm@@nm@Giúlio Romano@nm@05358970@nm@São Paulo@nm@Rio Pequeno@nm@Rua @nm@@nm@
+SP@nm@@nm@Glete@nm@01215970@nm@São Paulo@nm@Campos Elíseos@nm@Alameda @nm@até 607/608@nm@
+SP@nm@@nm@Gomes Cardim@nm@03050999@nm@São Paulo@nm@Brás@nm@Rua @nm@@nm@
+SP@nm@@nm@Gomes Cardim@nm@03050971@nm@São Paulo@nm@Brás@nm@Rua @nm@@nm@
+SP@nm@@nm@Gomes Cardim@nm@03050970@nm@São Paulo@nm@Brás@nm@Rua @nm@@nm@
+SP@nm@@nm@Grão Cairo@nm@03932970@nm@São Paulo@nm@Cidade Centenário@nm@Rua @nm@@nm@
+SP@nm@@nm@Greenfeld@nm@04218970@nm@São Paulo@nm@Ipiranga@nm@Rua @nm@@nm@
+SP@nm@@nm@Greenfeld@nm@04218999@nm@São Paulo@nm@Ipiranga@nm@Rua @nm@@nm@
+SP@nm@@nm@Guaianases@nm@01204971@nm@São Paulo@nm@Campos Elíseos@nm@Rua @nm@até 520 - lado par@nm@
+SP@nm@@nm@Guaianases@nm@01204970@nm@São Paulo@nm@Campos Elíseos@nm@Rua @nm@até 520 - lado par@nm@
+SP@nm@@nm@Guaicurus@nm@05033970@nm@São Paulo@nm@Água Branca@nm@Rua @nm@até 499/500@nm@
+SP@nm@@nm@Guaicurus@nm@05033999@nm@São Paulo@nm@Água Branca@nm@Rua @nm@até 499/500@nm@
+SP@nm@@nm@Guajurus@nm@02045970@nm@São Paulo@nm@Jardim São Paulo(Zona Norte)@nm@Rua @nm@@nm@
+SP@nm@@nm@Guapira@nm@02265970@nm@São Paulo@nm@Tucuruvi@nm@Avenida @nm@até 313/314@nm@
+SP@nm@@nm@Guarapiranga@nm@04909970@nm@São Paulo@nm@Jardim Alfredo@nm@Avenida @nm@lado par@nm@
+SP@nm@@nm@Guararapes@nm@04561970@nm@São Paulo@nm@Brooklin Paulista@nm@Rua @nm@até 801/802@nm@
+SP@nm@@nm@Guilherme Asbahr Neto@nm@04646970@nm@São Paulo@nm@Chácara Monte Alegre@nm@Rua @nm@até 211/212@nm@
+SP@nm@@nm@Guilherme Cotching@nm@02113999@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@de 203 a 843 - lado ímpar@nm@
+SP@nm@@nm@Guilherme Cotching@nm@02113970@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@de 203 a 843 - lado ímpar@nm@
+SP@nm@@nm@Haddock Lobo@nm@01414999@nm@São Paulo@nm@Cerqueira César@nm@Rua @nm@até 1048 - lado par@nm@
+SP@nm@@nm@Haddock Lobo@nm@01414970@nm@São Paulo@nm@Cerqueira César@nm@Rua @nm@até 1048 - lado par@nm@
+SP@nm@@nm@Hans Christian Andersen@nm@04860971@nm@São Paulo@nm@Granja Nossa Senhora Aparecida@nm@Rua @nm@@nm@
+SP@nm@@nm@Hassib Mofarrej@nm@05312970@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Hassib Mofarrej@nm@05312975@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Hassib Mofarrej@nm@05312972@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Hassib Mofarrej@nm@05312973@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Hassib Mofarrej@nm@05312971@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Heitor Peixoto@nm@01543971@nm@São Paulo@nm@Cambuci@nm@Rua @nm@de 431/432 ao fim@nm@
+SP@nm@@nm@Herwis@nm@03279972@nm@São Paulo@nm@Vila Ema@nm@Rua @nm@@nm@
+SP@nm@@nm@Herwis@nm@03279970@nm@São Paulo@nm@Vila Ema@nm@Rua @nm@@nm@
+SP@nm@@nm@Ibirapuera@nm@04028999@nm@São Paulo@nm@Indianópolis@nm@Avenida @nm@até 1731 - lado ímpar@nm@
+SP@nm@@nm@Imirim@nm@02465970@nm@São Paulo@nm@Imirim@nm@Avenida @nm@de 3025 a 3901 - lado ímpar@nm@
+SP@nm@@nm@Inácio Cunha Leme@nm@04784970@nm@São Paulo@nm@Jardim Ipanema (Zona Sul)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Inconfidência Mineira@nm@03476970@nm@São Paulo@nm@Vila Antonieta@nm@Avenida @nm@de 1001/1002 ao fim@nm@
+SP@nm@@nm@Interlagos@nm@04660971@nm@São Paulo@nm@Jardim Marajoara@nm@Avenida @nm@até 890 - lado par@nm@
+SP@nm@@nm@Interlagos@nm@04661970@nm@São Paulo@nm@Jardim Umuarama@nm@Avenida @nm@até 869 - lado ímpar@nm@
+SP@nm@@nm@Interlagos@nm@04660970@nm@São Paulo@nm@Jardim Marajoara@nm@Avenida @nm@até 890 - lado par@nm@
+SP@nm@@nm@Iraí@nm@04082970@nm@São Paulo@nm@Indianópolis@nm@Avenida @nm@até 349/350@nm@
+SP@nm@@nm@Isabel de Castela@nm@05445970@nm@São Paulo@nm@Vila Madalena@nm@Rua @nm@@nm@
+SP@nm@@nm@Isidro Tinoco@nm@03316970@nm@São Paulo@nm@Tatuapé@nm@Rua @nm@@nm@
+SP@nm@@nm@Itaberaba@nm@02827973@nm@São Paulo@nm@Itaberaba@nm@Avenida @nm@de 1931/1932 ao fim@nm@
+SP@nm@@nm@Itagimirim@nm@08220971@nm@São Paulo@nm@Jardim Cleide@nm@Rua @nm@@nm@
+SP@nm@@nm@Itinguçu@nm@03658970@nm@São Paulo@nm@Vila Ré@nm@Rua @nm@até 1331 - lado ímpar@nm@
+SP@nm@@nm@Jabaquara@nm@04046999@nm@São Paulo@nm@Mirandópolis@nm@Avenida @nm@até 0601 - lado ímpar@nm@
+SP@nm@@nm@Jabaquara@nm@04045999@nm@São Paulo@nm@Mirandópolis@nm@Avenida @nm@até 0601 - lado ímpar@nm@
+SP@nm@@nm@Jabaquara@nm@04045970@nm@São Paulo@nm@Mirandópolis@nm@Avenida @nm@até 0601 - lado ímpar@nm@
+SP@nm@@nm@Jabaquara@nm@04045972@nm@São Paulo@nm@Mirandópolis@nm@Avenida @nm@até 0601 - lado ímpar@nm@
+SP@nm@@nm@Jabaquara@nm@04046971@nm@São Paulo@nm@Mirandópolis@nm@Avenida @nm@de 1502 a 2000 - lado par@nm@
+SP@nm@@nm@Jabaquara@nm@04045971@nm@São Paulo@nm@Mirandópolis@nm@Avenida @nm@até 0601 - lado ímpar@nm@
+SP@nm@@nm@Jabaquara@nm@04046973@nm@São Paulo@nm@Mirandópolis@nm@Avenida @nm@até 0601 - lado ímpar@nm@
+SP@nm@@nm@Jacaratinga@nm@05786970@nm@São Paulo@nm@Vila Pirajussara@nm@Rua @nm@@nm@
+SP@nm@@nm@Jaguariaiva@nm@03545970@nm@São Paulo@nm@Vila Guilhermina@nm@Rua @nm@@nm@
+SP@nm@@nm@Jandira@nm@04080970@nm@São Paulo@nm@Indianópolis@nm@Avenida @nm@até 229/230@nm@
+SP@nm@@nm@Jerimanduba@nm@05181971@nm@São Paulo@nm@Jaraguá@nm@Avenida @nm@@nm@
+SP@nm@@nm@João Moura@nm@05412970@nm@São Paulo@nm@Pinheiros@nm@Rua @nm@de 183/184 a 795/796@nm@
+SP@nm@@nm@João Moura@nm@05412972@nm@São Paulo@nm@Pinheiros@nm@Rua @nm@até 181/182@nm@
+SP@nm@@nm@Joaquim Oliveira Freitas@nm@05133970@nm@São Paulo@nm@Vila Mangalot@nm@Rua @nm@até 503/504@nm@
+SP@nm@@nm@Júlio Buono@nm@02201971@nm@São Paulo@nm@Vila Gustavo@nm@Avenida @nm@de 1631/1632 a 2069/2070@nm@
+SP@nm@@nm@Júlio Buono@nm@02201970@nm@São Paulo@nm@Vila Gustavo@nm@Avenida @nm@de 1631/1632 a 2069/2070@nm@
+SP@nm@@nm@Jumana@nm@03121970@nm@São Paulo@nm@Mooca@nm@Rua @nm@@nm@
+SP@nm@@nm@Juquis@nm@04081971@nm@São Paulo@nm@Indianópolis@nm@Rua @nm@@nm@
+SP@nm@@nm@Jurubim@nm@05170970@nm@São Paulo@nm@Vila Boaçava@nm@Rua @nm@@nm@
+SP@nm@@nm@Lavandisca@nm@04515970@nm@São Paulo@nm@Indianópolis@nm@Avenida @nm@até 499/500@nm@
+SP@nm@@nm@Leão Machado@nm@05328999@nm@São Paulo@nm@Parque Continental@nm@Avenida @nm@@nm@
+SP@nm@@nm@Líbero Badaró@nm@01009999@nm@São Paulo@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Lins de Vasconcelos@nm@04112970@nm@São Paulo@nm@Vila Mariana@nm@Avenida @nm@de 2160 a 2332 - lado par@nm@
+SP@nm@@nm@Lins de Vasconcelos@nm@01537970@nm@São Paulo@nm@Cambuci@nm@Avenida @nm@até 1147 - lado ímpar@nm@
+SP@nm@@nm@Luís Gama@nm@01519999@nm@São Paulo@nm@Cambuci@nm@Rua @nm@de 301/302 ao fim@nm@
+SP@nm@@nm@Luís Pinto@nm@03427970@nm@São Paulo@nm@Vila Carrão@nm@Rua @nm@@nm@
+SP@nm@@nm@Luís Pires de Minas@nm@03933970@nm@São Paulo@nm@Cidade Centenário@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mandissununga@nm@05619970@nm@São Paulo@nm@Vila Inah@nm@Rua @nm@@nm@
+SP@nm@@nm@Manuel Gaya@nm@02313970@nm@São Paulo@nm@Vila Nova Mazzei@nm@Rua @nm@até 1273/1274@nm@
+SP@nm@@nm@Marechal Tito@nm@08115971@nm@São Paulo@nm@Itaim Paulista@nm@Avenida @nm@de 4050 ao fim - lado par@nm@
+SP@nm@@nm@Marechal Tito@nm@08160970@nm@São Paulo@nm@Jardim Silva Teles@nm@Avenida @nm@de 3000 a 4048 - lado par@nm@
+SP@nm@@nm@Marechal Tito@nm@08115972@nm@São Paulo@nm@Itaim Paulista@nm@Avenida @nm@de 4050 ao fim - lado par@nm@
+SP@nm@@nm@Marechal Tito@nm@08010972@nm@São Paulo@nm@São Miguel Paulista@nm@Avenida @nm@até 1539/1540@nm@
+SP@nm@@nm@Maria Cândida@nm@02071971@nm@São Paulo@nm@Vila Guilherme@nm@Rua @nm@de 0547 a 0971 - lado ímpar@nm@
+SP@nm@@nm@Maria Coelho Aguiar@nm@05804970@nm@São Paulo@nm@Jardim São Luís@nm@Avenida @nm@@nm@
+SP@nm@@nm@Maria Coelho Aguiar@nm@05804999@nm@São Paulo@nm@Jardim São Luís@nm@Avenida @nm@@nm@
+SP@nm@@nm@Maria Cursi@nm@03962999@nm@São Paulo@nm@Cidade São Mateus@nm@Avenida @nm@@nm@
+SP@nm@@nm@Maria Cursi@nm@03962970@nm@São Paulo@nm@Cidade São Mateus@nm@Avenida @nm@@nm@
+SP@nm@@nm@Maria Montessori@nm@02127971@nm@São Paulo@nm@Vila Maria Alta@nm@Praça @nm@@nm@
+SP@nm@@nm@Mário Lopes Leão@nm@04754979@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mário Lopes Leão@nm@04754980@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mário Lopes Leão@nm@04754981@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mário Lopes Leão@nm@04754971@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mário Lopes Leão@nm@04754983@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mário Lopes Leão@nm@04754978@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Marquês de Itu@nm@01223970@nm@São Paulo@nm@Vila Buarque@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Mateo Bei@nm@03949971@nm@São Paulo@nm@São Mateus@nm@Avenida @nm@de 945 a 1977 - lado ímpar@nm@
+SP@nm@@nm@Mateo Bei@nm@03949970@nm@São Paulo@nm@São Mateus@nm@Avenida @nm@de 944 a 1978 - lado par@nm@
+SP@nm@@nm@Matias Aires@nm@01309970@nm@São Paulo@nm@Consolação@nm@Rua @nm@@nm@
+SP@nm@@nm@Matias Aires@nm@01309999@nm@São Paulo@nm@Consolação@nm@Rua @nm@@nm@
+SP@nm@@nm@Mazzei@nm@02310971@nm@São Paulo@nm@Vila Mazzei@nm@Avenida @nm@até 645/646@nm@
+SP@nm@@nm@Mazzei@nm@02310970@nm@São Paulo@nm@Vila Mazzei@nm@Avenida @nm@até 645/646@nm@
+SP@nm@@nm@Mergenthaler@nm@05314972@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05311981@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05314983@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05311986@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05314985@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05314970@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05311980@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05311982@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05314999@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05314984@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05314971@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05314987@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mergenthaler@nm@05311971@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@@nm@
+SP@nm@@nm@Mesquita@nm@01544971@nm@São Paulo@nm@Vila Deodoro@nm@Rua @nm@@nm@
+SP@nm@@nm@Miguel Ângelo Lapena@nm@08010999@nm@São Paulo@nm@São Miguel Paulista@nm@Rua @nm@@nm@
+SP@nm@@nm@Miguel Ângelo Lapena@nm@08010971@nm@São Paulo@nm@São Miguel Paulista@nm@Rua @nm@@nm@
+SP@nm@@nm@Miguel Estefno@nm@04301970@nm@São Paulo@nm@Saúde@nm@Avenida @nm@até 741 - lado ímpar@nm@
+SP@nm@@nm@Monte Camberela@nm@08110972@nm@São Paulo@nm@Vila Silva Teles@nm@Rua @nm@@nm@
+SP@nm@@nm@Morvan Dias de Figueiredo@nm@02170975@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Morvan Dias de Figueiredo@nm@02170971@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Morvan Dias de Figueiredo@nm@02170972@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Morvan Dias de Figueiredo@nm@02170980@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Morvan Dias de Figueiredo@nm@02170984@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Morvan Dias de Figueiredo@nm@02170970@nm@São Paulo@nm@Vila Maria@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mutinga@nm@05110971@nm@São Paulo@nm@Jardim Santo Elias@nm@Avenida @nm@de 751/752 ao fim@nm@
+SP@nm@@nm@Mutinga@nm@05110970@nm@São Paulo@nm@Pirituba@nm@Avenida @nm@até 749/750@nm@
+SP@nm@@nm@Nobel Sicard Corsini@nm@02736970@nm@São Paulo@nm@Parque Monteiro Soares@nm@Rua @nm@@nm@
+SP@nm@@nm@Nordestina@nm@08021972@nm@São Paulo@nm@Vila Americana@nm@Avenida @nm@até 529/0530@nm@
+SP@nm@@nm@Nordestina@nm@08021971@nm@São Paulo@nm@Vila Americana@nm@Avenida @nm@até 529/0530@nm@
+SP@nm@@nm@Nordestina@nm@08021970@nm@São Paulo@nm@Vila Americana@nm@Avenida @nm@até 529/0530@nm@
+SP@nm@@nm@Nossa Senhora Aparecida@nm@04892971@nm@São Paulo@nm@Colônia (Zona Sul)@nm@Rua @nm@@nm@
+SP@nm@@nm@Nossa Senhora das Mercês@nm@04165999@nm@São Paulo@nm@Vila das Mercês@nm@Rua @nm@até 636 - lado par@nm@
+SP@nm@@nm@Nossa Senhora das Mercês@nm@04165970@nm@São Paulo@nm@Vila das Mercês@nm@Rua @nm@até 636 - lado par@nm@
+SP@nm@@nm@Nossa Senhora do Sabará@nm@04447970@nm@São Paulo@nm@Vila Emir@nm@Avenida @nm@de 2742 a 3888 - lado par@nm@
+SP@nm@@nm@Nothmann@nm@01216971@nm@São Paulo@nm@Campos Elíseos@nm@Alameda @nm@de 733/734 ao fim@nm@
+SP@nm@@nm@Nothmann@nm@01216970@nm@São Paulo@nm@Campos Elíseos@nm@Alameda @nm@de 733/734 ao fim@nm@
+SP@nm@@nm@Nothmann@nm@01216999@nm@São Paulo@nm@Campos Elíseos@nm@Alameda @nm@de 733/734 ao fim@nm@
+SP@nm@@nm@Nova Cantareira@nm@02330970@nm@São Paulo@nm@Tucuruvi@nm@Avenida @nm@até 0633 - lado ímpar@nm@
+SP@nm@@nm@Olívia Guedes Penteado@nm@04766999@nm@São Paulo@nm@Socorro@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Olívia Guedes Penteado@nm@04766970@nm@São Paulo@nm@Socorro@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Oriente@nm@03016970@nm@São Paulo@nm@Brás@nm@Rua @nm@lado ímpar@nm@
+SP@nm@@nm@Oswaldo Cruz@nm@04004970@nm@São Paulo@nm@Paraíso@nm@Praça @nm@@nm@
+SP@nm@@nm@Otaviano Alves de Lima@nm@02901970@nm@São Paulo@nm@Nossa Senhora do Ó@nm@Avenida @nm@@nm@
+SP@nm@@nm@Ouricuri@nm@03365970@nm@São Paulo@nm@Vila Formosa@nm@Rua @nm@@nm@
+SP@nm@@nm@Ouricuri@nm@03365999@nm@São Paulo@nm@Vila Formosa@nm@Rua @nm@@nm@
+SP@nm@@nm@Pacaembu@nm@01234970@nm@São Paulo@nm@Pacaembu@nm@Avenida @nm@de 502 ao fim - lado par@nm@
+SP@nm@@nm@Padre Arlindo Vieira@nm@04166970@nm@São Paulo@nm@Jardim Vergueiro (Sacomã)@nm@Avenida @nm@de 1251/1252 a 1579/1580@nm@
+SP@nm@@nm@Padre Benedito de Camargo@nm@03604970@nm@São Paulo@nm@Penha de França@nm@Rua @nm@lado par@nm@
+SP@nm@@nm@Padre Júlio Maria@nm@02307972@nm@São Paulo@nm@Tucuruvi@nm@Rua @nm@@nm@
+SP@nm@@nm@Padre Manuel Campello@nm@05206970@nm@São Paulo@nm@Vila Inácio@nm@Rua @nm@@nm@
+SP@nm@@nm@Padre Péricles@nm@01156970@nm@São Paulo@nm@Barra Funda@nm@Largo @nm@@nm@
+SP@nm@@nm@Padre Viegas de Menezes@nm@08220970@nm@São Paulo@nm@Itaquera@nm@Rua @nm@@nm@
+SP@nm@@nm@Padre Viegas de Menezes@nm@08220999@nm@São Paulo@nm@Itaquera@nm@Rua @nm@@nm@
+SP@nm@@nm@Paes de Barros@nm@03149970@nm@São Paulo@nm@Mooca@nm@Avenida @nm@até 1361 - lado ímpar@nm@
+SP@nm@@nm@Paes de Barros@nm@03149999@nm@São Paulo@nm@Mooca@nm@Avenida @nm@até 1361 - lado ímpar@nm@
+SP@nm@@nm@Pamplona@nm@01405971@nm@São Paulo@nm@Jardim Paulista@nm@Rua @nm@até 598 - lado par@nm@
+SP@nm@@nm@Pamplona@nm@01405999@nm@São Paulo@nm@Jardim Paulista@nm@Rua @nm@até 598 - lado par@nm@
+SP@nm@@nm@Parada Pinto@nm@02611970@nm@São Paulo@nm@Vila Nova Cachoeirinha@nm@Avenida @nm@até 513 - lado ímpar@nm@
+SP@nm@@nm@Paranaguá@nm@03806970@nm@São Paulo@nm@Vila Paranaguá@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Paranaguá@nm@03806971@nm@São Paulo@nm@Vila Paranaguá@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Paula Ferreira@nm@02915970@nm@São Paulo@nm@Pirituba@nm@Avenida @nm@lado par@nm@
+SP@nm@@nm@Paúva@nm@05116970@nm@São Paulo@nm@Vila Jaguara@nm@Rua @nm@até 499/500@nm@
+SP@nm@@nm@Pedro Álvares Cabral@nm@04097970@nm@São Paulo@nm@Parque Ibirapuera@nm@Avenida @nm@@nm@
+SP@nm@@nm@Pedro Álvares Cabral@nm@04097999@nm@São Paulo@nm@Parque Ibirapuera@nm@Avenida @nm@@nm@
+SP@nm@@nm@Pedro Bueno@nm@04342970@nm@São Paulo@nm@Jabaquara@nm@Avenida @nm@até 1199 - lado ímpar@nm@
+SP@nm@@nm@Pedro Lessa@nm@01032970@nm@São Paulo@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Pedro Vicente@nm@01109970@nm@São Paulo@nm@Luz@nm@Rua @nm@@nm@
+SP@nm@@nm@Peri Ronchetti@nm@02633970@nm@São Paulo@nm@Jardim Peri@nm@Avenida @nm@@nm@
+SP@nm@@nm@Pilar do Sul@nm@08420970@nm@São Paulo@nm@Jardim Helena@nm@Rua @nm@@nm@
+SP@nm@@nm@Pires do Rio@nm@08041970@nm@São Paulo@nm@Vila Americana@nm@Avenida @nm@até 1347/1348@nm@
+SP@nm@@nm@Pompéia@nm@05022970@nm@São Paulo@nm@Vila Pompéia@nm@Avenida @nm@até 1050 - lado par@nm@
+SP@nm@@nm@Pompeu Bertini@nm@05271970@nm@São Paulo@nm@Jardim Santa Fé (Zona Oeste)@nm@Rua @nm@@nm@
+SP@nm@@nm@Presidente Altino@nm@05323970@nm@São Paulo@nm@Jaguaré@nm@Avenida @nm@até 499/500@nm@
+SP@nm@@nm@Presidente Kennedy@nm@03162999@nm@São Paulo@nm@Mooca@nm@Praça @nm@@nm@
+SP@nm@@nm@Presidente Kennedy@nm@03162971@nm@São Paulo@nm@Mooca@nm@Praça @nm@@nm@
+SP@nm@@nm@Presidente Kennedy@nm@03162970@nm@São Paulo@nm@Mooca@nm@Praça @nm@@nm@
+SP@nm@@nm@Pretória@nm@03416970@nm@São Paulo@nm@Vila Formosa@nm@Rua @nm@@nm@
+SP@nm@@nm@Princesa Isabel@nm@01206972@nm@São Paulo@nm@Campos Elíseos@nm@Praça @nm@@nm@
+SP@nm@@nm@Princesa Isabel@nm@04601971@nm@São Paulo@nm@Brooklin Paulista@nm@Rua @nm@até 289/290@nm@
+SP@nm@@nm@Professor Castro Júnior@nm@02138970@nm@São Paulo@nm@Vila Sabrina@nm@Avenida @nm@@nm@
+SP@nm@@nm@Professor Celestino Bourroul@nm@02710999@nm@São Paulo@nm@Limão@nm@Avenida @nm@de 610/611 ao fim@nm@
+SP@nm@@nm@Professor Francisco Morato@nm@05513970@nm@São Paulo@nm@Butantã@nm@Avenida @nm@até 999 - lado ímpar@nm@
+SP@nm@@nm@Professor Francisco Morato@nm@05513999@nm@São Paulo@nm@Butantã@nm@Avenida @nm@até 999 - lado ímpar@nm@
+SP@nm@@nm@Professor José Benedito Camargo@nm@04544970@nm@São Paulo@nm@Vila Nova Conceição@nm@Rua @nm@@nm@
+SP@nm@@nm@Ragueb Chohfi@nm@08375971@nm@São Paulo@nm@Jardim Três Marias@nm@Avenida @nm@até 1641 - lado ímpar@nm@
+SP@nm@@nm@Ragueb Chohfi@nm@08341970@nm@São Paulo@nm@Parque Boa Esperança@nm@Avenida @nm@de 2452 a 4000 - lado par@nm@
+SP@nm@@nm@Raimundo Pereira de Magalhães@nm@02984970@nm@São Paulo@nm@Jardim Pirituba@nm@Avenida @nm@de 11000/11001 a 11998/11999@nm@
+SP@nm@@nm@Rangel Pestana@nm@01017970@nm@São Paulo@nm@Brás@nm@Avenida @nm@até 499/500@nm@
+SP@nm@@nm@Rebouças@nm@01458970@nm@São Paulo@nm@Pinheiros@nm@Avenida @nm@até 1278 - lado par@nm@
+SP@nm@@nm@Rebouças@nm@05402999@nm@São Paulo@nm@Pinheiros@nm@Avenida @nm@até 1278 - lado par@nm@
+SP@nm@@nm@Rio Bonito@nm@03023999@nm@São Paulo@nm@Brás@nm@Rua @nm@@nm@
+SP@nm@@nm@Rio Bonito@nm@03023970@nm@São Paulo@nm@Brás@nm@Rua @nm@@nm@
+SP@nm@@nm@Rio das Pedras@nm@03453971@nm@São Paulo@nm@Jardim Aricanduva@nm@Avenida @nm@até 1609 - lado ímpar@nm@
+SP@nm@@nm@Rodolfo Bardella@nm@02845970@nm@São Paulo@nm@Brasilândia@nm@Rua @nm@@nm@
+SP@nm@@nm@Roland Garros@nm@02235971@nm@São Paulo@nm@Jardim Brasil (Zona Norte)@nm@Avenida @nm@até 1099/1100@nm@
+SP@nm@@nm@Roque Petroni Júnior@nm@04707970@nm@São Paulo@nm@Jardim das Acácias@nm@Avenida @nm@@nm@
+SP@nm@@nm@Santa Catarina@nm@04378971@nm@São Paulo@nm@Vila Mascote@nm@Avenida @nm@de 702 a 1360 - lado par@nm@
+SP@nm@@nm@Santa Cruz@nm@04122970@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@até 981 - lado ímpar@nm@
+SP@nm@@nm@Santa Inês@nm@02415972@nm@São Paulo@nm@Parque Mandaqui@nm@Avenida @nm@até 699/700@nm@
+SP@nm@@nm@Santo Afonso@nm@03632970@nm@São Paulo@nm@Penha de França@nm@Rua @nm@@nm@
+SP@nm@@nm@Santo Afonso@nm@03632999@nm@São Paulo@nm@Penha de França@nm@Rua @nm@@nm@
+SP@nm@@nm@Santo Amaro@nm@04505970@nm@São Paulo@nm@Vila Nova Conceição@nm@Avenida @nm@até 671 - lado ímpar@nm@
+SP@nm@@nm@Santo Amaro@nm@04506970@nm@São Paulo@nm@Vila Nova Conceição@nm@Avenida @nm@até 671 - lado ímpar@nm@
+SP@nm@@nm@Santo Amaro@nm@04505999@nm@São Paulo@nm@Vila Nova Conceição@nm@Avenida @nm@até 671 - lado ímpar@nm@
+SP@nm@@nm@Santo Amaro@nm@04505971@nm@São Paulo@nm@Vila Nova Conceição@nm@Avenida @nm@até 671 - lado ímpar@nm@
+SP@nm@@nm@Santo Amaro@nm@04556970@nm@São Paulo@nm@Brooklin Paulista@nm@Avenida @nm@de 2261 a 3199 - lado ímpar@nm@
+SP@nm@@nm@Santo Antônio@nm@01314971@nm@São Paulo@nm@Bela Vista@nm@Rua @nm@até 799/800@nm@
+SP@nm@@nm@Santo Henrique@nm@03664970@nm@São Paulo@nm@Vila Ré@nm@Rua @nm@@nm@
+SP@nm@@nm@Santos@nm@01418970@nm@São Paulo@nm@Cerqueira César@nm@Alameda @nm@até 484 - lado par@nm@
+SP@nm@@nm@Santos@nm@01418999@nm@São Paulo@nm@Cerqueira César@nm@Alameda @nm@até 484 - lado par@nm@
+SP@nm@@nm@São João@nm@01036970@nm@São Paulo@nm@Centro@nm@Avenida @nm@até 648 - lado par@nm@
+SP@nm@@nm@São Miguel@nm@03871970@nm@São Paulo@nm@Vila Rio Branco@nm@Avenida @nm@de 3102 a 4470 - lado par@nm@
+SP@nm@@nm@Sapopemba@nm@03989971@nm@São Paulo@nm@Jardim Adutora@nm@Avenida @nm@de 7535 a 11665 - lado ímpar@nm@
+SP@nm@@nm@Sapopemba@nm@03989970@nm@São Paulo@nm@Sapopemba@nm@Avenida @nm@de 3742/3743 a 5300/5301@nm@
+SP@nm@@nm@Sargento Mário Kozel Filho@nm@04003999@nm@São Paulo@nm@Paraíso@nm@Avenida @nm@@nm@
+SP@nm@@nm@Savério Valente@nm@02996970@nm@São Paulo@nm@Parque Nações Unidas@nm@Rua @nm@@nm@
+SP@nm@@nm@Schilling@nm@05302970@nm@São Paulo@nm@Vila Leopoldina@nm@Rua @nm@até 301/302@nm@
+SP@nm@@nm@Senador Teotônio Vilela@nm@04801970@nm@São Paulo@nm@Cidade Dutra@nm@Avenida @nm@até 3998 - lado par@nm@
+SP@nm@@nm@Senador Teotônio Vilela@nm@04858971@nm@São Paulo@nm@Jardim Casa Grande@nm@Avenida @nm@de 8120 ao fim - lado par@nm@
+SP@nm@@nm@Senador Teotônio Vilela@nm@04801971@nm@São Paulo@nm@Cidade Dutra@nm@Avenida @nm@até 3998 - lado par@nm@
+SP@nm@@nm@Serafim Gonçalves Pereira@nm@02179970@nm@São Paulo@nm@Parque Novo Mundo@nm@Avenida @nm@@nm@
+SP@nm@@nm@Serra do Japi@nm@03309970@nm@São Paulo@nm@Vila Gomes Cardim@nm@Rua @nm@até 999/1000@nm@
+SP@nm@@nm@Silva Bueno@nm@04208971@nm@São Paulo@nm@Ipiranga@nm@Rua @nm@até 1071 - lado ímpar@nm@
+SP@nm@@nm@Silva Bueno@nm@04208970@nm@São Paulo@nm@Ipiranga@nm@Rua @nm@até 1071 - lado ímpar@nm@
+SP@nm@@nm@Tabapuã@nm@04533999@nm@São Paulo@nm@Itaim Bibi@nm@Rua @nm@até 339 - lado ímpar@nm@
+SP@nm@@nm@Tabapuã@nm@04533970@nm@São Paulo@nm@Itaim Bibi@nm@Rua @nm@até 339 - lado ímpar@nm@
+SP@nm@@nm@Tabor@nm@04202970@nm@São Paulo@nm@Ipiranga@nm@Rua @nm@até 549/550@nm@
+SP@nm@@nm@Tanque Velho@nm@02251970@nm@São Paulo@nm@Vila Nivi@nm@Rua @nm@até 499/500@nm@
+SP@nm@@nm@Tenente Alberto Spicciati@nm@01140970@nm@São Paulo@nm@Várzea da Barra Funda@nm@Rua @nm@@nm@
+SP@nm@@nm@Tenente-Coronel Carlos da Silva Araújo@nm@04751971@nm@São Paulo@nm@Santo Amaro@nm@Rua @nm@@nm@
+SP@nm@@nm@Tibério@nm@05042971@nm@São Paulo@nm@Água Branca@nm@Rua @nm@@nm@
+SP@nm@@nm@Tibúrcio de Sousa@nm@08140970@nm@São Paulo@nm@Itaim Paulista@nm@Rua @nm@@nm@
+SP@nm@@nm@Tibúrcio de Sousa@nm@08140972@nm@São Paulo@nm@Itaim Paulista@nm@Rua @nm@@nm@
+SP@nm@@nm@Treze de Maio@nm@01327970@nm@São Paulo@nm@Bela Vista@nm@Rua @nm@até 1149/1150@nm@
+SP@nm@@nm@Tuiuti@nm@03307970@nm@São Paulo@nm@Tatuapé@nm@Rua @nm@de 32/33 a 590/591@nm@
+SP@nm@@nm@Turística do Jaraguá@nm@05161970@nm@São Paulo@nm@Vila Jaraguá@nm@Estrada @nm@@nm@
+SP@nm@@nm@Turmalina@nm@01531970@nm@São Paulo@nm@Aclimação@nm@Avenida @nm@@nm@
+SP@nm@@nm@Tutóia@nm@04007970@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@até 239/240@nm@
+SP@nm@@nm@Vergueiro@nm@04273970@nm@São Paulo@nm@Vila Mariana@nm@Rua @nm@de 1291 a 2113 - lado ímpar@nm@
+SP@nm@@nm@Vergueiro@nm@01504970@nm@São Paulo@nm@Liberdade@nm@Rua @nm@até 1288 - lado par@nm@
+SP@nm@@nm@Victório Santim@nm@08290970@nm@São Paulo@nm@Vila Carmosina@nm@Rua @nm@até 1619/1620@nm@
+SP@nm@@nm@Vieira de Morais@nm@04617971@nm@São Paulo@nm@Campo Belo@nm@Rua @nm@até 0430 - lado par@nm@
+SP@nm@@nm@Voluntários da Pátria@nm@02011970@nm@São Paulo@nm@Santana@nm@Rua @nm@de 2413 a 2599 - lado ímpar@nm@
+SP@nm@@nm@Waldemar Carlos Pereira@nm@03533971@nm@São Paulo@nm@Vila Talarico@nm@Avenida @nm@até 0964 - lado par@nm@
+SP@nm@@nm@Wanderley@nm@05011970@nm@São Paulo@nm@Perdizes@nm@Rua @nm@até 399/400@nm@
+SP@nm@@nm@Washington Luís@nm@04626999@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@até 589/0590@nm@
+SP@nm@@nm@Washington Luís@nm@04627970@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@até 589/0590@nm@
+SP@nm@@nm@Washington Luís@nm@04626970@nm@São Paulo@nm@Santo Amaro@nm@Avenida @nm@até 589/0590@nm@
+SP@nm@@nm@Yervant Kissajikian@nm@04428973@nm@São Paulo@nm@Vila Joaniza@nm@Avenida @nm@de 1602 ao fim - lado par@nm@
+SP@nm@@nm@Zanzibar@nm@02512970@nm@São Paulo@nm@Casa Verde@nm@Rua @nm@@nm@
+SP@nm@@nm@Zanzibar@nm@02512971@nm@São Paulo@nm@Casa Verde@nm@Rua @nm@@nm@
+SP@nm@@nm@Zelina@nm@03143999@nm@São Paulo@nm@Vila Zelina@nm@Avenida @nm@de 902 ao fim - lado par@nm@
+SP@nm@@nm@José Teodoro@nm@18940970@nm@São Pedro do Turvo@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Amaro Godinho@nm@18145970@nm@São Roque@nm@Centro (Canguera)@nm@Rua @nm@@nm@
+SP@nm@@nm@da República@nm@18130972@nm@São Roque@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Faustina Maria das Dores@nm@18140970@nm@São Roque@nm@Centro (São João Novo)@nm@Rua @nm@@nm@
+SP@nm@@nm@Heitor Boccato@nm@18130970@nm@São Roque@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Heitor Boccato@nm@18130999@nm@São Roque@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Luiz Matheus Mailasqui@nm@18143970@nm@São Roque@nm@Centro (Mailasqui)@nm@Rua @nm@@nm@
+SP@nm@@nm@Marino Camurça@nm@18130971@nm@São Roque@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Antonio Cândido@nm@11608970@nm@São Sebastião@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Pereira da Silva@nm@11610971@nm@São Sebastião@nm@Topolândia@nm@Rua @nm@@nm@
+SP@nm@@nm@Doutor Francisco Loup@nm@11628970@nm@São Sebastião@nm@Maresias@nm@Avenida @nm@@nm@
+SP@nm@@nm@Guarda-Mor Lobo Viana@nm@11608971@nm@São Sebastião@nm@Centro@nm@Avenida @nm@@nm@
+SP@nm@@nm@Hilarião Crisólogo de Matos@nm@11617970@nm@São Sebastião@nm@Boiçucanga@nm@Rua @nm@@nm@
+SP@nm@@nm@João Eduardo de Moraes@nm@11602970@nm@São Sebastião@nm@Enseada@nm@Praça @nm@@nm@
+SP@nm@@nm@Martins do Val@nm@11629970@nm@São Sebastião@nm@São Francisco da Praia@nm@Rua @nm@@nm@
+SP@nm@@nm@Simeão Faustino@nm@11623970@nm@São Sebastião@nm@Juquehy@nm@Praça @nm@@nm@
+SP@nm@@nm@Capitão Luís Horneaux de Moura@nm@11370971@nm@São Vicente@nm@Jardim Paraíso@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Coronel José Lopes@nm@11310971@nm@São Vicente@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@Doutor José Singer@nm@11349970@nm@São Vicente@nm@Conjunto Residencial Humaitá@nm@Avenida @nm@@nm@
+SP@nm@@nm@Frei Gaspar@nm@11340970@nm@São Vicente@nm@Parque São Vicente@nm@Rua @nm@de 1403/1404 a 3101/3102@nm@
+SP@nm@@nm@Prefeito José Monteiro@nm@11380972@nm@São Vicente@nm@Jardim Independência@nm@Avenida @nm@lado ímpar@nm@
+SP@nm@@nm@Primeiro de Maio@nm@11380971@nm@São Vicente@nm@Jardim Independência@nm@Praça @nm@@nm@
+SP@nm@@nm@Elpídio Gomes@nm@14160999@nm@Sertãozinho@nm@Centro@nm@Rua @nm@até 499/500@nm@
+SP@nm@@nm@Elpídio Gomes@nm@14160970@nm@Sertãozinho@nm@Centro@nm@Rua @nm@até 499/500@nm@
+SP@nm@@nm@Floriano Peixoto@nm@14179970@nm@Sertãozinho@nm@Cruz das Posses@nm@Rua @nm@@nm@
+SP@nm@@nm@Luiza Maria Tognon Perticarrari@nm@14177972@nm@Sertãozinho@nm@Vila Industrial@nm@Rua @nm@até 699/700@nm@
+SP@nm@@nm@Luiza Maria Tognon Perticarrari@nm@14177971@nm@Sertãozinho@nm@Vila Industrial@nm@Rua @nm@até 699/700@nm@
+SP@nm@@nm@Aguiar de Barros@nm@18080970@nm@Sorocaba@nm@Vila Adélia@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Aparecido Ferraz@nm@18052972@nm@Sorocaba@nm@Parque Santa Isabel@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Aparecido Ferraz@nm@18052971@nm@Sorocaba@nm@Parque Santa Isabel@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Aparecido Ferraz@nm@18052970@nm@Sorocaba@nm@Parque Santa Isabel@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Carlos Comitre@nm@18047970@nm@Sorocaba@nm@Parque Campolim@nm@Avenida @nm@@nm@
+SP@nm@@nm@Bandeirantes@nm@18108971@nm@Sorocaba@nm@Brigadeiro Tobias@nm@Avenida @nm@@nm@
+SP@nm@@nm@Comendador Hermelino Matarazzo@nm@18080971@nm@Sorocaba@nm@Vila Santa Rita@nm@Rua @nm@até 780/781@nm@
+SP@nm@@nm@Coronel Nogueira Padilha@nm@18020970@nm@Sorocaba@nm@Vila Hortência@nm@Rua @nm@até 550/551@nm@
+SP@nm@@nm@Doutor Afonso Vergueiro@nm@18035970@nm@Sorocaba@nm@Centro@nm@Avenida @nm@até 1869/1870@nm@
+SP@nm@@nm@Estado de Israel@nm@18055970@nm@Sorocaba@nm@Ipiranga@nm@Rua @nm@@nm@
+SP@nm@@nm@General Carneiro@nm@18043971@nm@Sorocaba@nm@Vila Lucy@nm@Avenida @nm@até 390/391@nm@
+SP@nm@@nm@General Carneiro@nm@18043970@nm@Sorocaba@nm@Vila Lucy@nm@Avenida @nm@até 390/391@nm@
+SP@nm@@nm@Independência@nm@18103972@nm@Sorocaba@nm@Éden@nm@Avenida @nm@de 4194/4195 ao fim@nm@
+SP@nm@@nm@Ipanema@nm@18070970@nm@Sorocaba@nm@Vila Nova Sorocaba@nm@Avenida @nm@até 1620/1621@nm@
+SP@nm@@nm@Itavuvu@nm@18078970@nm@Sorocaba@nm@Jardim Santa Cecília@nm@Avenida @nm@de 2600/2601 ao fim@nm@
+SP@nm@@nm@Juvenal Wey@nm@18075970@nm@Sorocaba@nm@Vila Guimarães@nm@Rua @nm@@nm@
+SP@nm@@nm@Padre Madureira@nm@18013977@nm@Sorocaba@nm@Além Ponte@nm@Rua @nm@@nm@
+SP@nm@@nm@Pedro José Senger@nm@18015970@nm@Sorocaba@nm@Vila Haro@nm@Rua @nm@@nm@
+SP@nm@@nm@Professor Altamir Gonçalves@nm@18013970@nm@Sorocaba@nm@Jardim Gonçalves@nm@Rua @nm@@nm@
+SP@nm@@nm@Professor Altamir Gonçalves@nm@18016970@nm@Sorocaba@nm@Jardim Gonçalves@nm@Rua @nm@@nm@
+SP@nm@@nm@Salvador Leite Marques@nm@18103971@nm@Sorocaba@nm@Éden@nm@Rua @nm@@nm@
+SP@nm@@nm@São Bento@nm@18010971@nm@Sorocaba@nm@Centro@nm@Rua @nm@até 170/171@nm@
+SP@nm@@nm@São Paulo@nm@18013972@nm@Sorocaba@nm@Além Ponte@nm@Avenida @nm@até 310/311@nm@
+SP@nm@@nm@Souza Pereira@nm@18010970@nm@Sorocaba@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio do Valle Melo@nm@13170971@nm@Sumaré@nm@Centro@nm@Rua @nm@até 738/739@nm@
+SP@nm@@nm@Augusta Diogo Ayala@nm@13181970@nm@Sumaré@nm@Jardim Bom Retiro (Nova Veneza)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Daniel D. Cole@nm@13177971@nm@Sumaré@nm@Chácaras Reunidas Anhangüera (Nova Veneza)@nm@Avenida @nm@@nm@
+SP@nm@@nm@José Maria Miranda@nm@13170970@nm@Sumaré@nm@Centro@nm@Rua @nm@até 598/599@nm@
+SP@nm@@nm@Júlia Maria Galiêta@nm@13179970@nm@Sumaré@nm@Jardim Nova Terra (Nova Veneza)@nm@Rua @nm@@nm@
+SP@nm@@nm@Minasa@nm@13180970@nm@Sumaré@nm@Vila San Martin (Nova Veneza)@nm@Avenida @nm@de 993/994 ao fim@nm@
+SP@nm@@nm@São Paulo@nm@13177970@nm@Sumaré@nm@Jardim Nova Veneza (Nova Veneza)@nm@Avenida @nm@@nm@
+SP@nm@@nm@Campos Sales@nm@08674970@nm@Suzano@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@dos Expedicionários Antônio Garcia@nm@08675970@nm@Suzano@nm@Vila Costa@nm@Praça @nm@@nm@
+SP@nm@@nm@General Francisco Glicério@nm@08674972@nm@Suzano@nm@Centro@nm@Rua @nm@até 729 - lado ímpar@nm@
+SP@nm@@nm@Governador Mario Covas Junior@nm@08615970@nm@Suzano@nm@Vila Nova Urupês@nm@Avenida @nm@de 800/801 ao fim@nm@
+SP@nm@@nm@Anália Andrade Miranda@nm@06763970@nm@Taboão da Serra@nm@Jardim Bontempo@nm@Rua @nm@@nm@
+SP@nm@@nm@Ernesto Rosa da Fonseca@nm@06767971@nm@Taboão da Serra@nm@Parque Pinheiros@nm@Rua @nm@@nm@
+SP@nm@@nm@Ernesto Rosa da Fonseca@nm@06767999@nm@Taboão da Serra@nm@Parque Pinheiros@nm@Rua @nm@@nm@
+SP@nm@@nm@Felício Barutti@nm@06757970@nm@Taboão da Serra@nm@Cidade Intercap@nm@Avenida @nm@@nm@
+SP@nm@@nm@Fernando Fernandes@nm@06775970@nm@Taboão da Serra@nm@Jardim Mituzi@nm@Avenida @nm@@nm@
+SP@nm@@nm@Thereza Maria Luizetto@nm@06754999@nm@Taboão da Serra@nm@Vila Santa Luzia@nm@Rua @nm@@nm@
+SP@nm@@nm@Thereza Maria Luizetto@nm@06754970@nm@Taboão da Serra@nm@Vila Santa Luzia@nm@Rua @nm@@nm@
+SP@nm@@nm@Capitão Lisboa@nm@18270971@nm@Tatuí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Quinze de Novembro@nm@18276970@nm@Tatuí@nm@Loteamento Modena@nm@Rua @nm@de 1515/1516 ao fim@nm@
+SP@nm@@nm@Treze de Maio@nm@18270970@nm@Tatuí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Treze de Maio@nm@18270999@nm@Tatuí@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Barão da Pedra Negra@nm@12020970@nm@Taubaté@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Barão da Pedra Negra@nm@12020973@nm@Taubaté@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Brigadeiro José Vicente de Faria Lima@nm@12070971@nm@Taubaté@nm@Vila São Carlos@nm@Avenida @nm@de 613/614 ao fim@nm@
+SP@nm@@nm@Brigadeiro José Vicente de Faria Lima@nm@12070970@nm@Taubaté@nm@Jardim Maria Augusta@nm@Avenida @nm@até 611/612@nm@
+SP@nm@@nm@Dona Chiquinha de Mattos@nm@12020972@nm@Taubaté@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Engenheiro Fernando de Mattos@nm@12010970@nm@Taubaté@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Expedicionário José Antônio Moreira@nm@12030971@nm@Taubaté@nm@Jardim das Nações@nm@Rua @nm@@nm@
+SP@nm@@nm@General Júlio Marcondes Salgado@nm@12030970@nm@Taubaté@nm@Jardim das Nações@nm@Praça @nm@@nm@
+SP@nm@@nm@João Botossi@nm@12043970@nm@Taubaté@nm@Quiririm@nm@Rua @nm@@nm@
+SP@nm@@nm@Matheus Alves Antunes@nm@12091970@nm@Taubaté@nm@Cidade Jardim@nm@Rua @nm@@nm@
+SP@nm@@nm@Aimorés@nm@17601970@nm@Tupã@nm@Centro@nm@Rua @nm@de 622/623 a 1850/1851@nm@
+SP@nm@@nm@Cherentes@nm@17600972@nm@Tupã@nm@Centro@nm@Rua @nm@até 1460/1461@nm@
+SP@nm@@nm@da Bandeira@nm@17600970@nm@Tupã@nm@Centro@nm@Praça @nm@@nm@
+SP@nm@@nm@João Batista@nm@17625970@nm@Tupã@nm@Centro(Varpa)@nm@Rua @nm@@nm@
+SP@nm@@nm@José Keller@nm@17620970@nm@Tupã@nm@Centro(Parnaso)@nm@Rua @nm@@nm@
+SP@nm@@nm@Piratinins@nm@17600971@nm@Tupã@nm@Centro@nm@Rua @nm@até 1450/1451@nm@
+SP@nm@@nm@Sebastião Ferreira de Deus@nm@17623970@nm@Tupã@nm@Centro(Universo)@nm@Rua @nm@@nm@
+SP@nm@@nm@Antônio Carlos@nm@13270970@nm@Valinhos@nm@Centro@nm@Rua @nm@até 301/302@nm@
+SP@nm@@nm@Clark@nm@13279980@nm@Valinhos@nm@Macuco@nm@Rua @nm@@nm@
+SP@nm@@nm@Clark@nm@13279978@nm@Valinhos@nm@Macuco@nm@Rua @nm@@nm@
+SP@nm@@nm@Clark@nm@13279982@nm@Valinhos@nm@Macuco@nm@Rua @nm@@nm@
+SP@nm@@nm@Clark@nm@13279983@nm@Valinhos@nm@Macuco@nm@Rua @nm@@nm@
+SP@nm@@nm@Dom Nery@nm@13271970@nm@Valinhos@nm@Vila Embaré@nm@Rua @nm@@nm@
+SP@nm@@nm@Maria Quitéria@nm@13277970@nm@Valinhos@nm@Jardim Santo Antônio@nm@Rua @nm@@nm@
+SP@nm@@nm@Paschoal Gianfrancesco@nm@13224971@nm@Várzea Paulista@nm@Jardim das Palmeiras@nm@Rua @nm@@nm@
+SP@nm@@nm@Paschoal Gianfrancesco@nm@13224970@nm@Várzea Paulista@nm@Jardim das Palmeiras@nm@Rua @nm@@nm@
+SP@nm@@nm@Comendador João Lucas@nm@13288970@nm@Vinhedo@nm@Distrito Industrial Benedito Storani@nm@Rua @nm@@nm@
+SP@nm@@nm@dos Imigrantes@nm@13289970@nm@Vinhedo@nm@Santa Rosa@nm@Avenida @nm@@nm@
+SP@nm@@nm@Manoel Matheus@nm@13280970@nm@Vinhedo@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Primeiro de Maio@nm@13285970@nm@Vinhedo@nm@Capela@nm@Rua @nm@(Jardim Von Zuben)@nm@
+SP@nm@@nm@Santa Cruz@nm@13280972@nm@Vinhedo@nm@Centro@nm@Rua @nm@(Jardim Emília)@nm@
+SP@nm@@nm@Santos Dumont@nm@13280973@nm@Vinhedo@nm@Centro@nm@Rua @nm@(Vila Magalhães)@nm@
+SP@nm@@nm@Celso Miguel dos Santos@nm@18116999@nm@Votorantim@nm@Vossoroca@nm@Avenida @nm@@nm@
+SP@nm@@nm@Eduardo Prado@nm@18110972@nm@Votorantim@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@João Walter@nm@18110971@nm@Votorantim@nm@Centro@nm@Rua @nm@@nm@
+SP@nm@@nm@Reverendo José Manoel da Conceição@nm@18111970@nm@Votorantim@nm@Protestantes@nm@Avenida @nm@@nm@
+SP@nm@@nm@Emílio Arroyo Hernandes@nm@15503970@nm@Votuporanga@nm@Pozzobon@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mariano Corte@nm@15515970@nm@Votuporanga@nm@Simonsen@nm@Avenida @nm@@nm@
+SP@nm@@nm@Mato Grosso@nm@15505971@nm@Votuporanga@nm@Santa Eliza@nm@Rua @nm@@nm@
+SP@nm@@nm@São Paulo@nm@15500999@nm@Votuporanga@nm@Patrimônio Novo@nm@Rua @nm@de 2398/2399 ao fim@nm@
+SP@nm@@nm@São Paulo@nm@15500972@nm@Votuporanga@nm@Patrimônio Novo@nm@Rua @nm@de 2398/2399 ao fim@nm@
+SP@nm@@nm@Tocantins@nm@15505970@nm@Votuporanga@nm@Santa Eliza@nm@Rua @nm@@nm@

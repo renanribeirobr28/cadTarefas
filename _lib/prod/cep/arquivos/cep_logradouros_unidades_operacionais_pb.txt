@@ -1,0 +1,50 @@
+PB@nm@@nm@Liberdade@nm@58306972@nm@Bayeux@nm@Centro@nm@Avenida @nm@de 3957/3958 ao fim@nm@
+PB@nm@@nm@Liberdade@nm@58306970@nm@Bayeux@nm@Centro@nm@Avenida @nm@de 3957/3958 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58102970@nm@Cabedelo@nm@Intermares@nm@Rodovia @nm@@nm@
+PB@nm@@nm@Presidente João Pessoa@nm@58100976@nm@Cabedelo@nm@Centro@nm@Rua @nm@@nm@
+PB@nm@@nm@Antenor Navarro@nm@58400976@nm@Campina Grande@nm@Prata@nm@Rua @nm@@nm@
+PB@nm@@nm@Aprígio Veloso@nm@58429970@nm@Campina Grande@nm@Universitário@nm@Rua @nm@de 174/175 a 746/747@nm@
+PB@nm@@nm@da Bandeira@nm@58400970@nm@Campina Grande@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@da Bandeira@nm@58400971@nm@Campina Grande@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@da Bandeira@nm@58400972@nm@Campina Grande@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@Jornalista Assis Chateaubriand@nm@58414970@nm@Campina Grande@nm@Tambor@nm@Avenida @nm@@nm@
+PB@nm@@nm@Presidente Juscelino Kubitschek@nm@58415970@nm@Campina Grande@nm@Cruzeiro@nm@Avenida @nm@@nm@
+PB@nm@@nm@Abdias Gomes de Almeida@nm@58042970@nm@João Pessoa@nm@Tambauzinho@nm@Rua @nm@@nm@
+PB@nm@@nm@Bancário Sérgio Guerra@nm@58052970@nm@João Pessoa@nm@Anatólia@nm@Rua @nm@@nm@
+PB@nm@@nm@BR-230@nm@58071972@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58071975@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58071970@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58071974@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58071973@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58071979@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58071971@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@BR-230@nm@58071980@nm@João Pessoa@nm@Cristo Redentor@nm@Rodovia @nm@do km 25,000 ao fim@nm@
+PB@nm@@nm@Cruz das Armas@nm@58085970@nm@João Pessoa@nm@Cruz das Armas@nm@Avenida @nm@até 2202/2203@nm@
+PB@nm@@nm@Doutor Euclides Neiva de Oliveira@nm@58056970@nm@João Pessoa@nm@Mangabeira@nm@Rua @nm@até 1697/1698@nm@
+PB@nm@@nm@Duque de Caxias@nm@58010974@nm@João Pessoa@nm@Centro@nm@Rua @nm@até 349/350@nm@
+PB@nm@@nm@Elias Pereira de Araújo@nm@58056971@nm@João Pessoa@nm@Mangabeira@nm@Rua @nm@@nm@
+PB@nm@@nm@Francisco Leocádio Ribeiro Coutinho@nm@58036971@nm@João Pessoa@nm@Aeroclube@nm@Rua @nm@@nm@
+PB@nm@@nm@Francisco Londres@nm@58010973@nm@João Pessoa@nm@Varadouro@nm@Rua @nm@@nm@
+PB@nm@@nm@General Bento da Gama@nm@58040972@nm@João Pessoa@nm@Torre@nm@Avenida @nm@@nm@
+PB@nm@@nm@Governador Flávio Ribeiro Coutinho@nm@58037972@nm@João Pessoa@nm@Manaíra@nm@Avenida @nm@@nm@
+PB@nm@@nm@Juarez Távora@nm@58041974@nm@João Pessoa@nm@Torre@nm@Avenida @nm@até 1145/1146@nm@
+PB@nm@@nm@Maranhão@nm@58030971@nm@João Pessoa@nm@Estados@nm@Avenida @nm@até 665/666@nm@
+PB@nm@@nm@Marcionila da Conceição@nm@58045970@nm@João Pessoa@nm@Cabo Branco@nm@Rua @nm@@nm@
+PB@nm@@nm@Monteiro da Franca@nm@58038970@nm@João Pessoa@nm@Manaíra@nm@Avenida @nm@até 1149/1150@nm@
+PB@nm@@nm@Pedro Américo@nm@58010972@nm@João Pessoa@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@Pedro Américo@nm@58010971@nm@João Pessoa@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@Pedro Américo@nm@58010970@nm@João Pessoa@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@Presidente Afonso Pena@nm@58035974@nm@João Pessoa@nm@Bessa@nm@Avenida @nm@@nm@
+PB@nm@@nm@Presidente Epitácio Pessoa@nm@58030972@nm@João Pessoa@nm@Estados@nm@Avenida @nm@até 1145 - lado ímpar@nm@
+PB@nm@@nm@Presidente Epitácio Pessoa@nm@58030970@nm@João Pessoa@nm@Estados@nm@Avenida @nm@de 1147 a 1741 - lado ímpar@nm@
+PB@nm@@nm@Presidente Ranieri Mazilli@nm@58071978@nm@João Pessoa@nm@Cristo Redentor@nm@Rua @nm@@nm@
+PB@nm@@nm@Universitário@nm@58051970@nm@João Pessoa@nm@Castelo Branco@nm@Jardim @nm@@nm@
+PB@nm@@nm@Presidente Epitácio Pessoa@nm@58700972@nm@Patos@nm@Centro@nm@Rua @nm@@nm@
+PB@nm@@nm@Presidente Epitácio Pessoa@nm@58700970@nm@Patos@nm@Centro@nm@Rua @nm@@nm@
+PB@nm@@nm@Raniere Mazilli@nm@58703971@nm@Patos@nm@Liberdade@nm@Rua @nm@@nm@
+PB@nm@@nm@Antenor Navarro@nm@58300970@nm@Santa Rita@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@Antenor Navarro@nm@58300971@nm@Santa Rita@nm@Centro@nm@Praça @nm@@nm@
+PB@nm@@nm@Principal@nm@58303970@nm@Santa Rita@nm@Capitão@nm@Rua @nm@@nm@
+PB@nm@@nm@Cônego José Viana@nm@58807970@nm@Sousa@nm@Estação@nm@Rua @nm@@nm@
+PB@nm@@nm@Coronel José Vicente@nm@58800971@nm@Sousa@nm@Centro@nm@Rua @nm@@nm@
+PB@nm@@nm@Coronel José Vicente@nm@58800970@nm@Sousa@nm@Centro@nm@Rua @nm@@nm@

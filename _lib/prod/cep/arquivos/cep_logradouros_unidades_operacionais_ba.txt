@@ -1,0 +1,168 @@
+BA@nm@@nm@Graciliano Freitas@nm@48010970@nm@Alagoinhas@nm@Centro@nm@Praça @nm@@nm@
+BA@nm@@nm@José Joaquim Seabra@nm@48005970@nm@Alagoinhas@nm@Centro@nm@Praça @nm@@nm@
+BA@nm@@nm@Juracy Magalhães@nm@48040970@nm@Alagoinhas@nm@Juracy Magalhães@nm@Avenida @nm@@nm@
+BA@nm@@nm@24 de Outubro@nm@47800970@nm@Barreiras@nm@Centro@nm@Rua @nm@até 298/299@nm@
+BA@nm@@nm@24 de Outubro@nm@47800971@nm@Barreiras@nm@Centro@nm@Rua @nm@até 298/299@nm@
+BA@nm@@nm@Café Filho@nm@47800973@nm@Barreiras@nm@Centro@nm@Rua @nm@até 308/309@nm@
+BA@nm@@nm@Clériston Andrade@nm@47800972@nm@Barreiras@nm@Juscelino Kubitschek@nm@Avenida @nm@de 271 a 1073 - lado ímpar@nm@
+BA@nm@@nm@São Sebastião@nm@47810970@nm@Barreiras@nm@Barreirinhas@nm@Rua @nm@@nm@
+BA@nm@@nm@BA-099 - Estrada do Côco@nm@42827970@nm@Camaçari@nm@Vila de Abrantes (Abrantes)@nm@Rodovia @nm@@nm@
+BA@nm@@nm@Doutor Manoel Mercês@nm@42803970@nm@Camaçari@nm@Alto da Cruz@nm@Avenida @nm@@nm@
+BA@nm@@nm@Filogônio Gomes de Oliveira@nm@42841970@nm@Camaçari@nm@Barra do Pojuca (Monte Gordo)@nm@Rua @nm@@nm@
+BA@nm@@nm@Francisco Drumond@nm@42800970@nm@Camaçari@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Manoel Coelho@nm@42829970@nm@Camaçari@nm@Arembepe (Abrantes)@nm@Rua @nm@@nm@
+BA@nm@@nm@Senhor do Bonfim@nm@42839970@nm@Camaçari@nm@Monte Gordo (Monte Gordo)@nm@Rua @nm@@nm@
+BA@nm@@nm@Dois de Fevereiro@nm@43805970@nm@Candeias@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Guarani@nm@45821970@nm@Eunápolis@nm@Doutor Gusmão@nm@Rua @nm@@nm@
+BA@nm@@nm@Ruy Barbosa@nm@45820970@nm@Eunápolis@nm@Centro@nm@Avenida @nm@de 371/372 ao fim@nm@
+BA@nm@@nm@Adenil Falcão@nm@44088971@nm@Feira de Santana@nm@Brasília@nm@Rua @nm@de 1347 ao fim - lado ímpar@nm@
+BA@nm@@nm@Boticário Moncorvo@nm@44001974@nm@Feira de Santana@nm@Centro@nm@Rua @nm@até 407/408@nm@
+BA@nm@@nm@Esther Freitas@nm@44003970@nm@Feira de Santana@nm@Olhos D'Água@nm@Rua @nm@@nm@
+BA@nm@@nm@Getúlio Vargas@nm@44001970@nm@Feira de Santana@nm@Centro@nm@Avenida @nm@até 534 - lado par@nm@
+BA@nm@@nm@Governador João Durval Carneiro@nm@44051971@nm@Feira de Santana@nm@São João@nm@Avenida @nm@de 3657 ao fim - lado ímpar@nm@
+BA@nm@@nm@Macário Barreto@nm@44090970@nm@Feira de Santana@nm@Tomba@nm@Praça @nm@@nm@
+BA@nm@@nm@Marechal Deodoro@nm@44002999@nm@Feira de Santana@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Presidente Dutra@nm@44075974@nm@Feira de Santana@nm@Ponto Central@nm@Avenida @nm@de 1180 a 1434 - lado par@nm@
+BA@nm@@nm@Presidente Dutra@nm@44075972@nm@Feira de Santana@nm@Ponto Central@nm@Avenida @nm@de 1180 a 1434 - lado par@nm@
+BA@nm@@nm@Presidente Dutra@nm@44075971@nm@Feira de Santana@nm@Ponto Central@nm@Avenida @nm@de 1180 a 1434 - lado par@nm@
+BA@nm@@nm@Sampaio@nm@44001972@nm@Feira de Santana@nm@Centro@nm@Avenida @nm@até 561 - lado ímpar@nm@
+BA@nm@@nm@Sampaio@nm@44001971@nm@Feira de Santana@nm@Centro@nm@Avenida @nm@até 561 - lado ímpar@nm@
+BA@nm@@nm@Senhor dos Passos@nm@44002970@nm@Feira de Santana@nm@Centro@nm@Avenida @nm@de 151 a 269 - lado ímpar@nm@
+BA@nm@@nm@Transnordestina@nm@44054970@nm@Feira de Santana@nm@Parque Ipê@nm@Avenida @nm@@nm@
+BA@nm@@nm@Cláudio Magalhães@nm@45660970@nm@Ilhéus@nm@Olivença@nm@Praça @nm@@nm@
+BA@nm@@nm@Conselheiro Antônio Francisco Fernandes Badaró@nm@45651970@nm@Ilhéus@nm@Malhado@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Coronel Pessoa@nm@45654971@nm@Ilhéus@nm@Pontal@nm@Rua @nm@@nm@
+BA@nm@@nm@Jorge Amado@nm@45662972@nm@Ilhéus@nm@Salobrinho@nm@Rodovia @nm@@nm@
+BA@nm@@nm@Marquês de Paranaguá@nm@45653971@nm@Ilhéus@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Marquês de Paranaguá@nm@45653970@nm@Ilhéus@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@São Pedro@nm@45662970@nm@Ilhéus@nm@Salobrinho@nm@Rua @nm@@nm@
+BA@nm@@nm@Tiradentes@nm@45652970@nm@Ilhéus@nm@Teresópolis@nm@Rua @nm@lado par@nm@
+BA@nm@@nm@Amélia Amado@nm@45600977@nm@Itabuna@nm@Centro@nm@Avenida @nm@até 72 - lado par@nm@
+BA@nm@@nm@Francisco Ribeiro Júnior@nm@45600976@nm@Itabuna@nm@Centro@nm@Avenida @nm@@nm@
+BA@nm@@nm@Inácio Tosta Filho@nm@45600970@nm@Itabuna@nm@Centro@nm@Avenida @nm@até 548 - lado par@nm@
+BA@nm@@nm@José Soares Pinheiro@nm@45600973@nm@Itabuna@nm@Centro@nm@Avenida @nm@até 882 - lado par@nm@
+BA@nm@@nm@José Soares Pinheiro@nm@45600971@nm@Itabuna@nm@Centro@nm@Avenida @nm@até 882 - lado par@nm@
+BA@nm@@nm@Primeiro de Maio@nm@48490972@nm@Itabuna@nm@Nova Ferradas@nm@Travessa @nm@@nm@
+BA@nm@@nm@Primeiro de Maio@nm@48490973@nm@Itabuna@nm@Nova Ferradas@nm@Travessa @nm@@nm@
+BA@nm@@nm@Simão Fiterman@nm@45607970@nm@Itabuna@nm@São Caetano@nm@Praça @nm@@nm@
+BA@nm@@nm@da Itália@nm@45200970@nm@Jequié@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Francisco Alves Meira@nm@45200971@nm@Jequié@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@José Petitinga@nm@48903971@nm@Juazeiro@nm@Santo Antônio@nm@Rua @nm@@nm@
+BA@nm@@nm@Santos Dumont@nm@48903970@nm@Juazeiro@nm@Centro@nm@Avenida @nm@@nm@
+BA@nm@@nm@Araci Grubide@nm@42739970@nm@Lauro de Freitas@nm@Itinga@nm@Rua @nm@@nm@
+BA@nm@@nm@Brigadeiro Mário Epinghaus@nm@42703970@nm@Lauro de Freitas@nm@Centro@nm@Avenida @nm@@nm@
+BA@nm@@nm@Praia de Itapoan@nm@42707970@nm@Lauro de Freitas@nm@Vilas do Atlântico@nm@Avenida @nm@@nm@
+BA@nm@@nm@Santos Dumont@nm@42701970@nm@Lauro de Freitas@nm@Pitangueiras@nm@Avenida @nm@@nm@
+BA@nm@@nm@da Providência@nm@48603970@nm@Paulo Afonso@nm@Perpétuo Socorro@nm@Rua @nm@@nm@
+BA@nm@@nm@Eraldo Rocha@nm@48603971@nm@Paulo Afonso@nm@São Vicente@nm@Avenida @nm@@nm@
+BA@nm@@nm@Getúlio Vargas@nm@48601970@nm@Paulo Afonso@nm@Centro@nm@Avenida @nm@@nm@
+BA@nm@@nm@Adhemar de Barros@nm@40170970@nm@Salvador@nm@Ondina@nm@Avenida @nm@@nm@
+BA@nm@@nm@Afrânio Peixoto@nm@40470970@nm@Salvador@nm@Lobato@nm@Avenida @nm@@nm@
+BA@nm@@nm@Agnelo Brito@nm@40210970@nm@Salvador@nm@Federação@nm@Rua @nm@@nm@
+BA@nm@@nm@Alcobaça@nm@41152970@nm@Salvador@nm@Resgate@nm@Rua @nm@@nm@
+BA@nm@@nm@Amaralina@nm@41900970@nm@Salvador@nm@Amaralina@nm@Avenida @nm@@nm@
+BA@nm@@nm@Amaralina@nm@41900971@nm@Salvador@nm@Amaralina@nm@Avenida @nm@@nm@
+BA@nm@@nm@Amaralina@nm@41900972@nm@Salvador@nm@Amaralina@nm@Avenida @nm@@nm@
+BA@nm@@nm@Antônio Balbino@nm@40710970@nm@Salvador@nm@Plataforma@nm@Rua @nm@@nm@
+BA@nm@@nm@Antônio Carlos Magalhães@nm@41110970@nm@Salvador@nm@Pernambués@nm@Avenida @nm@@nm@
+BA@nm@@nm@Antônio Carlos Magalhães@nm@40280971@nm@Salvador@nm@Parque Bela Vista@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Antônio Carlos Magalhães@nm@40280970@nm@Salvador@nm@Parque Bela Vista@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@BA-535@nm@41400970@nm@Salvador@nm@CEASA@nm@Via @nm@@nm@
+BA@nm@@nm@BA-535@nm@41400977@nm@Salvador@nm@CEASA@nm@Via @nm@@nm@
+BA@nm@@nm@BA-535@nm@41810983@nm@Salvador@nm@CEASA@nm@Via @nm@@nm@
+BA@nm@@nm@BA-535@nm@41400971@nm@Salvador@nm@CEASA@nm@Via @nm@@nm@
+BA@nm@@nm@BR-324@nm@41230971@nm@Salvador@nm@Granjas Rurais Presidente Vargas@nm@Rodovia @nm@(Sentido FSA)@nm@
+BA@nm@@nm@BR-324@nm@41230970@nm@Salvador@nm@Granjas Rurais Presidente Vargas@nm@Rodovia @nm@(Sentido FSA)@nm@
+BA@nm@@nm@BR-324@nm@41230973@nm@Salvador@nm@Granjas Rurais Presidente Vargas@nm@Rodovia @nm@(Sentido FSA)@nm@
+BA@nm@@nm@Caetano Moura@nm@40210971@nm@Salvador@nm@Federação@nm@Rua @nm@de 2 a 99998 - lado par@nm@
+BA@nm@@nm@Centro Administrativo da Bahia@nm@41745972@nm@Salvador@nm@Centro Administrativo da Bahia@nm@4ª Avenida @nm@@nm@
+BA@nm@@nm@Centro Administrativo da Bahia@nm@41745971@nm@Salvador@nm@Centro Administrativo da Bahia@nm@5ª Avenida @nm@@nm@
+BA@nm@@nm@Chile@nm@40020970@nm@Salvador@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Comendador Gomes Costa@nm@40070970@nm@Salvador@nm@Barris@nm@Rua @nm@@nm@
+BA@nm@@nm@Cônego Pereira@nm@40300970@nm@Salvador@nm@Barbalho@nm@Rua @nm@@nm@
+BA@nm@@nm@Cristóvão Ferreira@nm@41905970@nm@Salvador@nm@Nordeste@nm@Rua @nm@@nm@
+BA@nm@@nm@da Estação@nm@40810970@nm@Salvador@nm@Paripe@nm@Rua @nm@@nm@
+BA@nm@@nm@da Graça@nm@40150970@nm@Salvador@nm@Graça@nm@Rua @nm@@nm@
+BA@nm@@nm@da Inglaterra@nm@40015970@nm@Salvador@nm@Comércio@nm@Praça @nm@@nm@
+BA@nm@@nm@da Inglaterra@nm@40015971@nm@Salvador@nm@Comércio@nm@Praça @nm@@nm@
+BA@nm@@nm@da Liberdade@nm@40375972@nm@Salvador@nm@Liberdade@nm@Estrada @nm@até 452 - lado par@nm@
+BA@nm@@nm@da Liberdade@nm@40375970@nm@Salvador@nm@Liberdade@nm@Estrada @nm@até 452 - lado par@nm@
+BA@nm@@nm@da Liberdade@nm@40375973@nm@Salvador@nm@Liberdade@nm@Estrada @nm@até 452 - lado par@nm@
+BA@nm@@nm@de Campinas@nm@40395971@nm@Salvador@nm@São Caetano@nm@Estrada @nm@lado ímpar@nm@
+BA@nm@@nm@de Campinas@nm@40391970@nm@Salvador@nm@São Caetano@nm@Estrada @nm@lado ímpar@nm@
+BA@nm@@nm@de Campinas@nm@41275970@nm@Salvador@nm@Campinas de Pirajá@nm@Estrada @nm@do km 4,001 ao km 5,500@nm@
+BA@nm@@nm@Dias D'Ávila@nm@40140974@nm@Salvador@nm@Barra@nm@Rua @nm@@nm@
+BA@nm@@nm@Direta da Mata Escura@nm@41225970@nm@Salvador@nm@Mata Escura@nm@Rua @nm@@nm@
+BA@nm@@nm@do Cabral@nm@40055970@nm@Salvador@nm@Nazaré@nm@Rua @nm@@nm@
+BA@nm@@nm@do Campo da Pólvora@nm@40040970@nm@Salvador@nm@Nazaré@nm@Largo @nm@@nm@
+BA@nm@@nm@do Coqueiro Grande@nm@41342970@nm@Salvador@nm@Fazenda Grande III@nm@Estrada @nm@@nm@
+BA@nm@@nm@do Cruzeiro de São Francisco@nm@40026970@nm@Salvador@nm@Pelourinho@nm@Largo @nm@@nm@
+BA@nm@@nm@Dom João VI@nm@40285970@nm@Salvador@nm@Brotas@nm@Avenida @nm@de 1/2 a 99998/99999@nm@
+BA@nm@@nm@Dorival Caymmi@nm@41635971@nm@Salvador@nm@Itapuã@nm@Avenida @nm@até 44/45@nm@
+BA@nm@@nm@Dorival Caymmi@nm@41630972@nm@Salvador@nm@Itapuã@nm@Avenida @nm@até 44/45@nm@
+BA@nm@@nm@Dorival Caymmi@nm@41630971@nm@Salvador@nm@Itapuã@nm@Avenida @nm@de 602/603 ao fim@nm@
+BA@nm@@nm@dos Bandeirantes@nm@40260970@nm@Salvador@nm@Matatu@nm@Rua @nm@@nm@
+BA@nm@@nm@Doutor Altino Teixeira@nm@41233970@nm@Salvador@nm@Porto Seco Pirajá@nm@Rua @nm@(Pto S Pirajá)@nm@
+BA@nm@@nm@Duque de Caxias@nm@40040972@nm@Salvador@nm@Nazaré@nm@Praça @nm@@nm@
+BA@nm@@nm@Edgard Santos@nm@41192970@nm@Salvador@nm@Narandiba@nm@Avenida @nm@@nm@
+BA@nm@@nm@Euclydes da Cunha@nm@40150971@nm@Salvador@nm@Graça@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Euclydes da Cunha@nm@40150972@nm@Salvador@nm@Graça@nm@Avenida @nm@lado par@nm@
+BA@nm@@nm@Flórida@nm@40150973@nm@Salvador@nm@Graça@nm@Rua @nm@@nm@
+BA@nm@@nm@Forte de São Pedro@nm@40080970@nm@Salvador@nm@Campo Grande@nm@Rua @nm@@nm@
+BA@nm@@nm@Frederico Costa@nm@40725973@nm@Salvador@nm@Periperi@nm@Rua @nm@@nm@
+BA@nm@@nm@Frederico Costa@nm@40243970@nm@Salvador@nm@Engenho Velho de Brotas@nm@Rua @nm@@nm@
+BA@nm@@nm@Gago Coutinho@nm@41510971@nm@Salvador@nm@São Cristóvão@nm@Praça @nm@@nm@
+BA@nm@@nm@Gago Coutinho@nm@41510972@nm@Salvador@nm@São Cristóvão@nm@Praça @nm@@nm@
+BA@nm@@nm@Gago Coutinho@nm@41520970@nm@Salvador@nm@São Cristóvão@nm@Praça @nm@@nm@
+BA@nm@@nm@Gago Coutinho@nm@41520971@nm@Salvador@nm@São Cristóvão@nm@Praça @nm@@nm@
+BA@nm@@nm@Genaro de Carvalho@nm@41233971@nm@Salvador@nm@Porto Seco Pirajá@nm@Rua @nm@@nm@
+BA@nm@@nm@Genebaldo Figueiredo@nm@41610970@nm@Salvador@nm@Itapuã@nm@Rua @nm@até 11/12@nm@
+BA@nm@@nm@Haeckel José de Almeida@nm@41613971@nm@Salvador@nm@Jaguaribe@nm@Rua @nm@@nm@
+BA@nm@@nm@Jequitaia@nm@40411970@nm@Salvador@nm@Calçada@nm@Avenida @nm@@nm@
+BA@nm@@nm@João Gomes@nm@41950970@nm@Salvador@nm@Rio Vermelho@nm@Rua @nm@@nm@
+BA@nm@@nm@Juscelino Kubitschek@nm@41347970@nm@Salvador@nm@Cajazeiras XI@nm@Rua @nm@@nm@
+BA@nm@@nm@Luís Viana Filho@nm@41745970@nm@Salvador@nm@Centro Administrativo da Bahia@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Luís Viana Filho@nm@41701970@nm@Salvador@nm@Alphaville I@nm@Avenida @nm@lado par@nm@
+BA@nm@@nm@Marquês de Caravelas@nm@40140973@nm@Salvador@nm@Barra@nm@Rua @nm@de 527/528 ao fim@nm@
+BA@nm@@nm@Mato Grosso@nm@41830972@nm@Salvador@nm@Pituba@nm@Rua @nm@lado ímpar@nm@
+BA@nm@@nm@Nossa Senhora do Resgate@nm@41152972@nm@Salvador@nm@Resgate@nm@Rua @nm@@nm@
+BA@nm@@nm@Octávio Mangabeira@nm@41750971@nm@Salvador@nm@Armação@nm@Avenida @nm@@nm@
+BA@nm@@nm@Octávio Mangabeira@nm@41706972@nm@Salvador@nm@Boca do Rio@nm@Avenida @nm@@nm@
+BA@nm@@nm@Padre Casimiro Quiroga@nm@41720970@nm@Salvador@nm@Imbuí@nm@Rua @nm@@nm@
+BA@nm@@nm@Padre Domingos de Brito@nm@40105970@nm@Salvador@nm@Garcia@nm@Rua @nm@@nm@
+BA@nm@@nm@Paulo VI@nm@41810976@nm@Salvador@nm@Pituba@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Paulo VI@nm@41810970@nm@Salvador@nm@Pituba@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Paulo VI@nm@41810984@nm@Salvador@nm@Pituba@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Paulo VI@nm@41810982@nm@Salvador@nm@Pituba@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Paulo VI@nm@41810981@nm@Salvador@nm@Pituba@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Paulo VI@nm@41810980@nm@Salvador@nm@Pituba@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Porto dos Mastros@nm@40420972@nm@Salvador@nm@Ribeira@nm@Avenida @nm@@nm@
+BA@nm@@nm@Professor Sabino Silva@nm@40155970@nm@Salvador@nm@Jardim Apipema@nm@Rua @nm@@nm@
+BA@nm@@nm@São Cristóvão@nm@41510970@nm@Salvador@nm@São Cristóvão@nm@Avenida @nm@@nm@
+BA@nm@@nm@São Cristóvão@nm@41500970@nm@Salvador@nm@São Cristóvão@nm@Avenida @nm@@nm@
+BA@nm@@nm@São Marcos@nm@41245970@nm@Salvador@nm@Pau da Lima@nm@Rua @nm@@nm@
+BA@nm@@nm@São Rafael@nm@41253972@nm@Salvador@nm@São Marcos@nm@Avenida @nm@@nm@
+BA@nm@@nm@Sete de Setembro@nm@40080971@nm@Salvador@nm@Vitória@nm@Avenida @nm@de 1553 a 2375 - lado ímpar@nm@
+BA@nm@@nm@Silveira Martins@nm@41150970@nm@Salvador@nm@Cabula@nm@Rua @nm@@nm@
+BA@nm@@nm@Simões Filho@nm@41705970@nm@Salvador@nm@Boca do Rio@nm@Rua @nm@@nm@
+BA@nm@@nm@Tancredo Neves@nm@41820975@nm@Salvador@nm@Caminho das Árvores@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Tancredo Neves@nm@41820976@nm@Salvador@nm@Caminho das Árvores@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Tancredo Neves@nm@41820974@nm@Salvador@nm@Caminho das Árvores@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Tancredo Neves@nm@41820971@nm@Salvador@nm@Caminho das Árvores@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Tancredo Neves@nm@41820970@nm@Salvador@nm@Caminho das Árvores@nm@Avenida @nm@lado ímpar@nm@
+BA@nm@@nm@Ulysses Guimarães@nm@41213970@nm@Salvador@nm@Sussuarana@nm@Avenida @nm@@nm@
+BA@nm@@nm@Visconde de Cayru@nm@40015975@nm@Salvador@nm@Comércio@nm@Praça @nm@@nm@
+BA@nm@@nm@Landulfo Alves@nm@44571971@nm@Santo Antônio de Jesus@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Lúcio José de Oliveira@nm@44572970@nm@Santo Antônio de Jesus@nm@Ernesto Melo@nm@Rua @nm@@nm@
+BA@nm@@nm@Monsenhor Francisco Manoel da Silva@nm@44571970@nm@Santo Antônio de Jesus@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Antônio Carlos Magalhães@nm@45987970@nm@Teixeira de Freitas@nm@Wilson Guimarães Soares@nm@Avenida @nm@@nm@
+BA@nm@@nm@Marechal Castelo Branco@nm@45985970@nm@Teixeira de Freitas@nm@Centro@nm@Avenida @nm@até 549 - lado ímpar@nm@
+BA@nm@@nm@Marechal Costa e Silva@nm@45985971@nm@Teixeira de Freitas@nm@Centro@nm@Rua @nm@@nm@
+BA@nm@@nm@Belarmino Ribeiro Marinho@nm@45007970@nm@Vitória da Conquista@nm@Lagoa das Flores@nm@Rua @nm@@nm@
+BA@nm@@nm@Centenário@nm@45000971@nm@Vitória da Conquista@nm@Centro@nm@Avenida @nm@@nm@
+BA@nm@@nm@Joaquim Correia@nm@45000970@nm@Vitória da Conquista@nm@Centro@nm@Praça @nm@@nm@
+BA@nm@@nm@Juracy Magalhães@nm@45026970@nm@Vitória da Conquista@nm@Boa Vista@nm@Avenida @nm@@nm@
+BA@nm@@nm@Juracy Magalhães@nm@45055970@nm@Vitória da Conquista@nm@Felícia@nm@Avenida @nm@@nm@
+BA@nm@@nm@Presidente Vargas@nm@45005970@nm@Vitória da Conquista@nm@Alto Maron@nm@Avenida @nm@até 196/197@nm@
+BA@nm@@nm@Santo Antônio@nm@45051970@nm@Vitória da Conquista@nm@Brasil@nm@Rua @nm@@nm@
+BA@nm@@nm@São Geraldo@nm@45020971@nm@Vitória da Conquista@nm@Recreio@nm@Avenida @nm@@nm@

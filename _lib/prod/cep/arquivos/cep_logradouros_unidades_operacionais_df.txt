@@ -1,0 +1,117 @@
+DF@nm@@nm@1@nm@72460970@nm@Brasília@nm@Setor Leste (Gama)@nm@Praça @nm@@nm@
+DF@nm@@nm@Águas Claras QS 08@nm@71974970@nm@Brasília@nm@Areal (Águas Claras)@nm@Avenida @nm@@nm@
+DF@nm@@nm@Área Especial 4@nm@71070971@nm@Brasília@nm@Guará II@nm@@nm@@nm@
+DF@nm@@nm@C 1@nm@72010999@nm@Brasília@nm@Taguatinga Centro (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@C 1@nm@72010971@nm@Brasília@nm@Taguatinga Centro (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@C 7@nm@72010970@nm@Brasília@nm@Taguatinga Centro (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@CA 1@nm@71510970@nm@Brasília@nm@Setor de Habitações Individuais Norte@nm@@nm@(Centro de Atividades)@nm@
+DF@nm@@nm@CA 7@nm@71503970@nm@Brasília@nm@Setor de Habitações Individuais Norte@nm@@nm@(Centro de Atividades)@nm@
+DF@nm@@nm@Central Blocos 518/680@nm@71720999@nm@Brasília@nm@Núcleo Bandeirante@nm@Avenida @nm@(Lado par)@nm@
+DF@nm@@nm@Central Blocos 518/680@nm@71720971@nm@Brasília@nm@Núcleo Bandeirante@nm@Avenida @nm@(Lado par)@nm@
+DF@nm@@nm@Central Conjunto 5@nm@73062970@nm@Brasília@nm@Setor Oeste (Sobradinho II)@nm@Avenida @nm@@nm@
+DF@nm@@nm@CL 115@nm@72545971@nm@Brasília@nm@Santa Maria@nm@@nm@@nm@
+DF@nm@@nm@CL 115@nm@72545970@nm@Brasília@nm@Santa Maria@nm@@nm@@nm@
+DF@nm@@nm@CLN 316 Bloco A@nm@70775980@nm@Brasília@nm@Asa Norte@nm@@nm@(Via SHLN)@nm@
+DF@nm@@nm@CLN 7 Bloco C@nm@71805970@nm@Brasília@nm@Riacho Fundo I@nm@@nm@(Comércio)@nm@
+DF@nm@@nm@CND 1@nm@72120970@nm@Brasília@nm@Taguatinga Norte (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@CNN 1 Bloco F@nm@72225971@nm@Brasília@nm@Ceilândia Centro (Ceilândia)@nm@@nm@@nm@
+DF@nm@@nm@CNN 1 Bloco F@nm@72225970@nm@Brasília@nm@Ceilândia Centro (Ceilândia)@nm@@nm@@nm@
+DF@nm@@nm@Comercial@nm@71691970@nm@Brasília@nm@Setor Tradicional (São Sebastião)@nm@Avenida @nm@até 1321 - lado ímpar@nm@
+DF@nm@@nm@Comercial@nm@71681970@nm@Brasília@nm@Setor Habitacional Jardim Botânico@nm@Avenida @nm@@nm@
+DF@nm@@nm@CRS 514 Bloco B@nm@70380970@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@CSD 2@nm@72020999@nm@Brasília@nm@Taguatinga Sul (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@CSD 2@nm@72020970@nm@Brasília@nm@Taguatinga Sul (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@CSG 9@nm@72035970@nm@Brasília@nm@Taguatinga Sul (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@das Araucárias@nm@71936970@nm@Brasília@nm@Sul (Águas Claras)@nm@Avenida @nm@@nm@
+DF@nm@@nm@DF-001@nm@72426970@nm@Brasília@nm@Ponte Alta Norte (Gama)@nm@Rodovia @nm@@nm@
+DF@nm@@nm@do Exército@nm@70630970@nm@Brasília@nm@Setor Militar Urbano@nm@Avenida @nm@@nm@
+DF@nm@@nm@dos Estados@nm@70310970@nm@Brasília@nm@Asa Sul@nm@Galeria @nm@@nm@
+DF@nm@@nm@dos Ministérios@nm@70050973@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Esplanada @nm@@nm@
+DF@nm@@nm@dos Ministérios@nm@70050970@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Esplanada @nm@@nm@
+DF@nm@@nm@dos Três Poderes@nm@70100970@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Praça @nm@@nm@
+DF@nm@@nm@dos Três Poderes@nm@70049971@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Praça @nm@@nm@
+DF@nm@@nm@dos Três Poderes@nm@70049970@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Praça @nm@@nm@
+DF@nm@@nm@EQN 204/404@nm@70842999@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@EQN 204/404@nm@70842970@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@EQNL 1/3 Bloco A@nm@72150970@nm@Brasília@nm@Taguatinga Norte (Taguatinga)@nm@@nm@Comércio@nm@
+DF@nm@@nm@EQS 104/304@nm@70343970@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@EQS 208/408@nm@70254970@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@EQS 212/412@nm@70275970@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@Goiás@nm@73330970@nm@Brasília@nm@Setor Tradicional (Planaltina)@nm@Avenida @nm@(Q 43,57,58,142,144 a 147)@nm@
+DF@nm@@nm@Internacional de Brasília Juscelino Kubitschek@nm@71608970@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@Aeroporto @nm@@nm@
+DF@nm@@nm@Internacional de Brasília Juscelino Kubitschek@nm@71608999@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@Aeroporto @nm@@nm@
+DF@nm@@nm@Internacional de Brasília Juscelino Kubitschek@nm@71608973@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@Aeroporto @nm@@nm@
+DF@nm@@nm@Internacional de Brasília Juscelino Kubitschek@nm@71608971@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@Aeroporto @nm@@nm@
+DF@nm@@nm@Internacional de Brasília Juscelino Kubitschek@nm@71608972@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@Aeroporto @nm@@nm@
+DF@nm@@nm@Municipal@nm@70094971@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Praça @nm@@nm@
+DF@nm@@nm@Municipal@nm@70094970@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Praça @nm@@nm@
+DF@nm@@nm@Polo de Desenvolvimento Juscelino Kubitschek Trecho 1 Conjunto 10@nm@72549970@nm@Brasília@nm@Santa Maria@nm@@nm@@nm@
+DF@nm@@nm@QE 2 Bloco P@nm@71010970@nm@Brasília@nm@Guará I@nm@@nm@@nm@
+DF@nm@@nm@QE 7 Bloco C@nm@71020970@nm@Brasília@nm@Guará I@nm@@nm@@nm@
+DF@nm@@nm@QN 303 Conjunto 1@nm@72305970@nm@Brasília@nm@Samambaia Sul (Samambaia)@nm@@nm@@nm@
+DF@nm@@nm@QNA 30@nm@72110980@nm@Brasília@nm@Taguatinga Norte (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@QNG 30@nm@72130970@nm@Brasília@nm@Taguatinga Norte (Taguatinga)@nm@@nm@@nm@
+DF@nm@@nm@QNM 10 Conjunto A@nm@72210970@nm@Brasília@nm@Ceilândia Norte (Ceilândia)@nm@@nm@@nm@
+DF@nm@@nm@QNM 20 Conjunto E@nm@72210980@nm@Brasília@nm@Ceilândia Norte (Ceilândia)@nm@@nm@@nm@
+DF@nm@@nm@QNN 2 Conjunto H@nm@72220970@nm@Brasília@nm@Ceilândia Sul (Ceilândia)@nm@@nm@@nm@
+DF@nm@@nm@QS 11 Conjunto C@nm@71979970@nm@Brasília@nm@Areal (Águas Claras)@nm@@nm@@nm@
+DF@nm@@nm@QS 112@nm@72302970@nm@Brasília@nm@Samambaia Sul (Samambaia)@nm@@nm@@nm@
+DF@nm@@nm@Quadra 102@nm@72600970@nm@Brasília@nm@Recanto das Emas@nm@@nm@@nm@
+DF@nm@@nm@Quadra 2@nm@72445970@nm@Brasília@nm@Setor Industrial (Gama)@nm@@nm@@nm@
+DF@nm@@nm@Quadra 2 Conjunto C@nm@71736970@nm@Brasília@nm@Setor de Indústrias Bernardo Sayão (Núcleo Bandeirante)@nm@@nm@@nm@
+DF@nm@@nm@Quadra 205@nm@72610970@nm@Brasília@nm@Recanto das Emas@nm@@nm@@nm@
+DF@nm@@nm@Quadra 22 Conjunto 16@nm@71572980@nm@Brasília@nm@Paranoá@nm@@nm@@nm@
+DF@nm@@nm@Quadra 5@nm@72705970@nm@Brasília@nm@Setor Norte (Brazlândia)@nm@@nm@@nm@
+DF@nm@@nm@Quadra 8 Bloco 14@nm@73005970@nm@Brasília@nm@Sobradinho@nm@@nm@@nm@
+DF@nm@@nm@Quadra 8 Bloco 14@nm@73005999@nm@Brasília@nm@Sobradinho@nm@@nm@@nm@
+DF@nm@@nm@Quadra 8 Comércio Local 6@nm@73006970@nm@Brasília@nm@Sobradinho@nm@@nm@@nm@
+DF@nm@@nm@Rodoviária de Brasília@nm@70089970@nm@Brasília@nm@Zona Cívico-Administrativa@nm@Estação @nm@@nm@
+DF@nm@@nm@Rua 5 Chácara 182@nm@72110970@nm@Brasília@nm@Setor Habitacional Vicente Pires@nm@Rua @nm@@nm@
+DF@nm@@nm@SAAN Quadra 3@nm@70632980@nm@Brasília@nm@Zona Industrial@nm@@nm@@nm@
+DF@nm@@nm@SAFS Quadra@nm@70070973@nm@Brasília@nm@Zona Cívico-Administrativa@nm@@nm@(Setor de Administração Federal Sul)@nm@
+DF@nm@@nm@São Paulo@nm@73330971@nm@Brasília@nm@Setor Tradicional (Planaltina)@nm@Avenida @nm@(Quadras 05,08 e 175)@nm@
+DF@nm@@nm@São Sebastião@nm@71693970@nm@Brasília@nm@Vila São José (São Sebastião)@nm@Avenida @nm@de 02781 a 02801 - lado ímpar@nm@
+DF@nm@@nm@SBN Quadra 1@nm@70040977@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SBN Quadra 1@nm@70040999@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SBN Quadra 1@nm@70040976@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SBS Quadra 1@nm@70070974@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@SCN Quadra 5 Bloco A@nm@70715970@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SCRN 704/705 Bloco D@nm@70719999@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SCRN 704/705 Bloco D@nm@70730980@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SCS Quadra 6@nm@70306970@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@SCS Quadra 6@nm@70306999@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@SDS@nm@70300970@nm@Brasília@nm@Asa Sul@nm@@nm@(Setor de Diversões Sul)@nm@
+DF@nm@@nm@SEPN 508 Bloco D@nm@70740999@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SEPN 508 Bloco D@nm@70740971@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SEPN 508 Bloco D@nm@70740970@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SEPN 508 Bloco D@nm@70740973@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@SEPS 712/912@nm@70390970@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@SGCV@nm@71215975@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@(St Garagens e Conces de Veículos)@nm@
+DF@nm@@nm@SGCV@nm@71215974@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@(St Garagens e Conces de Veículos)@nm@
+DF@nm@@nm@SGCV@nm@71215972@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@(St Garagens e Conces de Veículos)@nm@
+DF@nm@@nm@SGCV@nm@71215973@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@(St Garagens e Conces de Veículos)@nm@
+DF@nm@@nm@SGCV Lote 16@nm@71215976@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@(St Garagens e Conces de Veículos)@nm@
+DF@nm@@nm@SGO Quadra 2@nm@70610970@nm@Brasília@nm@Setores Complementares@nm@@nm@@nm@
+DF@nm@@nm@SHCES Quadra 401 Bloco C@nm@70650980@nm@Brasília@nm@Cruzeiro Novo@nm@@nm@Comércio@nm@
+DF@nm@@nm@SHD@nm@73310970@nm@Brasília@nm@Setor de Hotéis e Diversões (Planaltina)@nm@@nm@@nm@
+DF@nm@@nm@SHIS EQL 6/8@nm@71620980@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@@nm@@nm@
+DF@nm@@nm@SHIS QI 15 Bloco E@nm@71635999@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@@nm@@nm@
+DF@nm@@nm@SHIS QI 17@nm@71645970@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@@nm@@nm@
+DF@nm@@nm@SHIS QI 25 Bloco G@nm@71660970@nm@Brasília@nm@Setor de Habitações Individuais Sul@nm@@nm@@nm@
+DF@nm@@nm@SHS Quadra 2@nm@70312970@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@SHS Quadra 2@nm@70312999@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@SHS Quadra 2@nm@70312971@nm@Brasília@nm@Asa Sul@nm@@nm@@nm@
+DF@nm@@nm@SIA Quadra 5-C@nm@71205980@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Quadra 5-C@nm@71205999@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Quadra 5-C@nm@71200971@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Trecho 3@nm@71200979@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Trecho 3@nm@71200983@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Trecho 3@nm@71200982@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Trecho 3@nm@71200970@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Trecho 3@nm@71200980@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Trecho 3@nm@71200972@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIA Trecho 4@nm@71200973@nm@Brasília@nm@Zona Industrial (Guará)@nm@@nm@@nm@
+DF@nm@@nm@SIG Quadra 3 Bloco C@nm@70610971@nm@Brasília@nm@Zona Industrial@nm@@nm@@nm@
+DF@nm@@nm@SRES Área Especial Bloco G@nm@70640970@nm@Brasília@nm@Cruzeiro Velho@nm@@nm@@nm@
+DF@nm@@nm@SRTVN@nm@70719973@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@
+DF@nm@@nm@STN@nm@70770970@nm@Brasília@nm@Asa Norte@nm@@nm@@nm@

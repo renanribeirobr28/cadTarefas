@@ -1,0 +1,56 @@
+MS@nm@@nm@Afonso Pena@nm@79031972@nm@Campo Grande@nm@Santa Fé@nm@Avenida @nm@de 4713 ao fim - lado ímpar@nm@
+MS@nm@@nm@Bandeirantes@nm@79006970@nm@Campo Grande@nm@Guanandi@nm@Avenida @nm@de 1003 ao fim - lado ímpar@nm@
+MS@nm@@nm@Barreiras@nm@79065970@nm@Campo Grande@nm@Vila Moreninha I@nm@Rua @nm@@nm@
+MS@nm@@nm@Brilhante@nm@79006972@nm@Campo Grande@nm@Vila Bandeirante@nm@Rua @nm@de 1711/1712 ao fim@nm@
+MS@nm@@nm@Calógeras@nm@79002970@nm@Campo Grande@nm@Centro@nm@Avenida @nm@até 999 - lado ímpar@nm@
+MS@nm@@nm@Calógeras@nm@79004973@nm@Campo Grande@nm@Centro@nm@Avenida @nm@até 999 - lado ímpar@nm@
+MS@nm@@nm@Ceará@nm@79020970@nm@Campo Grande@nm@Chácara Cachoeira@nm@Rua @nm@até 798 - lado par@nm@
+MS@nm@@nm@Cônsul Assaf Trad@nm@79033973@nm@Campo Grande@nm@Mata do Jacinto@nm@Avenida @nm@@nm@
+MS@nm@@nm@Cônsul Assaf Trad@nm@79033970@nm@Campo Grande@nm@Mata do Jacinto@nm@Avenida @nm@@nm@
+MS@nm@@nm@Cônsul Assaf Trad@nm@79033971@nm@Campo Grande@nm@Mata do Jacinto@nm@Avenida @nm@@nm@
+MS@nm@@nm@Coronel Antonino@nm@79010970@nm@Campo Grande@nm@Coronel Antonino@nm@Avenida @nm@até 871 - lado ímpar@nm@
+MS@nm@@nm@Costa e Silva@nm@79050970@nm@Campo Grande@nm@Vila Progresso@nm@Avenida @nm@até 1399 - lado ímpar@nm@
+MS@nm@@nm@das Bandeiras@nm@79080972@nm@Campo Grande@nm@Vila Carvalho@nm@Avenida @nm@até 749/750@nm@
+MS@nm@@nm@Dom Antônio Barbosa@nm@79117971@nm@Campo Grande@nm@Jardim Paradiso@nm@Avenida @nm@@nm@
+MS@nm@@nm@Doutor Arthur Jorge@nm@79002982@nm@Campo Grande@nm@Centro@nm@Rua @nm@até 417/0418@nm@
+MS@nm@@nm@Evereste@nm@79041970@nm@Campo Grande@nm@Jardim São Lourenço@nm@Rua @nm@de 239/240 ao fim@nm@
+MS@nm@@nm@Gury Marques@nm@79063970@nm@Campo Grande@nm@Universitário@nm@Avenida @nm@@nm@
+MS@nm@@nm@Itápolis@nm@79041972@nm@Campo Grande@nm@Jardim São Lourenço@nm@Rua @nm@@nm@
+MS@nm@@nm@Joaquim Murtinho@nm@79003970@nm@Campo Grande@nm@Itanhangá Park@nm@Rua @nm@de 926/927 a 2700/2701@nm@
+MS@nm@@nm@Júlio de Castilho@nm@79100971@nm@Campo Grande@nm@Vila Alba@nm@Avenida @nm@até 2803 - lado ímpar@nm@
+MS@nm@@nm@Júlio de Castilho@nm@79100970@nm@Campo Grande@nm@Vila Alba@nm@Avenida @nm@até 2803 - lado ímpar@nm@
+MS@nm@@nm@Marquês de Pombal@nm@79041971@nm@Campo Grande@nm@Tiradentes@nm@Avenida @nm@@nm@
+MS@nm@@nm@Mascarenhas de Moraes@nm@79010971@nm@Campo Grande@nm@Monte Castelo@nm@Avenida @nm@de 1002/1003 ao fim@nm@
+MS@nm@@nm@Pedro Celestino@nm@79002971@nm@Campo Grande@nm@Centro@nm@Rua @nm@até 573/574@nm@
+MS@nm@@nm@Quatorze de Julho@nm@79002976@nm@Campo Grande@nm@Centro@nm@Rua @nm@até 891 - lado ímpar@nm@
+MS@nm@@nm@Rui Barbosa@nm@79004970@nm@Campo Grande@nm@Jardim Paulista@nm@Rua @nm@até 509/510@nm@
+MS@nm@@nm@Rui Barbosa@nm@79002972@nm@Campo Grande@nm@Centro@nm@Rua @nm@de 511 a 1549 - lado ímpar@nm@
+MS@nm@@nm@Spipe Calarge@nm@79050971@nm@Campo Grande@nm@Jardim TV Morena@nm@Rua @nm@até 818/819@nm@
+MS@nm@@nm@Tamandaré@nm@79117970@nm@Campo Grande@nm@Vila Nasser@nm@Avenida @nm@de 2801/2802 ao fim@nm@
+MS@nm@@nm@Tamandaré@nm@79009970@nm@Campo Grande@nm@Vila Planalto@nm@Avenida @nm@até 2299/2300@nm@
+MS@nm@@nm@Tembés@nm@79092970@nm@Campo Grande@nm@Vila Jussara@nm@Rua @nm@@nm@
+MS@nm@@nm@Vasconcelos Fernandes@nm@79008972@nm@Campo Grande@nm@Amambaí@nm@Rua @nm@@nm@
+MS@nm@@nm@Vasconcelos Fernandes@nm@79008971@nm@Campo Grande@nm@Amambaí@nm@Rua @nm@@nm@
+MS@nm@@nm@Vasconcelos Fernandes@nm@79008975@nm@Campo Grande@nm@Amambaí@nm@Rua @nm@@nm@
+MS@nm@@nm@Vasconcelos Fernandes@nm@79008970@nm@Campo Grande@nm@Amambaí@nm@Rua @nm@@nm@
+MS@nm@@nm@Vasconcelos Fernandes@nm@79008999@nm@Campo Grande@nm@Amambaí@nm@Rua @nm@@nm@
+MS@nm@@nm@Cuiabá@nm@79330970@nm@Corumbá@nm@Centro@nm@Rua @nm@até 317/0318@nm@
+MS@nm@@nm@Delamare@nm@79301970@nm@Corumbá@nm@Centro@nm@Rua @nm@até 483/0484@nm@
+MS@nm@@nm@BR-156@nm@79827971@nm@Dourados@nm@Aldeia Jaguapiru@nm@Rodovia @nm@@nm@
+MS@nm@@nm@BR-156@nm@79827970@nm@Dourados@nm@Aldeia Bororó@nm@Rodovia @nm@@nm@
+MS@nm@@nm@Dom João VI@nm@79840970@nm@Dourados@nm@Vila Industrial@nm@Rua @nm@até 899/900@nm@
+MS@nm@@nm@João Cândido da Câmara@nm@79804970@nm@Dourados@nm@Jardim América@nm@Rua @nm@até 951/0952@nm@
+MS@nm@@nm@Manoel Santiago@nm@79824970@nm@Dourados@nm@Jardim Universitário@nm@Rua @nm@até 321/0322@nm@
+MS@nm@@nm@Marcelino Pires@nm@79833970@nm@Dourados@nm@Jardim Caramuru@nm@Avenida @nm@de 3279 a 4309 - lado ímpar@nm@
+MS@nm@@nm@Onofre Pereira de Matos@nm@79802970@nm@Dourados@nm@Centro@nm@Rua @nm@de 0693/694 a 1965/1966@nm@
+MS@nm@@nm@Quintino Bocaiúva@nm@79803971@nm@Dourados@nm@Jardim América@nm@Rua @nm@até 999/1000@nm@
+MS@nm@@nm@Quintino Bocaiúva@nm@79803970@nm@Dourados@nm@Jardim América@nm@Rua @nm@até 999/1000@nm@
+MS@nm@@nm@Weimar Gonçalves Torres@nm@79800970@nm@Dourados@nm@Centro@nm@Avenida @nm@de 0829 a 1473 - lado ímpar@nm@
+MS@nm@@nm@Brasil@nm@79904974@nm@Ponta Porã@nm@Centro@nm@Avenida @nm@até 1041 - lado ímpar@nm@
+MS@nm@@nm@Brasil@nm@79904970@nm@Ponta Porã@nm@Centro@nm@Avenida @nm@até 1041 - lado ímpar@nm@
+MS@nm@@nm@Marechal Floriano Peixoto@nm@79904973@nm@Ponta Porã@nm@Centro@nm@Avenida @nm@até 599 - lado ímpar@nm@
+MS@nm@@nm@MS-164@nm@79901970@nm@Ponta Porã@nm@Fazenda Itamarati@nm@Rodovia @nm@@nm@
+MS@nm@@nm@Alfa@nm@79612970@nm@Três Lagoas@nm@Jupiá@nm@Rua @nm@@nm@
+MS@nm@@nm@Antônio Trajano dos Santos@nm@79601970@nm@Três Lagoas@nm@Centro@nm@Avenida @nm@até 1029 - lado ímpar@nm@
+MS@nm@@nm@Bruno Garcia@nm@79603970@nm@Três Lagoas@nm@Jardim Primaveril@nm@Rua @nm@de 1181/1182 a 2615/2616@nm@
+MS@nm@@nm@Capitão Olinto Mancini@nm@79602970@nm@Três Lagoas@nm@Centro@nm@Avenida @nm@de 0396 a 0762 - lado par@nm@

@@ -1,0 +1,368 @@
+MG@nm@@nm@Juscelino Barbosa@nm@37130972@nm@Alfenas@nm@Centro@nm@Rua @nm@de 616/617 a 1014/1015@nm@
+MG@nm@@nm@Pedro Silveira@nm@37130971@nm@Alfenas@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@São José@nm@37130974@nm@Alfenas@nm@Centro@nm@Avenida @nm@de 150/151 a 628/629@nm@
+MG@nm@@nm@São José@nm@37130970@nm@Alfenas@nm@Centro@nm@Avenida @nm@de 1230/1231 a 1649/1650@nm@
+MG@nm@@nm@Rio Branco@nm@38440971@nm@Araguari@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Rio Branco@nm@38440970@nm@Araguari@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Tiradentes@nm@38440973@nm@Araguari@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Calimério Guimarães@nm@38183971@nm@Araxá@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Mariano de Ávila@nm@38183970@nm@Araxá@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Romão Barbosa@nm@38183973@nm@Araxá@nm@Loteamento Residencial Solaris@nm@Rua @nm@@nm@
+MG@nm@@nm@Vereador João Sena@nm@38183972@nm@Araxá@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Bias Fortes@nm@36200971@nm@Barbacena@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@General Osório@nm@36200981@nm@Barbacena@nm@São Geraldo@nm@Rua @nm@@nm@
+MG@nm@@nm@Governador Bias Fortes@nm@36200972@nm@Barbacena@nm@Pontilhão@nm@Avenida @nm@@nm@
+MG@nm@@nm@José Bonifácio@nm@36200970@nm@Barbacena@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Rocha Lagoa@nm@36201970@nm@Barbacena@nm@Colônia Rodrigo Silva@nm@Alameda @nm@@nm@
+MG@nm@@nm@Abílio Machado@nm@30820970@nm@Belo Horizonte@nm@Inconfidência@nm@Avenida @nm@até 1468 - lado par@nm@
+MG@nm@@nm@Abílio Machado@nm@30820971@nm@Belo Horizonte@nm@Inconfidência@nm@Avenida @nm@até 1468 - lado par@nm@
+MG@nm@@nm@Afonso Pena@nm@30130971@nm@Belo Horizonte@nm@Centro@nm@Avenida @nm@até 653 - lado ímpar@nm@
+MG@nm@@nm@Afonso Pena@nm@30130975@nm@Belo Horizonte@nm@Centro@nm@Avenida @nm@até 653 - lado ímpar@nm@
+MG@nm@@nm@Afonso Pena@nm@30130973@nm@Belo Horizonte@nm@Boa Viagem@nm@Avenida @nm@de 1352 a 1800 - lado par@nm@
+MG@nm@@nm@Afonso Pena@nm@30001970@nm@Belo Horizonte@nm@Boa Viagem@nm@Avenida @nm@de 1352 a 1800 - lado par@nm@
+MG@nm@@nm@Alberto Cintra@nm@31160970@nm@Belo Horizonte@nm@União@nm@Rua @nm@@nm@
+MG@nm@@nm@Alphonsus de Guimarães@nm@30270970@nm@Belo Horizonte@nm@Santa Efigênia@nm@Avenida @nm@@nm@
+MG@nm@@nm@Amazonas@nm@30431970@nm@Belo Horizonte@nm@Barroca@nm@Avenida @nm@de 3131 a 3679 - lado ímpar@nm@
+MG@nm@@nm@Amazonas@nm@30421970@nm@Belo Horizonte@nm@Nova Suíssa@nm@Avenida @nm@de 4200 a 5120 - lado par@nm@
+MG@nm@@nm@Anel Rodoviário Celso Mello Azevedo@nm@31255982@nm@Belo Horizonte@nm@Universitário@nm@Rodovia @nm@de 19321 a 20469 - lado ímpar@nm@
+MG@nm@@nm@Anel Rodoviário Celso Mello Azevedo@nm@31255980@nm@Belo Horizonte@nm@Universitário@nm@Rodovia @nm@de 19321 a 20469 - lado ímpar@nm@
+MG@nm@@nm@Anel Rodoviário Celso Mello Azevedo@nm@31255979@nm@Belo Horizonte@nm@Universitário@nm@Rodovia @nm@de 19321 a 20469 - lado ímpar@nm@
+MG@nm@@nm@Anel Rodoviário Celso Mello Azevedo@nm@31255981@nm@Belo Horizonte@nm@Universitário@nm@Rodovia @nm@de 19321 a 20469 - lado ímpar@nm@
+MG@nm@@nm@Anel Rodoviário Celso Mello Azevedo@nm@31255984@nm@Belo Horizonte@nm@Universitário@nm@Rodovia @nm@de 19321 a 20469 - lado ímpar@nm@
+MG@nm@@nm@Anel Rodoviário Celso Mello Azevedo@nm@31255983@nm@Belo Horizonte@nm@Universitário@nm@Rodovia @nm@de 19321 a 20469 - lado ímpar@nm@
+MG@nm@@nm@Anel Rodoviário Celso Mello Azevedo@nm@31255970@nm@Belo Horizonte@nm@Universitário@nm@Rodovia @nm@de 19321 a 20469 - lado ímpar@nm@
+MG@nm@@nm@Antônio Abrahão Caram@nm@31275971@nm@Belo Horizonte@nm@São José@nm@Avenida @nm@@nm@
+MG@nm@@nm@Artur Bernardes@nm@30350970@nm@Belo Horizonte@nm@Vila Barragem Santa Lúcia@nm@Avenida @nm@de 1431/1432 ao fim@nm@
+MG@nm@@nm@Augusto de Lima@nm@30190970@nm@Belo Horizonte@nm@Centro@nm@Avenida @nm@até 360 - lado par@nm@
+MG@nm@@nm@Barão Homem de Melo@nm@30450970@nm@Belo Horizonte@nm@Estoril@nm@Avenida @nm@de 2100 a 3310 - lado par@nm@
+MG@nm@@nm@Bernardino de Lima@nm@30441970@nm@Belo Horizonte@nm@Gutierrez@nm@Rua @nm@até 389/390@nm@
+MG@nm@@nm@Boa Esperança@nm@30310970@nm@Belo Horizonte@nm@Carmo@nm@Rua @nm@@nm@
+MG@nm@@nm@Boaventura@nm@31270972@nm@Belo Horizonte@nm@Indaiá@nm@Rua @nm@até 1250/1251@nm@
+MG@nm@@nm@Boaventura@nm@31277970@nm@Belo Horizonte@nm@Indaiá@nm@Rua @nm@até 1250/1251@nm@
+MG@nm@@nm@Boaventura@nm@31270970@nm@Belo Horizonte@nm@Indaiá@nm@Rua @nm@até 1250/1251@nm@
+MG@nm@@nm@Boaventura@nm@31270978@nm@Belo Horizonte@nm@Indaiá@nm@Rua @nm@até 1250/1251@nm@
+MG@nm@@nm@BR-356@nm@30331970@nm@Belo Horizonte@nm@Belvedere@nm@Rodovia @nm@lado ímpar@nm@
+MG@nm@@nm@Brasil@nm@30130970@nm@Belo Horizonte@nm@Funcionários@nm@Avenida @nm@de 1001 a 1349 - lado ímpar@nm@
+MG@nm@@nm@Brasil@nm@30140971@nm@Belo Horizonte@nm@Santa Efigênia@nm@Avenida @nm@até 999 - lado ímpar@nm@
+MG@nm@@nm@Conselheiro Lafaiete@nm@31035970@nm@Belo Horizonte@nm@Sagrada Família@nm@Rua @nm@de 1287/1288 ao fim@nm@
+MG@nm@@nm@Contagem@nm@31080970@nm@Belo Horizonte@nm@Santa Inês@nm@Rua @nm@até 69 - lado ímpar@nm@
+MG@nm@@nm@Coração Eucaristico de Jesus@nm@30535970@nm@Belo Horizonte@nm@Coração Eucarístico@nm@Rua @nm@@nm@
+MG@nm@@nm@Coronel José Dias Bicalho@nm@31275970@nm@Belo Horizonte@nm@São José@nm@Avenida @nm@@nm@
+MG@nm@@nm@Cristiano Machado@nm@31160971@nm@Belo Horizonte@nm@Cidade Nova@nm@Avenida @nm@de 1550 a 1998 - lado par@nm@
+MG@nm@@nm@Cristiano Machado@nm@31035971@nm@Belo Horizonte@nm@Graça@nm@Avenida @nm@de 511 a 1389 - lado ímpar@nm@
+MG@nm@@nm@da Bahia@nm@30160970@nm@Belo Horizonte@nm@Centro@nm@Rua @nm@até 389/390@nm@
+MG@nm@@nm@do Contorno@nm@30110971@nm@Belo Horizonte@nm@Floresta@nm@Avenida @nm@de 1193 a 1825 - lado ímpar@nm@
+MG@nm@@nm@do Contorno@nm@30110973@nm@Belo Horizonte@nm@Floresta@nm@Avenida @nm@de 1193 a 1825 - lado ímpar@nm@
+MG@nm@@nm@do Contorno@nm@30110972@nm@Belo Horizonte@nm@Barro Preto@nm@Avenida @nm@de 9018 a 9454 - lado par@nm@
+MG@nm@@nm@Dom Pedro I@nm@31710971@nm@Belo Horizonte@nm@Itapoã@nm@Avenida @nm@até 1800 - lado par@nm@
+MG@nm@@nm@Dom Pedro II@nm@30750970@nm@Belo Horizonte@nm@Jardim Montanhês@nm@Avenida @nm@de 4202 ao fim - lado par@nm@
+MG@nm@@nm@Dom Pedro II@nm@30710971@nm@Belo Horizonte@nm@Carlos Prates@nm@Avenida @nm@até 1049 - lado ímpar@nm@
+MG@nm@@nm@dos Andradas@nm@30120970@nm@Belo Horizonte@nm@Centro@nm@Avenida @nm@até 619/620@nm@
+MG@nm@@nm@dos Bandeirantes@nm@30315970@nm@Belo Horizonte@nm@Comiteco@nm@Avenida @nm@de 102 a 990 - lado par@nm@
+MG@nm@@nm@dos Caetés@nm@30120972@nm@Belo Horizonte@nm@Centro@nm@Rua @nm@até 429/430@nm@
+MG@nm@@nm@Doutor Cristiano Guimarães@nm@31720970@nm@Belo Horizonte@nm@Planalto@nm@Avenida @nm@@nm@
+MG@nm@@nm@Érico Veríssimo@nm@31530970@nm@Belo Horizonte@nm@Santa Mônica@nm@Rua @nm@de 1901 ao fim - lado ímpar@nm@
+MG@nm@@nm@Francisco Sales@nm@30150970@nm@Belo Horizonte@nm@Floresta@nm@Avenida @nm@até 699 - lado ímpar@nm@
+MG@nm@@nm@Furquim Werneck@nm@31840970@nm@Belo Horizonte@nm@Tupi A@nm@Rua @nm@@nm@
+MG@nm@@nm@Getúlio Vargas@nm@30112971@nm@Belo Horizonte@nm@Funcionários@nm@Avenida @nm@até 549/550@nm@
+MG@nm@@nm@Gonçalo Coelho@nm@31170970@nm@Belo Horizonte@nm@Cidade Nova@nm@Rua @nm@@nm@
+MG@nm@@nm@Guarapari@nm@31560970@nm@Belo Horizonte@nm@Santa Amélia@nm@Avenida @nm@@nm@
+MG@nm@@nm@Jacuí@nm@31110970@nm@Belo Horizonte@nm@Floresta@nm@Rua @nm@até 2029/2030@nm@
+MG@nm@@nm@Jacuí@nm@31117970@nm@Belo Horizonte@nm@Floresta@nm@Rua @nm@até 2029/2030@nm@
+MG@nm@@nm@João Antônio Cardoso@nm@31310970@nm@Belo Horizonte@nm@Ouro Preto@nm@Rua @nm@@nm@
+MG@nm@@nm@José Benedito Antão@nm@31250971@nm@Belo Horizonte@nm@Aparecida Sétima Seção@nm@Rua @nm@@nm@
+MG@nm@@nm@José Cândido da Silveira@nm@31170972@nm@Belo Horizonte@nm@Cidade Nova@nm@Avenida @nm@até 1099 - lado ímpar@nm@
+MG@nm@@nm@Juscelino Barbosa@nm@30411972@nm@Belo Horizonte@nm@Nova Suíssa@nm@Rua @nm@de 307/308 ao fim@nm@
+MG@nm@@nm@Mantena@nm@31310971@nm@Belo Horizonte@nm@Ouro Preto@nm@Rua @nm@@nm@
+MG@nm@@nm@Maria Amélia Maia@nm@31741970@nm@Belo Horizonte@nm@São Bernardo@nm@Rua @nm@@nm@
+MG@nm@@nm@Miguel Perrela@nm@31330970@nm@Belo Horizonte@nm@Castelo@nm@Avenida @nm@@nm@
+MG@nm@@nm@Montes Claros@nm@30310971@nm@Belo Horizonte@nm@Carmo@nm@Rua @nm@de 170/171 a 528/529@nm@
+MG@nm@@nm@Nélio Cerqueira@nm@30662971@nm@Belo Horizonte@nm@Tirol (Barreiro)@nm@Avenida @nm@@nm@
+MG@nm@@nm@Nélio Cerqueira@nm@30662970@nm@Belo Horizonte@nm@Tirol (Barreiro)@nm@Avenida @nm@@nm@
+MG@nm@@nm@Ouro Preto@nm@30191970@nm@Belo Horizonte@nm@Barro Preto@nm@Rua @nm@até 399/400@nm@
+MG@nm@@nm@Padre Eustáquio@nm@30720970@nm@Belo Horizonte@nm@Carlos Prates@nm@Rua @nm@até 1759/1760@nm@
+MG@nm@@nm@Padre Pedro Pinto@nm@31617970@nm@Belo Horizonte@nm@Venda Nova@nm@Rua @nm@até 509 - lado ímpar@nm@
+MG@nm@@nm@Padre Pedro Pinto@nm@31611970@nm@Belo Horizonte@nm@Venda Nova@nm@Rua @nm@até 509 - lado ímpar@nm@
+MG@nm@@nm@Padre Pedro Pinto@nm@31570970@nm@Belo Horizonte@nm@Venda Nova@nm@Rua @nm@até 509 - lado ímpar@nm@
+MG@nm@@nm@Palmira@nm@30220970@nm@Belo Horizonte@nm@Serra@nm@Rua @nm@@nm@
+MG@nm@@nm@Papa João Paulo II@nm@31630970@nm@Belo Horizonte@nm@Serra Verde (Venda Nova)@nm@Rodovia @nm@lado ímpar@nm@
+MG@nm@@nm@Pará de Minas@nm@30720971@nm@Belo Horizonte@nm@Padre Eustáquio@nm@Rua @nm@@nm@
+MG@nm@@nm@Paraíba@nm@30130972@nm@Belo Horizonte@nm@Santa Efigênia@nm@Rua @nm@até 129/130@nm@
+MG@nm@@nm@Paraná@nm@30127970@nm@Belo Horizonte@nm@Centro@nm@Avenida @nm@lado par@nm@
+MG@nm@@nm@Paraná@nm@30124970@nm@Belo Horizonte@nm@Centro@nm@Avenida @nm@lado par@nm@
+MG@nm@@nm@Pernambuco@nm@30130976@nm@Belo Horizonte@nm@Savassi@nm@Rua @nm@de 542 a 970 - lado par@nm@
+MG@nm@@nm@Platina@nm@30410970@nm@Belo Horizonte@nm@Calafate@nm@Rua @nm@de 1001 a 1729 - lado ímpar@nm@
+MG@nm@@nm@Platina@nm@30411973@nm@Belo Horizonte@nm@Calafate@nm@Rua @nm@de 1001 a 1729 - lado ímpar@nm@
+MG@nm@@nm@Pouso Alegre@nm@31110971@nm@Belo Horizonte@nm@Floresta@nm@Rua @nm@de 721 a 1699 - lado ímpar@nm@
+MG@nm@@nm@Presidente Antônio Carlos@nm@31275972@nm@Belo Horizonte@nm@Lagoinha@nm@Avenida @nm@até 999 - lado ímpar@nm@
+MG@nm@@nm@Presidente Carlos Luz@nm@31250970@nm@Belo Horizonte@nm@Caiçaras@nm@Avenida @nm@até 1600 - lado par@nm@
+MG@nm@@nm@Professor Mário Werneck@nm@30575970@nm@Belo Horizonte@nm@Buritis@nm@Avenida @nm@de 1925/1926 ao fim@nm@
+MG@nm@@nm@Prudente de Morais@nm@30380970@nm@Belo Horizonte@nm@Santo Antônio@nm@Avenida @nm@até 477 - lado ímpar@nm@
+MG@nm@@nm@Raja Gabaglia@nm@30380972@nm@Belo Horizonte@nm@Luxemburgo@nm@Avenida @nm@de 617 a 1145 - lado ímpar@nm@
+MG@nm@@nm@Raul Soares@nm@30180970@nm@Belo Horizonte@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Rio Branco@nm@30111970@nm@Belo Horizonte@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Rio de Janeiro@nm@30161970@nm@Belo Horizonte@nm@Centro@nm@Rua @nm@até 393/394@nm@
+MG@nm@@nm@Rio de Janeiro@nm@30160972@nm@Belo Horizonte@nm@Centro@nm@Rua @nm@até 393/394@nm@
+MG@nm@@nm@Rio de Janeiro@nm@30167971@nm@Belo Horizonte@nm@Centro@nm@Rua @nm@até 393/394@nm@
+MG@nm@@nm@Rio de Janeiro@nm@30160973@nm@Belo Horizonte@nm@Centro@nm@Rua @nm@até 393/394@nm@
+MG@nm@@nm@Santa Terezinha@nm@31360970@nm@Belo Horizonte@nm@Santa Terezinha@nm@Avenida @nm@de 622/623 ao fim@nm@
+MG@nm@@nm@Silva Guimarães@nm@30692971@nm@Belo Horizonte@nm@Jatobá (Barreiro)@nm@Rua @nm@@nm@
+MG@nm@@nm@Silviano Brandão@nm@31015970@nm@Belo Horizonte@nm@Horto@nm@Avenida @nm@de 1865 ao fim - lado ímpar@nm@
+MG@nm@@nm@Sinfrônio Brochado@nm@30647970@nm@Belo Horizonte@nm@Barreiro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Sinfrônio Brochado@nm@30641970@nm@Belo Horizonte@nm@Barreiro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Úrsula Paulino@nm@30570970@nm@Belo Horizonte@nm@Betânia@nm@Rua @nm@de 1027 a 1151 - lado ímpar@nm@
+MG@nm@@nm@Viamão@nm@30411971@nm@Belo Horizonte@nm@Prado@nm@Rua @nm@até 439/440@nm@
+MG@nm@@nm@Vilarinho@nm@31615970@nm@Belo Horizonte@nm@Venda Nova@nm@Avenida @nm@de 689/690 a 1099/1100@nm@
+MG@nm@@nm@Waldomiro Lobo@nm@31814970@nm@Belo Horizonte@nm@Guarani@nm@Rua @nm@até 1699/1700@nm@
+MG@nm@@nm@Artur da Silva Bernardes@nm@32604970@nm@Betim@nm@Ingá@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@BR-381 Fernão Dias@nm@32655970@nm@Betim@nm@São João@nm@Rodovia @nm@do km 490,601 ao km 492,599 - lado ímpar@nm@
+MG@nm@@nm@Contorno@nm@32669970@nm@Betim@nm@Distrito Industrial Paulo Camilo Sul@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@Doutor José Mariano@nm@32641970@nm@Betim@nm@Citrolândia@nm@Avenida @nm@até 498/499@nm@
+MG@nm@@nm@Governador Valadares@nm@32600971@nm@Betim@nm@Centro@nm@Avenida @nm@até 149 - lado ímpar@nm@
+MG@nm@@nm@Inconfidência@nm@32600973@nm@Betim@nm@Centro@nm@Rua @nm@de 150/151 ao fim@nm@
+MG@nm@@nm@Inconfidência@nm@32600970@nm@Betim@nm@Centro@nm@Rua @nm@de 120/121 a 148/149@nm@
+MG@nm@@nm@Juiz Marco Túlio Isaac@nm@32670970@nm@Betim@nm@Ingá Alto@nm@Avenida @nm@de 801 a 1449 - lado ímpar@nm@
+MG@nm@@nm@Coronel Antônio da Silva@nm@35300975@nm@Caratinga@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Coronel Pedro Martins@nm@35300970@nm@Caratinga@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Presidente Tancredo Neves@nm@35300976@nm@Caratinga@nm@Centro@nm@Avenida @nm@até 267 - lado ímpar@nm@
+MG@nm@@nm@Raimundo Pereira da Cruz@nm@35300977@nm@Caratinga@nm@Graça@nm@Rua @nm@@nm@
+MG@nm@@nm@Astolfo Dutra@nm@36770970@nm@Cataguases@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Astolfo Dutra@nm@36770971@nm@Cataguases@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Dias de Souza@nm@36400970@nm@Conselheiro Lafaiete@nm@Centro@nm@Rua @nm@até 91/92@nm@
+MG@nm@@nm@Dias de Souza@nm@36400971@nm@Conselheiro Lafaiete@nm@Centro@nm@Rua @nm@até 91/92@nm@
+MG@nm@@nm@Pimentel Duarte@nm@36400972@nm@Conselheiro Lafaiete@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Abilio Machado@nm@32110970@nm@Contagem@nm@Ressaca@nm@Avenida @nm@@nm@
+MG@nm@@nm@Ápio Cardoso@nm@32371971@nm@Contagem@nm@Cincão@nm@Avenida @nm@@nm@
+MG@nm@@nm@BR-040@nm@32145970@nm@Contagem@nm@Vila Paris@nm@Rodovia @nm@do km 526,999 ao km 529,999 - lado ímpar@nm@
+MG@nm@@nm@BR-381@nm@32280970@nm@Contagem@nm@Riacho das Pedras@nm@Rodovia @nm@do km 2,002 ao km 4,500 - lado par@nm@
+MG@nm@@nm@Búzios@nm@32180970@nm@Contagem@nm@Estrela Dalva@nm@Rua @nm@@nm@
+MG@nm@@nm@Cardeal Arcoverde@nm@32371970@nm@Contagem@nm@Água Branca@nm@Rua @nm@@nm@
+MG@nm@@nm@Cardeal Eugênio Pacelli@nm@32217970@nm@Contagem@nm@Cidade Industrial@nm@Avenida @nm@até 1899 - lado ímpar@nm@
+MG@nm@@nm@Cardeal Eugênio Pacelli@nm@32211970@nm@Contagem@nm@Cidade Industrial@nm@Avenida @nm@até 1899 - lado ímpar@nm@
+MG@nm@@nm@Expressa de Contagem@nm@32370970@nm@Contagem@nm@Água Branca@nm@Via @nm@até 3899/3900@nm@
+MG@nm@@nm@General David Sarnoff@nm@32210970@nm@Contagem@nm@Cidade Industrial@nm@Avenida @nm@@nm@
+MG@nm@@nm@Humberto de Moro@nm@32260970@nm@Contagem@nm@Inconfidentes@nm@Rua @nm@@nm@
+MG@nm@@nm@João César de Oliveira@nm@32315970@nm@Contagem@nm@Eldorado@nm@Avenida @nm@de 4333 a 4999 - lado ímpar@nm@
+MG@nm@@nm@João de Deus Costa@nm@32040970@nm@Contagem@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@José Faria da Rocha@nm@32310970@nm@Contagem@nm@Eldorado@nm@Avenida @nm@até 2400/2401@nm@
+MG@nm@@nm@José Faria da Rocha@nm@32310971@nm@Contagem@nm@Eldorado@nm@Avenida @nm@até 2400/2401@nm@
+MG@nm@@nm@Oleoduto@nm@32072970@nm@Contagem@nm@Petrolândia@nm@Rua @nm@@nm@
+MG@nm@@nm@Pedro Olímpio da Fonseca@nm@32340970@nm@Contagem@nm@Santa Cruz Industrial@nm@Avenida @nm@@nm@
+MG@nm@@nm@Rio Negro@nm@32280971@nm@Contagem@nm@Riacho das Pedras@nm@Avenida @nm@@nm@
+MG@nm@@nm@Santa Maria@nm@32183970@nm@Contagem@nm@Pedra Azul@nm@Rua @nm@@nm@
+MG@nm@@nm@São Gonçalo@nm@32001970@nm@Contagem@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Um@nm@32150973@nm@Contagem@nm@Tapera@nm@Avenida @nm@@nm@
+MG@nm@@nm@Vereador Joaquim Costa@nm@32150971@nm@Contagem@nm@Campina Verde@nm@Via @nm@@nm@
+MG@nm@@nm@Vereador Joaquim Costa@nm@32150970@nm@Contagem@nm@Campina Verde@nm@Via @nm@@nm@
+MG@nm@@nm@Vereador Joaquim Costa@nm@32150972@nm@Contagem@nm@Campina Verde@nm@Via @nm@@nm@
+MG@nm@@nm@VP-1@nm@32050970@nm@Contagem@nm@Nova Contagem@nm@Rua @nm@@nm@
+MG@nm@@nm@Brasília@nm@35170973@nm@Coronel Fabriciano@nm@Amaro Lanari@nm@Avenida @nm@até 1399/1400@nm@
+MG@nm@@nm@Doutor José de Magalhães Pinto@nm@35170971@nm@Coronel Fabriciano@nm@Giovanini@nm@Avenida @nm@até 1477/1478@nm@
+MG@nm@@nm@Doutor Moacir Byrro@nm@35170972@nm@Coronel Fabriciano@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@José Cornélio@nm@35170970@nm@Coronel Fabriciano@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Levindo Augusto Pereira@nm@35790970@nm@Curvelo@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Xavier Rolim@nm@35790972@nm@Curvelo@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Antônio Olímpio de Morais@nm@35500974@nm@Divinópolis@nm@Centro@nm@Avenida @nm@até 1249/1250@nm@
+MG@nm@@nm@Antônio Olímpio de Morais@nm@35500970@nm@Divinópolis@nm@Centro@nm@Avenida @nm@até 1249/1250@nm@
+MG@nm@@nm@Goiás@nm@35502971@nm@Divinópolis@nm@Centro@nm@Rua @nm@até 1757 - lado ímpar@nm@
+MG@nm@@nm@Minas Gerais@nm@35500971@nm@Divinópolis@nm@Centro@nm@Rua @nm@até 1717/1718@nm@
+MG@nm@@nm@Moacir José Leite@nm@35500973@nm@Divinópolis@nm@Santa Clara@nm@Rua @nm@@nm@
+MG@nm@@nm@Primeiro de Junho@nm@35500972@nm@Divinópolis@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@Sete de Setembro@nm@35501971@nm@Divinópolis@nm@Centro@nm@Avenida @nm@até 1741/1742@nm@
+MG@nm@@nm@Bezerra de Araújo@nm@35044970@nm@Governador Valadares@nm@Vila Isa@nm@Rua @nm@@nm@
+MG@nm@@nm@JK@nm@35030970@nm@Governador Valadares@nm@São Paulo@nm@Avenida @nm@até 2038/2039@nm@
+MG@nm@@nm@JK@nm@35030971@nm@Governador Valadares@nm@São Paulo@nm@Avenida @nm@até 2038/2039@nm@
+MG@nm@@nm@Minas Gerais@nm@35001970@nm@Governador Valadares@nm@Centro@nm@Avenida @nm@até 500/501@nm@
+MG@nm@@nm@Minas Gerais@nm@35010970@nm@Governador Valadares@nm@Centro@nm@Avenida @nm@até 500/501@nm@
+MG@nm@@nm@Minas Gerais@nm@35060970@nm@Governador Valadares@nm@Nossa Senhora das Graças@nm@Avenida @nm@de 1066/1067 a 1649/1650@nm@
+MG@nm@@nm@Presidente Getúlio Vargas@nm@35030972@nm@Governador Valadares@nm@Castanheiras II@nm@Avenida @nm@@nm@
+MG@nm@@nm@Sete de Setembro@nm@35010971@nm@Governador Valadares@nm@Centro@nm@Avenida @nm@de 2299/2300 a 3251/3252@nm@
+MG@nm@@nm@Sete Lagoas@nm@35040970@nm@Governador Valadares@nm@Santa Rita@nm@Avenida @nm@@nm@
+MG@nm@@nm@Otacílio Negrão de Lima@nm@32400970@nm@Ibirité@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Alberto Giovannini@nm@35164973@nm@Ipatinga@nm@Bethânia@nm@Avenida @nm@de 296 ao fim - lado par@nm@
+MG@nm@@nm@Altina Gonçalves@nm@35162971@nm@Ipatinga@nm@Iguaçu@nm@Avenida @nm@@nm@
+MG@nm@@nm@Fernando de Noronha@nm@35160971@nm@Ipatinga@nm@Bom Retiro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Flores@nm@35162972@nm@Ipatinga@nm@Bom Jardim@nm@Avenida @nm@até 1045/1046@nm@
+MG@nm@@nm@João Valentim Pascoal@nm@35160970@nm@Ipatinga@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@João Valentim Pascoal@nm@35160973@nm@Ipatinga@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@Natsuo Esaki@nm@35161970@nm@Ipatinga@nm@Cariru@nm@Praça @nm@@nm@
+MG@nm@@nm@Selim José de Sales@nm@35164975@nm@Ipatinga@nm@Bethânia@nm@Avenida @nm@de 1661 a 2387 - lado ímpar@nm@
+MG@nm@@nm@Daniel Jardim de Grisólia@nm@35900972@nm@Itabira@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Doutor Acrísio Alvarenga@nm@35900971@nm@Itabira@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@João Pinheiro@nm@35900970@nm@Itabira@nm@Centro@nm@Avenida @nm@até 402/403@nm@
+MG@nm@@nm@Coronel Carneiro Júnior@nm@37500970@nm@Itajubá@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Doutor Pereira dos Santos@nm@37500972@nm@Itajubá@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Frederico Leite@nm@37501971@nm@Itajubá@nm@Porto Velho@nm@Rua @nm@@nm@
+MG@nm@@nm@Paulo Chiaradia@nm@37502970@nm@Itajubá@nm@São Vicente@nm@Avenida @nm@@nm@
+MG@nm@@nm@Coronel Osório Camargos@nm@35680970@nm@Itaúna@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@João Cerqueira Lima@nm@35680971@nm@Itaúna@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Jove Soares@nm@35680972@nm@Itaúna@nm@Graças@nm@Avenida @nm@até 1066/1067@nm@
+MG@nm@@nm@Nove@nm@38300971@nm@Ituiutaba@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Nove@nm@38300970@nm@Ituiutaba@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Vinte e Dois@nm@38300973@nm@Ituiutaba@nm@Centro@nm@Rua @nm@até 1748/1749@nm@
+MG@nm@@nm@Brasil@nm@39442972@nm@Janaúba@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@do Comércio@nm@39442970@nm@Janaúba@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Armando Fajardo@nm@35931970@nm@João Monlevade@nm@Loanda@nm@Avenida @nm@até 899/0900@nm@
+MG@nm@@nm@Wilson Alvarenga@nm@35930970@nm@João Monlevade@nm@Carneirinhos@nm@Avenida @nm@de 0150/151 a 1049/1050@nm@
+MG@nm@@nm@Espírito Santo@nm@36018972@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@de 0393/394 a 796/797@nm@
+MG@nm@@nm@Espírito Santo@nm@36017970@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@de 0393/394 a 796/797@nm@
+MG@nm@@nm@Espírito Santo@nm@36018975@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@de 0393/394 a 796/797@nm@
+MG@nm@@nm@Halfeld@nm@36010972@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@até 99/100@nm@
+MG@nm@@nm@Henrique Dias@nm@36091970@nm@Juiz de Fora@nm@Benfica@nm@Rua @nm@@nm@
+MG@nm@@nm@Marechal Deodoro@nm@36013972@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@até 279/280@nm@
+MG@nm@@nm@Marechal Deodoro@nm@36001970@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@até 279/280@nm@
+MG@nm@@nm@Padre Café@nm@36016970@nm@Juiz de Fora@nm@São Mateus@nm@Rua @nm@@nm@
+MG@nm@@nm@Presidente Itamar Franco@nm@36010971@nm@Juiz de Fora@nm@Centro@nm@Avenida @nm@até 727/728@nm@
+MG@nm@@nm@Presidente Itamar Franco@nm@36033970@nm@Juiz de Fora@nm@Cascatinha@nm@Avenida @nm@de 3451/3452 ao fim@nm@
+MG@nm@@nm@Presidente Juscelino Kubitscheck@nm@36018971@nm@Juiz de Fora@nm@Barbosa Lage@nm@Avenida @nm@de 2801/2802 a 4501/4502@nm@
+MG@nm@@nm@Rui Barbosa@nm@36045971@nm@Juiz de Fora@nm@Santa Terezinha@nm@Avenida @nm@de 0221/222 a 998/0999@nm@
+MG@nm@@nm@Rui Barbosa@nm@36045972@nm@Juiz de Fora@nm@Santa Terezinha@nm@Avenida @nm@de 0221/222 a 998/0999@nm@
+MG@nm@@nm@Santa Rita@nm@36010970@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@até 300/301@nm@
+MG@nm@@nm@São Sebastião@nm@36013970@nm@Juiz de Fora@nm@Centro@nm@Rua @nm@até 699/700@nm@
+MG@nm@@nm@Cinco de Novembro@nm@36900970@nm@Manhuaçu@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Doutor Jorge Hannas@nm@36904970@nm@Manhuaçu@nm@Santana@nm@Avenida @nm@@nm@
+MG@nm@@nm@Carlos David Alcântara@nm@39402972@nm@Montes Claros@nm@Santo Inácio@nm@Rua @nm@@nm@
+MG@nm@@nm@Coronel Antônio dos Anjos@nm@39400972@nm@Montes Claros@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Cula Mangabeira@nm@39401971@nm@Montes Claros@nm@Santo Expedito@nm@Avenida @nm@de 563 ao fim - lado ímpar@nm@
+MG@nm@@nm@Doutor Chaves@nm@39400976@nm@Montes Claros@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Doutor Chaves@nm@39400970@nm@Montes Claros@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Doutor Veloso@nm@39400971@nm@Montes Claros@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@José Pedro Alves@nm@39400977@nm@Montes Claros@nm@Cidade Nova@nm@Avenida @nm@@nm@
+MG@nm@@nm@Coronel Pacheco de Medeiros@nm@36880970@nm@Muriaé@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Itagiba de Oliveira@nm@36884970@nm@Muriaé@nm@Barra@nm@Rua @nm@@nm@
+MG@nm@@nm@Wilson Frutuoso Braga@nm@36889977@nm@Muriaé@nm@Chácara Doutor Brum@nm@Rua @nm@@nm@
+MG@nm@@nm@Arísio da Silva@nm@34002970@nm@Nova Lima@nm@Oswaldo Barbosa Pena II@nm@Rua @nm@@nm@
+MG@nm@@nm@MG-030@nm@34012970@nm@Nova Lima@nm@Vila Nova Suíça@nm@Rodovia @nm@@nm@
+MG@nm@@nm@Santa Cruz@nm@34000970@nm@Nova Lima@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Toronto@nm@34007970@nm@Nova Lima@nm@Jardim Canadá@nm@Avenida @nm@@nm@
+MG@nm@@nm@Toronto@nm@34007971@nm@Nova Lima@nm@Jardim Canadá@nm@Avenida @nm@@nm@
+MG@nm@@nm@Afonso Pena@nm@35660970@nm@Pará de Minas@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Nova Serrana@nm@35660971@nm@Pará de Minas@nm@Nossa Senhora de Lourdes@nm@Rua @nm@@nm@
+MG@nm@@nm@Porciúncula@nm@35661970@nm@Pará de Minas@nm@São Francisco@nm@Rua @nm@@nm@
+MG@nm@@nm@Dom Elizeu@nm@38600971@nm@Paracatu@nm@Bela Vista I@nm@Rua @nm@@nm@
+MG@nm@@nm@Olegário Maciel@nm@38600970@nm@Paracatu@nm@Centro@nm@Avenida @nm@lado par@nm@
+MG@nm@@nm@Olegário Maciel@nm@38600972@nm@Paracatu@nm@Centro@nm@Avenida @nm@lado par@nm@
+MG@nm@@nm@Adholpho Coelho Lemos@nm@37900973@nm@Passos@nm@São Francisco@nm@Rua @nm@@nm@
+MG@nm@@nm@Coronel João de Barros@nm@37900970@nm@Passos@nm@Centro@nm@Rua @nm@até 271/272@nm@
+MG@nm@@nm@Agenor Maciel@nm@38700972@nm@Patos de Minas@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@José de Santana@nm@38700970@nm@Patos de Minas@nm@Centro@nm@Rua @nm@de 202/203 ao fim@nm@
+MG@nm@@nm@Major Gote@nm@38700973@nm@Patos de Minas@nm@Cônego Getúlio@nm@Rua @nm@de 1452/1453 ao fim@nm@
+MG@nm@@nm@Negrinho de Freitas@nm@38706971@nm@Patos de Minas@nm@Cidade Nova@nm@Rua @nm@@nm@
+MG@nm@@nm@Negrinho de Freitas@nm@38706970@nm@Patos de Minas@nm@Cidade Nova@nm@Rua @nm@@nm@
+MG@nm@@nm@Faria Pereira@nm@38740972@nm@Patrocínio@nm@Centro@nm@Avenida @nm@de 2030 a 2812 - lado par@nm@
+MG@nm@@nm@Governador Valadares@nm@38740970@nm@Patrocínio@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Pedro Barbosa Victor@nm@38742971@nm@Patrocínio@nm@São Francisco@nm@Rua @nm@@nm@
+MG@nm@@nm@Marechal Deodoro@nm@37701972@nm@Poços de Caldas@nm@Centro@nm@Rua @nm@até 224/225@nm@
+MG@nm@@nm@Pedro Paulo Rodrigues Lemos@nm@37706970@nm@Poços de Caldas@nm@Conjunto Habitacional Pedro Afonso Junqueira@nm@Rua @nm@@nm@
+MG@nm@@nm@Pernambuco@nm@37701971@nm@Poços de Caldas@nm@Centro@nm@Rua @nm@até 614/615@nm@
+MG@nm@@nm@Prefeito Chagas@nm@37701970@nm@Poços de Caldas@nm@Centro@nm@Rua @nm@até 273/274@nm@
+MG@nm@@nm@Santa Catarina@nm@37701975@nm@Poços de Caldas@nm@Centro@nm@Rua @nm@até 45/46@nm@
+MG@nm@@nm@Caetano Marinho@nm@35430970@nm@Ponte Nova@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Euclides da Cunha@nm@35430973@nm@Ponte Nova@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Francisco Vieira Martins@nm@35430972@nm@Ponte Nova@nm@Palmeiras@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@Mário Fontoura@nm@35430971@nm@Ponte Nova@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Adolfo Olinto@nm@37550970@nm@Pouso Alegre@nm@Centro@nm@Rua @nm@de 671/672 ao fim@nm@
+MG@nm@@nm@Dom Nery@nm@37550972@nm@Pouso Alegre@nm@Centro@nm@Rua @nm@de 211/212 ao fim@nm@
+MG@nm@@nm@Doutor João Beraldo@nm@37550971@nm@Pouso Alegre@nm@Centro@nm@Avenida @nm@de 1154 a 1206 - lado par@nm@
+MG@nm@@nm@Doutor Lisboa@nm@37550974@nm@Pouso Alegre@nm@Centro@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@Geraldo dos Reis@nm@37555970@nm@Pouso Alegre@nm@Ala I@nm@Rua @nm@@nm@
+MG@nm@@nm@Prefeito Olavo Gomes de Oliveira@nm@37558975@nm@Pouso Alegre@nm@Jardim Olímpico@nm@Avenida @nm@@nm@
+MG@nm@@nm@Dez@nm@33903970@nm@Ribeirão das Neves@nm@Belo Vale@nm@Rua @nm@@nm@
+MG@nm@@nm@Dionízio Gomes@nm@33820970@nm@Ribeirão das Neves@nm@Veneza@nm@Rua @nm@até 1699/1700@nm@
+MG@nm@@nm@José Leão Papa@nm@33805970@nm@Ribeirão das Neves@nm@Várzea Alegre@nm@Rua @nm@@nm@
+MG@nm@@nm@Manoel Moreira Souza Barros@nm@33805971@nm@Ribeirão das Neves@nm@Várzea Alegre@nm@Rua @nm@@nm@
+MG@nm@@nm@Mário Costa Ferreira@nm@33900971@nm@Ribeirão das Neves@nm@São Januário (Justinópolis)@nm@Rua @nm@@nm@
+MG@nm@@nm@Benedito Saturnino da Rocha@nm@34516970@nm@Sabará@nm@Ravena@nm@Rua @nm@@nm@
+MG@nm@@nm@Carvalho de Brito@nm@34585973@nm@Sabará@nm@Vila Eugênio Rossi@nm@Rua @nm@@nm@
+MG@nm@@nm@Dom Pedro II@nm@34505970@nm@Sabará@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Prefeito Serafim Motta Barros@nm@34505971@nm@Sabará@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Brasília@nm@33120970@nm@Santa Luzia@nm@São Benedito@nm@Avenida @nm@de 1459 a 1869 - lado ímpar@nm@
+MG@nm@@nm@do Comércio@nm@33010970@nm@Santa Luzia@nm@São João Batista@nm@Rua @nm@@nm@
+MG@nm@@nm@Geraldo Teixeira da Costa@nm@33120971@nm@Santa Luzia@nm@São Benedito@nm@Rua @nm@até 834/835@nm@
+MG@nm@@nm@Nossa Senhora do Carmo@nm@33035970@nm@Santa Luzia@nm@Boa Esperança@nm@Avenida @nm@@nm@
+MG@nm@@nm@Celso Assunção@nm@36307971@nm@São João Del Rei@nm@Colônia do Marçal@nm@Rua @nm@@nm@
+MG@nm@@nm@Josué de Queiroz@nm@36305970@nm@São João Del Rei@nm@Matozinhos@nm@Avenida @nm@lado ímpar@nm@
+MG@nm@@nm@Maestro Telêmaco Neves@nm@36300970@nm@São João Del Rei@nm@Tejuco@nm@Rua @nm@@nm@
+MG@nm@@nm@Tiradentes@nm@36307970@nm@São João Del Rei@nm@Centro@nm@Avenida @nm@lado par@nm@
+MG@nm@@nm@Fernando Pinto@nm@35700972@nm@Sete Lagoas@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Guimarães Rosa@nm@35701972@nm@Sete Lagoas@nm@Bom Jardim@nm@Rua @nm@@nm@
+MG@nm@@nm@José Fonseca Pires@nm@35701973@nm@Sete Lagoas@nm@Fazenda Velha@nm@Rua @nm@@nm@
+MG@nm@@nm@Major Campos@nm@35701970@nm@Sete Lagoas@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Major Campos@nm@35700971@nm@Sete Lagoas@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Olavo Bilac@nm@35700973@nm@Sete Lagoas@nm@Piedade@nm@Rua @nm@@nm@
+MG@nm@@nm@Raquel Teixeira Viana@nm@35700974@nm@Sete Lagoas@nm@Canaã@nm@Avenida @nm@@nm@
+MG@nm@@nm@Adib Cadah@nm@39803971@nm@Teófilo Otoni@nm@Olga Prates Correia@nm@Rua @nm@@nm@
+MG@nm@@nm@Getúlio Vargas@nm@39800973@nm@Teófilo Otoni@nm@Centro@nm@Avenida @nm@até 327/328@nm@
+MG@nm@@nm@Mefton Kretli@nm@39804970@nm@Teófilo Otoni@nm@Jardim das Acácias@nm@Rua @nm@@nm@
+MG@nm@@nm@Padre Virgulino@nm@39800972@nm@Teófilo Otoni@nm@Centro@nm@Rua @nm@até 831/832@nm@
+MG@nm@@nm@Placidina Maria de Jesus@nm@39800974@nm@Teófilo Otoni@nm@Fátima@nm@Rua @nm@@nm@
+MG@nm@@nm@Tiradentes@nm@39800970@nm@Teófilo Otoni@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Belo Horizonte@nm@35184971@nm@Timóteo@nm@Cachoeira do Vale@nm@Avenida @nm@@nm@
+MG@nm@@nm@Didico de Araújo@nm@35182972@nm@Timóteo@nm@Centro Sul@nm@Rua @nm@@nm@
+MG@nm@@nm@Patativa@nm@35181970@nm@Timóteo@nm@Macuco@nm@Rua @nm@@nm@
+MG@nm@@nm@Primeiro de Novembro@nm@35180970@nm@Timóteo@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Vinte de Novembro@nm@35180973@nm@Timóteo@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Vinte e Nove de Abril@nm@35182971@nm@Timóteo@nm@Centro Sul@nm@Praça @nm@@nm@
+MG@nm@@nm@Deputado Renato Azeredo@nm@37417970@nm@Três Corações@nm@Nossa Senhora Aparecida@nm@Avenida @nm@@nm@
+MG@nm@@nm@Desembargador Alberto Luz@nm@37410970@nm@Três Corações@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Presidente Getúlio Vargas@nm@37410974@nm@Três Corações@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Antônio Batista@nm@36500971@nm@Ubá@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Cônego Abreu e Silva@nm@36500972@nm@Ubá@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Vereador Rafael Girardi@nm@36500970@nm@Ubá@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Barão do Rio Branco@nm@38020970@nm@Uberaba@nm@São Benedito@nm@Avenida @nm@@nm@
+MG@nm@@nm@da Saudade@nm@38061971@nm@Uberaba@nm@Santa Marta@nm@Avenida @nm@@nm@
+MG@nm@@nm@Deputado José Marcus Cherem@nm@38040973@nm@Uberaba@nm@Vila São Cristóvão@nm@Avenida @nm@@nm@
+MG@nm@@nm@Doutor Henrique Kruger@nm@38040970@nm@Uberaba@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Doutor Henrique Kruger@nm@38001970@nm@Uberaba@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Doutor Henrique Kruger@nm@38010974@nm@Uberaba@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Governador Valadares@nm@38010971@nm@Uberaba@nm@Centro@nm@Rua @nm@até 379/380@nm@
+MG@nm@@nm@João Pinheiro@nm@38010972@nm@Uberaba@nm@Boa Vista@nm@Rua @nm@de 0919/920 a 1574/1575@nm@
+MG@nm@@nm@João Pinheiro@nm@38017976@nm@Uberaba@nm@Boa Vista@nm@Rua @nm@de 0919/920 a 1574/1575@nm@
+MG@nm@@nm@João Pinheiro@nm@38017973@nm@Uberaba@nm@Centro@nm@Rua @nm@até 917/0918@nm@
+MG@nm@@nm@Marquês do Paraná@nm@38080970@nm@Uberaba@nm@Estados Unidos@nm@Rua @nm@de 1138/1139 ao fim@nm@
+MG@nm@@nm@Nossa Senhora da Abadia@nm@38025972@nm@Uberaba@nm@Nossa Senhora da Abadia@nm@Praça @nm@@nm@
+MG@nm@@nm@Santa Beatriz da Silva@nm@38020971@nm@Uberaba@nm@São Benedito@nm@Avenida @nm@até 581 - lado ímpar@nm@
+MG@nm@@nm@Teófilo Otoni@nm@38022971@nm@Uberaba@nm@São Benedito@nm@Rua @nm@@nm@
+MG@nm@@nm@Tonico dos Santos@nm@38040971@nm@Uberaba@nm@Jardim Induberaba@nm@Avenida @nm@@nm@
+MG@nm@@nm@Afonso Pena@nm@38400978@nm@Uberlândia@nm@Nossa Senhora Aparecida@nm@Avenida @nm@de 0982/983 a 1836/1837@nm@
+MG@nm@@nm@Afrânio Rodrigues da Cunha@nm@38400973@nm@Uberlândia@nm@Tabajaras@nm@Avenida @nm@@nm@
+MG@nm@@nm@Belarmino Cotta Pacheco@nm@38408971@nm@Uberlândia@nm@Santa Mônica@nm@Avenida @nm@até 2888/2889@nm@
+MG@nm@@nm@Cesário Alvim@nm@38400971@nm@Uberlândia@nm@Centro@nm@Avenida @nm@até 451/452@nm@
+MG@nm@@nm@Cipriano Del Favero@nm@38400975@nm@Uberlândia@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Comendador Alexandrino Garcia@nm@38402970@nm@Uberlândia@nm@Marta Helena@nm@Avenida @nm@até 2368/2369@nm@
+MG@nm@@nm@da Bíblia@nm@38400976@nm@Uberlândia@nm@Martins@nm@Praça @nm@@nm@
+MG@nm@@nm@Floriano Peixoto@nm@38400988@nm@Uberlândia@nm@Nossa Senhora Aparecida@nm@Avenida @nm@de 895/896 a 1278/1279@nm@
+MG@nm@@nm@Floriano Peixoto@nm@38400977@nm@Uberlândia@nm@Nossa Senhora Aparecida@nm@Avenida @nm@de 1280/1281 a 2022/2023@nm@
+MG@nm@@nm@Francisco Rodrigues Serralha@nm@38413970@nm@Uberlândia@nm@Chácaras Tubalina e Quartel@nm@Rua @nm@@nm@
+MG@nm@@nm@Getúlio Vargas@nm@38400970@nm@Uberlândia@nm@Centro@nm@Avenida @nm@até 749 - lado ímpar@nm@
+MG@nm@@nm@Getúlio Vargas@nm@38400972@nm@Uberlândia@nm@Centro@nm@Avenida @nm@até 749 - lado ímpar@nm@
+MG@nm@@nm@João Bernardes de Souza@nm@38401970@nm@Uberlândia@nm@Presidente Roosevelt@nm@Avenida @nm@@nm@
+MG@nm@@nm@João Naves de Ávila@nm@38408975@nm@Uberlândia@nm@Santa Mônica@nm@Avenida @nm@de 1443 a 3845 - lado ímpar@nm@
+MG@nm@@nm@João Naves de Ávila@nm@38408970@nm@Uberlândia@nm@Santa Luzia@nm@Avenida @nm@de 6204 ao fim - lado par@nm@
+MG@nm@@nm@João Pinheiro@nm@38400983@nm@Uberlândia@nm@Centro@nm@Avenida @nm@até 618/0619@nm@
+MG@nm@@nm@Raul Petronilho Pádua@nm@38410970@nm@Uberlândia@nm@Granada@nm@Alameda @nm@@nm@
+MG@nm@@nm@Rivalino Pereira@nm@38400980@nm@Uberlândia@nm@Martins@nm@Rua @nm@@nm@
+MG@nm@@nm@Rivalino Pereira@nm@38400987@nm@Uberlândia@nm@Martins@nm@Rua @nm@@nm@
+MG@nm@@nm@Rivalino Pereira@nm@38400986@nm@Uberlândia@nm@Martins@nm@Rua @nm@@nm@
+MG@nm@@nm@Rivalino Pereira@nm@38400985@nm@Uberlândia@nm@Martins@nm@Rua @nm@@nm@
+MG@nm@@nm@Rivalino Pereira@nm@38400981@nm@Uberlândia@nm@Martins@nm@Rua @nm@@nm@
+MG@nm@@nm@Sebastião Vieira da Mota@nm@38414970@nm@Uberlândia@nm@Luizote de Freitas@nm@Rua @nm@@nm@
+MG@nm@@nm@Vasconcelos Costa@nm@38400974@nm@Uberlândia@nm@Martins@nm@Avenida @nm@até 961/962@nm@
+MG@nm@@nm@Canabrava@nm@38610971@nm@Unaí@nm@Cachoeira@nm@Rua @nm@@nm@
+MG@nm@@nm@Nossa Senhora do Carmo@nm@38610972@nm@Unaí@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@São José@nm@38610970@nm@Unaí@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Benjamin Constant@nm@37010970@nm@Varginha@nm@Nossa Senhora de Fátima@nm@Avenida @nm@de 389/390 ao fim@nm@
+MG@nm@@nm@Coronel José Francisco Coelho@nm@37062971@nm@Varginha@nm@Industrial JK@nm@Avenida @nm@de 247/248 a 640/641@nm@
+MG@nm@@nm@Coronel José Francisco Coelho@nm@37062970@nm@Varginha@nm@Industrial JK@nm@Avenida @nm@de 247/248 a 640/641@nm@
+MG@nm@@nm@Major Venâncio@nm@37002973@nm@Varginha@nm@Centro@nm@Avenida @nm@até 999 - lado ímpar@nm@
+MG@nm@@nm@Quintino Bocaiúva@nm@37002972@nm@Varginha@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Quintino Bocaiúva@nm@37002974@nm@Varginha@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Quintino Bocaiúva@nm@37002970@nm@Varginha@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Sebastião Fernandes@nm@33200979@nm@Vespasiano@nm@Centro@nm@Avenida @nm@lado par@nm@
+MG@nm@@nm@Vereador Dumas Chalita@nm@33200970@nm@Vespasiano@nm@Centro@nm@Rua @nm@@nm@
+MG@nm@@nm@Bueno Brandão@nm@36570970@nm@Viçosa@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Buenos Aires@nm@36576971@nm@Viçosa@nm@Novo Silvestre@nm@Rua @nm@@nm@
+MG@nm@@nm@Emílio Jardim@nm@36570972@nm@Viçosa@nm@Centro@nm@Praça @nm@@nm@
+MG@nm@@nm@Juquinha Moreira@nm@36576973@nm@Viçosa@nm@Silvestre@nm@Rua @nm@@nm@
+MG@nm@@nm@Peter Henry Rolfs@nm@36570977@nm@Viçosa@nm@Centro@nm@Avenida @nm@@nm@
+MG@nm@@nm@Tiradentes@nm@36576972@nm@Viçosa@nm@João Braz da Costa Val@nm@Praça @nm@@nm@

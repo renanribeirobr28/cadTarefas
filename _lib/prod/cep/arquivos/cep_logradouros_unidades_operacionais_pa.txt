@@ -1,0 +1,90 @@
+PA@nm@@nm@Djalma Dutra@nm@68371972@nm@Altamira@nm@Centro@nm@Avenida @nm@@nm@
+PA@nm@@nm@Pedro Gomes@nm@68371971@nm@Altamira@nm@Sudam I@nm@Travessa @nm@de 820/821 ao fim@nm@
+PA@nm@@nm@Pedro Gomes@nm@68371970@nm@Altamira@nm@Centro@nm@Travessa @nm@até 264/265@nm@
+PA@nm@@nm@BR-316@nm@67015970@nm@Ananindeua@nm@Coqueiro@nm@Rodovia @nm@do km 2,001 ao km 3,599 - lado ímpar@nm@
+PA@nm@@nm@BR-316@nm@67113970@nm@Ananindeua@nm@Coqueiro@nm@Rodovia @nm@do km 2,001 ao km 3,599 - lado ímpar@nm@
+PA@nm@@nm@BR-316@nm@67020971@nm@Ananindeua@nm@Águas Lindas@nm@Rodovia @nm@do km 4,500 ao km 7,498 - lado par@nm@
+PA@nm@@nm@BR-316@nm@67110970@nm@Ananindeua@nm@Coqueiro@nm@Rodovia @nm@do km 2,001 ao km 3,599 - lado ímpar@nm@
+PA@nm@@nm@BR-316@nm@67105970@nm@Ananindeua@nm@Centro@nm@Rodovia @nm@do km 5,601 ao km 8,001 - lado ímpar@nm@
+PA@nm@@nm@BR-316@nm@67033971@nm@Ananindeua@nm@Centro@nm@Rodovia @nm@do km 5,601 ao km 8,001 - lado ímpar@nm@
+PA@nm@@nm@BR-316@nm@67030971@nm@Ananindeua@nm@Centro@nm@Rodovia @nm@do km 5,601 ao km 8,001 - lado ímpar@nm@
+PA@nm@@nm@Cláudio Sanders@nm@67030970@nm@Ananindeua@nm@Centro@nm@Rua @nm@até 999/1000@nm@
+PA@nm@@nm@das Orquídeas@nm@67033972@nm@Ananindeua@nm@Águas Brancas@nm@Rua @nm@(Lot Girassol)@nm@
+PA@nm@@nm@Quatorze@nm@67020970@nm@Ananindeua@nm@Águas Lindas@nm@Rua @nm@(Cj Júlia Seffer)@nm@
+PA@nm@@nm@Sn-17@nm@67113972@nm@Ananindeua@nm@Cidade Nova@nm@Rua @nm@(Cidade Nova IV)@nm@
+PA@nm@@nm@We-77@nm@67140970@nm@Ananindeua@nm@Cidade Nova@nm@Travessa @nm@(Cidade Nova VI)@nm@
+PA@nm@@nm@WE-85@nm@67140971@nm@Ananindeua@nm@Cidade Nova@nm@Travessa @nm@(Cidade Nova VI)@nm@
+PA@nm@@nm@Almirante Barroso@nm@66645972@nm@Belém@nm@Castanheira@nm@Avenida @nm@de 4694/4695 ao fim@nm@
+PA@nm@@nm@Almirante Barroso@nm@66093974@nm@Belém@nm@Marco@nm@Avenida @nm@de 1483/1484 a 1959/1960@nm@
+PA@nm@@nm@Augusto Montenegro@nm@66623971@nm@Belém@nm@Marambaia@nm@Rodovia @nm@até km 1,299 - lado ímpar@nm@
+PA@nm@@nm@Augusto Montenegro@nm@66623970@nm@Belém@nm@Marambaia@nm@Rodovia @nm@até km 1,299 - lado ímpar@nm@
+PA@nm@@nm@Augusto Montenegro@nm@66635970@nm@Belém@nm@Parque Verde@nm@Rodovia @nm@do km 3,751 ao km 8,000@nm@
+PA@nm@@nm@Augusto Montenegro@nm@66635971@nm@Belém@nm@Parque Verde@nm@Rodovia @nm@do km 3,751 ao km 8,000@nm@
+PA@nm@@nm@Augusto Montenegro@nm@66811970@nm@Belém@nm@Agulha (Icoaraci)@nm@Rodovia @nm@do km 13,201 ao fim - lado ímpar@nm@
+PA@nm@@nm@Barão de Igarapé Miri@nm@66075971@nm@Belém@nm@Guamá@nm@Rua @nm@até 99997/99998@nm@
+PA@nm@@nm@Dezesseis de Novembro@nm@66023971@nm@Belém@nm@Cidade Velha@nm@Avenida @nm@@nm@
+PA@nm@@nm@Domingos Marreiros@nm@66055974@nm@Belém@nm@Umarizal@nm@Rua @nm@até 505/506@nm@
+PA@nm@@nm@Doutor Freitas@nm@66120970@nm@Belém@nm@Pedreira@nm@Avenida @nm@de 590/591 a 1580/1581@nm@
+PA@nm@@nm@Duque de Caxias@nm@66093972@nm@Belém@nm@Marco@nm@Avenida @nm@de 1284/1285 ao fim@nm@
+PA@nm@@nm@Floriano Peixoto@nm@66090971@nm@Belém@nm@São Brás@nm@Praça @nm@@nm@
+PA@nm@@nm@Floriano Peixoto@nm@66090970@nm@Belém@nm@São Brás@nm@Praça @nm@@nm@
+PA@nm@@nm@Frutuoso Guimarães@nm@66015972@nm@Belém@nm@Campina@nm@Travessa @nm@até 109/110@nm@
+PA@nm@@nm@Governador Magalhães Barata@nm@66040970@nm@Belém@nm@Nazaré@nm@Avenida @nm@até 520/521@nm@
+PA@nm@@nm@Governador Magalhães Barata@nm@66040972@nm@Belém@nm@Nazaré@nm@Avenida @nm@até 520/521@nm@
+PA@nm@@nm@José Bonifácio@nm@66063971@nm@Belém@nm@Guamá@nm@Avenida @nm@de 1312/1313 a 2034/2035@nm@
+PA@nm@@nm@Juvêncio Silva@nm@66910970@nm@Belém@nm@Vila (Mosqueiro)@nm@Rua @nm@@nm@
+PA@nm@@nm@Manoel Barata@nm@66810971@nm@Belém@nm@Cruzeiro (Icoaraci)@nm@Rua @nm@até 899/900@nm@
+PA@nm@@nm@Manoel Barata@nm@66810970@nm@Belém@nm@Cruzeiro (Icoaraci)@nm@Rua @nm@até 899/900@nm@
+PA@nm@@nm@Manoel Barata@nm@66840970@nm@Belém@nm@São João do Outeiro (Outeiro)@nm@Rua @nm@@nm@
+PA@nm@@nm@Marechal Hermes@nm@66010971@nm@Belém@nm@Campina@nm@Avenida @nm@@nm@
+PA@nm@@nm@Nossa Senhora da Conceição@nm@66845970@nm@Belém@nm@São João do Outeiro (Outeiro)@nm@Avenida @nm@@nm@
+PA@nm@@nm@Ó de Almeida@nm@66017971@nm@Belém@nm@Campina@nm@Rua @nm@até 383/384@nm@
+PA@nm@@nm@Pará@nm@66115970@nm@Belém@nm@Val-de-Cães@nm@Avenida @nm@@nm@
+PA@nm@@nm@Pedro Álvares Cabral@nm@66645971@nm@Belém@nm@Castanheira@nm@Avenida @nm@de 8304 ao fim - lado par@nm@
+PA@nm@@nm@Pedro Álvares Cabral@nm@66645973@nm@Belém@nm@Castanheira@nm@Avenida @nm@de 8304 ao fim - lado par@nm@
+PA@nm@@nm@Pedro Miranda@nm@66080971@nm@Belém@nm@Pedreira@nm@Avenida @nm@até 484/485@nm@
+PA@nm@@nm@Pedro Miranda@nm@66080970@nm@Belém@nm@Pedreira@nm@Avenida @nm@até 484/485@nm@
+PA@nm@@nm@Presidente Vargas@nm@66017970@nm@Belém@nm@Campina@nm@Avenida @nm@até 379/380@nm@
+PA@nm@@nm@Roberto Camelier@nm@66025972@nm@Belém@nm@Jurunas@nm@Avenida @nm@até 120/121@nm@
+PA@nm@@nm@Roberto Camelier@nm@66033971@nm@Belém@nm@Condor@nm@Avenida @nm@de 1604/1605 ao fim@nm@
+PA@nm@@nm@Senador Lemos@nm@66113972@nm@Belém@nm@Telégrafo Sem Fio@nm@Avenida @nm@de 1174/1175 a 1871/1872@nm@
+PA@nm@@nm@Senador Lemos@nm@66113971@nm@Belém@nm@Telégrafo Sem Fio@nm@Avenida @nm@de 1174/1175 a 1871/1872@nm@
+PA@nm@@nm@Senador Lemos@nm@66113976@nm@Belém@nm@Telégrafo Sem Fio@nm@Avenida @nm@de 1174/1175 a 1871/1872@nm@
+PA@nm@@nm@Senador Lemos@nm@66113970@nm@Belém@nm@Telégrafo Sem Fio@nm@Avenida @nm@de 1174/1175 a 1871/1872@nm@
+PA@nm@@nm@Vila Nova@nm@66921971@nm@Belém@nm@Baía do Sol (Mosqueiro)@nm@Rua @nm@@nm@
+PA@nm@@nm@Vinte e Oito de Setembro@nm@66053973@nm@Belém@nm@Reduto@nm@Rua @nm@de 459/460 ao fim@nm@
+PA@nm@@nm@Visconde de Souza Franco@nm@66053972@nm@Belém@nm@Reduto@nm@Avenida @nm@@nm@
+PA@nm@@nm@Barão de Capanema@nm@68700970@nm@Capanema@nm@Centro@nm@Avenida @nm@@nm@
+PA@nm@@nm@BR-316@nm@68741972@nm@Castanhal@nm@Titanlândia@nm@Rodovia @nm@do km 58,001 ao km 73,000@nm@
+PA@nm@@nm@BR-316@nm@68741975@nm@Castanhal@nm@Titanlândia@nm@Rodovia @nm@do km 58,001 ao km 73,000@nm@
+PA@nm@@nm@BR-316@nm@68633971@nm@Castanhal@nm@Apeú@nm@Rodovia @nm@do km 57,000 ao km 58,000@nm@
+PA@nm@@nm@Irmã Adelaide@nm@68740971@nm@Castanhal@nm@Cariri@nm@Travessa @nm@@nm@
+PA@nm@@nm@Manoel Alves@nm@68741971@nm@Castanhal@nm@Agrovila Iracema@nm@Rua @nm@@nm@
+PA@nm@@nm@Presidente Getúlio Vargas@nm@68740973@nm@Castanhal@nm@Centro@nm@Avenida @nm@de 1964/1965 a 3096/3097@nm@
+PA@nm@@nm@Presidente Getúlio Vargas@nm@68740970@nm@Castanhal@nm@Centro@nm@Avenida @nm@de 1964/1965 a 3096/3097@nm@
+PA@nm@@nm@Antão Ferreira do Valle@nm@68180970@nm@Itaituba@nm@Bela Vista@nm@Rua @nm@@nm@
+PA@nm@@nm@Doutor Hugo de Mendonça@nm@68181971@nm@Itaituba@nm@Aeroporto Velho@nm@Avenida @nm@até 909/0910@nm@
+PA@nm@@nm@Doutor Hugo de Mendonça@nm@68181970@nm@Itaituba@nm@Aeroporto Velho@nm@Avenida @nm@até 909/0910@nm@
+PA@nm@@nm@Nossa Senhora do Bom Remédio@nm@68180971@nm@Itaituba@nm@Do Bom Remédio@nm@Avenida @nm@@nm@
+PA@nm@@nm@Antônio Maia@nm@68500970@nm@Marabá@nm@Velha Marabá@nm@Avenida @nm@@nm@
+PA@nm@@nm@Antônio Vilhena@nm@68501971@nm@Marabá@nm@Laranjeira@nm@Avenida @nm@@nm@
+PA@nm@@nm@Antônio Vilhena@nm@68501973@nm@Marabá@nm@Liberdade@nm@Avenida @nm@@nm@
+PA@nm@@nm@PA-150@nm@68506971@nm@Marabá@nm@Cidade Nova@nm@Rodovia @nm@@nm@
+PA@nm@@nm@São Francisco@nm@68501972@nm@Marabá@nm@Cidade Nova@nm@Avenida @nm@@nm@
+PA@nm@@nm@Três@nm@68508971@nm@Marabá@nm@Nova Marabá@nm@Quadra @nm@(Fl. 35)@nm@
+PA@nm@@nm@Três@nm@68508970@nm@Marabá@nm@Nova Marabá@nm@Quadra @nm@(Fl. 35)@nm@
+PA@nm@@nm@Célio Miranda@nm@68625970@nm@Paragominas@nm@Célio Miranda@nm@Praça @nm@@nm@
+PA@nm@@nm@Contorno@nm@68625972@nm@Paragominas@nm@Célio Miranda@nm@Avenida @nm@@nm@
+PA@nm@@nm@Portugal@nm@68626970@nm@Paragominas@nm@Célio Miranda@nm@Avenida @nm@@nm@
+PA@nm@@nm@Brasil@nm@68551971@nm@Redenção@nm@Novo Horizonte@nm@Avenida @nm@@nm@
+PA@nm@@nm@Brasil@nm@68551972@nm@Redenção@nm@Novo Horizonte@nm@Avenida @nm@@nm@
+PA@nm@@nm@Curuá-Una@nm@68045971@nm@Santarém@nm@Santa Clara@nm@Avenida @nm@até 585/586@nm@
+PA@nm@@nm@da Bandeira@nm@68005970@nm@Santarém@nm@Centro@nm@Praça @nm@@nm@
+PA@nm@@nm@Dom Frederico Costa@nm@68010970@nm@Santarém@nm@Santíssimo@nm@Avenida @nm@de 653/654 a 1576/1577@nm@
+PA@nm@@nm@Doutor Anísio Chaves@nm@68030971@nm@Santarém@nm@Jardim Santarém@nm@Avenida @nm@até 799/800@nm@
+PA@nm@@nm@Doutor Anísio Chaves@nm@68030970@nm@Santarém@nm@Jardim Santarém@nm@Avenida @nm@até 799/800@nm@
+PA@nm@@nm@Professor Antônio Carvalho@nm@68040970@nm@Santarém@nm@Fátima@nm@Travessa @nm@@nm@
+PA@nm@@nm@Santarém-Cuiabá@nm@68030973@nm@Santarém@nm@Matinha@nm@Rodovia @nm@do km 3,000 ao km 7,000@nm@
+PA@nm@@nm@B@nm@68455970@nm@Tucuruí@nm@Santa Mônica@nm@Avenida @nm@@nm@
+PA@nm@@nm@Dom Cornélio Vermans@nm@68458970@nm@Tucuruí@nm@Jaqueira@nm@Rua @nm@@nm@
+PA@nm@@nm@Gorotire@nm@68555970@nm@Xinguara@nm@Centro@nm@Rua @nm@até 644/645@nm@

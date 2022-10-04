@@ -1,0 +1,146 @@
+GO@nm@@nm@37@nm@72915970@nm@Águas Lindas de Goiás@nm@Jardim Brasília@nm@@nm@@nm@
+GO@nm@@nm@46 Conjunto A@nm@72910972@nm@Águas Lindas de Goiás@nm@Parque da Barragem Setor 08@nm@@nm@@nm@
+GO@nm@@nm@Brasil@nm@75020970@nm@Anápolis@nm@Setor Central@nm@Avenida @nm@@nm@
+GO@nm@@nm@dos Carreiros@nm@75113970@nm@Anápolis@nm@Jundiaí@nm@Rua @nm@@nm@
+GO@nm@@nm@Engenheiro Portela@nm@75024971@nm@Anápolis@nm@Setor Central@nm@Rua @nm@até 509/510@nm@
+GO@nm@@nm@Engenheiro Portela@nm@75024970@nm@Anápolis@nm@Setor Central@nm@Rua @nm@até 509/510@nm@
+GO@nm@@nm@Fernando Costa@nm@75064970@nm@Anápolis@nm@Vila Jayara@nm@Avenida @nm@até 1999 - lado ímpar@nm@
+GO@nm@@nm@H 18@nm@75080970@nm@Anápolis@nm@Cidade Jardim@nm@Rua @nm@@nm@
+GO@nm@@nm@Jamel Cecílio@nm@75114970@nm@Anápolis@nm@JK Nova Capital@nm@Avenida @nm@@nm@
+GO@nm@@nm@Tiradentes@nm@75043970@nm@Anápolis@nm@Setor Central@nm@Avenida @nm@até 2122 - lado par@nm@
+GO@nm@@nm@Bela Vista@nm@74921970@nm@Aparecida de Goiânia@nm@Parque Trindade@nm@Avenida @nm@@nm@
+GO@nm@@nm@da Igualdade@nm@74930971@nm@Aparecida de Goiânia@nm@Setor Garavelo@nm@Avenida @nm@@nm@
+GO@nm@@nm@Dom Abel Ribeiro@nm@74980970@nm@Aparecida de Goiânia@nm@Setor Central@nm@Avenida @nm@@nm@
+GO@nm@@nm@dos Democratas@nm@74932970@nm@Aparecida de Goiânia@nm@Garavelo Residencial Park@nm@Avenida @nm@@nm@
+GO@nm@@nm@Independência@nm@74970970@nm@Aparecida de Goiânia@nm@Cidade Livre@nm@Avenida @nm@@nm@
+GO@nm@@nm@Independência@nm@74968970@nm@Aparecida de Goiânia@nm@Residencial Village Garavelo@nm@Avenida @nm@@nm@
+GO@nm@@nm@Rio Verde@nm@74915971@nm@Aparecida de Goiânia@nm@Vila São Tomaz@nm@Avenida @nm@@nm@
+GO@nm@@nm@São João@nm@74916970@nm@Aparecida de Goiânia@nm@Jardim Nova Era@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905971@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905974@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905989@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905970@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905983@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905985@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905981@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905972@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905980@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@São Paulo@nm@74905973@nm@Aparecida de Goiânia@nm@Vila Brasília@nm@Avenida @nm@@nm@
+GO@nm@@nm@Capitão João Crisóstomo@nm@75680970@nm@Caldas Novas@nm@Centro@nm@Rua @nm@@nm@
+GO@nm@@nm@R@nm@75681970@nm@Caldas Novas@nm@Nova Vila@nm@Rua @nm@@nm@
+GO@nm@@nm@Coronel Afonso Paranhos@nm@75701975@nm@Catalão@nm@Setor Central@nm@Rua @nm@@nm@
+GO@nm@@nm@Cristiano Victor@nm@75703970@nm@Catalão@nm@São João@nm@Rua @nm@@nm@
+GO@nm@@nm@Doutor Pedro Ludovico@nm@75701972@nm@Catalão@nm@Setor Central@nm@Rua @nm@@nm@
+GO@nm@@nm@Raimundo Gomes de Oliveira@nm@75701970@nm@Catalão@nm@Setor Central@nm@Rua @nm@@nm@
+GO@nm@@nm@SQ 10 Quadra 8@nm@72880970@nm@Cidade Ocidental@nm@Centro@nm@@nm@@nm@
+GO@nm@@nm@Manoel Alves Ferreira@nm@73801971@nm@Formosa@nm@Centro@nm@Rua @nm@até 249/250@nm@
+GO@nm@@nm@Valeriano de Castro@nm@73801970@nm@Formosa@nm@Centro@nm@Avenida @nm@@nm@
+GO@nm@@nm@31 Sul@nm@76380970@nm@Goianésia@nm@Centro@nm@Rua @nm@até 651/652@nm@
+GO@nm@@nm@Goiás Norte@nm@76380971@nm@Goianésia@nm@Carrilho@nm@Avenida @nm@de 898 a 1480 - lado par@nm@
+GO@nm@@nm@214@nm@74645971@nm@Goiânia@nm@Setor Leste Vila Nova@nm@Rua @nm@@nm@
+GO@nm@@nm@231@nm@74535970@nm@Goiânia@nm@Setor Coimbra@nm@Rua @nm@@nm@
+GO@nm@@nm@250@nm@74533970@nm@Goiânia@nm@Setor Coimbra@nm@Rua @nm@até 669/670@nm@
+GO@nm@@nm@4@nm@74025972@nm@Goiânia@nm@Setor Central@nm@Rua @nm@até 624 - lado par@nm@
+GO@nm@@nm@4@nm@74025970@nm@Goiânia@nm@Setor Central@nm@Rua @nm@até 624 - lado par@nm@
+GO@nm@@nm@44@nm@74063970@nm@Goiânia@nm@Setor Central@nm@Rua @nm@@nm@
+GO@nm@@nm@6@nm@74560971@nm@Goiânia@nm@Setor Centro Oeste@nm@Rua @nm@@nm@
+GO@nm@@nm@6@nm@74435970@nm@Goiânia@nm@Aeroviário@nm@Rua @nm@@nm@
+GO@nm@@nm@84@nm@74080970@nm@Goiânia@nm@Setor Sul@nm@Rua @nm@@nm@
+GO@nm@@nm@85@nm@74223971@nm@Goiânia@nm@Setor Bueno@nm@Avenida @nm@@nm@
+GO@nm@@nm@Anhanguera@nm@74643970@nm@Goiânia@nm@Setor Leste Vila Nova@nm@Avenida @nm@de 3076 a 4214 - lado par@nm@
+GO@nm@@nm@Anhanguera@nm@74450970@nm@Goiânia@nm@Capuava@nm@Avenida @nm@de 11310 a 14404 - lado par@nm@
+GO@nm@@nm@Anhanguera@nm@74450971@nm@Goiânia@nm@Capuava@nm@Avenida @nm@de 11310 a 14404 - lado par@nm@
+GO@nm@@nm@Anhanguera@nm@74501970@nm@Goiânia@nm@Setor Campinas@nm@Avenida @nm@de 8033 a 8681 - lado ímpar@nm@
+GO@nm@@nm@C104@nm@74250970@nm@Goiânia@nm@Jardim América@nm@Avenida @nm@@nm@
+GO@nm@@nm@C118@nm@74255971@nm@Goiânia@nm@Jardim América@nm@Rua @nm@@nm@
+GO@nm@@nm@C12@nm@74305970@nm@Goiânia@nm@Setor Sudoeste@nm@Avenida @nm@@nm@
+GO@nm@@nm@C4@nm@74265970@nm@Goiânia@nm@Jardim América@nm@Avenida @nm@@nm@
+GO@nm@@nm@Canaã@nm@74705971@nm@Goiânia@nm@Jardim Novo Mundo@nm@Avenida @nm@@nm@
+GO@nm@@nm@Capitão Frazão@nm@74672970@nm@Goiânia@nm@Aeroporto Internacional Santa Genoveva@nm@Praça @nm@@nm@
+GO@nm@@nm@Central@nm@74465970@nm@Goiânia@nm@Jardim Nova Esperança@nm@Avenida @nm@@nm@
+GO@nm@@nm@César Lattes@nm@74363970@nm@Goiânia@nm@Setor Novo Horizonte@nm@Avenida @nm@@nm@
+GO@nm@@nm@Circular@nm@74823970@nm@Goiânia@nm@Setor Pedro Ludovico@nm@Avenida @nm@@nm@
+GO@nm@@nm@Contorno@nm@74850970@nm@Goiânia@nm@Jardim da Luz@nm@Alameda @nm@@nm@
+GO@nm@@nm@das Bandeiras@nm@74315970@nm@Goiânia@nm@Jardim Ana Lúcia@nm@Avenida @nm@@nm@
+GO@nm@@nm@Deputado Jamel Cecílio@nm@74810970@nm@Goiânia@nm@Jardim Goiás@nm@Avenida @nm@@nm@
+GO@nm@@nm@do Povo@nm@74480970@nm@Goiânia@nm@Vila Mutirão I@nm@Avenida @nm@@nm@
+GO@nm@@nm@dos Buritis@nm@74115970@nm@Goiânia@nm@Setor Oeste@nm@Alameda @nm@@nm@
+GO@nm@@nm@Doutor Pedro Ludovico Teixeira@nm@74001971@nm@Goiânia@nm@Setor Central@nm@Praça @nm@@nm@
+GO@nm@@nm@Doutor Pedro Ludovico Teixeira@nm@74001972@nm@Goiânia@nm@Setor Central@nm@Praça @nm@@nm@
+GO@nm@@nm@Doutor Pedro Ludovico Teixeira@nm@74001970@nm@Goiânia@nm@Setor Central@nm@Praça @nm@@nm@
+GO@nm@@nm@Esperança@nm@74690970@nm@Goiânia@nm@Campus Samambaia - UFG@nm@Avenida @nm@@nm@
+GO@nm@@nm@Faixa Verde@nm@74565971@nm@Goiânia@nm@Setor Urias Magalhães@nm@Rua @nm@@nm@
+GO@nm@@nm@Frei Confalloni@nm@74493970@nm@Goiânia@nm@Conjunto Vera Cruz@nm@Avenida @nm@@nm@
+GO@nm@@nm@GO-040@nm@74357970@nm@Goiânia@nm@Jardins Lisboa@nm@Rodovia @nm@do km 3,500 ao km 3,945@nm@
+GO@nm@@nm@Ipameri@nm@74525970@nm@Goiânia@nm@Setor Campinas@nm@Rua @nm@@nm@
+GO@nm@@nm@João de Abreu@nm@74120970@nm@Goiânia@nm@Setor Oeste@nm@Rua @nm@@nm@
+GO@nm@@nm@José Rodrigues de Morais Neto@nm@74835970@nm@Goiânia@nm@Parque Amazônia@nm@Avenida @nm@de 1/2 a 1847/1848@nm@
+GO@nm@@nm@Liberdade@nm@74730970@nm@Goiânia@nm@Conjunto Riviera@nm@Avenida @nm@@nm@
+GO@nm@@nm@Mangalô@nm@74475971@nm@Goiânia@nm@Setor Morada do Sol@nm@Avenida @nm@@nm@
+GO@nm@@nm@Marechal Rondon@nm@74560970@nm@Goiânia@nm@Setor Centro Oeste@nm@Avenida @nm@@nm@
+GO@nm@@nm@Mutirão@nm@74150972@nm@Goiânia@nm@Setor Marista@nm@Avenida @nm@@nm@
+GO@nm@@nm@Nápoli@nm@74367970@nm@Goiânia@nm@Residencial Eldorado@nm@Avenida @nm@@nm@
+GO@nm@@nm@Nero Macedo@nm@74423970@nm@Goiânia@nm@Cidade Jardim@nm@Avenida @nm@@nm@
+GO@nm@@nm@Nerópolis@nm@74593970@nm@Goiânia@nm@Parque das Nações@nm@Avenida @nm@@nm@
+GO@nm@@nm@Padre Monte@nm@74485970@nm@Goiânia@nm@Goiá@nm@Rua @nm@@nm@
+GO@nm@@nm@Padre Wendel@nm@74440970@nm@Goiânia@nm@Setor São José@nm@Avenida @nm@@nm@
+GO@nm@@nm@Paranaíba@nm@74020970@nm@Goiânia@nm@Setor Central@nm@Avenida @nm@de 1002/1003 a 1977/1978@nm@
+GO@nm@@nm@Pasteur@nm@74340970@nm@Goiânia@nm@Parque Anhanguera II@nm@Rua @nm@@nm@
+GO@nm@@nm@Pio XII@nm@74430970@nm@Goiânia@nm@Rodoviário@nm@Avenida @nm@@nm@
+GO@nm@@nm@Pires Fernandes@nm@74070970@nm@Goiânia@nm@Setor Aeroporto@nm@Avenida @nm@@nm@
+GO@nm@@nm@Quinta Avenida@nm@74645970@nm@Goiânia@nm@Setor Leste Vila Nova@nm@Avenida @nm@até 600 - lado par@nm@
+GO@nm@@nm@Santo Agostinho@nm@74330971@nm@Goiânia@nm@Jardim Europa@nm@Rua @nm@@nm@
+GO@nm@@nm@São Francisco@nm@74670970@nm@Goiânia@nm@Santa Genoveva@nm@Avenida @nm@até 797/798@nm@
+GO@nm@@nm@Senador Jaime@nm@74550970@nm@Goiânia@nm@Setor Centro Oeste@nm@Rua @nm@@nm@
+GO@nm@@nm@Senador Miguel Rocha Lima@nm@74660970@nm@Goiânia@nm@Setor Criméia Leste@nm@Rua @nm@@nm@
+GO@nm@@nm@Simon Bolívar@nm@74705970@nm@Goiânia@nm@Jardim Novo Mundo@nm@Avenida @nm@@nm@
+GO@nm@@nm@Sírios@nm@74475970@nm@Goiânia@nm@Setor Morada do Sol@nm@Rua @nm@@nm@
+GO@nm@@nm@Solar@nm@74565970@nm@Goiânia@nm@Setor Urias Magalhães@nm@Avenida @nm@@nm@
+GO@nm@@nm@T 10@nm@74210972@nm@Goiânia@nm@Setor Bueno@nm@Avenida @nm@@nm@
+GO@nm@@nm@T 10@nm@74223970@nm@Goiânia@nm@Setor Bueno@nm@Avenida @nm@@nm@
+GO@nm@@nm@T 13@nm@74823971@nm@Goiânia@nm@Setor Bela Vista@nm@Avenida @nm@@nm@
+GO@nm@@nm@T 4@nm@74230970@nm@Goiânia@nm@Setor Bueno@nm@Avenida @nm@de 1 a 99999 - lado ímpar@nm@
+GO@nm@@nm@T 4@nm@74210973@nm@Goiânia@nm@Setor Bueno@nm@Avenida @nm@de 1 a 99999 - lado ímpar@nm@
+GO@nm@@nm@T 9@nm@74333970@nm@Goiânia@nm@Jardim Planalto@nm@Avenida @nm@@nm@
+GO@nm@@nm@T 9@nm@74255970@nm@Goiânia@nm@Jardim América@nm@Avenida @nm@@nm@
+GO@nm@@nm@T 9@nm@74150970@nm@Goiânia@nm@Setor Marista@nm@Avenida @nm@@nm@
+GO@nm@@nm@T 9@nm@74330970@nm@Goiânia@nm@Jardim Europa@nm@Avenida @nm@@nm@
+GO@nm@@nm@Vera Cruz@nm@74675970@nm@Goiânia@nm@Jardim Guanabara@nm@Avenida @nm@@nm@
+GO@nm@@nm@Wilson Sales@nm@74280970@nm@Goiânia@nm@Nova Suiça@nm@Praça @nm@@nm@
+GO@nm@@nm@Afonso Pena@nm@75503971@nm@Itumbiara@nm@Centro@nm@Avenida @nm@@nm@
+GO@nm@@nm@Modesto de Carvalho@nm@75533970@nm@Itumbiara@nm@Vila Vitória I@nm@Avenida @nm@@nm@
+GO@nm@@nm@Osvaldo Cruz@nm@75513970@nm@Itumbiara@nm@Afonso Pena@nm@Avenida @nm@@nm@
+GO@nm@@nm@Paranaíba@nm@75503970@nm@Itumbiara@nm@Centro@nm@Rua @nm@@nm@
+GO@nm@@nm@Paranaíba@nm@75503973@nm@Itumbiara@nm@Centro@nm@Rua @nm@@nm@
+GO@nm@@nm@Rui de Almeida@nm@75503972@nm@Itumbiara@nm@Centro@nm@Rua @nm@@nm@
+GO@nm@@nm@Dorival de Carvalho@nm@75800971@nm@Jataí@nm@Centro@nm@Avenida @nm@@nm@
+GO@nm@@nm@Dorival de Carvalho@nm@75800972@nm@Jataí@nm@Centro@nm@Avenida @nm@@nm@
+GO@nm@@nm@Dorival de Carvalho@nm@75800970@nm@Jataí@nm@Centro@nm@Avenida @nm@@nm@
+GO@nm@@nm@Marechal Rondon@nm@75805970@nm@Jataí@nm@Setor Planalto@nm@Rua @nm@@nm@
+GO@nm@@nm@Alfredo Nasser@nm@72813970@nm@Luziânia@nm@Vila Juracy@nm@Avenida @nm@@nm@
+GO@nm@@nm@do Comércio@nm@72800970@nm@Luziânia@nm@Centro@nm@Rua @nm@(Comendador Germano Roriz)@nm@
+GO@nm@@nm@Lucena Roriz@nm@72850970@nm@Luziânia@nm@Jardim do Ingá@nm@Avenida @nm@@nm@
+GO@nm@@nm@Nilson Carneiro Lobo@nm@72850971@nm@Luziânia@nm@Jardim Jóckei Clube@nm@Praça @nm@@nm@
+GO@nm@@nm@Quadra 65@nm@72855970@nm@Luziânia@nm@Parque Industrial Mingone@nm@@nm@@nm@
+GO@nm@@nm@Quarta Avenida@nm@75830970@nm@Mineiros@nm@Centro@nm@Avenida @nm@@nm@
+GO@nm@@nm@Quadra 495@nm@72860970@nm@Novo Gama@nm@Parque Estrela Dalva VI (Pedregal)@nm@@nm@@nm@
+GO@nm@@nm@Quadra 96@nm@72865970@nm@Novo Gama@nm@Jardim Lago Azul@nm@@nm@@nm@
+GO@nm@@nm@Quadra 7@nm@73752970@nm@Planaltina@nm@Setor Leste@nm@@nm@@nm@
+GO@nm@@nm@Quadra 7@nm@73752971@nm@Planaltina@nm@Setor Leste@nm@@nm@@nm@
+GO@nm@@nm@10@nm@75907970@nm@Rio Verde@nm@Vila Promissão@nm@Rua @nm@@nm@
+GO@nm@@nm@75@nm@75903971@nm@Rio Verde@nm@Popular@nm@Avenida @nm@@nm@
+GO@nm@@nm@Abel Pereira de Castro@nm@75901970@nm@Rio Verde@nm@Setor Central@nm@Rua @nm@@nm@
+GO@nm@@nm@João Belo@nm@75903970@nm@Rio Verde@nm@Jardim Goiás@nm@Avenida @nm@@nm@
+GO@nm@@nm@Laudemiro José Bueno@nm@75901972@nm@Rio Verde@nm@Setor Central@nm@Rua @nm@@nm@
+GO@nm@@nm@Laudemiro José Bueno@nm@75901971@nm@Rio Verde@nm@Setor Central@nm@Rua @nm@@nm@
+GO@nm@@nm@Quadra 48@nm@72900970@nm@Santo Antônio do Descoberto@nm@Centro@nm@@nm@@nm@
+GO@nm@@nm@Aroeira@nm@75250973@nm@Senador Canedo@nm@Residencial Jardim Canedo@nm@Avenida @nm@@nm@
+GO@nm@@nm@Macaúbas@nm@75256970@nm@Senador Canedo@nm@Jardim das Oliveiras@nm@Avenida @nm@@nm@
+GO@nm@@nm@Progresso@nm@75250970@nm@Senador Canedo@nm@Conjunto Habitacional Jardim Sabiá@nm@Avenida @nm@@nm@
+GO@nm@@nm@Aleixo Antônio Alves@nm@75388972@nm@Trindade@nm@Centro@nm@Rua @nm@@nm@
+GO@nm@@nm@dos Araújos@nm@75388970@nm@Trindade@nm@Vila João Braz@nm@Rua @nm@@nm@
+GO@nm@@nm@Doutor Irany Ferreira@nm@75388971@nm@Trindade@nm@Centro@nm@Rua @nm@@nm@
+GO@nm@@nm@Elizabeth Marques@nm@75380973@nm@Trindade@nm@Setor Maysa@nm@Avenida @nm@@nm@
+GO@nm@@nm@Comercial@nm@72870972@nm@Valparaíso de Goiás@nm@Parque Rio Branco@nm@Avenida @nm@(Quadras 02,05,08,11)@nm@
+GO@nm@@nm@da BR-040@nm@72870971@nm@Valparaíso de Goiás@nm@Parque Rio Branco@nm@Rua @nm@(Quadras 01 e 02)@nm@
+GO@nm@@nm@Quadra 7@nm@72876970@nm@Valparaíso de Goiás@nm@Valparaiso I - Etapa A@nm@@nm@@nm@

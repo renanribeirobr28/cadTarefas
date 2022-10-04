@@ -1,0 +1,155 @@
+SC@nm@@nm@Geral Hercílio Luz@nm@88912970@nm@Araranguá@nm@Hercílio Luz (Hercílio Luz)@nm@Estrada @nm@@nm@
+SC@nm@@nm@Getúlio Vargas@nm@88900973@nm@Araranguá@nm@Centro@nm@Avenida @nm@até 865 - lado ímpar@nm@
+SC@nm@@nm@Getúlio Vargas@nm@88900970@nm@Araranguá@nm@Centro@nm@Avenida @nm@até 865 - lado ímpar@nm@
+SC@nm@@nm@Hipólito Manoel da Silva@nm@88910970@nm@Araranguá@nm@Sanga da Toca@nm@Rua @nm@@nm@
+SC@nm@@nm@Sete de Setembro@nm@88905970@nm@Araranguá@nm@Alto Feliz@nm@Avenida @nm@de 402 a 898 - lado par@nm@
+SC@nm@@nm@Valmiro Manoel Gonçalves@nm@88911970@nm@Araranguá@nm@Morro dos Conventos@nm@Rodovia @nm@de 4000/4001 ao fim@nm@
+SC@nm@@nm@600@nm@88330973@nm@Balneário Camboriú@nm@Centro@nm@Rua @nm@até 398/399@nm@
+SC@nm@@nm@600@nm@88330971@nm@Balneário Camboriú@nm@Centro@nm@Rua @nm@até 398/399@nm@
+SC@nm@@nm@Brasil@nm@88330970@nm@Balneário Camboriú@nm@Centro@nm@Avenida @nm@até 340/341@nm@
+SC@nm@@nm@7 de Setembro@nm@88160971@nm@Biguaçu@nm@Centro@nm@Rua @nm@até 517/518@nm@
+SC@nm@@nm@7 de Setembro@nm@88160970@nm@Biguaçu@nm@Centro@nm@Rua @nm@até 517/518@nm@
+SC@nm@@nm@Hermínio Silvy@nm@88168970@nm@Biguaçu@nm@Tijuquinhas (Guaporanga)@nm@Rua @nm@@nm@
+SC@nm@@nm@15 de Novembro@nm@89010974@nm@Blumenau@nm@Centro@nm@Rua @nm@até 900 - lado par@nm@
+SC@nm@@nm@Antônio Treis@nm@89015974@nm@Blumenau@nm@Vorstadt@nm@Rua @nm@@nm@
+SC@nm@@nm@Antônio Treis@nm@89015971@nm@Blumenau@nm@Vorstadt@nm@Rua @nm@@nm@
+SC@nm@@nm@Antônio Treis@nm@89015970@nm@Blumenau@nm@Vorstadt@nm@Rua @nm@@nm@
+SC@nm@@nm@Curt Hering@nm@89010971@nm@Blumenau@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Curt Hering@nm@89010970@nm@Blumenau@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@da Glória@nm@89025971@nm@Blumenau@nm@Glória@nm@Rua @nm@de 1241 ao fim - lado ímpar@nm@
+SC@nm@@nm@Dois de Setembro@nm@89052972@nm@Blumenau@nm@Itoupava Norte@nm@Rua @nm@até 805/806@nm@
+SC@nm@@nm@Doutor Pedro Zimmermann@nm@89068971@nm@Blumenau@nm@Itoupava Central@nm@Rua @nm@de 5004 a 6190 - lado par@nm@
+SC@nm@@nm@Frei Estanislau Schaette@nm@89037971@nm@Blumenau@nm@Água Verde@nm@Rua @nm@até 765 - lado ímpar@nm@
+SC@nm@@nm@Frei Estanislau Schaette@nm@89037970@nm@Blumenau@nm@Água Verde@nm@Rua @nm@até 765 - lado ímpar@nm@
+SC@nm@@nm@General Osório@nm@89041971@nm@Blumenau@nm@Velha@nm@Rua @nm@até 746 - lado par@nm@
+SC@nm@@nm@Josef Woerner@nm@89075970@nm@Blumenau@nm@Vila Itoupava@nm@Rua @nm@@nm@
+SC@nm@@nm@Paris@nm@89052971@nm@Blumenau@nm@Itoupava Norte@nm@Rua @nm@@nm@
+SC@nm@@nm@Pomerode@nm@89065970@nm@Blumenau@nm@Salto do Norte@nm@Rua @nm@até 1379/1380@nm@
+SC@nm@@nm@São Paulo@nm@89012971@nm@Blumenau@nm@Victor Konder@nm@Rua @nm@de 122 a 1372 - lado par@nm@
+SC@nm@@nm@Sete de Setembro@nm@89012972@nm@Blumenau@nm@Centro@nm@Rua @nm@de 255 a 673 - lado ímpar@nm@
+SC@nm@@nm@Sete de Setembro@nm@89010975@nm@Blumenau@nm@Centro@nm@Rua @nm@de 255 a 673 - lado ímpar@nm@
+SC@nm@@nm@Bepe Roza@nm@88354972@nm@Brusque@nm@Jardim Maluche@nm@Avenida @nm@de 3000/3001 ao fim@nm@
+SC@nm@@nm@Bepe Roza@nm@88354970@nm@Brusque@nm@Jardim Maluche@nm@Avenida @nm@de 3000/3001 ao fim@nm@
+SC@nm@@nm@Lauro Muller@nm@88353970@nm@Brusque@nm@Centro II@nm@Avenida @nm@@nm@
+SC@nm@@nm@Tecelões de Lodz@nm@88352971@nm@Brusque@nm@Santa Rita@nm@Rua @nm@@nm@
+SC@nm@@nm@Barão do Rio Branco@nm@89500970@nm@Caçador@nm@Centro@nm@Avenida @nm@até 365 - lado ímpar@nm@
+SC@nm@@nm@Barão do Rio Branco@nm@89500972@nm@Caçador@nm@Centro@nm@Avenida @nm@até 365 - lado ímpar@nm@
+SC@nm@@nm@Carlos Sperança@nm@89500973@nm@Caçador@nm@Centro@nm@Rua @nm@lado par@nm@
+SC@nm@@nm@José Francisco Bernardes@nm@88340970@nm@Camboriú@nm@Centro@nm@Rua @nm@de 411/412 a 708/709@nm@
+SC@nm@@nm@Francisco de Paula Pereira@nm@89460970@nm@Canoinhas@nm@Centro@nm@Rua @nm@até 518/519@nm@
+SC@nm@@nm@Francisco de Paula Pereira@nm@89460972@nm@Canoinhas@nm@Centro@nm@Rua @nm@até 518/519@nm@
+SC@nm@@nm@Coronel Bertaso@nm@89801970@nm@Chapecó@nm@Centro@nm@Praça @nm@@nm@
+SC@nm@@nm@Manoel Gregório Mattos@nm@89816970@nm@Chapecó@nm@Centro (Marechal Bormann)@nm@Rua @nm@@nm@
+SC@nm@@nm@Rui Barbosa - E@nm@89801971@nm@Chapecó@nm@Centro@nm@Rua @nm@até 627/628@nm@
+SC@nm@@nm@Rui Barbosa - E@nm@89801974@nm@Chapecó@nm@Centro@nm@Rua @nm@até 627/628@nm@
+SC@nm@@nm@Senador Attilio Francisco Xavier Fontana - E@nm@89809970@nm@Chapecó@nm@Efapi@nm@Avenida @nm@de 2566/2567 a 3319/3320@nm@
+SC@nm@@nm@Adolfo Konder@nm@89700970@nm@Concórdia@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Adolfo Konder@nm@89700973@nm@Concórdia@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Doutor Maruri@nm@89700972@nm@Concórdia@nm@Centro@nm@Rua @nm@até 647 - lado ímpar@nm@
+SC@nm@@nm@Centenário@nm@88802971@nm@Criciúma@nm@Centro@nm@Avenida @nm@até 9999 - lado ímpar@nm@
+SC@nm@@nm@Centenário@nm@88802970@nm@Criciúma@nm@Centro@nm@Avenida @nm@até 9999 - lado ímpar@nm@
+SC@nm@@nm@Centenário@nm@88802972@nm@Criciúma@nm@Centro@nm@Avenida @nm@até 9999 - lado ímpar@nm@
+SC@nm@@nm@General Osvaldo Pinto da Veiga@nm@88813971@nm@Criciúma@nm@Próspera@nm@Rua @nm@de 102/103 a 738/739@nm@
+SC@nm@@nm@Getúlio Vargas@nm@88801970@nm@Criciúma@nm@Centro@nm@Avenida @nm@@nm@
+SC@nm@@nm@João Rosso@nm@88812970@nm@Criciúma@nm@Quarta Linha@nm@Rua @nm@@nm@
+SC@nm@@nm@Marechal Floriano Peixoto@nm@88801973@nm@Criciúma@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Miguel Napoli@nm@88818970@nm@Criciúma@nm@Vila Isabel@nm@Rua @nm@@nm@
+SC@nm@@nm@Ruy Barbosa@nm@88801974@nm@Criciúma@nm@Centro@nm@Avenida @nm@@nm@
+SC@nm@@nm@Álvaro de Carvalho@nm@88010975@nm@Florianópolis@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Armando Calil Bulos@nm@88058970@nm@Florianópolis@nm@Ingleses do Rio Vermelho@nm@Rodovia @nm@@nm@
+SC@nm@@nm@Armando Calil Bulos@nm@88058971@nm@Florianópolis@nm@Ingleses do Rio Vermelho@nm@Rodovia @nm@@nm@
+SC@nm@@nm@Bocaiúva@nm@88015973@nm@Florianópolis@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Bocaiúva@nm@88015975@nm@Florianópolis@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Deputado Diomício Freitas@nm@88047972@nm@Florianópolis@nm@Carianos@nm@Avenida @nm@até 482/483@nm@
+SC@nm@@nm@Deputado Diomício Freitas@nm@88047973@nm@Florianópolis@nm@Carianos@nm@Avenida @nm@até 482/483@nm@
+SC@nm@@nm@dos Ilhéus@nm@88010976@nm@Florianópolis@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Governador Irineu Bornhausen@nm@88025970@nm@Florianópolis@nm@Agronômica@nm@Avenida @nm@até 3601/3602@nm@
+SC@nm@@nm@Governador Ivo Silveira@nm@88085970@nm@Florianópolis@nm@Capoeiras@nm@Avenida @nm@de 801/802 a 1959/1960@nm@
+SC@nm@@nm@Henrique Véra do Nascimento@nm@88062970@nm@Florianópolis@nm@Lagoa da Conceição@nm@Rua @nm@@nm@
+SC@nm@@nm@Hercílio Luz@nm@88020970@nm@Florianópolis@nm@Centro@nm@Avenida @nm@até 759/760@nm@
+SC@nm@@nm@João Câncio Jacques@nm@88047971@nm@Florianópolis@nm@Costeira do Pirajubaé@nm@Rua @nm@até 1184/1185@nm@
+SC@nm@@nm@José Rosa@nm@88054972@nm@Florianópolis@nm@Canasvieiras@nm@Rua @nm@@nm@
+SC@nm@@nm@Lauro Linhares@nm@88036972@nm@Florianópolis@nm@Trindade@nm@Rua @nm@até 559/560@nm@
+SC@nm@@nm@Luiz Boiteux Piazza@nm@88054971@nm@Florianópolis@nm@Ponta das Canas@nm@Avenida @nm@de 3541/3542 a 5969/5970@nm@
+SC@nm@@nm@Madre Benvenuta@nm@88035970@nm@Florianópolis@nm@Santa Mônica@nm@Avenida @nm@de 0522/523 a 1583/1584@nm@
+SC@nm@@nm@Niberto Haase@nm@88035971@nm@Florianópolis@nm@Santa Mônica@nm@Rua @nm@@nm@
+SC@nm@@nm@Nossa Senhora do Rosário@nm@88095971@nm@Florianópolis@nm@Jardim Atlântico@nm@Rua @nm@@nm@
+SC@nm@@nm@Nossa Senhora do Rosário@nm@88095970@nm@Florianópolis@nm@Jardim Atlântico@nm@Rua @nm@@nm@
+SC@nm@@nm@Quinze de Novembro@nm@88010970@nm@Florianópolis@nm@Centro@nm@Praça @nm@@nm@
+SC@nm@@nm@Rio Branco@nm@88015976@nm@Florianópolis@nm@Centro@nm@Avenida @nm@até 532 - lado par@nm@
+SC@nm@@nm@Rio Branco@nm@88015974@nm@Florianópolis@nm@Centro@nm@Avenida @nm@até 532 - lado par@nm@
+SC@nm@@nm@Roberto Sampaio Gonzaga@nm@88040970@nm@Florianópolis@nm@Trindade@nm@Rua @nm@@nm@
+SC@nm@@nm@Santos Saraiva@nm@88070972@nm@Florianópolis@nm@Estreito@nm@Rua @nm@@nm@
+SC@nm@@nm@Anfiloquio Nunes Pires@nm@89111970@nm@Gaspar@nm@Bela Vista@nm@Rua @nm@de 4011 a 4305 - lado ímpar@nm@
+SC@nm@@nm@Bonifacio Haendchen@nm@89117970@nm@Gaspar@nm@Belchior Alto@nm@Rua @nm@lado par@nm@
+SC@nm@@nm@Coronel Aristiliano Ramos@nm@89110970@nm@Gaspar@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+SC@nm@@nm@Manoel Simão@nm@89082970@nm@Indaial@nm@Nações@nm@Avenida @nm@@nm@
+SC@nm@@nm@Antônio Heil@nm@88318970@nm@Itajaí@nm@Arraial dos Cunhas@nm@Rodovia @nm@de 6001 a 11999 - lado ímpar@nm@
+SC@nm@@nm@Camboriú@nm@88301970@nm@Itajaí@nm@Fazenda@nm@Rua @nm@de 433/434 ao fim@nm@
+SC@nm@@nm@Francisco Reis@nm@88311970@nm@Itajaí@nm@Cordeiros@nm@Rua @nm@até 648/649@nm@
+SC@nm@@nm@Heitor Liberato@nm@88304973@nm@Itajaí@nm@São João@nm@Rua @nm@de 926 ao fim - lado par@nm@
+SC@nm@@nm@Heitor Liberato@nm@88304972@nm@Itajaí@nm@São Judas@nm@Rua @nm@de 941 ao fim - lado ímpar@nm@
+SC@nm@@nm@Carlos Frederico Ramthum@nm@89267970@nm@Jaraguá do Sul@nm@Santa Luzia@nm@Rua @nm@@nm@
+SC@nm@@nm@Domingos Sanson@nm@89256971@nm@Jaraguá do Sul@nm@Vila Lalau@nm@Rua @nm@@nm@
+SC@nm@@nm@Leopoldo Mahnke@nm@89251972@nm@Jaraguá do Sul@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Padre Francken@nm@89251970@nm@Jaraguá do Sul@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Walter Marquardt@nm@89259971@nm@Jaraguá do Sul@nm@Barra do Rio Molha@nm@Rua @nm@de 554/555 a 1499/1500@nm@
+SC@nm@@nm@Albano Schmidt@nm@89205970@nm@Joinville@nm@Boa Vista@nm@Rua @nm@até 1579 - lado ímpar@nm@
+SC@nm@@nm@Coelho Neto@nm@89221972@nm@Joinville@nm@Saguaçu@nm@Rua @nm@até 248/249@nm@
+SC@nm@@nm@Coronel Francisco Gomes@nm@89202974@nm@Joinville@nm@Bucarein@nm@Rua @nm@até 618/619@nm@
+SC@nm@@nm@Emílio Landmann@nm@89226970@nm@Joinville@nm@Aventureiro@nm@Rua @nm@@nm@
+SC@nm@@nm@Florianópolis@nm@89210971@nm@Joinville@nm@Itaum@nm@Rua @nm@de 2 a 678 - lado par@nm@
+SC@nm@@nm@Guilherme@nm@89218972@nm@Joinville@nm@Costa e Silva@nm@Rua @nm@lado par@nm@
+SC@nm@@nm@Jacob Richlin@nm@89201974@nm@Joinville@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Luiz Niemeyer@nm@89201971@nm@Joinville@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Monsenhor Gercino@nm@89210970@nm@Joinville@nm@Itaum@nm@Rua @nm@de 216 a 1300 - lado par@nm@
+SC@nm@@nm@Monsenhor Gercino@nm@89210972@nm@Joinville@nm@Itaum@nm@Rua @nm@de 216 a 1300 - lado par@nm@
+SC@nm@@nm@Padre Kolb@nm@89202975@nm@Joinville@nm@Bucarein@nm@Rua @nm@até 1327 - lado ímpar@nm@
+SC@nm@@nm@Padre Kolb@nm@89202971@nm@Joinville@nm@Bucarein@nm@Rua @nm@até 1327 - lado ímpar@nm@
+SC@nm@@nm@Papa João XXIII@nm@89227971@nm@Joinville@nm@Iririú@nm@Rua @nm@até 946/947@nm@
+SC@nm@@nm@Papa João XXIII@nm@89227972@nm@Joinville@nm@Iririú@nm@Rua @nm@até 946/947@nm@
+SC@nm@@nm@Presidente Vargas@nm@89239971@nm@Joinville@nm@Pirabeiraba (Pirabeiraba)@nm@Rua @nm@@nm@
+SC@nm@@nm@Princesa Izabel@nm@89201970@nm@Joinville@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@Timbó@nm@89204971@nm@Joinville@nm@América@nm@Rua @nm@até 1628/1629@nm@
+SC@nm@@nm@Belisário Ramos@nm@88502971@nm@Lages@nm@Centro@nm@Avenida @nm@de 2864 a 4078 - lado par@nm@
+SC@nm@@nm@Coronel Córdova@nm@88502970@nm@Lages@nm@Centro@nm@Rua @nm@até 463/464@nm@
+SC@nm@@nm@Hercílio Luz@nm@88501971@nm@Lages@nm@Centro@nm@Rua @nm@de 501/502 ao fim@nm@
+SC@nm@@nm@Humberto de Campos@nm@88508970@nm@Lages@nm@Sagrado Coração de Jesus@nm@Rua @nm@até 1135/1136@nm@
+SC@nm@@nm@Luiz de Camões@nm@88523971@nm@Lages@nm@Coral@nm@Avenida @nm@até 1369/1370@nm@
+SC@nm@@nm@Marechal Floriano Peixoto@nm@89300970@nm@Mafra@nm@Centro I Baixada@nm@Rua @nm@até 448/449@nm@
+SC@nm@@nm@Marechal Floriano Peixoto@nm@89300971@nm@Mafra@nm@Centro I Baixada@nm@Rua @nm@até 448/449@nm@
+SC@nm@@nm@João Sacavem@nm@88370972@nm@Navegantes@nm@Centro@nm@Avenida @nm@até 588/589@nm@
+SC@nm@@nm@João Sacavem@nm@88370971@nm@Navegantes@nm@Centro@nm@Avenida @nm@até 588/589@nm@
+SC@nm@@nm@Aderbal Ramos da Silva@nm@88139970@nm@Palhoça@nm@Pinheira (Ens Brito)@nm@Rodovia @nm@@nm@
+SC@nm@@nm@Aniceto Zacchi@nm@88131972@nm@Palhoça@nm@Ponte do Imaruim@nm@Avenida @nm@até 298/299@nm@
+SC@nm@@nm@Antônio José Guarezi@nm@88133970@nm@Palhoça@nm@Jardim Eldorado@nm@Servidão @nm@@nm@
+SC@nm@@nm@Antônio José Guarezi@nm@88133971@nm@Palhoça@nm@Jardim Eldorado@nm@Servidão @nm@@nm@
+SC@nm@@nm@Barão do Rio Branco@nm@88130970@nm@Palhoça@nm@Centro@nm@Avenida @nm@lado par@nm@
+SC@nm@@nm@Raulino Steinmetz@nm@88131971@nm@Palhoça@nm@Centro@nm@Rua @nm@@nm@
+SC@nm@@nm@7 de Setembro@nm@89160970@nm@Rio do Sul@nm@Centro@nm@Avenida @nm@até 251/252@nm@
+SC@nm@@nm@Aristiliano Ramos@nm@89160973@nm@Rio do Sul@nm@Centro@nm@Alameda @nm@até 193/194@nm@
+SC@nm@@nm@Oscar Barcelos@nm@89160971@nm@Rio do Sul@nm@Centro@nm@Avenida @nm@@nm@
+SC@nm@@nm@José Linzmeyer@nm@89285970@nm@São Bento do Sul@nm@Oxford@nm@Rua @nm@@nm@
+SC@nm@@nm@Marechal Deodoro@nm@89280971@nm@São Bento do Sul@nm@Centro@nm@Rua @nm@lado par@nm@
+SC@nm@@nm@Visconde de Taunay@nm@89280970@nm@São Bento do Sul@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+SC@nm@@nm@Gerônimo Medeiros@nm@88106970@nm@São José@nm@Flor de Nápolis@nm@Rua @nm@@nm@
+SC@nm@@nm@Gerônimo Medeiros@nm@88106971@nm@São José@nm@Flor de Nápolis@nm@Rua @nm@@nm@
+SC@nm@@nm@Ivo José de Souza@nm@88123970@nm@São José@nm@Colônia Santana@nm@Rua @nm@@nm@
+SC@nm@@nm@Lédio João Martins@nm@88102971@nm@São José@nm@Kobrasol@nm@Avenida @nm@até 720 - lado par@nm@
+SC@nm@@nm@Leoberto Leal@nm@88117972@nm@São José@nm@Barreiros@nm@Avenida @nm@de 807 ao fim - lado ímpar@nm@
+SC@nm@@nm@Osvaldo Corrêa de Andrade@nm@88110978@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110972@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110979@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110970@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110976@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110975@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110986@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110971@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Romeu José Vieira@nm@88110977@nm@São José@nm@Nossa Senhora do Rosário@nm@Rua @nm@@nm@
+SC@nm@@nm@Altamiro Guimarães@nm@88701972@nm@Tubarão@nm@Oficinas@nm@Rua @nm@de 927 a 1499 - lado ímpar@nm@
+SC@nm@@nm@Antônio Hulse@nm@88704972@nm@Tubarão@nm@Humaitá@nm@Rua @nm@de 423/424 a 847/848@nm@
+SC@nm@@nm@Coronel Cabral@nm@88701970@nm@Tubarão@nm@Centro@nm@Rua @nm@até 510/511@nm@
+SC@nm@@nm@Expedicionário José Pedro Coelho@nm@88704971@nm@Tubarão@nm@Humaitá@nm@Avenida @nm@de 0797/798 a 1158/1159@nm@
+SC@nm@@nm@Marcolino Martins Cabral@nm@88701974@nm@Tubarão@nm@Centro@nm@Avenida @nm@de 1017/1018 a 1453/1454@nm@
+SC@nm@@nm@Pedro Andreazza@nm@89560972@nm@Videira@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+SC@nm@@nm@Pedro Andreazza@nm@89560970@nm@Videira@nm@Centro@nm@Rua @nm@lado ímpar@nm@

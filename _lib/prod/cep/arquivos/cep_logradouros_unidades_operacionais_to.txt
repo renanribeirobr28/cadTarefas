@@ -1,0 +1,26 @@
+TO@nm@@nm@1º de Janeiro@nm@77807970@nm@Araguaína@nm@São João@nm@Rua @nm@de 1813/1814 a 2435/2436@nm@
+TO@nm@@nm@Ademar Vicente Ferreira@nm@77804970@nm@Araguaína@nm@Setor Central@nm@Rua @nm@até 897/898@nm@
+TO@nm@@nm@Gaúcha@nm@77823970@nm@Araguaína@nm@Setor Central@nm@Rua @nm@@nm@
+TO@nm@@nm@Gaúcha@nm@77804975@nm@Araguaína@nm@Setor Central@nm@Rua @nm@@nm@
+TO@nm@@nm@Prefeito João de Souza Lima@nm@77807971@nm@Araguaína@nm@São João@nm@Rua @nm@@nm@
+TO@nm@@nm@Santos Dumont@nm@77818971@nm@Araguaína@nm@Loteamento Manoel Gomes da Cunha@nm@Avenida @nm@@nm@
+TO@nm@@nm@Maranhão@nm@77410971@nm@Gurupi@nm@Setor Central@nm@Avenida @nm@@nm@
+TO@nm@@nm@Ministro Alfredo Nasser@nm@77402975@nm@Gurupi@nm@Setor Central@nm@Rua @nm@até 1198/1199@nm@
+TO@nm@@nm@Ministro Alfredo Nasser@nm@77402970@nm@Gurupi@nm@Setor Central@nm@Rua @nm@até 1198/1199@nm@
+TO@nm@@nm@Ministro Alfredo Nasser@nm@77402973@nm@Gurupi@nm@Setor Central@nm@Rua @nm@até 1198/1199@nm@
+TO@nm@@nm@Ministro Alfredo Nasser@nm@77402971@nm@Gurupi@nm@Setor Central@nm@Rua @nm@até 1198/1199@nm@
+TO@nm@@nm@Rio Grande do Sul@nm@77403970@nm@Gurupi@nm@Setor Central@nm@Avenida @nm@@nm@
+TO@nm@@nm@101 Sul Rua NS A@nm@77015972@nm@Palmas@nm@Plano Diretor Sul@nm@@nm@@nm@
+TO@nm@@nm@104 Norte Rua NE 9@nm@77006971@nm@Palmas@nm@Plano Diretor Norte@nm@@nm@@nm@
+TO@nm@@nm@104 Sul Avenida Juscelino Kubitschek@nm@77020970@nm@Palmas@nm@Plano Diretor Sul@nm@@nm@@nm@
+TO@nm@@nm@11@nm@77064970@nm@Palmas@nm@Centro (Taquaralto)@nm@Rua @nm@@nm@
+TO@nm@@nm@1106 Sul Avenida LO 27@nm@77024971@nm@Palmas@nm@Plano Diretor Sul@nm@@nm@@nm@
+TO@nm@@nm@20@nm@77089980@nm@Palmas@nm@Taquarussu@nm@Rua @nm@@nm@
+TO@nm@@nm@201 Norte Avenida Joaquim Teotônio Segurado@nm@77001970@nm@Palmas@nm@Plano Diretor Norte@nm@@nm@@nm@
+TO@nm@@nm@201 Norte Avenida Joaquim Teotônio Segurado@nm@77001972@nm@Palmas@nm@Plano Diretor Norte@nm@@nm@@nm@
+TO@nm@@nm@604 Sul Avenida LO 15@nm@77022971@nm@Palmas@nm@Plano Diretor Sul@nm@@nm@@nm@
+TO@nm@@nm@812 Sul Alameda 3@nm@77023970@nm@Palmas@nm@Plano Diretor Sul@nm@@nm@@nm@
+TO@nm@@nm@AV 107 Norte Avenida Juscelino Kubitschek@nm@77001974@nm@Palmas@nm@Plano Diretor Norte@nm@@nm@@nm@
+TO@nm@@nm@Brasília@nm@77060970@nm@Palmas@nm@Jardim Aureny I@nm@Praça @nm@@nm@
+TO@nm@@nm@Joaquim Teotônio Segurado@nm@77061970@nm@Palmas@nm@Plano Diretor Expansão Sul@nm@Avenida @nm@@nm@
+TO@nm@@nm@Manoel Ferreira Leite@nm@77090970@nm@Palmas@nm@Buritirana@nm@Rua @nm@@nm@

@@ -1,0 +1,234 @@
+RS@nm@@nm@Venâncio Aires@nm@97541970@nm@Alegrete@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+RS@nm@@nm@Visconde de Tamandaré@nm@97541973@nm@Alegrete@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@José Lins do Rego@nm@94800971@nm@Alvorada@nm@Maria Regina@nm@Rua @nm@@nm@
+RS@nm@@nm@Presidente Getúlio Vargas@nm@94810970@nm@Alvorada@nm@Bela Vista@nm@Avenida @nm@até 1834/1835@nm@
+RS@nm@@nm@Roberto de Souza Feijó@nm@94801970@nm@Alvorada@nm@Maringá@nm@Rua @nm@@nm@
+RS@nm@@nm@General Osório@nm@96401970@nm@Bagé@nm@Centro@nm@Avenida @nm@de 1300/1301 a 2498/2499@nm@
+RS@nm@@nm@General Osório@nm@96400970@nm@Bagé@nm@Centro@nm@Avenida @nm@de 1300/1301 a 2498/2499@nm@
+RS@nm@@nm@Sete de Setembro@nm@96400972@nm@Bagé@nm@Centro@nm@Avenida @nm@lado par@nm@
+RS@nm@@nm@Emilio Pozza@nm@95707970@nm@Bento Gonçalves@nm@Maria Goretti@nm@Rua @nm@@nm@
+RS@nm@@nm@Francisco Ferrari@nm@95703970@nm@Bento Gonçalves@nm@Barracão@nm@Rua @nm@@nm@
+RS@nm@@nm@General Osório@nm@95700970@nm@Bento Gonçalves@nm@Centro@nm@Rua @nm@até 399 - lado ímpar@nm@
+RS@nm@@nm@São Roque@nm@95708970@nm@Bento Gonçalves@nm@São Roque@nm@Avenida @nm@de 810/811 a 1498/1499@nm@
+RS@nm@@nm@Visconde de São Gabriel@nm@95700972@nm@Bento Gonçalves@nm@Cidade Alta@nm@Rua @nm@@nm@
+RS@nm@@nm@Barão de Viamão@nm@96503970@nm@Cachoeira do Sul@nm@Ponche Verde@nm@Rua @nm@até 1048/1049@nm@
+RS@nm@@nm@Barão de Viamão@nm@96503971@nm@Cachoeira do Sul@nm@São José@nm@Rua @nm@de 1050/1051 a 1348/1349@nm@
+RS@nm@@nm@Saldanha Marinho@nm@96508970@nm@Cachoeira do Sul@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+RS@nm@@nm@das Indústrias@nm@94930970@nm@Cachoeirinha@nm@Distrito Industrial@nm@Avenida @nm@(Cruzeiro)@nm@
+RS@nm@@nm@General Flores da Cunha@nm@94901970@nm@Cachoeirinha@nm@Vila Imbui@nm@Avenida @nm@de 1159/1160 a 1677/1678@nm@
+RS@nm@@nm@General Flores da Cunha@nm@94910970@nm@Cachoeirinha@nm@Vila Santo Ângelo@nm@Avenida @nm@até 735/0736@nm@
+RS@nm@@nm@Mario Tavares Haussem@nm@94935971@nm@Cachoeirinha@nm@City@nm@Avenida @nm@@nm@
+RS@nm@@nm@Araújo Lima@nm@92010974@nm@Canoas@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Araújo Lima@nm@92010973@nm@Canoas@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Guilherme Schell@nm@92200970@nm@Canoas@nm@Rio Branco@nm@Avenida @nm@de 1101/1102 a 2119/2120@nm@
+RS@nm@@nm@Major Sezefredo@nm@92020970@nm@Canoas@nm@Marechal Rondon@nm@Rua @nm@@nm@
+RS@nm@@nm@Marechal Rondon@nm@92110971@nm@Canoas@nm@Niterói@nm@Rua @nm@@nm@
+RS@nm@@nm@Quinze de Janeiro@nm@92010975@nm@Canoas@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Quinze de Janeiro@nm@92010970@nm@Canoas@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Santos Ferreira@nm@92025970@nm@Canoas@nm@Nossa Senhora das Graças@nm@Avenida @nm@de 601 a 1399 - lado ímpar@nm@
+RS@nm@@nm@Alaor Irani Rocha@nm@95041970@nm@Caxias do Sul@nm@São José@nm@Rua @nm@@nm@
+RS@nm@@nm@Arthur Perottoni@nm@95115970@nm@Caxias do Sul@nm@Forqueta@nm@Avenida @nm@@nm@
+RS@nm@@nm@Bom Pastor@nm@95096970@nm@Caxias do Sul@nm@Kayser@nm@Avenida @nm@@nm@
+RS@nm@@nm@General Sampaio@nm@95097970@nm@Caxias do Sul@nm@Rio Branco@nm@Rua @nm@@nm@
+RS@nm@@nm@Hércules Gallo@nm@95090970@nm@Caxias do Sul@nm@Galópolis@nm@Rua @nm@@nm@
+RS@nm@@nm@Irma Valiera@nm@95020971@nm@Caxias do Sul@nm@São Pelegrino@nm@Rua @nm@@nm@
+RS@nm@@nm@Moreira César@nm@95034971@nm@Caxias do Sul@nm@Pio X@nm@Rua @nm@@nm@
+RS@nm@@nm@Moreira César@nm@95034970@nm@Caxias do Sul@nm@Pio X@nm@Rua @nm@@nm@
+RS@nm@@nm@Os Dezoito do Forte@nm@95020974@nm@Caxias do Sul@nm@Nossa Senhora de Lourdes@nm@Rua @nm@até 115/116@nm@
+RS@nm@@nm@Rafael Rossi@nm@95084971@nm@Caxias do Sul@nm@Nossa Senhora de Lourdes@nm@Rua @nm@@nm@
+RS@nm@@nm@Rio Branco@nm@95010970@nm@Caxias do Sul@nm@São Pelegrino@nm@Avenida @nm@até 959/960@nm@
+RS@nm@@nm@Rio Branco@nm@95060970@nm@Caxias do Sul@nm@Ana Rech@nm@Avenida @nm@@nm@
+RS@nm@@nm@Sinimbu@nm@95020970@nm@Caxias do Sul@nm@Nossa Senhora de Lourdes@nm@Rua @nm@até 1020/1021@nm@
+RS@nm@@nm@Sinimbu@nm@95020972@nm@Caxias do Sul@nm@Nossa Senhora de Lourdes@nm@Rua @nm@até 1020/1021@nm@
+RS@nm@@nm@Vereador Mário Pezzi@nm@95084970@nm@Caxias do Sul@nm@Exposição@nm@Rua @nm@@nm@
+RS@nm@@nm@Wilson Drago Fantinel@nm@95112970@nm@Caxias do Sul@nm@Cidade Nova@nm@Rua @nm@@nm@
+RS@nm@@nm@Wilson Drago Fantinel@nm@95112971@nm@Caxias do Sul@nm@Cidade Nova@nm@Rua @nm@@nm@
+RS@nm@@nm@Duque de Caxias@nm@98005972@nm@Cruz Alta@nm@Centro@nm@Rua @nm@de 211/212 a 1123/1124@nm@
+RS@nm@@nm@General Câmara@nm@98005973@nm@Cruz Alta@nm@Centro@nm@Avenida @nm@@nm@
+RS@nm@@nm@General Osório@nm@98005970@nm@Cruz Alta@nm@Centro@nm@Avenida @nm@até 1649/1650@nm@
+RS@nm@@nm@Argentina@nm@99700976@nm@Erechim@nm@Centro@nm@Rua @nm@até 538/539@nm@
+RS@nm@@nm@Itália@nm@99700977@nm@Erechim@nm@Centro@nm@Rua @nm@até 209 - lado ímpar@nm@
+RS@nm@@nm@Nelson Ehlers@nm@99700970@nm@Erechim@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Sete de Setembro@nm@99700972@nm@Erechim@nm@Centro@nm@Avenida @nm@até 529 - lado ímpar@nm@
+RS@nm@@nm@Portão@nm@93600971@nm@Estância Velha@nm@Centro@nm@Rua @nm@até 449/450@nm@
+RS@nm@@nm@Portão@nm@93600970@nm@Estância Velha@nm@Centro@nm@Rua @nm@até 449/450@nm@
+RS@nm@@nm@Bento Gonçalves@nm@93265970@nm@Esteio@nm@São Sebastião@nm@Rua @nm@@nm@
+RS@nm@@nm@Fernando Ferrari@nm@93260970@nm@Esteio@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Presidente Vargas@nm@93260971@nm@Esteio@nm@Centro@nm@Avenida @nm@de 891/892 a 1747/1748@nm@
+RS@nm@@nm@Carlos Fetter@nm@95170972@nm@Farroupilha@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Coronel Pena de Moraes@nm@95170971@nm@Farroupilha@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@João Cônego Cordeiro@nm@95175980@nm@Farroupilha@nm@São Marcos@nm@Rua @nm@@nm@
+RS@nm@@nm@Alexandrino de Alencar@nm@94090971@nm@Gravataí@nm@Morada do Vale I@nm@Rua @nm@@nm@
+RS@nm@@nm@Anápio Gomes@nm@94010970@nm@Gravataí@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+RS@nm@@nm@Doutor Luiz Bastos do Prado@nm@94010971@nm@Gravataí@nm@Centro@nm@Rua @nm@lado ímpar@nm@
+RS@nm@@nm@RS-020@nm@94090970@nm@Gravataí@nm@Vera Cruz@nm@Rodovia @nm@até 4000/4001@nm@
+RS@nm@@nm@Santa Clara@nm@94010972@nm@Gravataí@nm@Santa Fé@nm@Rua @nm@@nm@
+RS@nm@@nm@Coronel Serafim Silva@nm@92704970@nm@Guaíba@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Santa Catarina@nm@92705970@nm@Guaíba@nm@Parque 35@nm@Rua @nm@até 369 - lado ímpar@nm@
+RS@nm@@nm@Benjamin Constant@nm@95900970@nm@Lajeado@nm@Centro@nm@Avenida @nm@até 769 - lado ímpar@nm@
+RS@nm@@nm@dos Quinze@nm@95900972@nm@Lajeado@nm@Florestal@nm@Avenida @nm@@nm@
+RS@nm@@nm@dos Quinze@nm@95900976@nm@Lajeado@nm@Florestal@nm@Avenida @nm@@nm@
+RS@nm@@nm@Senador Alberto Pasqualini@nm@95913970@nm@Lajeado@nm@São Cristóvão@nm@Avenida @nm@de 1101 a 2059 - lado ímpar@nm@
+RS@nm@@nm@Bartolomeu de Gusmão@nm@93542970@nm@Novo Hamburgo@nm@Canudos@nm@Rua @nm@até 1199/1200@nm@
+RS@nm@@nm@BR-116@nm@93310970@nm@Novo Hamburgo@nm@Liberdade@nm@Rodovia @nm@@nm@
+RS@nm@@nm@João Aloysio Algayer@nm@93490971@nm@Novo Hamburgo@nm@Lomba Grande@nm@Rua @nm@@nm@
+RS@nm@@nm@Pedro Adams Filho@nm@93320970@nm@Novo Hamburgo@nm@Centro@nm@Avenida @nm@de 4821 a 5089 - lado ímpar@nm@
+RS@nm@@nm@Pedro Adams Filho@nm@93301970@nm@Novo Hamburgo@nm@Centro@nm@Avenida @nm@de 4821 a 5089 - lado ímpar@nm@
+RS@nm@@nm@Pedro Adams Filho@nm@93332970@nm@Novo Hamburgo@nm@Ouro Branco@nm@Avenida @nm@de 2201 a 2639 - lado ímpar@nm@
+RS@nm@@nm@Victor Hugo Kunz@nm@93534971@nm@Novo Hamburgo@nm@Hamburgo Velho@nm@Avenida @nm@até 1379/1380@nm@
+RS@nm@@nm@Victor Hugo Kunz@nm@93511970@nm@Novo Hamburgo@nm@Hamburgo Velho@nm@Avenida @nm@até 1379/1380@nm@
+RS@nm@@nm@Arcidino Oliveira Santos@nm@99051970@nm@Passo Fundo@nm@Petrópolis@nm@Rua @nm@@nm@
+RS@nm@@nm@Brasil Leste@nm@99050970@nm@Passo Fundo@nm@Petrópolis@nm@Avenida @nm@até 251 - lado ímpar@nm@
+RS@nm@@nm@Brasil Leste@nm@99050971@nm@Passo Fundo@nm@Petrópolis@nm@Avenida @nm@até 251 - lado ímpar@nm@
+RS@nm@@nm@Brasil Oeste@nm@99025970@nm@Passo Fundo@nm@Boqueirão@nm@Avenida @nm@de 1451 a 2099 - lado ímpar@nm@
+RS@nm@@nm@Capitão Eleutério@nm@99010970@nm@Passo Fundo@nm@Centro@nm@Rua @nm@até 1020/1021@nm@
+RS@nm@@nm@Doutor Mário Braga Júnior@nm@99062970@nm@Passo Fundo@nm@Planaltina@nm@Rua @nm@@nm@
+RS@nm@@nm@Morom@nm@99001970@nm@Passo Fundo@nm@Centro@nm@Rua @nm@até 1130/1131@nm@
+RS@nm@@nm@Presidente Vargas@nm@99070970@nm@Passo Fundo@nm@Vila Rodrigues@nm@Avenida @nm@até 2614/2615@nm@
+RS@nm@@nm@Bento Gonçalves@nm@96015972@nm@Pelotas@nm@Centro@nm@Avenida @nm@de 2994 a 4590 - lado par@nm@
+RS@nm@@nm@Duque de Caxias@nm@96030970@nm@Pelotas@nm@Fragata@nm@Avenida @nm@até 500 - lado par@nm@
+RS@nm@@nm@Fernando Osório@nm@96050970@nm@Pelotas@nm@Três Vendas@nm@Avenida @nm@de 1300 a 2388 - lado par@nm@
+RS@nm@@nm@General Osório@nm@96020970@nm@Pelotas@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Padre Anchieta@nm@96010970@nm@Pelotas@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Presidente João Belchior Marques Goulart@nm@96040970@nm@Pelotas@nm@Fragata@nm@Avenida @nm@@nm@
+RS@nm@@nm@Principal@nm@99678970@nm@Pelotas@nm@Distrito Ponte Cordeiro de Farias@nm@Rua @nm@@nm@
+RS@nm@@nm@Tiradentes@nm@96010971@nm@Pelotas@nm@Centro@nm@Rua @nm@de 1392 ao fim - lado par@nm@
+RS@nm@@nm@Vinte de Setembro@nm@96015974@nm@Pelotas@nm@Centro@nm@Praça @nm@@nm@
+RS@nm@@nm@Vinte de Setembro@nm@96015975@nm@Pelotas@nm@Centro@nm@Praça @nm@@nm@
+RS@nm@@nm@Vinte de Setembro@nm@96015973@nm@Pelotas@nm@Centro@nm@Praça @nm@@nm@
+RS@nm@@nm@Alexandrino de Alencar@nm@90160970@nm@Porto Alegre@nm@Azenha@nm@Travessa @nm@@nm@
+RS@nm@@nm@Antônio Joaquim Mesquita@nm@91350970@nm@Porto Alegre@nm@Passo da Areia@nm@Rua @nm@@nm@
+RS@nm@@nm@Arabutan@nm@90240970@nm@Porto Alegre@nm@Navegantes@nm@Rua @nm@@nm@
+RS@nm@@nm@Assis Brasil@nm@91010971@nm@Porto Alegre@nm@Cristo Redentor@nm@Avenida @nm@de 1999 a 2899 - lado ímpar@nm@
+RS@nm@@nm@Baltazar de Oliveira Garcia@nm@91130974@nm@Porto Alegre@nm@Sarandi@nm@Avenida @nm@até 1600 - lado par@nm@
+RS@nm@@nm@Baltazar de Oliveira Garcia@nm@91130973@nm@Porto Alegre@nm@Sarandi@nm@Avenida @nm@até 1601 - lado ímpar@nm@
+RS@nm@@nm@Barão do Amazonas@nm@90670970@nm@Porto Alegre@nm@Petrópolis@nm@Rua @nm@de 0670 a 1298 - lado par@nm@
+RS@nm@@nm@Barro Vermelho@nm@91790970@nm@Porto Alegre@nm@Restinga@nm@Estrada @nm@@nm@
+RS@nm@@nm@Benjamin Constant@nm@90540970@nm@Porto Alegre@nm@São João@nm@Avenida @nm@de 601 a 1301 - lado ímpar@nm@
+RS@nm@@nm@Bento Gonçalves@nm@90650970@nm@Porto Alegre@nm@Partenon@nm@Avenida @nm@até 2162 - lado par@nm@
+RS@nm@@nm@Bento Gonçalves@nm@90651970@nm@Porto Alegre@nm@Partenon@nm@Avenida @nm@até 2161 - lado ímpar@nm@
+RS@nm@@nm@Bento Gonçalves@nm@91501970@nm@Porto Alegre@nm@Agronomia@nm@Avenida @nm@de 4594/4595 ao fim@nm@
+RS@nm@@nm@Bento Gonçalves@nm@91540970@nm@Porto Alegre@nm@Agronomia@nm@Avenida @nm@de 4594/4595 ao fim@nm@
+RS@nm@@nm@Borges de Medeiros@nm@90111970@nm@Porto Alegre@nm@Praia de Belas@nm@Avenida @nm@de 1263/1264 ao fim@nm@
+RS@nm@@nm@Camaquã@nm@90870971@nm@Porto Alegre@nm@Camaquã@nm@Rua @nm@@nm@
+RS@nm@@nm@Camaquã@nm@91910971@nm@Porto Alegre@nm@Camaquã@nm@Rua @nm@@nm@
+RS@nm@@nm@Carlos Gomes@nm@90480970@nm@Porto Alegre@nm@Boa Vista@nm@Avenida @nm@até 830 - lado par@nm@
+RS@nm@@nm@Coronel Bordini@nm@90441970@nm@Porto Alegre@nm@Auxiliadora@nm@Rua @nm@até 545 - lado ímpar@nm@
+RS@nm@@nm@Cristóvão Colombo@nm@90560970@nm@Porto Alegre@nm@Floresta@nm@Avenida @nm@até 792 - lado par@nm@
+RS@nm@@nm@da Cavalhada@nm@91920970@nm@Porto Alegre@nm@Cavalhada@nm@Avenida @nm@até 4993 - lado ímpar@nm@
+RS@nm@@nm@Demétrio Ribeiro@nm@90010971@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@até 928 - lado par@nm@
+RS@nm@@nm@do Forte@nm@91360970@nm@Porto Alegre@nm@Vila Ipiranga@nm@Avenida @nm@de 895/896 ao fim@nm@
+RS@nm@@nm@dos Andradas@nm@90020970@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@até 419/420@nm@
+RS@nm@@nm@dos Andradas@nm@90020971@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@de 1000 a 1190 - lado par@nm@
+RS@nm@@nm@Doutor Carlos Barbosa@nm@90880971@nm@Porto Alegre@nm@Medianeira@nm@Avenida @nm@lado ímpar@nm@
+RS@nm@@nm@Doutor Heinzelmann@nm@90230973@nm@Porto Alegre@nm@Navegantes@nm@Travessa @nm@@nm@
+RS@nm@@nm@Eduardo Prado@nm@91751970@nm@Porto Alegre@nm@Cavalhada@nm@Avenida @nm@@nm@
+RS@nm@@nm@Engenheiro Ubatuba de Faria@nm@91130972@nm@Porto Alegre@nm@Sarandi@nm@Rua @nm@@nm@
+RS@nm@@nm@Eudoro Berlink@nm@90450970@nm@Porto Alegre@nm@Auxiliadora@nm@Rua @nm@@nm@
+RS@nm@@nm@Farrapos@nm@90220971@nm@Porto Alegre@nm@São Geraldo@nm@Avenida @nm@de 2006 a 3504 - lado par@nm@
+RS@nm@@nm@França@nm@90230970@nm@Porto Alegre@nm@Navegantes@nm@Avenida @nm@@nm@
+RS@nm@@nm@General Lima e Silva@nm@90050970@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@até 868 - lado par@nm@
+RS@nm@@nm@Getúlio Vargas@nm@90150970@nm@Porto Alegre@nm@Menino Deus@nm@Avenida @nm@de 1083 ao fim - lado ímpar@nm@
+RS@nm@@nm@Giordano Bruno@nm@90420970@nm@Porto Alegre@nm@Rio Branco@nm@Rua @nm@@nm@
+RS@nm@@nm@Goethe@nm@90430970@nm@Porto Alegre@nm@Rio Branco@nm@Avenida @nm@@nm@
+RS@nm@@nm@Guido Mondin@nm@90231970@nm@Porto Alegre@nm@São Geraldo@nm@Avenida @nm@@nm@
+RS@nm@@nm@Independência@nm@90035970@nm@Porto Alegre@nm@Independência@nm@Avenida @nm@até 0400 - lado par@nm@
+RS@nm@@nm@Independência@nm@90035972@nm@Porto Alegre@nm@Independência@nm@Avenida @nm@até 0400 - lado par@nm@
+RS@nm@@nm@Ipiranga@nm@90610970@nm@Porto Alegre@nm@Praia de Belas@nm@Avenida @nm@até 1073 - lado ímpar@nm@
+RS@nm@@nm@Jari@nm@91350971@nm@Porto Alegre@nm@Passo da Areia@nm@Rua @nm@@nm@
+RS@nm@@nm@João Antônio Silveira@nm@91791970@nm@Porto Alegre@nm@Restinga@nm@Avenida @nm@de 550 a 1048 - lado par@nm@
+RS@nm@@nm@José do Patrocínio@nm@90050972@nm@Porto Alegre@nm@Cidade Baixa@nm@Rua @nm@até 411 - lado ímpar@nm@
+RS@nm@@nm@Juca Batista@nm@91770971@nm@Porto Alegre@nm@Cavalhada@nm@Avenida @nm@até 2498 - lado par@nm@
+RS@nm@@nm@Loureiro da Silva@nm@90010974@nm@Porto Alegre@nm@Centro Histórico@nm@Avenida @nm@até 1000/1001@nm@
+RS@nm@@nm@Manoelito de Ornellas@nm@90110971@nm@Porto Alegre@nm@Praia de Belas@nm@Rua @nm@@nm@
+RS@nm@@nm@Marechal Floriano Peixoto@nm@90010970@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@lado ímpar@nm@
+RS@nm@@nm@Natal@nm@90810970@nm@Porto Alegre@nm@Medianeira@nm@Avenida @nm@@nm@
+RS@nm@@nm@Otto Niemeyer@nm@91910970@nm@Porto Alegre@nm@Tristeza@nm@Avenida @nm@até 441/442@nm@
+RS@nm@@nm@Padre Henrique Koehler@nm@90200970@nm@Porto Alegre@nm@Anchieta@nm@Travessa @nm@@nm@
+RS@nm@@nm@Praia de Belas@nm@90110970@nm@Porto Alegre@nm@Praia de Belas@nm@Avenida @nm@lado ímpar@nm@
+RS@nm@@nm@Presidente Franklin Roosevelt@nm@90230971@nm@Porto Alegre@nm@Navegantes@nm@Avenida @nm@até 375/376@nm@
+RS@nm@@nm@Professor Oscar Pereira@nm@90631970@nm@Porto Alegre@nm@Azenha@nm@Avenida @nm@até 1387/1388@nm@
+RS@nm@@nm@Protásio Alves@nm@91311970@nm@Porto Alegre@nm@Rio Branco@nm@Avenida @nm@de 1079 a 1729 - lado ímpar@nm@
+RS@nm@@nm@Protásio Alves@nm@90410970@nm@Porto Alegre@nm@Rio Branco@nm@Avenida @nm@de 1079 a 1729 - lado ímpar@nm@
+RS@nm@@nm@Protásio Alves@nm@90410973@nm@Porto Alegre@nm@Rio Branco@nm@Avenida @nm@de 1079 a 1729 - lado ímpar@nm@
+RS@nm@@nm@Protásio Alves@nm@91310971@nm@Porto Alegre@nm@Petrópolis@nm@Avenida @nm@de 2937 a 3699 - lado ímpar@nm@
+RS@nm@@nm@Saturnino de Brito@nm@91320970@nm@Porto Alegre@nm@Vila Jardim@nm@Avenida @nm@até 1251/1252@nm@
+RS@nm@@nm@Sertório@nm@91060971@nm@Porto Alegre@nm@São Sebastião@nm@Avenida @nm@de 5602 a 6500 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040973@nm@Porto Alegre@nm@Navegantes@nm@Avenida @nm@de 2002 a 3600 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040970@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040984@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040974@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040983@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040982@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040985@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040980@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040972@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040986@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sertório@nm@91040971@nm@Porto Alegre@nm@Jardim São Pedro@nm@Avenida @nm@de 3602 a 5000 - lado par@nm@
+RS@nm@@nm@Sete de Abril@nm@90220975@nm@Porto Alegre@nm@Floresta@nm@Rua @nm@@nm@
+RS@nm@@nm@Sete de Setembro@nm@90010972@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@até 998/999@nm@
+RS@nm@@nm@Severo Dullius@nm@90200971@nm@Porto Alegre@nm@Anchieta@nm@Avenida @nm@@nm@
+RS@nm@@nm@Siqueira Campos@nm@90012970@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@de 0946/947 ao fim@nm@
+RS@nm@@nm@Siqueira Campos@nm@90010980@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@de 0946/947 ao fim@nm@
+RS@nm@@nm@Siqueira Campos@nm@90010975@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@de 0946/947 ao fim@nm@
+RS@nm@@nm@Siqueira Campos@nm@90001970@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@até 944/945@nm@
+RS@nm@@nm@Siqueira Campos@nm@90010979@nm@Porto Alegre@nm@Centro Histórico@nm@Rua @nm@de 0946/947 ao fim@nm@
+RS@nm@@nm@Teresópolis@nm@90870970@nm@Porto Alegre@nm@Teresópolis@nm@Avenida @nm@lado par@nm@
+RS@nm@@nm@Venâncio Aires@nm@90041970@nm@Porto Alegre@nm@Farroupilha@nm@Avenida @nm@de 356 ao fim - lado par@nm@
+RS@nm@@nm@Vespasiano Júlio Veppo@nm@90035974@nm@Porto Alegre@nm@Centro Histórico@nm@Largo @nm@@nm@
+RS@nm@@nm@Vinte e Cinco de Julho@nm@91031970@nm@Porto Alegre@nm@Santa Maria Goretti@nm@Rua @nm@@nm@
+RS@nm@@nm@Vinte e Um de Abril@nm@91120970@nm@Porto Alegre@nm@Sarandi@nm@Avenida @nm@@nm@
+RS@nm@@nm@Wenceslau Escobar@nm@91901970@nm@Porto Alegre@nm@Cristal@nm@Avenida @nm@até 3253/3254@nm@
+RS@nm@@nm@da Paz@nm@96224970@nm@Rio Grande@nm@Povo Novo@nm@Avenida @nm@@nm@
+RS@nm@@nm@Itália@nm@96200974@nm@Rio Grande@nm@Carreiros@nm@Avenida @nm@de 1750/1751 ao fim@nm@
+RS@nm@@nm@Itália@nm@96203970@nm@Rio Grande@nm@Carreiros@nm@Avenida @nm@de 1750/1751 ao fim@nm@
+RS@nm@@nm@João Moreira@nm@96222970@nm@Rio Grande@nm@Quinta@nm@Rua @nm@de 451 ao fim - lado ímpar@nm@
+RS@nm@@nm@Marechal Floriano Peixoto@nm@96200970@nm@Rio Grande@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Rio Grande@nm@96207970@nm@Rio Grande@nm@Cassino@nm@Avenida @nm@até 99/100@nm@
+RS@nm@@nm@Borges de Medeiros@nm@96810971@nm@Santa Cruz do Sul@nm@Centro@nm@Rua @nm@até 639/640@nm@
+RS@nm@@nm@Ernesto Alves@nm@96810972@nm@Santa Cruz do Sul@nm@Centro@nm@Rua @nm@até 508/509@nm@
+RS@nm@@nm@Pereira da Cunha@nm@96835970@nm@Santa Cruz do Sul@nm@Ana Nery@nm@Rua @nm@@nm@
+RS@nm@@nm@Venâncio Aires@nm@96810970@nm@Santa Cruz do Sul@nm@Centro@nm@Rua @nm@até 508/509@nm@
+RS@nm@@nm@BR-287@nm@97060970@nm@Santa Maria@nm@Cerrito@nm@Rodovia @nm@do km 239,631 ao km 241,599 - lado ímpar@nm@
+RS@nm@@nm@Doutor Turi@nm@97050973@nm@Santa Maria@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Euclides da Cunha@nm@97050971@nm@Santa Maria@nm@Presidente João Goulart@nm@Rua @nm@de 802 a 1744 - lado par@nm@
+RS@nm@@nm@Presidente Vargas@nm@97020970@nm@Santa Maria@nm@Patronato@nm@Avenida @nm@(Lado impar até 655)@nm@
+RS@nm@@nm@Roraima@nm@97105970@nm@Santa Maria@nm@Camobi@nm@Avenida @nm@@nm@
+RS@nm@@nm@RST-509@nm@97110970@nm@Santa Maria@nm@Pé de Plátano@nm@Rodovia @nm@do km 5,000 ao fim@nm@
+RS@nm@@nm@Serafim Valandro@nm@97015970@nm@Santa Maria@nm@Centro@nm@Rua @nm@até 732/733@nm@
+RS@nm@@nm@Venâncio Aires@nm@97010970@nm@Santa Maria@nm@Centro@nm@Rua @nm@até 1312 - lado par@nm@
+RS@nm@@nm@Venâncio Aires@nm@97017970@nm@Santa Maria@nm@Centro@nm@Rua @nm@até 1312 - lado par@nm@
+RS@nm@@nm@Caxias@nm@98780971@nm@Santa Rosa@nm@Centro@nm@Rua @nm@até 799/800@nm@
+RS@nm@@nm@da Bandeira@nm@98780972@nm@Santa Rosa@nm@Centro@nm@Praça @nm@@nm@
+RS@nm@@nm@Rio Branco@nm@98780970@nm@Santa Rosa@nm@Centro@nm@Avenida @nm@até 309 - lado ímpar@nm@
+RS@nm@@nm@Manduca Rodrigues@nm@97573972@nm@Santana do Livramento@nm@Centro@nm@Rua @nm@até 1153/1154@nm@
+RS@nm@@nm@Rivadávia Corrêa@nm@97573970@nm@Santana do Livramento@nm@Centro@nm@Rua @nm@até 850 - lado par@nm@
+RS@nm@@nm@Vasco Alves@nm@97573971@nm@Santana do Livramento@nm@Centro@nm@Rua @nm@até 1123/1124@nm@
+RS@nm@@nm@Florêncio de Abreu@nm@98804970@nm@Santo Ângelo@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Três de Outubro@nm@98801970@nm@Santo Ângelo@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Três de Outubro@nm@98801971@nm@Santo Ângelo@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Coronel Soares@nm@97300970@nm@São Gabriel@nm@Centro@nm@Rua @nm@até 399/400@nm@
+RS@nm@@nm@Maurício Cardoso@nm@97300971@nm@São Gabriel@nm@Centro@nm@Rua @nm@até 529 - lado ímpar@nm@
+RS@nm@@nm@Doutor João Dutra@nm@93010971@nm@São Leopoldo@nm@Rio Branco@nm@Rua @nm@@nm@
+RS@nm@@nm@Feitoria@nm@93040970@nm@São Leopoldo@nm@Rio Branco@nm@Avenida @nm@até 983 - lado ímpar@nm@
+RS@nm@@nm@Marquês do Herval@nm@93010970@nm@São Leopoldo@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Pinto Bandeira@nm@93121970@nm@São Leopoldo@nm@Scharlau@nm@Rua @nm@@nm@
+RS@nm@@nm@São Joaquim@nm@93001970@nm@São Leopoldo@nm@Centro@nm@Rua @nm@até 1529/1530@nm@
+RS@nm@@nm@São Joaquim@nm@93017970@nm@São Leopoldo@nm@Centro@nm@Rua @nm@até 1529/1530@nm@
+RS@nm@@nm@Unisinos@nm@93022970@nm@São Leopoldo@nm@São João Batista@nm@Avenida @nm@@nm@
+RS@nm@@nm@João Corrêa@nm@93800973@nm@Sapiranga@nm@Centro@nm@Avenida @nm@de 301 a 961 - lado ímpar@nm@
+RS@nm@@nm@Tiradentes@nm@93800972@nm@Sapiranga@nm@Centro@nm@Rua @nm@até 399 - lado ímpar@nm@
+RS@nm@@nm@Vera Cruz@nm@93800970@nm@Sapiranga@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Leônidas de Souza@nm@93210970@nm@Sapucaia do Sul@nm@Silva@nm@Avenida @nm@@nm@
+RS@nm@@nm@Nossa Senhora das Graças@nm@93220971@nm@Sapucaia do Sul@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Rio Branco@nm@95600972@nm@Taquara@nm@Jardim do Prado@nm@Rua @nm@de 1641/1642 a 1999/2000@nm@
+RS@nm@@nm@Tristão Monteiro@nm@95600970@nm@Taquara@nm@Centro@nm@Rua @nm@de 751/752 a 1249/1250@nm@
+RS@nm@@nm@General João Manoel@nm@97501971@nm@Uruguaiana@nm@Centro@nm@Rua @nm@de 2221/2222 a 2549/2550@nm@
+RS@nm@@nm@Presidente Getúlio Vargas@nm@97501974@nm@Uruguaiana@nm@Centro@nm@Avenida @nm@de 2241 a 2549 - lado ímpar@nm@
+RS@nm@@nm@Quinze de Novembro@nm@97501970@nm@Uruguaiana@nm@Centro@nm@Rua @nm@de 1642 a 2100 - lado par@nm@
+RS@nm@@nm@Borges de Medeiros@nm@95200970@nm@Vacaria@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Farroupilha@nm@95210970@nm@Vacaria@nm@Cristina@nm@Rua @nm@de 201/202 a 599/600@nm@
+RS@nm@@nm@Isabel Bastos@nm@94410970@nm@Viamão@nm@Centro@nm@Rua @nm@@nm@
+RS@nm@@nm@Liberdade@nm@94480970@nm@Viamão@nm@Santa Isabel@nm@Avenida @nm@@nm@
+RS@nm@@nm@Liberdade@nm@94480971@nm@Viamão@nm@Santa Isabel@nm@Avenida @nm@@nm@
+RS@nm@@nm@Senador Salgado Filho@nm@94440970@nm@Viamão@nm@Krahe@nm@Avenida @nm@de 09230/9231 a 10176/10177@nm@

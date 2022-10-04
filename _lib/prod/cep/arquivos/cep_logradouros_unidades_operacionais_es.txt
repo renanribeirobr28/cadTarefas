@@ -1,0 +1,107 @@
+ES@nm@@nm@16 de Dezembro@nm@29199971@nm@Aracruz@nm@Santa Cruz@nm@Rua @nm@@nm@
+ES@nm@@nm@Antônio Roza de Jesus@nm@29197970@nm@Aracruz@nm@Barra do Riacho@nm@Estrada @nm@@nm@
+ES@nm@@nm@Avencas@nm@29199970@nm@Aracruz@nm@Coqueiral@nm@Rua @nm@@nm@
+ES@nm@@nm@Brasiliano Pereira@nm@29198970@nm@Aracruz@nm@Barra do Sahy@nm@Rua @nm@@nm@
+ES@nm@@nm@Gabriel Pandolf@nm@29195970@nm@Aracruz@nm@Guaraná@nm@Avenida @nm@@nm@
+ES@nm@@nm@Patriarca Albino Azeredo@nm@29197971@nm@Aracruz@nm@Barra do Riacho@nm@Rua @nm@@nm@
+ES@nm@@nm@Pedro Souza@nm@29196970@nm@Aracruz@nm@Jacupemba@nm@Rua @nm@@nm@
+ES@nm@@nm@Presidente Castelo Branco@nm@29190971@nm@Aracruz@nm@Bela Vista@nm@Avenida @nm@@nm@
+ES@nm@@nm@Presidente Castelo Branco@nm@29192970@nm@Aracruz@nm@Bela Vista@nm@Avenida @nm@@nm@
+ES@nm@@nm@Quintino Loureiro@nm@29190970@nm@Aracruz@nm@Centro@nm@Rua @nm@@nm@
+ES@nm@@nm@Santa Rosa-Santa Cruz@nm@29190973@nm@Aracruz@nm@Santa Cruz@nm@Estrada @nm@@nm@
+ES@nm@@nm@São Benedito@nm@29197972@nm@Aracruz@nm@Vila do Riacho@nm@Rua @nm@@nm@
+ES@nm@@nm@Alcebíades Sarmento@nm@29300971@nm@Cachoeiro de Itapemirim@nm@Doutor Luiz Tinoco da Fonseca@nm@Rua @nm@@nm@
+ES@nm@@nm@Doutor Hugo Zago Filho@nm@29300973@nm@Cachoeiro de Itapemirim@nm@Santo Antônio@nm@Rua @nm@@nm@
+ES@nm@@nm@Jerônimo Monteiro@nm@29300970@nm@Cachoeiro de Itapemirim@nm@Centro@nm@Praça @nm@@nm@
+ES@nm@@nm@Jones dos Santos Neves@nm@29311970@nm@Cachoeiro de Itapemirim@nm@Agostinho Simonato@nm@Avenida @nm@@nm@
+ES@nm@@nm@Dezenove@nm@29157970@nm@Cariacica@nm@Nova Rosa da Penha@nm@Rua @nm@@nm@
+ES@nm@@nm@Expedito Garcia@nm@29146972@nm@Cariacica@nm@Campo Grande@nm@Avenida @nm@lado ímpar@nm@
+ES@nm@@nm@Governador José Henrique Sette@nm@29150970@nm@Cariacica@nm@Itacibá@nm@Rodovia @nm@@nm@
+ES@nm@@nm@Manoel Joaquim dos Santos@nm@29150971@nm@Cariacica@nm@Itacibá@nm@Rua @nm@@nm@
+ES@nm@@nm@Mário Gurgel@nm@29147970@nm@Cariacica@nm@Dom Bosco@nm@Avenida @nm@@nm@
+ES@nm@@nm@São Francisco@nm@29145971@nm@Cariacica@nm@São Francisco@nm@Rua @nm@@nm@
+ES@nm@@nm@São João@nm@29156970@nm@Cariacica@nm@Cariacica Sede@nm@Rua @nm@@nm@
+ES@nm@@nm@Adwalter Ribeiro Soares@nm@29700973@nm@Colatina@nm@Centro@nm@Rua @nm@@nm@
+ES@nm@@nm@Getúlio Vargas@nm@29700970@nm@Colatina@nm@Centro@nm@Avenida @nm@até 315 - lado ímpar@nm@
+ES@nm@@nm@José Zon@nm@29700971@nm@Colatina@nm@Maria das Graças@nm@Rua @nm@@nm@
+ES@nm@@nm@Sílvio Avidos@nm@29703973@nm@Colatina@nm@São Silvano@nm@Avenida @nm@de 380 a 818 - lado par@nm@
+ES@nm@@nm@Custódio Gonçalves dos Santos@nm@29200970@nm@Guarapari@nm@Centro@nm@Travessa @nm@@nm@
+ES@nm@@nm@Ewerson de Abreu Sodré@nm@29215973@nm@Guarapari@nm@Muquiçaba@nm@Avenida @nm@@nm@
+ES@nm@@nm@Olívio Antônio Novaes@nm@29200971@nm@Guarapari@nm@Praia do Morro@nm@Rua @nm@@nm@
+ES@nm@@nm@Padre José de Anchieta@nm@29216970@nm@Guarapari@nm@Aeroporto@nm@Avenida @nm@@nm@
+ES@nm@@nm@Rio Calçado-Baia Nova@nm@29227984@nm@Guarapari@nm@Rio Calçado@nm@Estrada @nm@@nm@
+ES@nm@@nm@Benevenuto Zorzanelli@nm@29913970@nm@Linhares@nm@Bebedouro@nm@Avenida @nm@@nm@
+ES@nm@@nm@Cerejeira@nm@29904970@nm@Linhares@nm@Movelar@nm@Avenida @nm@até 886 - lado par@nm@
+ES@nm@@nm@Geraldo Bobbio@nm@29911971@nm@Linhares@nm@Guaxe@nm@Avenida @nm@@nm@
+ES@nm@@nm@Governador Mário Covas@nm@29913971@nm@Linhares@nm@Rio Quartel@nm@Rodovia @nm@@nm@
+ES@nm@@nm@João Soprani@nm@29911970@nm@Linhares@nm@Farias@nm@Avenida @nm@@nm@
+ES@nm@@nm@Lagoa do Aguiar@nm@29913972@nm@Linhares@nm@Baixo Quartel@nm@Rodovia @nm@@nm@
+ES@nm@@nm@Nestor Gomes@nm@29900970@nm@Linhares@nm@Centro@nm@Praça @nm@@nm@
+ES@nm@@nm@Prefeito Samuel Batista Cruz@nm@29900973@nm@Linhares@nm@Nossa Senhora da Conceição@nm@Avenida @nm@de 2429 a 2677 - lado ímpar@nm@
+ES@nm@@nm@Prefeito Samuel Batista Cruz@nm@29900971@nm@Linhares@nm@Shell@nm@Avenida @nm@de 1492 a 1800 - lado par@nm@
+ES@nm@@nm@Prefeito Samuel Batista Cruz@nm@29909983@nm@Linhares@nm@Canivete@nm@Avenida @nm@de 9302 ao fim - lado par@nm@
+ES@nm@@nm@BR-381 Miguel Curry Carneiro@nm@29949970@nm@São Mateus@nm@Nestor Gomes@nm@Rodovia @nm@(São Mateus-Nova Venécia) - do km 37,001 ao fim@nm@
+ES@nm@@nm@Djalma Paiva Gama@nm@29948971@nm@São Mateus@nm@Nova Lima (Itauninhas)@nm@Rodovia @nm@@nm@
+ES@nm@@nm@Doutor Raimundo Guilherme Sobrinho@nm@29931971@nm@São Mateus@nm@Sernamby@nm@Rua @nm@@nm@
+ES@nm@@nm@Francisco Pereira de Carvalho@nm@29946970@nm@São Mateus@nm@Guriri Norte@nm@Avenida @nm@@nm@
+ES@nm@@nm@Jones dos Santos Neves@nm@29930972@nm@São Mateus@nm@Sernamby@nm@Avenida @nm@de 560 a 1108 - lado par@nm@
+ES@nm@@nm@Jones dos Santos Neves@nm@29930970@nm@São Mateus@nm@Centro@nm@Avenida @nm@até 538 - lado par@nm@
+ES@nm@@nm@Wallas Batista de Oliveira@nm@29947970@nm@São Mateus@nm@Santa Maria (Nova Verona)@nm@Avenida @nm@@nm@
+ES@nm@@nm@Abido Saadi@nm@29175970@nm@Serra@nm@Jardim Atlântico@nm@Avenida @nm@@nm@
+ES@nm@@nm@Barbosa Leão@nm@29176970@nm@Serra@nm@Serra Centro@nm@Praça @nm@@nm@
+ES@nm@@nm@Brasil@nm@29160971@nm@Serra@nm@Novo Horizonte@nm@Avenida @nm@@nm@
+ES@nm@@nm@Brasília@nm@29168970@nm@Serra@nm@Porto Canoa@nm@Avenida @nm@@nm@
+ES@nm@@nm@Central@nm@29165970@nm@Serra@nm@Parque Residencial Laranjeiras@nm@Avenida @nm@@nm@
+ES@nm@@nm@Coelho Neto@nm@29165973@nm@Serra@nm@Parque Residencial Laranjeiras@nm@Rua @nm@@nm@
+ES@nm@@nm@das Avencas@nm@29172970@nm@Serra@nm@Feu Rosa@nm@Rua @nm@@nm@
+ES@nm@@nm@Governador Mário Covas@nm@29160970@nm@Serra@nm@Rosário de Fátima@nm@Rodovia @nm@@nm@
+ES@nm@@nm@João Palácio@nm@29160972@nm@Serra@nm@Eurico Salles@nm@Avenida @nm@@nm@
+ES@nm@@nm@Norte Sul@nm@29168971@nm@Serra@nm@Civit II@nm@Rodovia @nm@@nm@
+ES@nm@@nm@Salvador@nm@29175971@nm@Serra@nm@Parque Jacaraípe@nm@Rua @nm@@nm@
+ES@nm@@nm@São José@nm@29164973@nm@Serra@nm@Jardim Limoeiro@nm@Avenida @nm@@nm@
+ES@nm@@nm@Alcacibas Furtado@nm@29134970@nm@Viana@nm@Universal@nm@Avenida @nm@@nm@
+ES@nm@@nm@Antônio Freire@nm@29135974@nm@Viana@nm@Marcílio de Noronha@nm@Avenida @nm@@nm@
+ES@nm@@nm@dos Andes@nm@29138970@nm@Viana@nm@Nova Bethânia@nm@Rua @nm@@nm@
+ES@nm@@nm@Governador Mário Covas@nm@29136985@nm@Viana@nm@Vila Bethânia@nm@Rodovia @nm@@nm@
+ES@nm@@nm@Governador Mário Covas@nm@29136975@nm@Viana@nm@Vila Bethânia@nm@Rodovia @nm@@nm@
+ES@nm@@nm@Governador Mário Covas@nm@29136980@nm@Viana@nm@Vila Bethânia@nm@Rodovia @nm@@nm@
+ES@nm@@nm@Guarapari@nm@29136970@nm@Viana@nm@Arlindo Villaschi@nm@Avenida @nm@@nm@
+ES@nm@@nm@Jerônimo Monteiro@nm@29130970@nm@Viana@nm@Centro@nm@Praça @nm@@nm@
+ES@nm@@nm@Santa Helena@nm@29135975@nm@Viana@nm@Vila Bethânia@nm@Rua @nm@@nm@
+ES@nm@@nm@Theodomiro Peri de Miranda@nm@29131970@nm@Viana@nm@Jucu@nm@Rua @nm@@nm@
+ES@nm@@nm@Antônio Ferreira de Queiroz@nm@29100971@nm@Vila Velha@nm@Centro de Vila Velha@nm@Avenida @nm@@nm@
+ES@nm@@nm@Araribóia@nm@29100970@nm@Vila Velha@nm@Centro de Vila Velha@nm@Rua @nm@@nm@
+ES@nm@@nm@César Alcure@nm@29114973@nm@Vila Velha@nm@São Torquato@nm@Rua @nm@@nm@
+ES@nm@@nm@Champagnat@nm@29100973@nm@Vila Velha@nm@Praia da Costa@nm@Avenida @nm@lado ímpar@nm@
+ES@nm@@nm@Curitiba@nm@29101973@nm@Vila Velha@nm@Itapuã@nm@Rua @nm@de 102 a 900 - lado par@nm@
+ES@nm@@nm@Doutor Olívio Lira@nm@29101970@nm@Vila Velha@nm@Praia da Costa@nm@Avenida @nm@@nm@
+ES@nm@@nm@Graça Aranha@nm@29114971@nm@Vila Velha@nm@São Torquato@nm@Avenida @nm@@nm@
+ES@nm@@nm@Guarajás@nm@29102971@nm@Vila Velha@nm@Santa Inês@nm@Rua @nm@@nm@
+ES@nm@@nm@Jerônimo Monteiro@nm@29122970@nm@Vila Velha@nm@Glória@nm@Avenida @nm@lado par@nm@
+ES@nm@@nm@João Francisco Gonçalves@nm@29111970@nm@Vila Velha@nm@Cobilândia@nm@Avenida @nm@@nm@
+ES@nm@@nm@Nossa Senhora da Penha@nm@29108973@nm@Vila Velha@nm@IBES@nm@Avenida @nm@@nm@
+ES@nm@@nm@Santa Leopoldina@nm@29102973@nm@Vila Velha@nm@Praia de Itaparica@nm@Avenida @nm@de 2/3 a 998/999@nm@
+ES@nm@@nm@Trinta e Quatro@nm@29105973@nm@Vila Velha@nm@Santa Mônica Popular@nm@Rua @nm@@nm@
+ES@nm@@nm@Arthur Czartoryski@nm@29060971@nm@Vitória@nm@Jardim da Penha@nm@Rua @nm@@nm@
+ES@nm@@nm@Arthur Czartoryski@nm@29060974@nm@Vitória@nm@Jardim da Penha@nm@Rua @nm@@nm@
+ES@nm@@nm@Dante Michelini@nm@29090970@nm@Vitória@nm@Parque Industrial@nm@Avenida @nm@@nm@
+ES@nm@@nm@Desembargador Sampaio@nm@29055973@nm@Vitória@nm@Praia do Canto@nm@Rua @nm@@nm@
+ES@nm@@nm@Edmundo de Oliveira@nm@29030971@nm@Vitória@nm@Santa Luíza@nm@Rua @nm@@nm@
+ES@nm@@nm@Engenheiro Pinto Pacca@nm@29010973@nm@Vitória@nm@Centro@nm@Rua @nm@@nm@
+ES@nm@@nm@Fernando Ferrari@nm@29075972@nm@Vitória@nm@Goiabeiras@nm@Avenida @nm@de 1890 a 2330 - lado par@nm@
+ES@nm@@nm@General Osório@nm@29018973@nm@Vitória@nm@Centro@nm@Rua @nm@lado par@nm@
+ES@nm@@nm@Gilberto Varejão Dias@nm@29045970@nm@Vitória@nm@Santa Luíza@nm@Rua @nm@@nm@
+ES@nm@@nm@Jerônimo Monteiro@nm@29002970@nm@Vitória@nm@Centro@nm@Avenida @nm@até 490 - lado par@nm@
+ES@nm@@nm@Jerônimo Monteiro@nm@29000971@nm@Vitória@nm@Centro@nm@Avenida @nm@até 490 - lado par@nm@
+ES@nm@@nm@Jerônimo Monteiro@nm@29001970@nm@Vitória@nm@Centro@nm@Avenida @nm@até 490 - lado par@nm@
+ES@nm@@nm@José Maria Vivácqua Santos@nm@29092970@nm@Vitória@nm@Jardim Camburi@nm@Avenida @nm@lado par@nm@
+ES@nm@@nm@Leitão da Silva@nm@29045974@nm@Vitória@nm@Itararé@nm@Avenida @nm@de 1475 a 1873 - lado ímpar@nm@
+ES@nm@@nm@Leitão da Silva@nm@29050971@nm@Vitória@nm@Santa Luíza@nm@Avenida @nm@de 2310 a 3088 - lado par@nm@
+ES@nm@@nm@Marcos de Azevedo@nm@29025973@nm@Vitória@nm@Vila Rubim@nm@Avenida @nm@@nm@
+ES@nm@@nm@Marins Alvarino@nm@29047970@nm@Vitória@nm@Itararé@nm@Rua @nm@@nm@
+ES@nm@@nm@Nossa Senhora dos Navegantes@nm@29050973@nm@Vitória@nm@Enseada do Suá@nm@Avenida @nm@de 220 ao fim - lado par@nm@
+ES@nm@@nm@Padre Antônio Ribeiro Pinto@nm@29052970@nm@Vitória@nm@Praia do Suá@nm@Rua @nm@@nm@
+ES@nm@@nm@Rio Branco@nm@29055970@nm@Vitória@nm@Praia do Canto@nm@Avenida @nm@de 932 ao fim - lado par@nm@
+ES@nm@@nm@Saturnino de Brito@nm@29055972@nm@Vitória@nm@Praia do Canto@nm@Avenida @nm@de 419 a 735 - lado ímpar@nm@
+ES@nm@@nm@Vitória@nm@29053973@nm@Vitória@nm@Monte Belo@nm@Avenida @nm@de 1980 a 2450 - lado par@nm@
+ES@nm@@nm@Wellington de Freitas@nm@29090973@nm@Vitória@nm@Jardim Camburi@nm@Rua @nm@@nm@
