@@ -55,8 +55,8 @@ class cadTarefas_apl
    var $custo_;
    var $datalimite_;
    var $ordem_;
-   var $up_;
    var $down_;
+   var $up_;
    var $nm_data;
    var $nmgp_opcao;
    var $nmgp_opc_ant;
@@ -209,8 +209,8 @@ class cadTarefas_apl
       $this->sc_conv_var['custo'] = "custo_";
       $this->sc_conv_var['datalimite'] = "datalimite_";
       $this->sc_conv_var['ordem'] = "ordem_";
-      $this->sc_conv_var['up'] = "up_";
       $this->sc_conv_var['down'] = "down_";
+      $this->sc_conv_var['up'] = "up_";
       if (!empty($_FILES))
       {
           foreach ($_FILES as $nmgp_campo => $nmgp_valores)
@@ -1160,12 +1160,11 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
       $this->field_config['idtarefa_']['format_neg'] = $_SESSION['scriptcase']['reg_conf']['neg_num'];
       //-- custo_
       $this->field_config['custo_']               = array();
-      $this->field_config['custo_']['symbol_grp'] = $_SESSION['scriptcase']['reg_conf']['grup_val'];
-      $this->field_config['custo_']['symbol_fmt'] = $_SESSION['scriptcase']['reg_conf']['unid_mont_group_digit'];
-      $this->field_config['custo_']['symbol_dec'] = $_SESSION['scriptcase']['reg_conf']['dec_val'];
-      $this->field_config['custo_']['symbol_mon'] = '';
-      $this->field_config['custo_']['format_pos'] = $_SESSION['scriptcase']['reg_conf']['monet_f_pos'];
-      $this->field_config['custo_']['format_neg'] = $_SESSION['scriptcase']['reg_conf']['monet_f_neg'];
+      $this->field_config['custo_']['symbol_grp'] = $_SESSION['scriptcase']['reg_conf']['grup_num'];
+      $this->field_config['custo_']['symbol_fmt'] = $_SESSION['scriptcase']['reg_conf']['num_group_digit'];
+      $this->field_config['custo_']['symbol_dec'] = $_SESSION['scriptcase']['reg_conf']['dec_num'];
+      $this->field_config['custo_']['symbol_neg'] = $_SESSION['scriptcase']['reg_conf']['simb_neg'];
+      $this->field_config['custo_']['format_neg'] = $_SESSION['scriptcase']['reg_conf']['neg_num'];
       //-- datalimite_
       $this->field_config['datalimite_']                 = array();
       $this->field_config['datalimite_']['date_format']  = $_SESSION['scriptcase']['reg_conf']['date_format'];
@@ -2251,7 +2250,6 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
         $hasError = false;
       if (!empty($this->field_config['custo_']['symbol_dec']))
       {
-          $this->sc_remove_currency($this->custo_, $this->field_config['custo_']['symbol_dec'], $this->field_config['custo_']['symbol_grp'], $this->field_config['custo_']['symbol_mon']); 
           nm_limpa_valor($this->custo_, $this->field_config['custo_']['symbol_dec'], $this->field_config['custo_']['symbol_grp']) ; 
           if ('.' == substr($this->custo_, 0, 1))
           {
@@ -2269,7 +2267,7 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
       { 
           if ($this->custo_ != '')  
           { 
-              $iTestSize = 19;
+              $iTestSize = 18;
               if (strlen($this->custo_) > $iTestSize)  
               { 
                   $hasError = true;
@@ -2285,7 +2283,7 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
                   }
                   $this->NM_ajax_info['errList']['custo_'][] = $this->Ini->Nm_lang['lang_errm_size'];
               } 
-              if ($teste_validade->Valor($this->custo_, 16, 2, 0, 0, "N") == false)  
+              if ($teste_validade->Valor($this->custo_, 15, 2, 0, 0, "N") == false)  
               { 
                   $hasError = true;
                   $Campos_Crit .= "Custo R$; " ; 
@@ -2427,7 +2425,6 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
       $this->Before_unformat['custo_'] = $this->custo_;
       if (!empty($this->field_config['custo_']['symbol_dec']))
       {
-         $this->sc_remove_currency($this->custo_, $this->field_config['custo_']['symbol_dec'], $this->field_config['custo_']['symbol_grp'], $this->field_config['custo_']['symbol_mon']);
          nm_limpa_valor($this->custo_, $this->field_config['custo_']['symbol_dec'], $this->field_config['custo_']['symbol_grp']);
       }
       $this->Before_unformat['datalimite_'] = $this->datalimite_;
@@ -2485,7 +2482,6 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
       {
           if (!empty($this->field_config['custo_']['symbol_dec']))
           {
-             $this->sc_remove_currency($this->custo_, $this->field_config['custo_']['symbol_dec'], $this->field_config['custo_']['symbol_grp'], $this->field_config['custo_']['symbol_mon']);
              nm_limpa_valor($this->custo_, $this->field_config['custo_']['symbol_dec'], $this->field_config['custo_']['symbol_grp']);
           }
       }
@@ -3421,7 +3417,7 @@ $select="select count(1) from tarefas where nome='$this->nome_'";
 if($this->db[0][0]>0){
 	
  if (!isset($this->Campos_Mens_erro)){$this->Campos_Mens_erro = "";}
- if (!empty($this->Campos_Mens_erro)){$this->Campos_Mens_erro .= "<br>";}$this->Campos_Mens_erro .= "Ops...! Essa tarefa já exite.";
+ if (!empty($this->Campos_Mens_erro)){$this->Campos_Mens_erro .= "<br>";}$this->Campos_Mens_erro .= "Ops...! Essa tarefa já existe.";
  if ('submit_form' == $this->NM_ajax_opcao || 'event_' == substr($this->NM_ajax_opcao, 0, 6) || (isset($this->wizard_action) && 'change_step' == $this->wizard_action))
  {
   if (isset($this->wizard_action) && 'change_step' == $this->wizard_action) {
@@ -3431,7 +3427,7 @@ if($this->db[0][0]>0){
   } else {
    $sErrorIndex = substr(substr($this->NM_ajax_opcao, 0, strrpos($this->NM_ajax_opcao, '_')), 6);
   }
-  $this->NM_ajax_info['errList'][$sErrorIndex][] = "Ops...! Essa tarefa já exite.";
+  $this->NM_ajax_info['errList'][$sErrorIndex][] = "Ops...! Essa tarefa já existe.";
  }
 ;
 }
@@ -3484,7 +3480,7 @@ if (isset($this->NM_ajax_flag) && $this->NM_ajax_flag)
 if($this->db[0][0]>0){
 	
  if (!isset($this->Campos_Mens_erro)){$this->Campos_Mens_erro = "";}
- if (!empty($this->Campos_Mens_erro)){$this->Campos_Mens_erro .= "<br>";}$this->Campos_Mens_erro .= "Ops...! Essa tarefa já exite.";
+ if (!empty($this->Campos_Mens_erro)){$this->Campos_Mens_erro .= "<br>";}$this->Campos_Mens_erro .= "Ops...! Essa tarefa já existe.";
  if ('submit_form' == $this->NM_ajax_opcao || 'event_' == substr($this->NM_ajax_opcao, 0, 6) || (isset($this->wizard_action) && 'change_step' == $this->wizard_action))
  {
   if (isset($this->wizard_action) && 'change_step' == $this->wizard_action) {
@@ -3494,7 +3490,7 @@ if($this->db[0][0]>0){
   } else {
    $sErrorIndex = substr(substr($this->NM_ajax_opcao, 0, strrpos($this->NM_ajax_opcao, '_')), 6);
   }
-  $this->NM_ajax_info['errList'][$sErrorIndex][] = "Ops...! Essa tarefa já exite.";
+  $this->NM_ajax_info['errList'][$sErrorIndex][] = "Ops...! Essa tarefa já existe.";
  }
 ;
 }
@@ -4601,18 +4597,17 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
               $this->nmgp_dados_select['idtarefa_'] = $this->idtarefa_;
               $this->nome_ = $rs->fields[1] ; 
               $this->nmgp_dados_select['nome_'] = $this->nome_;
-              $this->custo_ = trim($rs->fields[2]) ; 
+              $this->custo_ = $rs->fields[2] ; 
               $this->nmgp_dados_select['custo_'] = $this->custo_;
               $this->datalimite_ = $rs->fields[3] ; 
               $this->nmgp_dados_select['datalimite_'] = $this->datalimite_;
               $this->ordem_ = $rs->fields[4] ; 
               $this->nmgp_dados_select['ordem_'] = $this->ordem_;
-              $this->up_ = isset($GLOBALS['up_' . $sc_seq_vert]) ? $GLOBALS['up_' . $sc_seq_vert] : '';
               $this->down_ = isset($GLOBALS['down_' . $sc_seq_vert]) ? $GLOBALS['down_' . $sc_seq_vert] : '';
+              $this->up_ = isset($GLOBALS['up_' . $sc_seq_vert]) ? $GLOBALS['up_' . $sc_seq_vert] : '';
               $GLOBALS["NM_ERRO_IBASE"] = 0; 
               $this->nm_troca_decimal(",", ".");
               $this->idtarefa_ = (string)$this->idtarefa_; 
-              $this->custo_ = (strpos(strtolower($this->custo_), "e")) ? (float)$this->custo_ : $this->custo_; 
               $this->custo_ = (string)$this->custo_; 
               $this->ordem_ = (string)$this->ordem_; 
               if (empty($_SESSION['sc_session'][$this->Ini->sc_page]['cadTarefas']['parms'])) 
@@ -4676,8 +4671,8 @@ $_SESSION['scriptcase']['cadTarefas']['contr_erro'] = 'off';
               $this->nome_ = "";  
               $this->custo_ = "";  
               $this->datalimite_ =  date('Y') . "-" . date('m')  . "-" . date('d');
-              $this->up_ = "";  
               $this->down_ = "";  
+              $this->up_ = "";  
               $this->nm_proc_onload_record($sc_seq_vert);
               if (($this->Embutida_form || $this->Embutida_multi) && isset($_SESSION['sc_session'][$this->Ini->sc_page]['cadTarefas']['foreign_key']) && !empty($_SESSION['sc_session'][$this->Ini->sc_page]['cadTarefas']['foreign_key']))
               {

@@ -149,12 +149,12 @@ function scJQEventsAdd(iSeqRow) {
                                          .bind('change', function() { sc_cadTarefas_datalimite__onchange(this, iSeqRow) })
                                          .bind('focus', function() { sc_cadTarefas_datalimite__onfocus(this, iSeqRow) });
   $('#id_sc_field_ordem_' + iSeqRow).bind('change', function() { sc_cadTarefas_ordem__onchange(this, iSeqRow) });
-  $('#id_sc_field_up_' + iSeqRow).bind('blur', function() { sc_cadTarefas_up__onblur(this, iSeqRow) })
-                                 .bind('change', function() { sc_cadTarefas_up__onchange(this, iSeqRow) })
-                                 .bind('focus', function() { sc_cadTarefas_up__onfocus(this, iSeqRow) });
   $('#id_sc_field_down_' + iSeqRow).bind('blur', function() { sc_cadTarefas_down__onblur(this, iSeqRow) })
                                    .bind('change', function() { sc_cadTarefas_down__onchange(this, iSeqRow) })
                                    .bind('focus', function() { sc_cadTarefas_down__onfocus(this, iSeqRow) });
+  $('#id_sc_field_up_' + iSeqRow).bind('blur', function() { sc_cadTarefas_up__onblur(this, iSeqRow) })
+                                 .bind('change', function() { sc_cadTarefas_up__onchange(this, iSeqRow) })
+                                 .bind('focus', function() { sc_cadTarefas_up__onfocus(this, iSeqRow) });
 } // scJQEventsAdd
 
 function sc_cadTarefas_idtarefa__onblur(oThis, iSeqRow) {
@@ -221,21 +221,6 @@ function sc_cadTarefas_ordem__onchange(oThis, iSeqRow) {
   scMarkFormAsChanged();
 }
 
-function sc_cadTarefas_up__onblur(oThis, iSeqRow) {
-  do_ajax_cadTarefas_validate_up_(iSeqRow);
-  scCssBlur(oThis, iSeqRow);
-}
-
-function sc_cadTarefas_up__onchange(oThis, iSeqRow) {
-  scMarkFormAsChanged();
-  nm_check_insert(iSeqRow);
-}
-
-function sc_cadTarefas_up__onfocus(oThis, iSeqRow) {
-  scEventControl_onFocus(oThis, iSeqRow);
-  scCssFocus(oThis, iSeqRow);
-}
-
 function sc_cadTarefas_down__onblur(oThis, iSeqRow) {
   do_ajax_cadTarefas_validate_down_(iSeqRow);
   scCssBlur(oThis, iSeqRow);
@@ -247,6 +232,21 @@ function sc_cadTarefas_down__onchange(oThis, iSeqRow) {
 }
 
 function sc_cadTarefas_down__onfocus(oThis, iSeqRow) {
+  scEventControl_onFocus(oThis, iSeqRow);
+  scCssFocus(oThis, iSeqRow);
+}
+
+function sc_cadTarefas_up__onblur(oThis, iSeqRow) {
+  do_ajax_cadTarefas_validate_up_(iSeqRow);
+  scCssBlur(oThis, iSeqRow);
+}
+
+function sc_cadTarefas_up__onchange(oThis, iSeqRow) {
+  scMarkFormAsChanged();
+  nm_check_insert(iSeqRow);
+}
+
+function sc_cadTarefas_up__onfocus(oThis, iSeqRow) {
   scEventControl_onFocus(oThis, iSeqRow);
   scCssFocus(oThis, iSeqRow);
 }
